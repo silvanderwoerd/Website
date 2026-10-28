@@ -1,0 +1,19 @@
+/* Live page style: .tricksword */
+.word {
+  display: inline-block;
+  overflow: hidden;
+  height: 1.07em;
+  line-height: 1;
+  white-space: nowrap;
+}
+
+/* Hidden only once scripts run (html.js), so the words never stay invisible. */
+:global(.js) .word {
+  opacity: 0;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  :global(.js) .word {
+    opacity: 1;
+  }
+}

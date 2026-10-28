@@ -1,0 +1,354 @@
+/* Live: .navbar, .nav-grid, .logo-link, .hamburger-menu, .line-menu,
+   .nav-menu-wrapper, .nav-menu-component, .nav-column-content, .link-wrapper,
+   .nav-text, .nav-bottom-content, .social-link (+ Webflow's w-nav defaults). */
+
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: var(--z-nav);
+  padding-block: 20px;
+  background-color: var(--color-transparent);
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  align-items: center;
+  align-content: center;
+  justify-content: space-between;
+  width: 100%;
+  height: 100%;
+  padding-inline: 2.5rem;
+}
+
+.logoLink {
+  grid-area: 1 / 2 / 2 / 3;
+  place-self: center;
+  position: relative;
+  color: var(--color-white);
+  text-decoration: none;
+  transition: transform var(--duration-base);
+}
+
+.current {
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+/* IX2 "Logo": the logo follows the pointer ±1vw / ±1vh. */
+.logo {
+  height: 40px;
+  transform: translate(calc(var(--fx, 0) * 1vw), calc(var(--fy, 0) * 1vh));
+  transition: transform var(--duration-default) linear;
+}
+
+.menuContent {
+  grid-area: 1 / 3 / 2 / 4;
+  align-self: center;
+  display: flow-root;
+}
+
+.hamburger {
+  position: relative;
+  float: right;
+  z-index: var(--z-nav);
+  display: block;
+  overflow: hidden;
+  width: 4.5rem;
+  height: 4.5rem;
+  padding: 0;
+  border: 0;
+  border-radius: 100%;
+  background-color: var(--color-grey-10);
+  backdrop-filter: blur(5px);
+  cursor: pointer;
+  transition: background-color var(--duration-medium);
+  -webkit-tap-highlight-color: transparent;
+}
+
+.hamburger:hover {
+  background-color: var(--color-grey-25);
+}
+
+.hamburger:focus-visible {
+  outline: 3px solid var(--color-focus);
+  outline-offset: 0;
+}
+
+.lines {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.line {
+  position: absolute;
+  width: 2rem;
+  height: 2px;
+  border-radius: 20px;
+  background-color: var(--color-white);
+}
+
+.top {
+  top: 30px;
+}
+
+.bottom {
+  top: 42px;
+}
+
+/* The full-screen menu */
+.panel {
+  position: fixed;
+  inset: 0;
+  z-index: 90;
+  display: none;
+  width: 100vw;
+  height: 100svh;
+  background-color: var(--color-surface);
+}
+
+.panel[data-shown] {
+  display: block;
+}
+
+.menu {
+  position: relative;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto auto;
+  width: 100%;
+  height: 100%;
+  padding: 15vh 10vw 10vh;
+}
+
+.links {
+  grid-area: 1 / 1 / 2 / 3;
+  align-self: end;
+  display: grid;
+  grid-template-columns: 1fr;
+  place-items: center;
+}
+
+.linkClip {
+  place-self: center;
+  overflow: hidden;
+}
+
+.link {
+  display: inline-block;
+  padding: 0;
+  color: var(--color-white);
+  text-decoration: none;
+  transition: color var(--duration-medium);
+}
+
+.link:hover {
+  color: var(--color-text-muted);
+}
+
+.linkWindow {
+  display: flex;
+  align-items: flex-start;
+  height: 5.25rem;
+  overflow: hidden;
+}
+
+.rise {
+  transform: translateY(120%);
+}
+
+.riseBox {
+  position: relative;
+  overflow: hidden;
+}
+
+/* IX2 "Navlink - Hover": the text slides up, its copy slides in (1000ms outQuint). */
+.text {
+  display: block;
+  height: 5rem;
+  max-width: none;
+  color: var(--color-white);
+  text-decoration: none;
+  transition: transform 1s cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+.link:hover .text {
+  transform: translateY(-105%);
+}
+
+.email,
+.socials {
+  overflow: hidden;
+  text-transform: uppercase;
+}
+
+.email {
+  grid-area: 2 / 2 / 3 / 3;
+  place-self: end;
+}
+
+.socials {
+  grid-area: 2 / 1 / 3 / 2;
+  place-self: end start;
+}
+
+.emailLink {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: var(--color-text-muted);
+  text-decoration: none;
+}
+
+.mailIcon {
+  width: 24px;
+  height: 24px;
+  opacity: 0.46;
+  filter: invert();
+}
+
+.socialRow {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.social {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 24px;
+  height: 24px;
+  opacity: 0.46;
+  filter: invert();
+  mix-blend-mode: screen;
+  transition: all var(--duration-medium);
+}
+
+.social:hover {
+  opacity: 1;
+}
+
+@media (min-width: 1920px) {
+  .logo {
+    height: 50px;
+  }
+
+  .socialRow {
+    gap: 2rem;
+    margin-bottom: 1.5em;
+  }
+}
+
+@media (max-width: 991px) {
+  .grid {
+    grid-template-columns: 1fr auto auto;
+    gap: 2rem;
+  }
+
+  .logoLink {
+    grid-column: 1 / 2;
+    justify-self: start;
+  }
+
+  .current {
+    padding-left: 0;
+  }
+
+  .hamburger {
+    padding: 2px 12px;
+  }
+
+  .line {
+    width: 36px;
+    height: 3px;
+  }
+
+  .panel {
+    width: 100%;
+    height: 100vh;
+    padding: 24px;
+    border-top: 1px solid var(--color-line-20);
+    border-bottom: 1px solid var(--color-line-20);
+  }
+
+  .links {
+    margin-bottom: 5vh;
+  }
+
+  .linkWindow {
+    height: 4.5rem;
+  }
+
+  .text {
+    height: 4.5rem;
+    min-height: 4.5rem;
+    text-align: center;
+  }
+}
+
+@media (max-width: 767px) {
+  .grid {
+    padding-inline: 1.25rem;
+  }
+
+  .current {
+    margin-top: 5px;
+  }
+
+  .menu {
+    padding-bottom: 5vh;
+  }
+
+  .linkWindow {
+    height: 3.5rem;
+  }
+
+  .text {
+    height: 3.5rem;
+    min-height: 3.5rem;
+  }
+
+  .logo {
+    height: 34px;
+  }
+
+  .line {
+    width: 32px;
+  }
+}
+
+@media (max-width: 479px) {
+  .linkClip {
+    margin-bottom: 0.5rem;
+  }
+
+  .text {
+    height: 3.25rem;
+    min-height: 3.25rem;
+  }
+
+  .email {
+    grid-area: 3 / 1 / 4 / 3;
+    place-self: center;
+  }
+
+  .socials {
+    grid-column: 1 / 3;
+    justify-self: center;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .logo,
+  .text {
+    transition: none;
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "slug": "home",
+  "title": "Studio Birthplace",
+  "description": "Studio Birthplace is a creative studio and film production company igniting global action, one story at a time. In the face of climate meltdown, massive inequity and a sixth mass extinction, we are committed to disrupt the way environmental and social stories are told. To break down the old ways of thinking with fearless creativity and endless curiosity, we shift the narrative towards a healthy future - because we believe in the power of storytelling to inspire change.",
+  "family": "fluid",
+  "stripes": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "content": {
+        "title": "We Ignite **Action Through Stories**",
+        "video": {
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F6755ba651a56371c86203218_StudioBirthplacehighlightReelHDv5mov-poster-00001.jpg",
+          "mp4": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F6755ba651a56371c86203218_StudioBirthplacehighlightReelHDv5mov-transcode.mp4",
+          "webm": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F6755ba651a56371c86203218_StudioBirthplacehighlightReelHDv5mov-transcode.webm"
+        },
+        "button": {
+          "label": "Watch Our Showreel",
+          "href": "https://www.youtube.com/watch?v=ty4N3q_rfFE&ab_channel=StudioBirthplace",
+          "lightbox": true
+        }
+      }
+    },
+    {
+      "id": "who-we-are",
+      "type": "statement",
+      "content": {
+        "text": "We are a creative impact studio **empowering global action**, towards a just, healthy world.",
+        "sub": "As the go-to creative force for impact and climate storytelling, we craft bold, iconic campaigns that awaken hearts and drive real change.",
+        "links": [
+          {
+            "label": "Our Mission",
+            "href": "/about"
+          },
+          {
+            "label": "Act With Us",
+            "href": "/act"
+          }
+        ],
+        "stamp": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/67f6c493838e2555938f566d_commitments.vertical.png",
+          "alt": ""
+        }
+      }
+    },
+    {
+      "id": "featured-work",
+      "type": "featured-work",
+      "content": {
+        "projects": [
+          {
+            "href": "/work/team-forest",
+            "client": "WWF",
+            "title": "Team Forest",
+            "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6a27e39babcc2795c8575295_WWF.TeamForest.Film.Still.04-homepage.jpg",
+            "video": {
+              "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F6a27e3f2eaa32427b7693e7c_TeamForest-MainPage_poster.0000000.jpg",
+              "mp4": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F6a27e3f2eaa32427b7693e7c_TeamForest-MainPage_mp4.mp4",
+              "webm": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F6a27e3f2eaa32427b7693e7c_TeamForest-MainPage_webm.webm"
+            }
+          },
+          {
+            "href": "/work/oilympics",
+            "client": "Greenpeace",
+            "title": "Oilympics",
+            "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/69813d92185128beb47ec743_Oilympics_3.1.2-optimized.jpg",
+            "video": {
+              "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F6981c174df50fd6c8d2e35ae_Oilympics-frontpage-v2_poster.0000000.jpg",
+              "mp4": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F6981c174df50fd6c8d2e35ae_Oilympics-frontpage-v2_mp4.mp4",
+              "webm": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F6981c174df50fd6c8d2e35ae_Oilympics-frontpage-v2_webm.webm"
+            }
+          },
+          {
+            "href": "/earthdefender",
+            "client": "Novo Amor",
+            "title": "Earth Defender",
+            "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6739903e53821f6427a498bd_cover.image.earthdefender.avif",
+            "video": {
+              "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F67398efde3d20c0de400f800_EarthDefendercutdown-poster-00001.jpg",
+              "mp4": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F67398efde3d20c0de400f800_EarthDefendercutdown-transcode.mp4",
+              "webm": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F67398efde3d20c0de400f800_EarthDefendercutdown-transcode.webm"
+            }
+          },
+          {
+            "href": "/work/woolmark-wear-wool-not-waste",
+            "client": "Woolmark",
+            "title": "Wear Wool, Not Waste",
+            "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66f127352f26f5317df34829_Woolmark.stills.06.jpg",
+            "video": {
+              "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F66f1260885465035574d46ab_WearWoolNotWastecutdown-poster-00001.jpg",
+              "mp4": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F66f1260885465035574d46ab_WearWoolNotWastecutdown-transcode.mp4",
+              "webm": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F66f1260885465035574d46ab_WearWoolNotWastecutdown-transcode.webm"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "partners",
+      "type": "partners",
+      "pageTone": "gradient",
+      "content": {
+        "heading": "Our Partners &\n**Collaborators.**",
+        "link": {
+          "label": "Work With Us",
+          "href": "/contact"
+        },
+        "collection": "partners"
+      }
+    },
+    {
+      "id": "testimonials",
+      "type": "testimonials",
+      "pageTone": "gradient",
+      "content": {
+        "eyebrow": "Testimonials",
+        "heading": "Our feedback",
+        "collection": "testimonials",
+        "readMore": "Read more",
+        "readLess": "Read Less"
+      }
+    },
+    {
+      "id": "latest-news",
+      "type": "latest-news",
+      "pageTone": "gradient",
+      "content": {
+        "eyebrow": "Latest News",
+        "readNow": "Read now",
+        "count": 5
+      }
+    },
+    {
+      "id": "closing",
+      "type": "closing-cta",
+      "pageTone": "gradient",
+      "content": {
+        "heading": "We're here to tell stories that\nchange the world. You in?",
+        "button": {
+          "label": "Work With Us",
+          "href": "/contact"
+        }
+      }
+    }
+  ]
+}

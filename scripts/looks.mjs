@@ -30,7 +30,11 @@ const PAGES = [
   ["about", "/about"],
   ["contact", "/contact"],
   ...(args.includes("--dev") ? [["inspector-test", "/dev/inspector-test"]] : []),
-];
+].filter(([name]) => {
+  // --pages=home,about : only these pages
+  const only = args.find((a) => a.startsWith("--pages="))?.slice(8).split(",");
+  return !only || only.includes(name);
+});
 const MAX_DIFF = 0.001; // share of pixels that may differ (anti-aliasing noise)
 
 const stamp = new Date().toISOString().replace(/[:.]/g, "-").slice(0, 19);
@@ -64,6 +68,9 @@ async function shoot(page, url, file) {
     window.scrollTo(0, 0);
   });
   await page.waitForTimeout(1500);
+  // The film grain moves on a fixed layer that full-page shots stretch: stop it
+  // on both sites so screenshots compare like with like.
+  await page.addStyleTag({ content: "*::after { animation: none !important; }" }).catch(() => {});
   await page.screenshot({ path: file, fullPage: true });
   return 200;
 }

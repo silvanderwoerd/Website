@@ -37,7 +37,9 @@ export type StripeInstance = Overridable & {
   id: string;
   type: string;
   content: Record<string, unknown>;
-  spaceBefore?: string;
+  spaceBefore?: string; // a space token (Webflow's spacer bands)
+  pageTone?: "gradient"; // page background tone while this stripe is in view
+  anchor?: string; // id for in-page links
 };
 
 export type BlockInstance = Overridable & Record<string, unknown>;

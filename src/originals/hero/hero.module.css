@@ -1,0 +1,131 @@
+/* Live: .section-hero-home (+ Webflow .w-background-video), .hero-overlay,
+   .hero-content-wrapper.home, .fl-home-hero-text, .fl-home-hero-social-icons. */
+
+.hero {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  align-items: stretch;
+  justify-content: center;
+  overflow: hidden;
+  height: 47.5em;
+  min-height: 100svh;
+  background-color: var(--overlay-black-50);
+}
+
+/* Webflow puts the video behind the hero's content, above its background. */
+.media {
+  position: absolute;
+  inset: 0;
+  z-index: -100;
+}
+
+.video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  background-position: 50%;
+  background-size: cover;
+}
+
+.overlay {
+  position: absolute;
+  inset: 0;
+  background-color: var(--overlay-black-30);
+}
+
+.inner {
+  position: relative;
+  width: 100%;
+}
+
+.padding {
+  height: 100%;
+  padding-inline: 2.5rem;
+  color: var(--color-text-muted);
+}
+
+.container {
+  width: 100%;
+  max-width: 80rem;
+  height: 100%;
+  margin-inline: auto;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  height: 100%;
+  padding-block: 4rem;
+}
+
+.centre {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title {
+  margin: 0 0 0.2em;
+  color: var(--color-white);
+  text-align: center;
+}
+
+.strong {
+  font-weight: 900;
+}
+
+.socials {
+  margin-top: 2em;
+}
+
+/* .horizontal-flex.home-two (gap 2rem, one child) > .social-media-component (gap 1rem) */
+.socialRow {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.social {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1em;
+  opacity: 0.46;
+  filter: invert();
+  mix-blend-mode: screen;
+  text-decoration: none;
+  transition: all var(--duration-medium);
+}
+
+.social:hover {
+  opacity: 1;
+}
+
+.social img {
+  max-width: 100%;
+}
+
+@media (min-width: 1920px) {
+  .strong {
+    color: var(--color-white);
+  }
+}
+
+@media (max-width: 991px) {
+  .social {
+    width: 2em;
+  }
+}
+
+@media (max-width: 767px) {
+  .padding {
+    padding-inline: 1.25rem;
+  }
+}
+

@@ -1,0 +1,64 @@
+/* Live: .fl-button-link-act, .button-link-content-act, .arrow-button,
+   .underline-button, .link-progress-bar; IX2 "Scroll link on hover / off hover". */
+
+.link {
+  position: relative;
+  z-index: 1;
+  display: inline-block;
+  color: var(--color-white);
+  text-decoration: none;
+}
+
+.link[data-s-variant="default"] {
+  margin-top: 0;
+}
+
+.link[data-s-variant="partners"] {
+  margin-top: 1.75em;
+}
+
+.content {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  column-gap: 4px;
+  row-gap: 10px;
+}
+
+.arrow {
+  opacity: 0.25;
+  transition: opacity var(--duration-base) linear;
+}
+
+.link:hover .arrow {
+  opacity: 1;
+}
+
+.line {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: 1px;
+  background-color: var(--overlay-white-25);
+}
+
+.progress {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 0;
+  height: 1px;
+  background-color: var(--color-white);
+  transition: width var(--duration-base) cubic-bezier(0.455, 0.03, 0.515, 0.955);
+}
+
+.link:hover .progress {
+  width: 100%;
+}
+
+@media (min-width: 1920px) {
+  .link[data-s-variant="partners"] {
+    padding-left: 0;
+    text-align: left;
+  }
+}

@@ -1,0 +1,143 @@
+/* Live: .fl-testimonials-section, .fl-eyebrow, .fl-spacing-2em,
+   .fl-testimonial-heading-layout, .fl-who-we-are-large, .testimonial-swiper-wrapper,
+   .testimonial-card, .fl-testimonial-small, .read-more-testimonial-button,
+   .fl-testimonial_icon, .testimonial-cite, .fl-testimonial-job-title-small,
+   .testimonial-logo, .swiper-arrow-left/-right.cc-black-bg, .swiper-slide. */
+
+.section {
+  padding-top: 1em;
+  padding-bottom: 4.1em;
+}
+
+.padding {
+  padding-inline: 2.5rem;
+  color: var(--color-text-muted);
+}
+
+.container {
+  width: 100%;
+  max-width: 80rem;
+  margin-inline: auto;
+}
+
+/* An h2: white, as the live base h2 rule. At ≥1920 the live section turns
+   un-styled text rose (#b27575); the h2 colour wins there too. */
+.eyebrow {
+  margin: 1.5em 0 0;
+  color: var(--color-white);
+  white-space: nowrap;
+}
+
+.spacer {
+  height: 1.5em;
+}
+
+.headingRow {
+  display: flex;
+  gap: 2em;
+  margin-bottom: 3em;
+}
+
+.heading {
+  margin: 0;
+  color: var(--color-white);
+}
+
+.slider {
+  position: relative;
+}
+
+.swiper {
+  padding-inline: 1em;
+  cursor: grab;
+}
+
+.card {
+  flex: none;
+  padding: 40px;
+  border-radius: 20px;
+  background-color: var(--overlay-white-10);
+  cursor: grab;
+  transition: all var(--duration-fast);
+}
+
+.quote {
+  overflow: hidden;
+  height: 6.5em;
+  margin: 0;
+  color: var(--color-white);
+}
+
+.readMore {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  margin: 2.1em 0 2em;
+  opacity: 0.5;
+  color: var(--color-white);
+  text-decoration: none;
+}
+
+.plus {
+  transition: transform var(--duration-default) cubic-bezier(0.42, 0, 0.58, 1);
+}
+
+.plus[data-open] {
+  transform: rotate(45deg);
+}
+
+.cite {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+}
+
+.name {
+  color: var(--color-white);
+}
+
+.role {
+  color: var(--overlay-white-50);
+}
+
+.logo {
+  height: 4em;
+  max-width: 10em;
+  object-fit: contain;
+}
+
+.prev,
+.next {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 5em;
+  cursor: pointer;
+  transition: all var(--duration-fast);
+}
+
+.prev {
+  left: 0;
+}
+
+.next {
+  right: 0;
+}
+
+@media (max-width: 767px) {
+  .padding {
+    padding-inline: 1.25rem;
+  }
+
+  .card {
+    padding: 16px;
+  }
+
+  .headingRow {
+    flex-direction: column;
+  }
+}

@@ -15,8 +15,9 @@ needs a yes.
 1. **Text on 42 pages scales with the window width.** A page-level style on every
    main and project page sets `body { font-size: 1.081081vw }` (1em = 16px at a
    1480px-wide window), and almost every size there is in `em`. So the whole page
-   zooms with the window. On phones the page wrapper multiplies it:
-   `.fl-page-wrapper-projects` is `2em` below 768px and `3em` below 480px.
+   zooms with the window. On smaller screens the page wrapper multiplies it:
+   `.fl-page-wrapper-projects` is `2em` at ≤991px and `3em` at ≤767px.
+   (Corrected 28 Oct in step 5: this first said 767 / 479.)
    → One **fluid unit** token that changes per breakpoint carries all of it.
 2. **There are two type systems.** Main and project pages use the fluid `fl-*`
    classes (`em`). The 208 news pages (posts, categories, `/news`) use a fixed
@@ -58,9 +59,9 @@ Webflow writes the lower three as `max-width` and the upper three as
 ## 3. The fluid unit
 
 ```
---u: 1.081081vw      desktop and tablet (≥ 768)
---u: 2.162162vw      phone-landscape (480–767)   = wrapper 2em
---u: 3.243243vw      phone (< 480)               = wrapper 3em
+--u: 1.081081vw      desktop (≥ 992)
+--u: 2.162162vw      tablet (768–991)            = wrapper 2em
+--u: 3.243243vw      phones (≤ 767)              = wrapper 3em
 ```
 
 Every `em` size on the 42 fluid pages becomes `calc(N * var(--u))`. What 1em
@@ -69,13 +70,10 @@ works out to:
 | Window | 1em |
 |---|---|
 | 390 (phone) | 12.6px |
-| 600 (phone-landscape) | 13.0px |
-| 820 (tablet) | 8.9px |
+| 600 (phone-landscape) | 19.5px |
+| 820 (tablet) | 17.7px |
 | 1440 (desktop) | 15.6px |
 | 1920 | 20.8px |
-
-Tablet is the smallest, which is how the live site looks today, and phase 1
-keeps it.
 
 Some rules on fluid pages are in `rem`/`px` and so don't scale: the 11px
 buttons, the menu links (4.5rem), the footer (1.2rem / .975rem). Copy them as

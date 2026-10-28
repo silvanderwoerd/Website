@@ -20,7 +20,8 @@ for (const name of readdirSync(dir, { withFileTypes: true }).filter((d) => d.isD
   if (!/\bmarks\(\s*"/.test(code)) errors.push(`${name}: its component never calls marks("${name}", …) on its root`);
   if (!code.includes(`marks("${name}"`)) errors.push(`${name}: marks() doesn't name "${name}"`);
   const { schema } = await import(pathToFileURL(join(folder, "schema.ts")).href);
-  for (const f of schema.fields ?? []) if (!code.includes(`field("${f}")`)) errors.push(`${name}: text field "${f}" isn't marked with field("${f}")`);
+  // field("x") on plain elements, or field="x" on AnimatedText (which marks it).
+  for (const f of schema.fields ?? []) if (!code.includes(`field("${f}")`) && !code.includes(`field="${f}"`)) errors.push(`${name}: text field "${f}" isn't marked with field("${f}")`);
   if (!docs.includes(`\`${name}\``)) errors.push(`${name}: not described in docs/components.md`);
 }
 

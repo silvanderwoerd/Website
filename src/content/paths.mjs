@@ -10,16 +10,22 @@ const readJson = (file, fallback) => (existsSync(file) ? JSON.parse(readFileSync
 /** Page slug → address: "home" is "/", everything else "/<slug>". */
 export const pageAddress = (slug) => (slug === "home" ? "/" : `/${slug}`);
 
+// A collection's addresses exist only once its template (route) exists too:
+// content moved early (e.g. posts for Home's Latest News) isn't a served page yet.
+const hasRoute = (root, route) => existsSync(join(root, "src/app", route, "page.tsx"));
+
 /** @returns {string[]} every address the site serves, redirects excluded */
 export function getAllPaths(root = process.cwd()) {
   const content = join(root, "content");
   return [
     ...list(join(content, "pages"), ".json").map(pageAddress),
-    ...list(join(content, "projects"), ".json")
-      .filter((slug) => !readJson(join(content, "projects", `${slug}.json`), {}).hidden)
-      .map((slug) => `/work/${slug}`),
-    ...list(join(content, "posts"), ".md").map((slug) => `/blog-posts/${slug}`),
-    ...readJson(join(content, "categories.json"), []).map((c) => `/blog-categories/${c.slug}`),
+    ...(hasRoute(root, "work/[slug]")
+      ? list(join(content, "projects"), ".json")
+          .filter((slug) => !readJson(join(content, "projects", `${slug}.json`), {}).hidden)
+          .map((slug) => `/work/${slug}`)
+      : []),
+    ...(hasRoute(root, "blog-posts/[slug]") ? list(join(content, "posts"), ".md").map((slug) => `/blog-posts/${slug}`) : []),
+    ...(hasRoute(root, "blog-categories/[slug]") ? readJson(join(content, "categories.json"), []).map((c) => `/blog-categories/${c.slug}`) : []),
   ];
 }
 

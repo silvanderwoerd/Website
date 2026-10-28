@@ -51,10 +51,11 @@ export function buildTokens() {
   vars.push(`  --font-lato: var(--font-lato-file), ${tokens.font.lato};`);
   out.push(`:root {\n${vars.join("\n")}\n}`);
 
-  // The fluid unit grows on phones (Webflow's page wrapper: 2em, 3em).
-  const m = tokens.fluid.multiplier;
-  out.push(`@media ${queries.phoneLandscape} {\n  :root { --u: calc(${m.phoneLandscape} * ${tokens.fluid.base}); }\n}`);
-  out.push(`@media ${queries.phone} {\n  :root { --u: calc(${m.phone} * ${tokens.fluid.base}); }\n}`);
+  // The fluid unit grows on smaller screens (Webflow's page wrapper: 2em at ≤991, 3em at ≤767).
+  for (const [range, factor] of Object.entries(tokens.fluid.multiplier)) {
+    if (!queries[range]) throw new Error(`fluid multiplier: unknown range "${range}"`);
+    out.push(`@media ${queries[range]} {\n  :root { --u: calc(${factor} * ${tokens.fluid.base}); }\n}`);
+  }
 
   // Text styles: one class each, then their per-range sizes.
   const perRange = {};

@@ -75,7 +75,7 @@ Read this before every change. It carries what we learned building the Elio app
   ≥1280, ≥1440, ≥1920 (decisions #5). Only originals use them; pages never add
   breakpoints.
 - The fluid unit `--u` sizes everything on the main and project pages:
-  1.081081vw from 768 up, ×2 for phone landscape, ×3 for phone. Sizes there are
+  1.081081vw from 992 up, ×2 at tablet (≤991), ×3 at phones (≤767). Sizes there are
   `calc(N * var(--u))`, never px.
 
 ## The Inspector (the heart of the system)

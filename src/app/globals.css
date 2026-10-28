@@ -1,25 +1,9 @@
-@import "tailwindcss";
+/* Tailwind's theme and utilities, without its preflight reset: the live site's
+   own base rules (webflow-base.css) take that place, so phase 1 matches. */
+@import "tailwindcss/theme.css" layer(theme);
+@import "tailwindcss/utilities.css" layer(utilities);
 @import "../design/tokens.css";
-
-/* Page base, as the live site's body rules (docs/look.md). */
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
-}
-
-html {
-  -webkit-text-size-adjust: 100%;
-}
-
-body {
-  margin: 0;
-  background-color: var(--color-page);
-  color: var(--color-text-muted);
-  font-family: var(--font-lato);
-  font-weight: 300;
-  line-height: 1.6;
-}
+@import "./webflow-base.css";
 
 /* The two type families (decisions #4): fluid pages size in u, news pages in rem on a fixed body. */
 .page-fluid {
@@ -28,22 +12,6 @@ body {
 
 .page-fixed {
   font-size: var(--space-fixed-body);
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p,
-figure,
-blockquote {
-  margin: 0;
-}
-
-a {
-  color: inherit;
 }
 
 :focus-visible {

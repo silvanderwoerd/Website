@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "new-releases",
+    "name": "New Releases"
+  },
+  {
+    "slug": "screenings",
+    "name": "Screenings"
+  },
+  {
+    "slug": "talks",
+    "name": "Talks"
+  },
+  {
+    "slug": "in-the-media",
+    "name": "In The Media"
+  },
+  {
+    "slug": "features",
+    "name": "Features"
+  },
+  {
+    "slug": "awards",
+    "name": "Awards"
+  }
+]

@@ -1,0 +1,213 @@
+/* Live: header.section, .container-large-news, .fl-eyebrow.cc-featured-work,
+   .blog-header-component.blog-three, .link-content-blog, .image-wrapper,
+   .cover-image, .category-tag, .blog-post-item-content(.featured),
+   .side-blog-component-grid, .relative-position.main-post / .side-blog-post,
+   .heading-small, .heading-xsmall, .text-size-*; IX2 "Image Scale - Hover". */
+
+.padding {
+  padding-inline: 2.5rem;
+  color: var(--color-text-muted);
+}
+
+.container {
+  width: 100%;
+  max-width: 80rem;
+  margin-inline: auto;
+}
+
+.eyebrow {
+  margin: 1.5em 0 4em;
+  color: var(--color-white);
+  white-space: nowrap;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  width: 100%;
+}
+
+.mainColumn {
+  position: relative;
+}
+
+/* Live, the main card sits inside Webflow's list wrappers, which have no set
+   height: its height: 100% resolves to its content, not the row. */
+.mainColumn > .card {
+  height: auto;
+}
+
+.sideGrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto auto;
+  grid-auto-columns: 1fr;
+  gap: 1rem;
+  width: 100%;
+  height: 100%;
+}
+
+.card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 10px;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  background-color: var(--color-line-10);
+  color: inherit;
+  text-decoration: none;
+  transition: background-color var(--duration-medium);
+}
+
+.card:hover {
+  background-color: var(--color-line-15);
+}
+
+.picture {
+  position: relative;
+}
+
+.mainPicture {
+  flex: 0 100%;
+}
+
+.sidePicture {
+  height: 12rem;
+}
+
+.imageWrap {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  padding-top: 50%;
+}
+
+.image {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 600ms ease, filter var(--duration-default) ease;
+}
+
+.card:hover .image {
+  transform: scale(1.1);
+  filter: brightness(90%);
+  transition: transform 1000ms linear, filter var(--duration-default) ease;
+}
+
+.tag {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  padding: 8px 10px;
+  background-color: var(--color-line-50);
+  color: var(--color-white);
+}
+
+.body {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  height: 100%;
+  padding: 26px 26px 40px;
+}
+
+.mainBody {
+  height: auto;
+}
+
+.date {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+  color: var(--color-text-muted);
+}
+
+.calendar {
+  width: 11px;
+}
+
+.mainText {
+  margin-top: 1rem;
+}
+
+.mainTitle,
+.sideTitle {
+  margin: 0;
+  color: var(--color-white);
+}
+
+.summaryBox {
+  width: 100%;
+  max-width: 32rem;
+}
+
+.summary {
+  margin: 0;
+  color: var(--color-text-muted);
+}
+
+.readNow {
+  color: var(--color-white);
+}
+
+@media (min-width: 1920px) {
+  .container {
+    max-width: 110rem;
+  }
+}
+
+@media (max-width: 991px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
+
+  .eyebrow {
+    margin-bottom: 3em;
+  }
+
+  .sidePicture {
+    height: 16rem;
+  }
+
+  .side {
+    align-items: center;
+  }
+}
+
+@media (max-width: 767px) {
+  .padding {
+    padding-inline: 1.25rem;
+  }
+}
+
+@media (max-width: 479px) {
+  .imageWrap {
+    height: 100%;
+  }
+
+  .body {
+    padding: 20px;
+  }
+
+  .sidePicture {
+    height: 14rem;
+  }
+
+  .mainPicture {
+    height: 24rem;
+  }
+
+  .sideGrid {
+    grid-template-columns: 1fr;
+  }
+}

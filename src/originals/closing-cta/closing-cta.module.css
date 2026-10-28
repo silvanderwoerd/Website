@@ -1,0 +1,39 @@
+/* Live: .fl-section-home-contact, .fl-home-contact-us, .fl-home-contact-us_big */
+
+.section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-block: 10.9375em;
+  color: var(--color-white);
+}
+
+.centre {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.heading {
+  margin: 0 0 0.8em;
+  color: var(--color-white);
+  text-align: center;
+}
+
+@media (min-width: 1920px) {
+  .section {
+    padding-block: 8em;
+  }
+}
+
+@media (max-width: 991px) {
+  .section {
+    padding-inline: 1em;
+  }
+}
+
+@media (max-width: 479px) {
+  .section {
+    padding-block: 8em;
+  }
+}

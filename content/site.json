@@ -1,0 +1,130 @@
+{
+  "logo": {
+    "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/646795605ef93b3edfe4e18a_2k.white.SB.icon.png",
+    "alt": "Studio Birthplace"
+  },
+  "email": "hello@studiobirthplace.com",
+  "socials": [
+    {
+      "href": "https://www.instagram.com/studiobirthplace/",
+      "icon": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65ee109a53cdbabef69bd5c5_Instagram%20-%20Negative.png",
+      "label": "Instagram"
+    },
+    {
+      "href": "https://www.linkedin.com/company/studiobirthplace",
+      "icon": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/649b8f31cf7c261c947178bf_social-icon-linkedin.png",
+      "label": "LinkedIn"
+    },
+    {
+      "href": "https://www.youtube.com/@StudioBirthplace",
+      "icon": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/649b8f301fe79603347b51c8_social-icon-youtube.png",
+      "label": "YouTube"
+    }
+  ],
+  "nav": [
+    {
+      "label": "Campaigns",
+      "href": "/work"
+    },
+    {
+      "label": "Act",
+      "href": "/act"
+    },
+    {
+      "label": "About",
+      "href": "/about"
+    },
+    {
+      "label": "News",
+      "href": "/news"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact"
+    }
+  ],
+  "footer": {
+    "columns": [
+      [
+        {
+          "title": "Explore",
+          "links": [
+            {
+              "label": "Work",
+              "href": "/work"
+            },
+            {
+              "label": "Act",
+              "href": "/act"
+            },
+            {
+              "label": "About",
+              "href": "/about"
+            },
+            {
+              "label": "News",
+              "href": "/news"
+            },
+            {
+              "label": "Contact",
+              "href": "/contact"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "title": "General Contact",
+          "links": [
+            {
+              "label": "General Enquiries",
+              "href": "mailto:hello@studiobirthplace.com?subject=Hello%20Studio%20Birthplace!"
+            },
+            {
+              "label": "Distribution & Screenings",
+              "href": "mailto:distribution@studiobirthplace.com?subject=Hello%20Studio%20Birthplace!"
+            }
+          ]
+        },
+        {
+          "title": "Contact Us",
+          "links": [
+            {
+              "label": "Europe",
+              "href": "mailto:sil@studiobirthplace.com"
+            },
+            {
+              "label": "SouthEast Asia",
+              "href": "mailto:jorik@studiobirthplace.com"
+            }
+          ]
+        }
+      ]
+    ],
+    "newsletter": {
+      "title": "Sign up to our Newsletter",
+      "emailOctopusForm": "8b155d74-d7e3-11ee-b2cd-d9a144c02e37"
+    },
+    "treeNation": {
+      "code": "fbee2e4f63e47328"
+    },
+    "commitments": {
+      "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/67f6c2954a3f3c18e72837b8_commitments.png",
+      "alt": ""
+    },
+    "copyright": "© 2024 Studio Birthplace"
+  },
+  "pageBackground": {
+    "grain": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6580ce8d8c6a36fef35b35a4_WebsiteGrain.1.webp",
+    "preloaderMask": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/67843fc39d5a3853e1a4e755_mask-logo.avif"
+  },
+  "icons": {
+    "arrow": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6465c08bc2eb8d26649eae6c_arrow-button.svg",
+    "play": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65ae7234ec9efd8dccc10db3_play(24x24)%402x.svg",
+    "calendar": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6465c08bc2eb8d26649eae96_calendar-icon.svg",
+    "mail": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65f37c8d27233961f49a6105_envelope-icon.png",
+    "plus": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/655155b8fb2a945891640355_Union.svg",
+    "arrowLeft": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65a3eb598807bcdfaeae2ae5_arrow-left.svg",
+    "arrowRight": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65a3eb59b582590b484f6091_arrow-right.svg"
+  }
+}

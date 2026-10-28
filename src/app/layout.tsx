@@ -21,7 +21,12 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en" className={lato.variable}>
+    <html lang="en" className={lato.variable} suppressHydrationWarning>
+      <head>
+        {/* Marks that scripts run, so motion's starting states (hidden words, the
+            preloader) only apply when something will animate them away. */}
+        <script dangerouslySetInnerHTML={{ __html: "document.documentElement.classList.add('js')" }} />
+      </head>
       <body>
         {children}
         {process.env.NODE_ENV === "development" ? <InspectorMount /> : null}

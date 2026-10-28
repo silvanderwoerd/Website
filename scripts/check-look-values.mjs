@@ -40,8 +40,10 @@ for (const file of strict) {
   });
 }
 
-// Stylesheets (originals, globals): tokens only. Breakpoints are allowed here,
-// only in @media lines (CLAUDE.md: only originals use breakpoints).
+// Stylesheets (originals, globals): originals carry the look, so their own
+// sizes and breakpoints are allowed (CLAUDE.md rule 2: "outside originals and
+// tokens"), but colours only as tokens and fonts only through text styles, so
+// the palette and type can't drift.
 const sheets = walk(join(root, "src")).filter((f) => f.endsWith(".css") && !f.endsWith(join("design", "tokens.css")));
 // Component code: no colours or sizes in inline styles. The Inspector is a dev tool and has its own look.
 const code = walk(join(root, "src/originals")).filter((f) => [".ts", ".tsx"].includes(extname(f)));
@@ -55,7 +57,6 @@ for (const file of [...sheets, ...code]) {
     if (t.includes("*/")) inComment = false;
     if (skip || exempt(lines, i) || MEDIA.test(text) || t.startsWith("@import")) return;
     if (COLOUR.test(text)) report(file, i + 1, text, "colour");
-    else if (SIZE.test(text)) report(file, i + 1, text, "size");
     else if (FONT.test(text)) report(file, i + 1, text, "font");
   });
 }

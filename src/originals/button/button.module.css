@@ -29,8 +29,16 @@
   z-index: var(--z-button-text);
 }
 
-.button[data-s-variant="outline"] {
-  /* the default look above */
+/* IX2 "Button mouse over" (.button-2.white-outline only): the label drifts ±6px with the pointer. */
+.button[data-s-variant="outline"] .label {
+  transform: translate(calc(var(--fx, 0) * 6px), calc(var(--fy, 0) * 6px));
+  transition: transform var(--duration-default) linear;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .button[data-s-variant="outline"] .label {
+    transform: none;
+  }
 }
 
 @media (min-width: 1920px) {

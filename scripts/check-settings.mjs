@@ -75,7 +75,7 @@ const schemasTs = readFileSync(join(dir, "schemas.ts"), "utf8");
 const registryTs = readFileSync(join(root, "src/stripes/registry.ts"), "utf8");
 for (const s of Object.values(schemas)) {
   if (!schemasTs.includes(`/${s.name}/schema"`)) errors.push(`${s.name}: not listed in src/originals/schemas.ts`);
-  if (s.level === "stripe" && !registryTs.includes(`"${s.name}"`)) errors.push(`${s.name}: stripe not in src/stripes/registry.ts`);
+  if (s.level === "stripe" && !new RegExp(`(^|[\\s{,])"?${s.name}"?\\s*:`, "m").test(registryTs)) errors.push(`${s.name}: stripe not in src/stripes/registry.ts`);
 }
 
 // Overrides in content files.

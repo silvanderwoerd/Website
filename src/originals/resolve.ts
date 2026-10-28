@@ -14,9 +14,11 @@ export function getDefaults(original: string): Settings {
   return existsSync(file) ? JSON.parse(readFileSync(file, "utf8")) : {};
 }
 
-export function resolveSettings(original: string, overrides: Settings = {}): Settings {
+// `base`: what the containing original chooses for this block (e.g. the
+// statement stripe sets its links' spacing); the block's own overrides win.
+export function resolveSettings(original: string, overrides: Settings = {}, base: Settings = {}): Settings {
   const schema = schemas[original];
-  const defaults = getDefaults(original);
+  const defaults = { ...getDefaults(original), ...base };
   const out: Settings = { ...defaults };
   for (const [name, value] of Object.entries(overrides)) {
     const def = schema?.settings[name];
@@ -27,10 +29,10 @@ export function resolveSettings(original: string, overrides: Settings = {}): Set
 }
 
 // Everything an original's root element needs: settings, attributes, style.
-export function resolveOriginal(original: string, instance: Overridable) {
+export function resolveOriginal(original: string, instance: Overridable, base?: Settings) {
   const schema = schemas[original];
   if (!schema) throw new Error(`unknown original "${original}"`);
-  const settings = resolveSettings(original, instance.overrides);
+  const settings = resolveSettings(original, instance.overrides, base);
   const { attrs, style } = settingAttrs(schema, settings);
   return { settings, attrs, style };
 }

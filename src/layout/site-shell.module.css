@@ -1,0 +1,10 @@
+/* Live: .fl-page-wrapper-projects (position relative, overflow clip). Content
+   painted after the fixed page background sits above it. */
+.shell {
+  position: relative;
+  overflow: clip;
+}
+
+.main {
+  position: relative;
+}

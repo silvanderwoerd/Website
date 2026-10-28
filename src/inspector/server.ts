@@ -14,11 +14,18 @@ const COLLECTIONS = ["pages", "projects", "dev"];
 const readJson = <T,>(file: string): T => JSON.parse(readFileSync(file, "utf8"));
 const writeJson = (file: string, data: unknown) => writeFileSync(file, JSON.stringify(data, null, 2) + "\n");
 
-// "pages/about#hero" (a stripe) or "pages/about#hero.button" (a block in it)
-// → the content file and the object. Slugs may contain "/", ids never "#" or ".".
+// "pages/about#hero" (a stripe), "pages/about#hero.button" (a block in it) or
+// "pages/home#featured-work.projects.2" (a block in a list) → the content file
+// and the object. Slugs may contain "/", ids never "#" or ".".
+// Site-wide originals (nav, footer, preloader, page background) are "site#<name>":
+// they have no instances of their own, only the original.
 export function findInstance(id: string) {
   const [source, rest] = id.split("#");
-  const [stripeId, blockKey] = (rest ?? "").split(".");
+  const [stripeId, ...path] = (rest ?? "").split(".");
+  const blockKey = path[0];
+  if (source === "site" && schemas[stripeId]) {
+    return { file: "", page: null, stripe: null, blockKey: undefined, original: stripeId, target: {} as Record<string, unknown> & { overrides?: Settings; overrideReasons?: Record<string, string> }, site: true };
+  }
   const collection = source.split("/")[0];
   if (!COLLECTIONS.includes(collection) || !stripeId) throw new Error(`bad instance id "${id}"`);
   const file = join(root, "content", `${source}.json`);
@@ -28,14 +35,18 @@ export function findInstance(id: string) {
   if (!stripe) throw new Error(`no stripe "${stripeId}" in ${relative(root, file)}`);
   const original = blockKey ? schemas[stripe.type]?.blocks?.[blockKey] : stripe.type;
   if (!original) throw new Error(`"${id}" is not an original`);
-  const target = (blockKey ? stripe.content[blockKey] : stripe) as StripeInstance | Record<string, unknown>;
-  if (!target || typeof target !== "object") throw new Error(`no block "${blockKey}" in stripe "${stripeId}"`);
-  return { file, page, stripe, blockKey, original, target: target as { overrides?: Settings; overrideReasons?: Record<string, string> } & Record<string, unknown> };
+  let target: unknown = stripe;
+  if (blockKey) target = path.reduce<unknown>((o, k) => (o as Record<string, unknown> | undefined)?.[k], stripe.content);
+  if (!target || typeof target !== "object") throw new Error(`no block "${path.join(".")}" in stripe "${stripeId}"`);
+  return { file, page, stripe, blockKey, original, target: target as { overrides?: Settings; overrideReasons?: Record<string, string> } & Record<string, unknown>, site: false };
 }
+
+const SITE_ORIGINALS = ["nav", "footer", "preloader", "page-background"];
 
 // Every content file, and every use of `original` in it (stripes and their blocks).
 export function usedOn(original: string) {
   const places: string[] = [];
+  if (SITE_ORIGINALS.includes(original)) places.push(`site#${original}`);
   for (const collection of COLLECTIONS) {
     const dir = join(root, "content", collection);
     if (!existsSync(dir)) continue;
@@ -45,7 +56,10 @@ export function usedOn(original: string) {
       for (const s of page.stripes ?? []) {
         if (s.type === original) places.push(`${source}#${s.id}`);
         for (const [key, block] of Object.entries(schemas[s.type]?.blocks ?? {})) {
-          if (block === original && s.content[key]) places.push(`${source}#${s.id}.${key}`);
+          const value = s.content[key];
+          if (block !== original || !value) continue;
+          if (Array.isArray(value)) value.forEach((_, i) => places.push(`${source}#${s.id}.${key}.${i}`));
+          else places.push(`${source}#${s.id}.${key}`);
         }
       }
     }
@@ -88,8 +102,14 @@ export function setDefault(original: string, setting: string, value: string | bo
 }
 
 // Change this instance only: an override, kept next to the instance with its reason.
+const editable = (id: string) => {
+  const found = findInstance(id);
+  if (found.site) throw new Error(`${found.original} is site-wide: change the original instead`);
+  return found;
+};
+
 export function setOverride(id: string, setting: string, value: string | boolean, device?: Device, reason?: string) {
-  const { file, page, original, target } = findInstance(id);
+  const { file, page, original, target } = editable(id);
   const def = check(schemas[original], setting, value);
   target.overrides ??= {};
   if (def.perDevice) {
@@ -101,7 +121,7 @@ export function setOverride(id: string, setting: string, value: string | boolean
 }
 
 export function resetOverride(id: string, setting: string, device?: Device) {
-  const { file, page, original, target } = findInstance(id);
+  const { file, page, original, target } = editable(id);
   const def = schemas[original].settings[setting];
   if (!target.overrides || !(setting in target.overrides)) return;
   const current = target.overrides[setting];
@@ -118,7 +138,7 @@ export function resetOverride(id: string, setting: string, device?: Device) {
 
 // Edit text in place: saves to the instance's content.
 export function setText(id: string, fieldName: string, text: string) {
-  const { file, page, original, blockKey, target } = findInstance(id);
+  const { file, page, original, blockKey, target } = editable(id);
   if (!schemas[original].fields?.includes(fieldName)) throw new Error(`${original} has no text field "${fieldName}"`);
   if (blockKey) target[fieldName] = text;
   else (target as StripeInstance).content[fieldName] = text;

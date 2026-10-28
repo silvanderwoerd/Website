@@ -1,0 +1,67 @@
+/* Live: .fl-who-we-are-section, .who-we-are-content-v2, .flex-vertical-v2,
+   .fl-who-we-are-large-v3.tricks, .text-block-2, .div-block, .clean-creatives-stamp. */
+
+.statement {
+  padding-top: 10.4375em;
+  padding-bottom: 10em;
+}
+
+.layout {
+  position: relative;
+  display: flex;
+  flex-flow: row;
+  justify-content: space-between;
+  column-gap: 3.5em;
+  width: 65em;
+  margin-inline: auto;
+}
+
+.copy {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.text {
+  margin: 0;
+  color: var(--color-white);
+  text-align: left;
+}
+
+.sub {
+  padding-top: 20px;
+}
+
+.links {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-auto-columns: 1fr;
+  gap: 50px;
+}
+
+.stamp {
+  position: static;
+  align-self: center;
+  max-width: 12%;
+}
+
+@media (min-width: 1920px) {
+  .sub {
+    padding-top: 25px;
+  }
+
+  .stamp {
+    height: auto;
+  }
+}
+
+@media (max-width: 767px) {
+  .layout {
+    width: 100%;
+    padding-inline: 1em;
+  }
+
+  .stamp {
+    display: none;
+  }
+}
