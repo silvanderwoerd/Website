@@ -1,0 +1,3 @@
+#!/bin/sh
+# Runs on every commit (CLAUDE.md "Guards"). Never bypass with --no-verify.
+npm run check

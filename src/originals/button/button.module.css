@@ -1,0 +1,84 @@
+/* Live CSS: .button-2.white-outline and its variants (docs/look.md). */
+
+.button {
+  position: relative;
+  display: flex;
+  overflow: hidden;
+  justify-content: center;
+  align-items: center;
+  max-width: 100%;
+  margin: 0;
+  padding: var(--space-fixed-button-y) var(--space-fixed-button-x);
+  border: var(--space-fixed-border) solid var(--color-white-75);
+  border-radius: var(--radius-round);
+  background-color: var(--color-transparent);
+  color: var(--color-white);
+  text-align: center;
+  text-decoration: none;
+  transition: all var(--duration-medium) var(--ease-standard);
+}
+
+.button:hover {
+  border-color: var(--color-ink);
+  background-color: var(--color-ink);
+  color: var(--color-white);
+}
+
+.label {
+  position: relative;
+  z-index: var(--z-button-text);
+}
+
+.button[data-s-variant="outline"] {
+  /* the default look above */
+}
+
+@media (min-width: 1920px) {
+  .button[data-s-variant="cta"] {
+    padding: var(--space-fixed-button-cta-y-xxl) var(--space-fixed-button-cta-x-xxl);
+  }
+}
+
+.button[data-s-variant="earth-defender"] {
+  padding: var(--space-fixed-button-ed-y) var(--space-fixed-button-x);
+  background-color: var(--color-black);
+}
+
+@media (min-width: 1920px) {
+  .button[data-s-variant="earth-defender"] {
+    padding: var(--space-fixed-button-ed-y-xxl) var(--space-fixed-button-x);
+    border-color: var(--color-white);
+  }
+}
+
+.button[data-s-variant="empower-children"] {
+  background-color: var(--color-link-empower);
+}
+
+@media (min-width: 1920px) {
+  .button[data-s-variant="empower-children"] {
+    border-color: var(--color-white);
+  }
+}
+
+/* News pages: the class library's flat button (.button.is-secondary). Its
+   hover sets a border style with no width, so browsers draw a medium border. */
+.button[data-s-variant="news"] {
+  display: flex;
+  overflow: visible;
+  width: var(--space-fixed-button-news-width);
+  padding: var(--space-fixed-button-news-y) var(--space-fixed-button-news-x);
+  border: none;
+  border-radius: 0;
+  background-color: var(--color-line-20);
+  white-space: nowrap;
+  transition: transform var(--duration-medium), background-color var(--duration-medium);
+}
+
+.button[data-s-variant="news"]:hover {
+  border-style: solid;
+  border-width: medium;
+  border-color: var(--color-news-hover-border) var(--color-news-hover-border) var(--color-news-hover-border) var(--color-line-20);
+  background-color: var(--color-line-30);
+  transform: translate(0, var(--space-fixed-button-news-lift));
+}

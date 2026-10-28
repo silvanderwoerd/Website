@@ -1,0 +1,51 @@
+@import "tailwindcss";
+@import "../design/tokens.css";
+
+/* Page base, as the live site's body rules (docs/look.md). */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  background-color: var(--color-page);
+  color: var(--color-text-muted);
+  font-family: var(--font-lato);
+  font-weight: 300;
+  line-height: 1.6;
+}
+
+/* The two type families (decisions #4): fluid pages size in u, news pages in rem on a fixed body. */
+.page-fluid {
+  font-size: var(--u);
+}
+
+.page-fixed {
+  font-size: var(--space-fixed-body);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+figure,
+blockquote {
+  margin: 0;
+}
+
+a {
+  color: inherit;
+}
+
+:focus-visible {
+  outline: var(--space-fixed-border) solid var(--color-focus);
+}

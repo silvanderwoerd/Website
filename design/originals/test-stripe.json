@@ -1,0 +1,10 @@
+{
+  "background": "page",
+  "spacing": {
+    "desktop": "5",
+    "tablet": "4",
+    "phone": "3"
+  },
+  "align": "center",
+  "titleStyle": "display"
+}

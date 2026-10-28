@@ -1,0 +1,6 @@
+#!/bin/sh
+# Runs on every push (CLAUDE.md "Guards"): the key pages at 390 / 820 / 1440
+# must match the approved baseline in looks/baseline/, with no unmarked
+# elements. Accepting a new baseline is Sil's or Jorik's call:
+#   npm run looks -- --accept
+npm run looks

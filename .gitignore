@@ -11,3 +11,6 @@ src/design/tokens.css
 
 # Screenshots from `npm run looks` (the approved baseline is kept)
 looks/runs/
+
+# This computer's dev-server settings for the Claude app (paths differ per machine)
+.claude/launch.json

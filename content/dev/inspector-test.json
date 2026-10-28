@@ -1,0 +1,33 @@
+{
+  "slug": "inspector-test",
+  "title": "Inspector test",
+  "family": "fluid",
+  "stripes": [
+    {
+      "id": "one",
+      "type": "test-stripe",
+      "content": {
+        "eyebrow": "Test stripe",
+        "title": "Copy one",
+        "text": "Both stripes come from the same original. Change the original and both follow.",
+        "button": {
+          "label": "View More Work",
+          "href": "/work"
+        }
+      }
+    },
+    {
+      "id": "two",
+      "type": "test-stripe",
+      "content": {
+        "eyebrow": "Test stripe",
+        "title": "Copy two",
+        "text": "Override a setting here and only this copy changes, marked as an exception.",
+        "button": {
+          "label": "Work With Us",
+          "href": "/contact"
+        }
+      }
+    }
+  ]
+}

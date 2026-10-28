@@ -1,0 +1,41 @@
+{
+  "name": "studiobirthplace-website",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "tokens": "node scripts/build-tokens.mjs",
+    "predev": "npm run tokens",
+    "dev": "next dev",
+    "prebuild": "npm run tokens",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "check": "npm run tokens && npm run typecheck && npm run lint && node scripts/check-look-values.mjs && node scripts/check-urls.mjs && node scripts/check-settings.mjs && node scripts/check-marks.mjs",
+    "looks": "node scripts/looks.mjs",
+    "prepare": "git config core.hooksPath .githooks"
+  },
+  "dependencies": {
+    "motion": "^14.7.1",
+    "next": "^16.4.3",
+    "plyr": "^3.8.5",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "server-only": "^0.0.1",
+    "swiper": "^11.2.10"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.3.3",
+    "@types/node": "^26.6.6",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "eslint": "^9.39.5",
+    "eslint-config-next": "^16.4.3",
+    "pixelmatch": "^8.0.0",
+    "playwright": "^1.64.1",
+    "pngjs": "^7.0.0",
+    "tailwindcss": "^4.3.3",
+    "typescript": "^5.9.3",
+    "wawoff2": "^2.0.1"
+  }
+}

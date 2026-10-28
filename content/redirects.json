@@ -1,0 +1,7 @@
+[
+  { "from": "/woolmark", "to": "/work/woolmark" },
+  { "from": "/birthplace", "to": "/work/birthplace" },
+  { "from": "/work/moneytrees", "to": "/work/gpmoneytrees" },
+  { "from": "/work/change-drivers-season-2", "to": "/work/change-drivers" },
+  { "from": "/flags", "to": "/work/flags" }
+]
