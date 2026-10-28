@@ -1,0 +1,9 @@
+# Unix line endings everywhere, on Windows too (Sil works on a Mac, the tools
+# write LF, and Git hooks run in sh).
+* text=auto eol=lf
+
+# Binary files: never touched.
+*.png binary
+*.jpg binary
+*.webp binary
+*.woff2 binary

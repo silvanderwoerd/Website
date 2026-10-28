@@ -1,0 +1,13 @@
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+next-env.d.ts
+.vercel
+.env*
+
+# Generated from design/tokens.json + design/text-styles.json by `npm run tokens`
+src/design/tokens.css
+
+# Screenshots from `npm run looks` (the approved baseline is kept)
+looks/runs/
