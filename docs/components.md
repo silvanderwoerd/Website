@@ -62,7 +62,7 @@ A link styled as a button. Files: `src/originals/button/`.
 |---|---|---|---|
 | `variant` | choice | `outline` (button-2.white-outline, 37 live pages) · `cta` (button-2-cta: wider at ≥1920) · `news` (button.is-secondary, news pages) · `earth-defender` (black fill) · `empower-children` (blue fill) | `outline` |
 
-- Content: `label` (editable in place), `href`, optional `lightbox: true` (opens a YouTube/Vimeo film in the lightbox), optional `current: true` (set by a containing original: the page it leads to is the one shown; `news` draws it lighter, live `.w--current`).
+- Content: `label` (editable in place), `href`, optional `newTab: true` (the campaigns' donate links), optional `lightbox: true` (opens a YouTube/Vimeo film in the lightbox), optional `current: true` (set by a containing original: the page it leads to is the one shown; `news` draws it lighter, live `.w--current`).
 - Text: `ts-button` + `ts-button-label` (`ts-news-button` for `news`).
 - On `outline`, the label drifts ±6px with the pointer (IX2 Button mouse over).
 
@@ -181,7 +181,7 @@ dragged, the row slides 0 → −30vw as you scroll past. Optional heading.
 | `image` | choice: `campaign` · `stills` · `bts` · `wide` · `visuals` · `media` · `drifters` · `story` (one per live image class) | `campaign` |
 | `align` | choice: `top` · `center` (slides centred on the tallest) | `top` |
 
-Content: `heading`, `images[]` (`src`, `alt`).
+Content: `heading`, `spaceAboveHeading` (two galleries have the 2.875em space above the heading too), `images[]` (`src`, `alt`). Earth Defender's COP29 band (a gallery nested in a gallery on live) adds `quote` (a `quote` inside the slider box, which the arrows centre against) and `strayArrows` (the outer box's arrows, drawn over nothing).
 
 ### `quote`
 
@@ -223,6 +223,7 @@ Campaign posters, key visuals or two films side by side.
 | Setting | Kind | Default |
 |---|---|---|
 | `layout` | choice: `poster` · `poster-still` · `poster-still-double` · `exhibition` · `rud-poster` · `rud-stills` · `films` · `films-tight` (each project's hand-made layout) | `poster` |
+| `spacing` | choice: `default` · `tight` (no space on phones, none below from 1920 up: moneytrees' last band) | `default` |
 
 ### `phones`
 
@@ -319,7 +320,8 @@ Content: `eyebrow`, `heading`, `text`, `stats[]` (`value`, `decimals`, `label`, 
 ### `act-statement`
 
 One sentence (rising in) over a full-width photo moving −25% → 0 while in view.
-Act and Earth Defender. Content: `image`, `text`.
+Act, Earth Defender, Empower Children (no photo; a donate `button` in place of the
+closing space). Content: `image`, `text`, `button`.
 
 ### `values` (one-off: Act)
 
@@ -341,6 +343,30 @@ Content: `background`, `map`, `pins[]` (`id`, `label`), `eyebrow`, `heading`,
 
 Pages may set `footerBand: "black"` (Contact): the closing stripe and the footer on
 solid black, as live's `.footer-background`.
+
+### `campaign-intro` (one-off: Empower Children)
+
+The campaign's name over a photo band, beside a grey box (heading, text, donate
+`button`, `empower-children` variant). Content: `background`, `heading`, `boxHeading`, `text`, `button`.
+
+### `campaign-fact` (Earth Defender)
+
+One fact in large white type on black; optional eyebrow, optional space above,
+optional `button` (`earth-defender` variant).
+
+| Setting | Kind | Default |
+|---|---|---|
+| `size` | choice: `large` · `small` (less space around: .fl-earthdefender-fact-small) | `large` |
+
+Content: `eyebrow`, `spaceAbove`, `text`, `button`.
+
+### `logo-row` (Earth Defender)
+
+Partner logos in one row (six columns, three on phones), each linking to its
+partner. Content: `logos[]` (`src`, `alt`, `href`).
+
+The campaign pages are otherwise the project stripes, moved by the same code
+(`scripts/move/bands.mjs`).
 
 ## News stripes (News, the Post and Category templates)
 

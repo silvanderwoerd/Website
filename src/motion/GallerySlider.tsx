@@ -6,7 +6,7 @@
 // dragged. IX2 "Gallery Side Scroll": the whole strip slides from 0 to −30vw
 // while its band scrolls through the window.
 
-import { useCallback, useEffect, useRef } from "react";
+import { useCallback, useEffect, useRef, type ReactNode } from "react";
 import Swiper from "swiper";
 import { FreeMode, Navigation } from "swiper/modules";
 import "swiper/css";
@@ -17,7 +17,9 @@ const SLIDE: Keyframes = [[0, 0], [1, -30]];
 
 export type GalleryImage = { src: string; alt: string };
 
-export function GallerySlider({ images, imageClass, arrows, centre }: { images: GalleryImage[]; imageClass: string; arrows: { left: string; right: string }; centre?: boolean }) {
+// `children`: anything the live page put inside the slider's box after it
+// (Earth Defender's COP29 quote), which the arrows then centre against too.
+export function GallerySlider({ images, imageClass, arrows, centre, children }: { images: GalleryImage[]; imageClass: string; arrows: { left: string; right: string }; centre?: boolean; children?: ReactNode }) {
   const root = useRef<HTMLDivElement>(null);
   const band = useRef<HTMLElement | null>(null);
   const track = useRef<HTMLDivElement>(null);
@@ -67,6 +69,22 @@ export function GallerySlider({ images, imageClass, arrows, centre }: { images: 
         <img src={arrows.left} alt="" />
       </div>
       <div className={styles.next} role="button" aria-label="Next">
+        <img src={arrows.right} alt="" />
+      </div>
+      {children}
+    </div>
+  );
+}
+
+// A slider box with only its arrows and no slides: Earth Defender's COP29 band
+// nests a second gallery inside a first, whose empty box still draws its arrows.
+export function StrayArrows({ arrows }: { arrows: { left: string; right: string } }) {
+  return (
+    <div className={styles.container} aria-hidden="true">
+      <div className={styles.prev}>
+        <img src={arrows.left} alt="" />
+      </div>
+      <div className={styles.next}>
         <img src={arrows.right} alt="" />
       </div>
     </div>

@@ -8,6 +8,7 @@ import { readFileSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 import { parse } from "node-html-parser";
 import TurndownService from "turndown";
+import { bandsOf, stripesOf, stripeFor, detailsStripe, has, withSettings } from "./bands.mjs";
 
 const root = process.cwd();
 const td = new TurndownService({ headingStyle: "atx", emDelimiter: "*" });
@@ -18,9 +19,17 @@ const load = (file) => parse(readFileSync(join(root, "reference/live-site", file
 const write = (slug, data) => writeFileSync(join(root, "content/pages", `${slug}.json`), JSON.stringify(data, null, 2) + "\n");
 const text = (el) => el?.text.replace(/\s+/g, " ").trim() ?? "";
 // Inline markup kept in content: **bold** and line breaks (\n). Nothing else.
+// A break inside a bold run stays a break, with the bold on each side of it.
+const boldRun = (n) =>
+  n.childNodes
+    .map((c) => (c.tagName === "BR" ? "\n" : c.text))
+    .join("")
+    .split("\n")
+    .map((part) => (part.trim() ? `**${part.trim()}**` : ""))
+    .join("\n");
 const inline = (el) =>
   el.childNodes
-    .map((n) => (n.nodeType === 3 ? n.text : n.tagName === "BR" ? "\n" : /^(STRONG|B)$/.test(n.tagName) || /font-weight-black|font-700/.test(n.getAttribute("class") ?? "") ? `**${n.text.trim()}**` : n.text))
+    .map((n) => (n.nodeType === 3 ? n.text : n.tagName === "BR" ? "\n" : /^(STRONG|B)$/.test(n.tagName) || /font-weight-black|font-700/.test(n.getAttribute("class") ?? "") ? boldRun(n) : n.text))
     .join("")
     .replace(/‍/g, "")
     .replace(/[ \t]+/g, " ")
@@ -85,6 +94,72 @@ const markdown = (el) =>
       return t ? t : "‍";
     })
     .join("\n\n");
+
+// A campaign page's own bands; the rest go through the project bands.
+function campaignBand(band, n) {
+  const id = (type) => `${type}-${n}`;
+  const button = (a) => (a ? { label: text(a.querySelector(".button-text")), href: a.getAttribute("href"), ...(a.getAttribute("target") === "_blank" ? { newTab: true } : {}) } : undefined);
+  const fact = band.querySelector(".fl-earthdefender-fact, .fl-earthdefender-fact-small");
+  if (fact) {
+    const small = has(fact, "fl-earthdefender-fact-small");
+    const eyebrow = band.querySelector(".fl-eyebrow-ed");
+    const btn = button(band.querySelector("a.button-ed"));
+    return withSettings(
+      {
+        id: id("fact"),
+        type: "campaign-fact",
+        content: {
+          ...(eyebrow ? { eyebrow: text(eyebrow) } : {}),
+          ...(band.querySelector(".fl-spacing-6em") ? { spaceAbove: true } : {}),
+          text: inline(band.querySelector(".fl-about-what-we-believe-large-text-ed")),
+          ...(btn ? { button: btn } : {}),
+        },
+      },
+      { size: small ? "small" : undefined },
+    );
+  }
+  if (has(band, "fl-section-act-statement")) {
+    const image = band.querySelector(".fl-act-statement-bg");
+    const btn = button(band.querySelector(".fl-section-act-lemukih a"));
+    return {
+      id: id("statement"),
+      type: "act-statement",
+      content: { ...(image ? { image: img(image) } : {}), text: text(band.querySelector(".fl-act-statement")), ...(btn ? { button: btn } : {}) },
+    };
+  }
+  if (has(band, "fl-section-project-details")) return { ...detailsStripe(band), id: id("details") };
+  // Earth Defender's partner logos (the project pages' empty section-4 bands hold nothing).
+  if (has(band, "section-4") && band.querySelector("img")) {
+    const logos = band.querySelectorAll(".container-11 img").map((i) => ({ ...img(i), ...(i.parentNode.tagName === "A" ? { href: i.parentNode.getAttribute("href") } : {}), first: /w-node/.test(i.getAttribute("id") ?? "") }));
+    // The live grid pins one logo to the first cell: in content they go in the order they show.
+    logos.sort((a, b) => b.first - a.first);
+    return { id: id("logos"), type: "logo-row", content: { logos: logos.map(({ first, ...l }) => l) } };
+  }
+  // The COP29 band: a gallery nested in a gallery band, a quote inside its slider box.
+  if (has(band, "fl-section-gallery") && band.querySelector(".fl-section-gallery")) {
+    const inner = band.querySelector(".fl-section-gallery");
+    const s = stripeFor(inner, n);
+    const q = inner.querySelector(".fl-quote-section");
+    s.content = { ...s.content, strayArrows: true, ...(q ? { quote: { quote: inline(q.querySelector(".fl-project-quote")), cite: inline(q.querySelector(".fl-quote-cite")), padTop: "4-5", padBottom: "4-5" } } : {}) };
+    return s;
+  }
+  if (has(band, "fl-section-next-project")) return { id: "more-work", type: "more-work", content: { button: { label: text(band.querySelector(".button-text")), href: band.querySelector("a").getAttribute("href") } } };
+  if (has(band, "section-3")) {
+    const box = band.querySelector(".fl-cta-lemukih-content");
+    return {
+      id: id("intro"),
+      type: "campaign-intro",
+      content: {
+        background: /url\("?([^")]+)"?\)/.exec(readFileSync(join(root, "reference/live-site/_css.tsv"), "utf8").split("\n").map((l) => l.split("\t")).find((r) => !r[0] && r[1] === ".section-3" && r[2] === "background-image")?.[3] ?? "")?.[1] ?? "",
+        heading: inline(band.querySelector("h1")),
+        boxHeading: text(box.querySelector("h2")),
+        text: text(box.querySelector("p")),
+        button: button(box.querySelector("a")),
+      },
+    };
+  }
+  return null;
+}
 
 const pages = {
   about() {
@@ -297,6 +372,25 @@ const pages = {
         { ...closing(doc), pageTone: undefined },
       ],
     };
+  },
+  // The campaign pages are project bands (scripts/move/bands.mjs) plus their own.
+  earthdefender() {
+    const doc = load("earthdefender.html");
+    const unknown = [];
+    const stripes = stripesOf(bandsOf(doc), { extra: campaignBand, onUnknown: (u) => unknown.push(u) });
+    if (unknown.length) console.log("earthdefender: bands not recognised:", unknown.join(", "));
+    return { slug: "earthdefender", ...meta(doc), family: "fluid", background: "black", stripes };
+  },
+  empowerchildren() {
+    const doc = load("empowerchildren.html");
+    const unknown = [];
+    // The bands inside .background-trigger turn the page gradient on.
+    const bands = bandsOf(doc).flatMap((b) =>
+      has(b, "background-trigger") ? b.childNodes.filter((x) => x.nodeType === 1 && x.tagName !== "FOOTER").map((x) => Object.assign(x, { tone: "gradient" })) : [b],
+    );
+    const stripes = stripesOf(bands, { extra: campaignBand, onUnknown: (u) => unknown.push(u) });
+    if (unknown.length) console.log("empowerchildren: bands not recognised:", unknown.join(", "));
+    return { slug: "empowerchildren", ...meta(doc), family: "fluid", background: "black", stripes };
   },
   work() {
     const doc = load("work.html");

@@ -35,6 +35,27 @@
   text-align: center;
 }
 
+/* .fl-section-act-lemukih > .container-6.w-container */
+.act {
+  padding-block: 5em;
+}
+
+.buttonBox {
+  display: block;
+  max-width: 200px;
+  margin-inline: auto;
+}
+
+@media (min-width: 1920px) {
+  .act {
+    padding-top: 2em;
+  }
+
+  .buttonBox {
+    max-width: 250px;
+  }
+}
+
 @media (max-width: 991px) {
   .container {
     width: 90%;

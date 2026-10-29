@@ -1,0 +1,107 @@
+/* Live: section.section-3 > .fl-lemukih-topsection.w-container >
+   h1.fl-act-hero-heading.tricks.u-show-on-load, .fl-cta-lemukih-content >
+   h2.fl-project_text-large, p.fl-cta-small-paragraph-black, a.button-2-lemukih */
+
+.section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 800px;
+  background-position: 0 0;
+  background-size: auto;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  max-width: 940rem;
+  margin-inline: auto;
+}
+
+/* .w-container:before / :after: empty table boxes that count as flex items (with their gaps). */
+.container::before,
+.container::after {
+  content: " ";
+  display: table;
+  grid-area: 1 / 1 / 2 / 2;
+}
+
+.strong {
+  font-weight: 900;
+}
+
+.box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 40%;
+  margin-inline: 3em 2em;
+  padding: 1.5em 2em 2em;
+  background-color: var(--color-campaign-panel);
+}
+
+.boxHeading {
+  color: var(--color-white);
+  text-align: center;
+}
+
+.space {
+  height: 0.875em;
+}
+
+.text {
+  margin-bottom: 1.5em;
+  color: var(--color-white);
+  text-align: center;
+}
+
+@media (min-width: 1920px) {
+  .container {
+    flex-flow: row;
+    justify-content: center;
+    place-items: center stretch;
+    gap: 16px;
+    max-width: none;
+  }
+
+  .heading {
+    margin-top: 5px;
+  }
+
+  .box {
+    align-self: center;
+    margin-top: 0;
+    margin-left: 5em;
+    padding: 1.5em 3em 2em;
+  }
+
+  .text {
+    margin-bottom: 0.5em;
+    padding-bottom: 10px;
+  }
+}
+
+@media (max-width: 991px) {
+  .container {
+    display: block;
+    text-align: center;
+  }
+
+  .box {
+    position: static;
+    width: 80%;
+    margin-left: 5em;
+    padding-block: 3.5em;
+  }
+}
+
+@media (max-width: 767px) {
+  .box {
+    display: flex;
+    flex-flow: column;
+    margin-left: 3em;
+  }
+}

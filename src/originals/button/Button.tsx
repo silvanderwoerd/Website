@@ -7,7 +7,8 @@ import styles from "./button.module.css";
 type Props = {
   instance: string;
   // current: the page this button leads to is the one shown (a category page's own button)
-  block: BlockInstance & { label: string; href: string; lightbox?: boolean; current?: boolean };
+  // newTab: opens in a new tab (the campaigns' donate links, as on live)
+  block: BlockInstance & { label: string; href: string; lightbox?: boolean; current?: boolean; newTab?: boolean };
   base?: Settings; // the containing original's choice, e.g. { variant: "cta" }
 };
 
@@ -30,7 +31,7 @@ export function Button({ instance, block, base }: Props) {
     );
   }
   return (
-    <a href={block.href} className={className} aria-current={block.current ? "page" : undefined} {...props}>
+    <a href={block.href} className={className} aria-current={block.current ? "page" : undefined} {...(block.newTab ? { target: "_blank", rel: "noreferrer" } : {})} {...props}>
       {label}
     </a>
   );

@@ -13,5 +13,7 @@ export const schema = {
       kind: "choice",
       options: ["poster", "poster-still", "poster-still-double", "exhibition", "rud-poster", "rud-stills", "films", "films-tight"],
     },
+    // tight: no space on phones, none below from 1920 up (live .fl-section-moneytrees-poster)
+    spacing: { label: "Spacing", kind: "choice", options: ["default", "tight"] },
   },
 } satisfies OriginalSchema;

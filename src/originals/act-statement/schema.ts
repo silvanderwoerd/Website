@@ -9,4 +9,5 @@ export const schema = {
   purpose: "One big sentence over a full-width photo that drifts as you scroll.",
   settings: {},
   fields: ["text"],
+  blocks: { button: "button" },
 } satisfies OriginalSchema;

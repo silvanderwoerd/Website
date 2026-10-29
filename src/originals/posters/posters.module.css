@@ -15,6 +15,23 @@
   display: flex;
 }
 
+.section[data-s-spacing="default"] {
+  /* the layout's own spacing above */
+}
+
+@media (min-width: 1920px) {
+  .section[data-s-spacing="tight"] {
+    padding-bottom: 0;
+  }
+}
+
+@media (max-width: 479px) {
+  .section[data-s-spacing="tight"] {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+}
+
 /* poster */
 .section[data-s-layout="poster"] .container,
 .section[data-s-layout="rud-stills"] .container {
@@ -241,6 +258,11 @@
 
   .container {
     width: 90% !important;
+  }
+
+  /* .fl-split-moneytrees-container: each film narrows too */
+  .filmBox {
+    width: 90%;
   }
 }
 

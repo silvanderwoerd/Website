@@ -1,0 +1,452 @@
+{
+  "slug": "earthdefender",
+  "title": "Earth Defender",
+  "description": "Every 48 hours an Earth Defender goes missing or is murdered while protecting Earth's vanishing wilderness.",
+  "family": "fluid",
+  "background": "black",
+  "stripes": [
+    {
+      "id": "fact-0",
+      "type": "campaign-fact",
+      "content": {
+        "spaceAbove": true,
+        "text": "Every 48 hours\nan Earth Defender **goes missing or is murdered**\nwhile protecting Earth's vanishing wilderness\n**- our life support system**",
+        "button": {
+          "label": "Protect earth defenders",
+          "href": "https://www.change.org/p/sahkan-ruu-masyarakat-adat",
+          "newTab": true
+        }
+      }
+    },
+    {
+      "id": "film-1",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "DdNmBZOIl28",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6731a44648c980c0ff10d5f4_EarthDefender.Poster.Bet.webCover.jpg",
+          "ratio": "16:9"
+        }
+      }
+    },
+    {
+      "id": "logos-2",
+      "type": "logo-row",
+      "content": {
+        "logos": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6724a9015f14ed1a327598fc_square.SB.logo.2lines.white.png",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/67231bce5bce0246f6ef4fd9_Typed%20Novo%20Amor%20white.png",
+            "alt": "",
+            "href": "https://novoamor.co.uk/"
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6724a6ff9ced4b8095170d88_AMAN.white.png",
+            "alt": "",
+            "href": "https://www.aman.or.id/"
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6724a655db2c720833263627_haKa.white.png",
+            "alt": "",
+            "href": "https://haka.or.id/"
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6724a75d0af04b816eb5dd1e_GA.white.png",
+            "alt": "",
+            "href": "https://globalalliance.me/"
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6724a59c8d5118301f1176e0_IfNotUsThenWho.01.png",
+            "alt": "",
+            "href": "https://ifnotusthenwho.me/?gad_source=1&gclid=Cj0KCQiA88a5BhDPARIsAFj595hpEyKNs0qyv-P8vR5OMG0y1LYgcMpD-aiHeE5PW9uMW-6etlPFTx0aAkTqEALw_wcB"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fact-3",
+      "type": "campaign-fact",
+      "content": {
+        "eyebrow": "THE FACTS",
+        "text": "Indigenous Peoples safeguard 80%\nof the planet's biodiversity.\n\nDeforestation is up to 11X\nlower in Indigenous held areas.\n\nThe world must listen:"
+      }
+    },
+    {
+      "id": "posters-4",
+      "type": "posters",
+      "content": {
+        "films": [
+          {
+            "provider": "youtube",
+            "id": "_QvukXRL-Gg",
+            "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6734e367f94cd4b5be9c26bc_Covers_1.6.1.webp",
+            "ratio": "16:9"
+          },
+          {
+            "provider": "youtube",
+            "id": "yx-v6aBv7aU",
+            "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6734e517fd17aa5dc9d194ca_Still%202024-11-14%20014146_1.8.1.webp",
+            "ratio": "16:9"
+          },
+          {
+            "provider": "youtube",
+            "id": "LR6MT4K_n7c",
+            "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6734e516098819c154657024_Still%202024-11-14%20014146_1.4.1.webp",
+            "ratio": "16:9"
+          }
+        ]
+      },
+      "overrides": {
+        "layout": "films-tight"
+      },
+      "overrideReasons": {
+        "layout": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "posters-5",
+      "type": "posters",
+      "content": {
+        "films": [
+          {
+            "provider": "youtube",
+            "id": "xIvjMolEVgw",
+            "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6734e59abedaddb536de124a_Still%202024-11-14%20014146_1.7.1.webp",
+            "ratio": "16:9"
+          },
+          {
+            "provider": "youtube",
+            "id": "9vOdNISYStw",
+            "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6734e517ade890d8ceb11554_Still%202024-11-14%20014146_1.5.1.webp",
+            "ratio": "16:9"
+          },
+          {
+            "provider": "youtube",
+            "id": "EMnRcf_hLog",
+            "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6734e5162559d66254c08d7e_Still%202024-11-14%20014146_1.3.1.webp",
+            "ratio": "16:9"
+          }
+        ]
+      },
+      "overrides": {
+        "layout": "films-tight"
+      },
+      "overrideReasons": {
+        "layout": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "cta-6",
+      "type": "cta",
+      "content": {
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/673215f8ef11b4e4d18b7d7d_Pledge3.ED.webp",
+          "alt": ""
+        },
+        "heading": "Protect Defenders!",
+        "text": "The Indigenous People's Bill to protect Indigenous peoples from losing their ancestral lands to government and corporate projects must urgently be passed. Despite a 2012 court ruling, formal protections remain absent, leaving Indonesia's Indigenous Peoples vital forests vulnerable to intimidation, criminalization, and land loss.\n\nImmediate action is needed to safeguard Indigenous rights to land, culture, and environment. Your voice makes a difference. Demand real action now!",
+        "button": {
+          "label": "Sign To Protect Earth Defenders",
+          "href": "https://www.change.org/p/sahkan-ruu-masyarakat-adat"
+        }
+      },
+      "overrides": {
+        "size": "big"
+      },
+      "overrideReasons": {
+        "size": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "text-7",
+      "type": "text",
+      "content": {
+        "heading": "AMAN",
+        "body": "This petition supports our campaign partner AMAN (Aliansi Masyarakat Adat Nusantara), one of the largest Indonesian Indigenous Peoples' human rights and advocacy organizations, with members from over 2,230 Indigenous communities across Indonesia.\n\n‍\n\nTheir vital work provides a platform and a voice to the many Indigenous communities who are struggling to obtain their land rights, protect their land and way of life."
+      },
+      "padBottom": "4-5"
+    },
+    {
+      "id": "fact-8",
+      "type": "campaign-fact",
+      "content": {
+        "text": "We must protect the rights of our **Protectors**"
+      },
+      "overrides": {
+        "size": "small"
+      },
+      "overrideReasons": {
+        "size": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "quote-9",
+      "type": "quote",
+      "content": {
+        "quote": "“Collaboration between cultures like this is so important. Studio Birthplace took into account the Indigenous voices, avoiding tokenism, which is what is happening in a lot of different spaces. That didn't happen here. It was a very real collaboration where everyone was able to equally contribute and shape the film into what they believed was right.",
+        "cite": "Kynan Tegar - Co-Director"
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "statement-10",
+      "type": "act-statement",
+      "content": {
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/672340a37a535bf96a0e2d07_EarthDefender.BTSbg.jpg",
+          "alt": ""
+        },
+        "text": "We don't just need to preserve our forests, we need to learn and-listen to the Indigenous ways and learn how to live in harmony with the Earth's ecosystems."
+      }
+    },
+    {
+      "id": "quote-11",
+      "type": "quote",
+      "content": {
+        "quote": "“After months of research and conversations with representatives from over 15 Indigenous communities and local organizations, we realized that true understanding couldn’t be gained through online research alone. We needed to immerse ourselves in the culture firsthand. So, we spent a full month living with the Sungai Utik community, learning their ways, customs, and deep connection to the land and its stories. Adapting to a different rhythm and language was challenging, but filmmaking is all about people, and we wanted to truly listen and understand. Every evening, we gathered to learn from their work style and traditions, making our days to respectfully work with their schedule. It was a privilege to be welcomed by such a strong community.”",
+        "cite": "Alea Rahim & Sara Kong - EP & Producer"
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-12",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/67316d3f23f7d13e55891c84_EarthDefenders.Stills.1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/67316d3f6275fc755575afb4_EarthDefenders.Stills.2.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/67316d40a57b30ce5db66499_EarthDefenders.Stills.3.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/67316d3f42b188776589384e_EarthDefenders.Stills.5.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/67316d40c7d6407f3b531fd7_EarthDefenders.Stills.6.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/67316d3fd65cb68595b8ef23_EarthDefenders.Stills.7.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/67316d400450c6efec9b64ab_EarthDefenders.Stills.8.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/67316d3f717a6e7dbc55840c_EarthDefenders.Stills.9.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/67316d3f7a8143745f5b3d1f_EarthDefenders.Stills.10.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/67316d40bbcbbaeeb220c68f_EarthDefenders.Stills.11.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/67316d40b61fdc9829520c17_EarthDefenders.Stills.12.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "image": "stills"
+      },
+      "overrideReasons": {
+        "image": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "details-13",
+      "type": "project-details",
+      "content": {
+        "eyebrow": "ABOUT THE PROJECT",
+        "about": "## Earth Defender - a haunting music film by Novo Amor and Studio Birthplace, **exposes the life that is lost while defending nature.**\n\nSet against Novo Amor's haunting score, the film captures the Iban community’s commitment to preserving their lands. Through its story, Earth Defender underscores the need for global support and policy change to ensure these protectors’ safety.",
+        "credits": [
+          {
+            "role": "Directors",
+            "name": "Jorik Dozy, Sil van der Woerd, Kynan Tegar"
+          },
+          {
+            "role": "Producer",
+            "name": "Alea Rahim & Sara Kong"
+          },
+          {
+            "role": "Music Artist",
+            "name": "Novo Amor"
+          }
+        ],
+        "fullCredits": "### Production Company\n\nStudio Birthplace\n\n### Film Directors/ Writers\n\nJorik Dozy, Sil van der Woerd, Kynan Tegar\n\n### Music Artist\n\nNovo Amor\n\n### Commissioner\n\nBelieve\n\n### Executive Producer\n\nAlea Rahim\n\n### Producer\n\nSara Kong\n\n### Line Producer\n\nAgustina Merdekawaty (Tina)\n\n### Researcher & Production Assistant\n\nTheresa Cellona\n\n### Researcher & Social Media Manager\n\nMarsya Mohd Johari\n\n### Strategic Partnerships\n\nLiv Merry\n\n### Director of Photography\n\nNicholas Chin\n\n### 1st AC\n\nKiefer Daniel Yu\n\n### 2nd AC\n\nTim Chan\n\n### Camera Assist\n\nSandra Cai En\n\n### Art Director\n\nPawadi Jihad\n\n### Assistant Art Director\n\nRicky\n\n### Production & Art Dept Assistant\n\nPinki\n\nTopik\n\n### Casting & Community Organizer\n\nIndai Flora\n\n### Community Coordinator\n\nApai Salem\n\n### Community Support\n\nHerkulanus Sutomo Manna\n\n### BTS & Stills Photographer\n\nJakub Chlouba\n\n### Talent\n\nFather - Bet\n\nSon - Lapi\n\n### Editors\n\nJorik Dozy & Sil van der Woerd\n\n### Visual Effects Company\n\nHeckler Singapore\n\n### Visual Effects Supervisor\n\nCody Amos\n\n### Executive Producer\n\nCharu Menon\n\n### 3D Artists\n\nSen Ree Ooi\n\nSam Schwier\n\n### Compositors\n\nCody Amos\n\nDavor Zec\n\nJohnson Lim\n\nAbi Santos\n\n### Grading Company\n\nHarbor Picture Company\n\n### Head of Colour Production, UK\n\nCharlie Morris\n\n### Executive Creative Director, UK \n\nTBC\n\n### Colourist\n\nAlex Gregory\n\n### Music Composer\n\nNovo Amor\n\n### Music Production\n\nTBC\n\n### Music Label\n\nBelieve\n\n‍\n\n### Indigenous Community of Iban Menua Sungai Utik\n\n‍\n\n### Head Chief of Sungai Utik\n\nApai Janggut\n\n### Sungai Utik Community\n\nAjong, Akek Gajah, Apat, Apai Ramping, Apai Sonia, Apai Tagau, Bagas, Bala, Budet, Fani, Gaga, Ibau, Indai Atut, Indai Jamet, Indai Rindu, Indai Sonia, Indai Tagau, Indai Teguh, Indai Uma’, Inek Candi, Jadan, Kelembak, Lidia Sumbun, Manao, Muling, Ola, Patan, Ratu, Remy, Sella, Sonia, Tagau, Talen, Uma’, Uto, Yulianus\n\n‍\n\n### Indigenous Community of Iban Mungguk\n\n‍\n\n### Head Chief of Mungguk\n\nJelani\n\n### Mungguk Community\n\nAcun, Alex, Assan, Belayung, Iti, Juan, Majan, Maria Marselina, Markus, Medah, Nangak, Rendong, Ricat, Ruslan, Sinso\n\n‍\n\n### Interviewees from International Day of the World's Indigenous Peoples (IDWIP) 2024\n\n‍\n\nAfrida Erna Ngato, Isnah Ayunda, Jenifer Lasimbang, Keneyia Parkire, Kyle Whyte, Kynan Tegar, Monica Ndoen, Narendra Lama, Stanley Kimaren ole Riamit, Servasius Masyudi Onggal (Yudi)\n\n‍\n\n### Dancer\n\nJonathan Rafael\n\n‍\n\n### Special Thanks:\n\nAbdel Mandili, People’s Planet Project\n\nCeline Lim, SAVE Rivers\n\nCool Earth\n\nDandhy Laksono, Watchdoc ID\n\nDome Nikong\n\nÉru Mamak, Mentawai Tribe Tour\n\nEmmanuela Shinta, Ranu Welum Foundation \n\nFariha Onn\n\nFarwiza Farhan, Yayasan Haka\n\nFiona McAlpine, Borneo Project\n\nFranky Samperante, Pusaka Bentala Rakyat\n\nGreenpeace Malaysia\n\nHans Nicholas, Mongabay\n\nIan Morse \n\nJoshua Irwandi\n\nKarlina Indraswari\n\nKiki Nasution\n\nLutfi Pratomo\n\nMarianne Klute, Rainforest Rescue\n\nMartison Siritoitet, Suku Mentawai\n\nMerio Falindra, Asa Film\n\nRukka Sombolinggi, Aliansi Masyarakat Adat Nusantara (AMAN)\n\nSakti - Badan Registrasi Wilayah Adat (BRWA)\n\nSophie Chao\n\nMuhammad Habibi, Save Our Borneo\n\n‍\n\n### Campaign Partners\n\nAMAN - Aliansi Masyarakat Adat Nusantara\n\nHAkA\n\nGlobal Alliance\n\nIf Not Us, Then Who?\n\n‍",
+        "creditsNote": "NOVO AMOR",
+        "press": [
+          {
+            "label": "Branding in Asia",
+            "href": "https://www.brandinginasia.com/earth-defender-film-powerfully-highlights-indigenous-peoples-struggle-to-protect-wilderness/"
+          },
+          {
+            "label": "Deadline",
+            "href": "https://deadline.com/2025/08/2025-hollyshorts-awards-winners-1236490453/"
+          },
+          {
+            "label": "Filmmakers' World",
+            "href": "https://filmmakersworld.net/studio-birthplace-merging-filmmaking-vfx-and-storytelling-for-a-better-planet/"
+          },
+          {
+            "label": "i4ONE",
+            "href": "https://i4one.org/2024/11/22/watch-earth-defender/"
+          },
+          {
+            "label": "Kompas",
+            "href": "https://www.kompas.com/hype/read/2024/11/19/165718466/musisi-wales-novo-amor-jadi-penata-musik-dokumenter-earth-defender-yang#google_vignette"
+          },
+          {
+            "label": "League of Filmmakers",
+            "href": "https://www.leagueoffilmmakers.com/earth-defender-brings-indigenous-voices-to-the-forefront-at-hollyshorts/"
+          },
+          {
+            "label": "Little Black Book",
+            "href": "https://lbbonline.com/news/indigenous-people-struggle-to-protect-earths-wilderness-in-powerful-film-earth-defender"
+          },
+          {
+            "label": "One Point Four",
+            "href": "https://www.onepointfour.co/2024/11/13/conserve-and-preserve/"
+          },
+          {
+            "label": "Pontianak Info",
+            "href": "https://pontianakinfo.disway.id/read/8893/novo-amor-dan-kisah-adat-dayak-musik-yang-menggetarkan-film-earth-defender-di-sui-utik"
+          },
+          {
+            "label": "Prambors FM",
+            "href": "https://www.pramborsfm.com/music/novo-amor-jadi-penata-musik-untuk-film-pendek-earth-defender-yang-angkat-kisah-alam-di-kalimantan"
+          },
+          {
+            "label": "Radio Republik Indonesia",
+            "href": "https://www.rri.co.id/hiburan/1127079/musisi-novo-amor-terlibat-projek-film-pendek-karya-pemuda-kalimantan"
+          },
+          {
+            "label": "‍",
+            "href": "https://shots.net/news/view/how-studio-birthplace-took-on-corporate-greed-and-human-indifference"
+          },
+          {
+            "label": "Shots 1",
+            "href": "https://shots.net/news/view/how-studio-birthplace-took-on-corporate-greed-and-human-indifference"
+          },
+          {
+            "label": "Shots 2",
+            "href": "https://www.shots.net/news/view/the-cost-of-protecting-nature"
+          },
+          {
+            "label": "The Wrap",
+            "href": "https://www.thewrap.com/trapped-wins-grand-prize-at-hollyshorts-film-festival-qualifies-for-oscars/"
+          }
+        ],
+        "logo": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/67231bce5bce0246f6ef4fd9_Typed%20Novo%20Amor%20white.png",
+          "alt": "",
+          "href": "https://novoamor.co.uk/"
+        },
+        "creditsLabel": "View Full Credits",
+        "pressLabel": "View Media Features"
+      }
+    },
+    {
+      "id": "text-14",
+      "type": "text",
+      "content": {
+        "heading": "COP29",
+        "body": "On November 12th 2024, Directors Sil, Jorik, and Kynan premiered *Earth Defender* at Extreme Hangout during COP29 in Baku, Azerbaijan. They also hosted a second screening during the Climate x Culture Forum held by The Convergence and Entertainment + Culture Pavilion at Baku Planetarium."
+      },
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-15",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/681babe2dcb982e09a6fbf71_EarthDefender.Premiere.Content4.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/681bab1486c119f99c81bc6b_EarthDefender.Premiere.Content2.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/681bab5679fe383158f29670_EarthDefender.Premiere.Content1a.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/681bab14e91b00599f30d9fd_EarthDefender.Premiere.Content3.jpg",
+            "alt": ""
+          }
+        ],
+        "strayArrows": true,
+        "quote": {
+          "quote": "\"Walking through this year’s UN Climate Conference felt overwhelming - a place where money often overshadows meaning, and nature’s voice appears to be a side concern. It was in the Indigenous Peoples pavilion where we found real connection. Their wisdom on reciprocity - giving back to Mother Nature - was transformative, a home-coming. This is the hope we hold onto, because the world is beautiful, and it’s worth fighting for, together with those who’ve been defending it all along.”",
+          "cite": "Sil van der Woerd & Jorik Dozy - Co-Directors",
+          "padTop": "4-5",
+          "padBottom": "4-5"
+        }
+      },
+      "overrides": {
+        "align": "center"
+      },
+      "overrideReasons": {
+        "align": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "text-16",
+      "type": "text",
+      "content": {
+        "heading": "Behind The Scenes",
+        "body": "Who are our Earth Defenders? See how Studio Birthplace worked together with indigenous filmmaker Kynan Tegar to bring to life the story of those who protect our vanishing wilderness.\n\n‍\n\n**Watch the video below!**"
+      },
+      "padBottom": "4-5"
+    },
+    {
+      "id": "film-17",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "czdjXt6eeZE",
+          "poster": "",
+          "ratio": "2:1"
+        }
+      },
+      "overrides": {
+        "size": "medium"
+      },
+      "overrideReasons": {
+        "size": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "more-work",
+      "type": "more-work",
+      "content": {
+        "button": {
+          "label": "View More Work",
+          "href": "/work"
+        }
+      }
+    }
+  ]
+}

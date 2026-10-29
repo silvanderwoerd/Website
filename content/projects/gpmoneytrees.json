@@ -332,6 +332,7 @@
       "type": "gallery",
       "content": {
         "heading": "Campaign Photography",
+        "spaceAboveHeading": true,
         "images": [
           {
             "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6644358ead0bac63ebf0389f_MoneyTrees.KeyVisual.01.webp",
@@ -474,10 +475,12 @@
         ]
       },
       "overrides": {
-        "layout": "poster"
+        "layout": "poster",
+        "spacing": "tight"
       },
       "overrideReasons": {
-        "layout": "as on the live site (phase 1)"
+        "layout": "as on the live site (phase 1)",
+        "spacing": "as on the live site (phase 1)"
       }
     },
     {

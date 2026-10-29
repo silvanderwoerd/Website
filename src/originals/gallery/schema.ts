@@ -12,4 +12,5 @@ export const schema = {
     align: { label: "Slides", kind: "choice", options: ["top", "center"] },
   },
   fields: ["heading"],
+  blocks: { quote: "quote" },
 } satisfies OriginalSchema;

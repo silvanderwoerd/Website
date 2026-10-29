@@ -1,0 +1,111 @@
+{
+  "slug": "empowerchildren",
+  "title": "Protect Birds, Empower Children",
+  "description": "Protect Birds, Empower Children",
+  "family": "fluid",
+  "background": "black",
+  "stripes": [
+    {
+      "id": "intro-0",
+      "type": "campaign-intro",
+      "content": {
+        "background": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65b964d6d7701712ff626d26_BrokenWings.STILL_2.34.1.jpg",
+        "heading": "Protect Birds,\n**Empower Children.**",
+        "boxHeading": "Break the cycle",
+        "text": "Help us break the cycle of bird poaching in Southeast Asia by donating to provide educational materials for children in affected communities. Your support can create a better future for both the children and endangered bird species.",
+        "button": {
+          "label": "Act Now",
+          "href": "https://www.simplygiving.com/appeal/protectbirdsempowerchildren",
+          "newTab": true
+        }
+      }
+    },
+    {
+      "id": "text-on-image-1",
+      "type": "text-on-image",
+      "content": {
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6698c122fce90f05a492af9a_lemukih.BGvideo5.jpg",
+          "alt": ""
+        },
+        "parts": [
+          {
+            "kind": "text",
+            "heading": "Learn More",
+            "body": "Your donation will directly help support a school community in Indonesia by providing modern tools and improving infrastructure. Children in the community lack access to laptops/computers and are unable to learn essential skills to improve their opportunities.",
+            "dark": true
+          },
+          {
+            "kind": "film",
+            "film": {
+              "provider": "youtube",
+              "id": "jmPFC0pxvug",
+              "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/669a31d2f45c4035b7b6dfd6_lemukihcover-D.jpg",
+              "ratio": "16:9"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "statement-2",
+      "type": "act-statement",
+      "content": {
+        "text": "By supporting our fundraiser, you are not just helping children; you are building towards a future where birds and nature are cherished and protected.",
+        "button": {
+          "label": "Act Now",
+          "href": "https://www.simplygiving.com/appeal/protectbirdsempowerchildren",
+          "newTab": true
+        }
+      },
+      "padBottom": "4-5",
+      "pageTone": "gradient"
+    },
+    {
+      "id": "film-3",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "6UWA-D7RbJA",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/660085b620ce314b474208a2_BrokenWings.VideoCover.jpg",
+          "ratio": "2.39:1"
+        }
+      },
+      "pageTone": "gradient"
+    },
+    {
+      "id": "text-4",
+      "type": "text",
+      "content": {
+        "heading": "Save Wild Birds",
+        "body": "**In addition to the school fundraiser, we are working together with Thrive Conservation to raise funds to tackle the issue of bird poaching.​**\n\n‍\n\nYou might have never thought about it, but where does your pet bird come from? Bird poaching is a global problem that has devastating consequences for ecosystems and biodiversity. Southeast Asia is home to over one fifth of global bird species. This richness has brought about large-scale wildlife trafficking throughout the region to fulfill demand for the pet trade.\n\n‍\n\nIn an effort to raise awareness on this critical issue, nature focused WaterBear Network and Studio Birthplace teamed up with renowned composer Ludovico Einaudi to tell this story."
+      },
+      "padTop": "4-5",
+      "pageTone": "gradient"
+    },
+    {
+      "id": "cta-5",
+      "type": "cta",
+      "content": {
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65b81dff7363d638ee73f149_BrokenWings_act.webp",
+          "alt": ""
+        },
+        "heading": "Get Involved",
+        "text": "Together with our partners, we are raising funds to protect birds in Indonesia, a country with more globally threatened bird species than anywhere else in the world.",
+        "button": {
+          "label": "Act to Protect Birds",
+          "href": "https://thriveconservation.org/brokenwings/",
+          "overrides": {
+            "variant": "empower-children"
+          },
+          "overrideReasons": {
+            "variant": "as on the live site (phase 1)"
+          }
+        }
+      },
+      "pageTone": "gradient"
+    }
+  ]
+}

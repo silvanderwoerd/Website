@@ -1,0 +1,44 @@
+/* Live: section.section-4 > .fl-spacing-3em, .container-11.w-container > the logos */
+
+.section {
+  position: relative;
+}
+
+.space {
+  height: 3.5em;
+}
+
+.row {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: auto;
+  grid-auto-columns: 1fr;
+  align-items: center;
+  gap: 3em;
+  max-width: 800px;
+  margin-inline: auto;
+}
+
+.link {
+  display: inline-block;
+  max-width: 100%;
+}
+
+@media (min-width: 1920px) {
+  .section {
+    text-align: center;
+  }
+
+  .row {
+    gap: 2em;
+    max-width: 1000px;
+  }
+}
+
+@media (max-width: 479px) {
+  .row {
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: auto auto;
+    padding-inline: 3em;
+  }
+}

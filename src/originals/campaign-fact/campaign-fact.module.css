@@ -1,0 +1,150 @@
+/* Live: section.section.overflow.black-bg > .fl-earthdefender-fact(-small) >
+   .container-w3.black-bg > .text-effect-inner-ed > (.fl-spacing-6em),
+   (h2.fl-eyebrow-ed), p.fl-about-what-we-believe-large-text-ed; and with a button:
+   section.fl-section-act-ed > .container-ed > a.button-ed.white-outline, .fl-spacing-3em */
+
+.section {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  background-color: var(--color-black);
+}
+
+.fact {
+  position: relative;
+  z-index: 2;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: auto;
+  grid-auto-columns: 1fr;
+  gap: 3rem 9em;
+  margin-block: 4em 1em;
+  padding: 2em 7em;
+}
+
+.section[data-s-size="large"] .fact {
+  margin-top: 4em;
+}
+
+.section[data-s-size="small"] .fact {
+  margin-top: 2em;
+}
+
+.container {
+  position: relative;
+  width: 100%;
+  max-width: 55em;
+  margin-inline: auto;
+  background-color: var(--color-black);
+}
+
+.inner {
+  position: relative;
+  overflow: hidden;
+  background-color: var(--color-black);
+  text-align: center;
+}
+
+.space6 {
+  height: 6em;
+}
+
+.eyebrow {
+  margin: 1.5em 0 2em;
+  color: var(--color-white);
+  white-space: nowrap;
+}
+
+.text {
+  margin-bottom: 0;
+  color: var(--color-white);
+}
+
+.strong {
+  font-weight: 900;
+}
+
+.act {
+  padding: 1em 0 2em;
+}
+
+.buttonBox {
+  display: block;
+  max-width: 250px;
+  margin-inline: auto;
+}
+
+.space3 {
+  height: 3.5em;
+}
+
+@media (min-width: 1280px) {
+  .eyebrow {
+    margin-bottom: 1em;
+  }
+}
+
+@media (min-width: 1440px) {
+  .container {
+    max-width: 48em;
+  }
+}
+
+@media (min-width: 1920px) {
+  .fact {
+    justify-items: center;
+    padding-inline: 8em;
+    text-align: left;
+  }
+
+  .section[data-s-size="small"] .fact {
+    margin-top: 0;
+    margin-bottom: 2em;
+  }
+
+  .buttonBox {
+    max-width: 350px;
+    text-align: center;
+  }
+}
+
+@media (max-width: 991px) {
+  .fact {
+    grid-template-rows: auto auto;
+    width: 100%;
+  }
+
+  .text {
+    margin-bottom: 1em;
+  }
+}
+
+@media (max-width: 767px) {
+  .fact {
+    padding-inline: 1em;
+  }
+}
+
+@media (max-width: 479px) {
+  .section[data-s-size] .fact {
+    grid-template-rows: auto;
+    margin-top: 2em;
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
+
+  .section[data-s-size="small"] .fact {
+    margin-top: 0;
+    padding-top: 0;
+  }
+
+  .text {
+    margin-bottom: 0;
+  }
+
+  .act {
+    margin-top: 2em;
+    padding-top: 2em;
+  }
+}
