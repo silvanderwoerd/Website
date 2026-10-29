@@ -32,7 +32,8 @@ export function settingAttrs(schema: OriginalSchema, settings: Settings) {
       if (v === undefined) continue;
       const suffix = device === "desktop" ? "" : `-${device}`;
       if (def.kind === "colorToken" || def.kind === "spaceStep") style[`--s-${name}${suffix}`] = TOKEN_VAR[def.kind](String(v));
-      else if (def.kind !== "textStyle") attrs[`data-s-${name}${suffix}`] = String(v);
+      // HTML attribute names are lower case (React warns otherwise); CSS matches them either way.
+      else if (def.kind !== "textStyle") attrs[`data-s-${name.toLowerCase()}${suffix}`] = String(v);
     }
   }
   return { attrs, style };
