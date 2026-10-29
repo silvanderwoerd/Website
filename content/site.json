@@ -23,6 +23,10 @@
   ],
   "nav": [
     {
+      "label": "Landing Alt",
+      "href": "/landing-alt"
+    },
+    {
       "label": "Campaigns",
       "href": "/work"
     },

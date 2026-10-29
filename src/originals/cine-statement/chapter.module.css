@@ -1,0 +1,17 @@
+.chapter {
+  display: flex;
+  align-items: center;
+  gap: 1.2em;
+  margin-bottom: 3.5em;
+  color: var(--color-cine-mist);
+}
+
+.n {
+  color: var(--color-cine-moon);
+}
+
+.line {
+  width: 4em;
+  height: var(--space-fixed-border);
+  background-color: var(--color-cine-line);
+}

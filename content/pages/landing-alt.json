@@ -1,0 +1,195 @@
+{
+  "slug": "landing-alt",
+  "title": "Studio Birthplace | Stories that ignite action",
+  "description": "A creative impact studio making bold, iconic campaigns for a just, healthy world. Experimental landing page (phase 2).",
+  "family": "fluid",
+  "background": "black",
+  "stripes": [
+    {
+      "id": "hero",
+      "type": "cine-hero",
+      "content": {
+        "label": "Studio Birthplace · Creative impact studio",
+        "places": "Kuala Lumpur · Singapore · Arnhem · Rio de Janeiro",
+        "title": "We ignite\naction through\n**stories.**",
+        "text": "We make bold, cinematic campaigns for a just, healthy world, with the people working hardest to protect it. Award-winning, and built to change things.",
+        "reel": {
+          "label": "Watch the showreel",
+          "href": "https://www.youtube.com/watch?v=ty4N3q_rfFE&ab_channel=StudioBirthplace"
+        },
+        "scroll": "Scroll",
+        "video": {
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F6755ba651a56371c86203218_StudioBirthplacehighlightReelHDv5mov-poster-00001.jpg",
+          "mp4": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F6755ba651a56371c86203218_StudioBirthplacehighlightReelHDv5mov-transcode.mp4",
+          "webm": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F6755ba651a56371c86203218_StudioBirthplacehighlightReelHDv5mov-transcode.webm"
+        }
+      }
+    },
+    {
+      "id": "statement",
+      "type": "cine-statement",
+      "content": {
+        "chapter": "01",
+        "label": "Why we exist",
+        "text": "A single film can rewrite the narrative, **and move a government.**",
+        "sub": "We work with Greenpeace, WWF, Sea Shepherd, the United Nations and mission-driven brands, from jungle canopies to the open ocean, to turn attention into action."
+      }
+    },
+    {
+      "id": "impact",
+      "type": "cine-impact",
+      "content": {
+        "chapter": "02",
+        "label": "Impact",
+        "heading": "Stories that **leave the screen.**",
+        "stats": [
+          {
+            "value": 62,
+            "suffix": "m+",
+            "label": "views for Wear Wool, Not Waste across platforms"
+          },
+          {
+            "value": 500,
+            "suffix": "k",
+            "label": "petition signatures behind Wasteminster"
+          },
+          {
+            "value": 135,
+            "suffix": "+",
+            "label": "international awards, including a Cannes Lion"
+          },
+          {
+            "value": 1.1,
+            "decimals": 1,
+            "suffix": "B",
+            "label": "campaign impressions for Team Forest"
+          }
+        ],
+        "proofs": [
+          {
+            "kicker": "Greenpeace · Wasteminster",
+            "title": "A film dumped Britain’s plastic on Downing Street",
+            "text": "We buried Westminster in the plastic waste the UK exports every day. 10 million views and 500,000 signatures later, Turkey announced a ban on plastic waste imports.",
+            "link": {
+              "label": "See the campaign",
+              "href": "/work/wasteminster"
+            },
+            "image": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d355b23376bd7b4cbe0470_WasteminsterCover.Image.jpg"
+          },
+          {
+            "kicker": "WWF · Team Forest",
+            "title": "Football in the rainforest canopy",
+            "text": "Released ahead of the 2026 World Cup: footballers and stunt performers playing through the trees, 12 million views and a platform where supporters join the team.",
+            "link": {
+              "label": "See the campaign",
+              "href": "/work/team-forest"
+            },
+            "image": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6a1da43d19aae3d444713a2d_WWF.TeamForest.STILLS_1.16.6-optimized.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "work",
+      "type": "cine-work",
+      "content": {
+        "chapter": "03",
+        "label": "Selected work",
+        "heading": "Films that **move people.**",
+        "all": {
+          "label": "All campaigns",
+          "href": "/work"
+        },
+        "cards": [
+          {
+            "href": "/work/team-forest",
+            "client": "WWF",
+            "title": "Team Forest",
+            "line": "Football takes over the rainforest canopy, to rally the world behind its forests.",
+            "image": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6a27e39babcc2795c8575295_WWF.TeamForest.Film.Still.04-homepage.jpg",
+            "video": {
+              "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F6a27e3f2eaa32427b7693e7c_TeamForest-MainPage_poster.0000000.jpg",
+              "mp4": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F6a27e3f2eaa32427b7693e7c_TeamForest-MainPage_mp4.mp4",
+              "webm": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F6a27e3f2eaa32427b7693e7c_TeamForest-MainPage_webm.webm"
+            }
+          },
+          {
+            "href": "/work/oilympics",
+            "client": "Greenpeace",
+            "title": "Oilympics",
+            "line": "Calling out how an oil giant uses the Winter Olympics to greenwash its climate destruction.",
+            "image": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/69813d92185128beb47ec743_Oilympics_3.1.2-optimized.jpg",
+            "video": {
+              "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F6981c174df50fd6c8d2e35ae_Oilympics-frontpage-v2_poster.0000000.jpg",
+              "mp4": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F6981c174df50fd6c8d2e35ae_Oilympics-frontpage-v2_mp4.mp4",
+              "webm": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F6981c174df50fd6c8d2e35ae_Oilympics-frontpage-v2_webm.webm"
+            }
+          },
+          {
+            "href": "/earthdefender",
+            "client": "Novo Amor",
+            "title": "Earth Defender",
+            "line": "A haunting music film for the people who give their lives to protect wilderness.",
+            "image": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6739903e53821f6427a498bd_cover.image.earthdefender.avif",
+            "video": {
+              "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F67398efde3d20c0de400f800_EarthDefendercutdown-poster-00001.jpg",
+              "mp4": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F67398efde3d20c0de400f800_EarthDefendercutdown-transcode.mp4",
+              "webm": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F67398efde3d20c0de400f800_EarthDefendercutdown-transcode.webm"
+            }
+          },
+          {
+            "href": "/work/woolmark-wear-wool-not-waste",
+            "client": "Woolmark",
+            "title": "Wear Wool, Not Waste",
+            "line": "A synthetic zombie apocalypse: every synthetic garment ever made still haunts the planet.",
+            "image": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66f127352f26f5317df34829_Woolmark.stills.06.jpg",
+            "video": {
+              "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F66f1260885465035574d46ab_WearWoolNotWastecutdown-poster-00001.jpg",
+              "mp4": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F66f1260885465035574d46ab_WearWoolNotWastecutdown-transcode.mp4",
+              "webm": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F66f1260885465035574d46ab_WearWoolNotWastecutdown-transcode.webm"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "voices",
+      "type": "cine-voices",
+      "content": {
+        "chapter": "04",
+        "label": "Partners",
+        "quote": "Visually impactful content that leaves the consumer thinking about the message long after it leaves the screen.",
+        "name": "Catherine Veltman",
+        "role": "Global Marketing Manager, Woolmark"
+      }
+    },
+    {
+      "id": "news",
+      "type": "cine-news",
+      "content": {
+        "chapter": "05",
+        "label": "Latest",
+        "count": 4,
+        "all": {
+          "label": "All news",
+          "href": "/news"
+        }
+      }
+    },
+    {
+      "id": "closing",
+      "type": "cine-cta",
+      "content": {
+        "heading": "Let’s tell the story that **changes things.**",
+        "button": {
+          "label": "Work with us",
+          "href": "/contact"
+        },
+        "mail": {
+          "label": "hello@studiobirthplace.com",
+          "href": "mailto:hello@studiobirthplace.com"
+        }
+      }
+    }
+  ]
+}

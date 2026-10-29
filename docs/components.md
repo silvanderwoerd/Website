@@ -368,6 +368,22 @@ partner. Content: `logos[]` (`src`, `alt`, `href`).
 The campaign pages are otherwise the project stripes, moved by the same code
 (`scripts/move/bands.mjs`).
 
+## Experiment: the cinematic landing page (phase 2, /landing-alt)
+
+Not on the live site (decision #32). Its own colour tokens (`cine-*`) and text
+styles (`cine-*`), Lato only. Motion in `src/motion/Cinematic.tsx`: `Letterbox`,
+`CountUp`, `HoverClip`, `Parallax`. Chapter marks (`Chapter`, in cine-statement).
+
+| Original | What it is | Content |
+|---|---|---|
+| `cine-hero` | The showreel full-bleed, letterbox bars drawing apart, the promise rising in, a credit line, a showreel button; drifts away on scroll | `label`, `places`, `title`, `text`, `reel`, `scroll`, `video` |
+| `cine-statement` | One sentence rising in word by word, a quieter line below | `chapter`, `label`, `text`, `sub` |
+| `cine-impact` | Numbers counting up, two stories of what films changed | `chapter`, `label`, `heading`, `stats[]`, `proofs[]` |
+| `cine-work` | Four films, the first 2.39:1, each waking into its clip on hover | `chapter`, `label`, `heading`, `all`, `cards[]` |
+| `cine-voices` | A partner quote, large, over a drifting row of partner logos | `chapter`, `label`, `quote`, `name`, `role` |
+| `cine-news` | The newest posts as headlines | `chapter`, `label`, `count`, `all` |
+| `cine-cta` | One closing line and a way in | `heading`, `button`, `mail` |
+
 ## News stripes (News, the Post and Category templates)
 
 The news pages use the fixed `news-*` text styles (decisions #4) and
