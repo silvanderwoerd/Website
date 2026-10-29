@@ -326,6 +326,22 @@ Act and Earth Defender. Content: `image`, `text`.
 Eyebrow, heading and numbered rows that open on click (`ValueItem`: the answer rises,
 grows and fades in; the plus turns into a grey minus). Content: `eyebrow`, `heading`, `items[]` (`title`, `text`).
 
+### `contact-hero` (one-off: Contact)
+
+The whole top of Contact: mountains behind an overlay that lightens as you scroll
+(`ContactShade`: 0.87 → 0.8 → 0.24), the world map with four pulsing pins (on
+desktop hover a line draws out to the city's name), the heading, then the contact
+details (socials from site settings, four e-mail rows) and the Quick Contact form.
+**The form sends nothing yet:** the live one posts to Webflow, and which service
+replaces it is Sil's open call (`ContactForm`, marked one-off). Pin places are in
+the CSS by pin `id`.
+Content: `background`, `map`, `pins[]` (`id`, `label`), `eyebrow`, `heading`,
+`formEyebrow`, `title`, `text`, `mailIcon`, `contacts[]` (`email`, `href`, `label`),
+`quickContact`, `fields`, `send`, `sending`, `success`, `failure`.
+
+Pages may set `footerBand: "black"` (Contact): the closing stripe and the footer on
+solid black, as live's `.footer-background`.
+
 ## News stripes (News, the Post and Category templates)
 
 The news pages use the fixed `news-*` text styles (decisions #4) and

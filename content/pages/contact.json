@@ -1,0 +1,93 @@
+{
+  "slug": "contact",
+  "title": "Contact Us | Studio Birthplace",
+  "description": "We are a global team. We go where the story takes us.We work worldwide. Let's chat!",
+  "family": "fluid",
+  "footerBand": "black",
+  "stripes": [
+    {
+      "id": "contact",
+      "type": "contact-hero",
+      "content": {
+        "background": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65ee7ab7e766eeac81b1ba09_Contact.BG.mountains4.jpg",
+          "alt": ""
+        },
+        "map": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65eec40fa6602ea7e7d260c5_Contact.BG.map8.png",
+          "alt": ""
+        },
+        "pins": [
+          {
+            "id": "kuala-lumpur",
+            "label": "**Kuala Lumpur**\nMalaysia"
+          },
+          {
+            "id": "singapore",
+            "label": "**Singapore**\nSingapore"
+          },
+          {
+            "id": "arnhem",
+            "label": "**Arnhem**\nThe Netherlands"
+          },
+          {
+            "id": "rio",
+            "label": "**Rio de Janeiro**\nBrazil"
+          }
+        ],
+        "eyebrow": "Our locations",
+        "heading": "We Are A\n**Global Team**",
+        "formEyebrow": "Contact",
+        "title": "Let's Chat!",
+        "text": "We go where the story takes us.\nWe work **worldwide**.",
+        "mailIcon": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65a452ac5306405216fc22f4_mail-icon-black.svg",
+          "alt": ""
+        },
+        "contacts": [
+          {
+            "email": "hello@studiobirthplace.com",
+            "href": "mailto:hello@studiobirthplace.com?subject=Hi%20Studio%20Birthplace!",
+            "label": "General inquiries"
+          },
+          {
+            "email": "distribution@studiobirthplace.com",
+            "href": "mailto:distribution@studiobirthplace.com?subject=Hi%20Studio%20Birthplace!",
+            "label": "Screenings & Distribution"
+          },
+          {
+            "email": "sil@studiobirthplace.com",
+            "href": "mailto:sil@studiobirthplace.com?subject=Hi%20Studio%20Birthplace!",
+            "label": "Europe"
+          },
+          {
+            "email": "jorik@studiobirthplace.com",
+            "href": "mailto:jorik@studiobirthplace.com?subject=Hi%20Studio%20Birthplace!",
+            "label": "SouthEast Asia"
+          }
+        ],
+        "quickContact": "Quick Contact",
+        "fields": {
+          "name": "Full Name",
+          "email": "Email address",
+          "message": "Message..."
+        },
+        "send": "Send",
+        "sending": "Please wait...",
+        "success": "Thank you for your message!",
+        "failure": "Oops! Something went wrong while submitting the form."
+      }
+    },
+    {
+      "id": "closing",
+      "type": "closing-cta",
+      "content": {
+        "heading": "We're here to tell stories that\nchange the world. You in?",
+        "button": {
+          "label": "Work With Us",
+          "href": "/contact"
+        }
+      }
+    }
+  ]
+}

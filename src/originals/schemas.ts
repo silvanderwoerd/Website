@@ -49,12 +49,13 @@ import { schema as actCampaigns } from "./act-campaigns/schema";
 import { schema as sustainability } from "./sustainability/schema";
 import { schema as actStatement } from "./act-statement/schema";
 import { schema as values } from "./values/schema";
+import { schema as contactHero } from "./contact-hero/schema";
 
 const isDev = process.env.NODE_ENV === "development";
 
 export const schemas: Record<string, OriginalSchema> = Object.fromEntries(
   [
-    values, actStatement, sustainability, actCampaigns, actHero, lifeWith, team, awards, services, aboutStatement, workTile, workGrid, pageHeading, arrowLink, button, campaign, closingCta, cta, embed, episode, featuredWork, film, footer, gallery, hero,
+    contactHero, values, actStatement, sustainability, actCampaigns, actHero, lifeWith, team, awards, services, aboutStatement, workTile, workGrid, pageHeading, arrowLink, button, campaign, closingCta, cta, embed, episode, featuredWork, film, footer, gallery, hero,
     instafilter, latestNews, moreWork, nav, newsList, pageBackground, partners, phones, postBody, postHeader,
     posters, preloader, projectDetails, projectTile, quote, relatedPosts, statement, stats, testimonials, text, textOnImage,
   ]

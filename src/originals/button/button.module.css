@@ -69,14 +69,14 @@
   }
 }
 
-/* News pages: the class library's flat button (.button.is-secondary). Its
-   hover sets a border style with no width, so browsers draw a medium border. */
+/* News pages: the class library's flat button (.button.is-secondary.w-button). */
 .button[data-s-variant="news"] {
   display: flex;
   overflow: visible;
   width: var(--space-fixed-button-news-width);
   padding: var(--space-fixed-button-news-y) var(--space-fixed-button-news-x);
-  border: none;
+  /* .w-button's border: 0. The hover's border style and colour stay invisible at width 0, as on live. */
+  border: 0;
   border-radius: 0;
   background-color: var(--color-line-20);
   white-space: nowrap;
@@ -85,7 +85,6 @@
 
 .button[data-s-variant="news"]:hover {
   border-style: solid;
-  border-width: medium;
   border-color: var(--color-news-hover-border) var(--color-news-hover-border) var(--color-news-hover-border) var(--color-line-20);
   background-color: var(--color-line-30);
   transform: translate(0, var(--space-fixed-button-news-lift));

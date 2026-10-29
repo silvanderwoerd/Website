@@ -15,18 +15,21 @@ export function SiteShell({
   family = "fluid",
   background,
   footer = true,
+  footerBand,
   children,
 }: {
   path: string;
   family?: "fluid" | "fixed";
   background?: "black" | "plain";
   footer?: boolean;
+  footerBand?: "black";
   children: ReactNode;
 }) {
   const site = getSite();
   return (
     <div
       data-body={background}
+      data-footer-band={footerBand}
       className={`${styles.shell} ${family === "fixed" ? "page-fixed" : "page-fluid"}`}
       style={{ "--grain": `url("${site.pageBackground.grain}")` } as CSSProperties}
     >

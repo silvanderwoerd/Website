@@ -8,3 +8,10 @@
 .main {
   position: relative;
 }
+
+/* Contact's .footer-background: its closing stripe and the footer sit on solid black. */
+.shell[data-footer-band="black"] .main > :last-child,
+.shell[data-footer-band="black"] .main + * {
+  position: relative;
+  background-color: var(--color-black);
+}

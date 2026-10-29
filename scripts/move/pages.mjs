@@ -253,6 +253,51 @@ const pages = {
       ],
     };
   },
+  contact() {
+    const doc = load("contact.html");
+    const hero = doc.querySelector(".contact-hero");
+    const form = doc.querySelector(".fl-container-contact-form");
+    const [details, block] = form.querySelectorAll(".fl-contact-form-layout > div");
+    return {
+      slug: "contact",
+      ...meta(doc),
+      family: "fluid",
+      footerBand: "black",
+      stripes: [
+        {
+          id: "contact",
+          type: "contact-hero",
+          content: {
+            background: img(doc.querySelector(".contact-bg-image")),
+            map: img(hero.querySelector(".contact-hero-bg")),
+            // Each pin's place on the map is in the original's CSS, by its id.
+            pins: hero.querySelectorAll(".map-pin-wrapper").map((w) => ({
+              id: w.getAttribute("class").match(/cc-([\w-]+)/)[1],
+              label: inline(w.querySelector(".map-pin-label")),
+            })),
+            eyebrow: text(hero.querySelector(".fl-awards-eyebrow")),
+            heading: inline(hero.querySelector("h1")),
+            formEyebrow: text(details.querySelector(".fl-project-eyebrow")),
+            title: text(details.querySelector("h2")),
+            text: inline(details.querySelector(".fl-cta-small-paragraph")),
+            mailIcon: img(details.querySelector(".contact-details-icon-wrapper img")),
+            contacts: details.querySelectorAll(".contact-detail-item").map((item) => ({
+              email: text(item.querySelector(".fl-cta-small-paragraph-contact")),
+              href: item.querySelector(".contact-details-content-wrapper a").getAttribute("href"),
+              label: text(item.querySelector(".fl-contact-detail-small-text")),
+            })),
+            quickContact: text(block.querySelector(".fl-project-eyebrow")),
+            fields: { name: block.querySelector("#Name-2").getAttribute("placeholder"), email: block.querySelector("#Email-2").getAttribute("placeholder"), message: block.querySelector("textarea").getAttribute("placeholder") },
+            send: block.querySelector("input[type=submit]").getAttribute("value"),
+            sending: block.querySelector("input[type=submit]").getAttribute("data-wait"),
+            success: text(block.querySelector(".w-form-done")),
+            failure: text(block.querySelector(".w-form-fail")),
+          },
+        },
+        { ...closing(doc), pageTone: undefined },
+      ],
+    };
+  },
   work() {
     const doc = load("work.html");
     return {

@@ -1,4 +1,3 @@
 # Live addresses not built yet. Shrinks as templates land (step 5-7).
-/contact
 /earthdefender
 /empowerchildren

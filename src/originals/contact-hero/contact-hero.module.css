@@ -1,0 +1,485 @@
+/* Live: .contact-parallax-wrapper > .contact-bg-wrapper (img.contact-bg-image,
+   .contact-bg-overlay), .contact-hero > .contact-map-wrapper (img.contact-hero-bg,
+   .map-pin-wrapper.cc-* > .map-pin > .map-pin-ext-circle, .map-pin-line-wrapper >
+   .map-pin-line-mask > .map-pin-line, .map-pin-text-wrapper > p.map-pin-label),
+   .contact-hero-text-wrapper; section > .fl-container-contact-form >
+   .fl-contact-form-layout (details: eyebrow, h2.fl-project-page_title, paragraph,
+   .social-media-component, .contact-detail-item ×4; .contact-form-block.w-form >
+   form.contact-form > .form-input ×3, .button), plus the page's own pin pulse CSS. */
+
+.wrapper {
+  position: relative;
+}
+
+.bgWrapper {
+  position: sticky;
+  top: 0;
+  width: 100%;
+  height: 0;
+}
+
+.bgImage {
+  width: 100vw;
+  height: 100vh;
+  pointer-events: none;
+}
+
+.shade {
+  --shade: 0.87;
+  position: absolute;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: color-mix(in srgb, var(--color-black) calc(var(--shade) * 100%), var(--color-transparent));
+  background-image: linear-gradient(90deg, var(--overlay-black-80), var(--color-transparent));
+  pointer-events: none;
+}
+
+.hero {
+  position: relative;
+  padding-top: 5em;
+}
+
+.map {
+  position: relative;
+  width: 100%;
+}
+
+.mapImage {
+  width: 100%;
+}
+
+.pin {
+  position: absolute;
+  border-radius: var(--radius-round);
+}
+
+.pin[data-pin="kuala-lumpur"] {
+  inset: 65% auto auto 72%;
+}
+
+.pin[data-pin="singapore"] {
+  inset: 67.5% auto auto 73.5%;
+}
+
+.pin[data-pin="arnhem"] {
+  inset: 40% auto auto 48%;
+}
+
+.pin[data-pin="rio"] {
+  inset: 78% auto auto 35%;
+}
+
+/* .map-pin-ext-circle with the page's own pulse: a ring that grows and fades,
+   and a dot that breathes (1.25s each). */
+.pulse {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 24px;
+  height: 24px;
+  border-radius: 200px;
+  transform: translateX(-50%) translateY(-50%);
+}
+
+.pulse::before {
+  content: "";
+  position: relative;
+  display: block;
+  box-sizing: border-box;
+  width: 300%;
+  height: 300%;
+  margin-top: -100%;
+  margin-left: -100%;
+  border-radius: 200px;
+  background-color: var(--color-white);
+  animation: pulse-ring var(--duration-pin-pulse) var(--ease-pin) infinite;
+  pointer-events: none;
+}
+
+.pulse::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: block;
+  width: 100%;
+  height: 100%;
+  border-radius: 200px;
+  background-color: var(--color-white);
+  box-shadow: 0 0 8px var(--overlay-black-30);
+  animation: pulse-dot var(--duration-pin-pulse) var(--ease-pin-dot) -0.4s infinite;
+  pointer-events: none;
+}
+
+@keyframes pulse-ring {
+  0% {
+    transform: scale(0.33);
+  }
+
+  80%,
+  100% {
+    opacity: 0;
+  }
+}
+
+@keyframes pulse-dot {
+  0% {
+    transform: scale(0.8);
+  }
+
+  50% {
+    transform: scale(1);
+  }
+
+  100% {
+    transform: scale(0.8);
+  }
+}
+
+.lineWrapper {
+  position: absolute;
+  bottom: 1em;
+  left: 1em;
+}
+
+.lineMask {
+  position: relative;
+  overflow: hidden;
+  width: 0;
+  height: 4.1em;
+  transition: width var(--duration-base) ease-in-out var(--duration-fast);
+}
+
+.line {
+  position: absolute;
+  inset: 2.1em auto auto -0.4em;
+  width: 7.7em;
+  height: 0.1em;
+  background-color: var(--color-white);
+  transform: rotate(-30deg);
+}
+
+/* IX2 "Map Pin Hover In / Out" (desktop): at rest only the dot; on hover the line
+   draws out (300ms outQuint) and the label fades in after it (300ms). */
+.pinText {
+  position: absolute;
+  bottom: 4.1em;
+  left: 8.6em;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity var(--duration-fast) linear, visibility 0s linear var(--duration-fast);
+}
+
+.pin:hover .lineMask {
+  width: 7em;
+  transition: width var(--duration-base) var(--ease-out-quint);
+}
+
+.pin:hover .pinText {
+  opacity: 1;
+  visibility: visible;
+  transition: opacity var(--duration-base) linear var(--duration-base), visibility 0s;
+}
+
+.pinLabel {
+  margin: 0;
+  color: var(--color-white);
+  white-space: nowrap;
+}
+
+.strong {
+  font-weight: 900;
+}
+
+.heroText {
+  position: absolute;
+  top: 9.5em;
+  left: 8.2em;
+}
+
+.eyebrow {
+  margin: 0 0 2em;
+  color: var(--color-white);
+  text-align: left;
+  white-space: nowrap;
+}
+
+.heading {
+  margin-bottom: 0.2em;
+  text-align: left;
+}
+
+/* The contact details and the form */
+
+.section {
+  position: relative;
+}
+
+.space5 {
+  height: 5em;
+}
+
+.space2 {
+  height: 1.5em;
+}
+
+.space0875 {
+  height: 0.875em;
+}
+
+.space3375 {
+  height: 3.375em;
+}
+
+.container {
+  position: relative;
+  width: 100%;
+  max-width: 58.375em;
+  margin-inline: auto;
+}
+
+.layout {
+  display: flex;
+  justify-content: space-between;
+  align-items: stretch;
+}
+
+.label {
+  margin: 0;
+}
+
+.title {
+  color: var(--color-white);
+}
+
+.text {
+  margin-bottom: 1.5em;
+}
+
+.white {
+  color: var(--color-white);
+  font-weight: 900;
+}
+
+.socialsBox {
+  display: inline-block;
+}
+
+.socials {
+  display: flex;
+  flex: 0 auto;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 0;
+}
+
+.socialItem {
+  display: flex;
+}
+
+.social {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 1em;
+  color: var(--color-text-muted);
+  text-decoration: none;
+  opacity: 0.46;
+  filter: invert();
+  mix-blend-mode: screen;
+  transition: all var(--duration-medium);
+}
+
+.social:hover {
+  opacity: 1;
+}
+
+.detail {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.iconBox {
+  display: flex;
+  flex: none;
+  justify-content: center;
+  align-items: center;
+  width: 2em;
+  height: 2em;
+  background-color: var(--color-line-20);
+}
+
+.detailText {
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.emailLink {
+  display: inline-block;
+  max-width: 100%;
+  text-decoration: none;
+}
+
+.email {
+  margin-bottom: 0;
+  color: var(--color-white);
+}
+
+.formBlock {
+  width: 30em;
+  margin: 0 0 15px;
+  padding: 5.25em 2.75em;
+  background-color: var(--color-surface-98);
+  color: var(--color-ink);
+}
+
+.form {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: auto;
+  grid-auto-columns: 1fr;
+  gap: 2.375em;
+}
+
+/* .form-input.w-input */
+.input {
+  display: block;
+  flex: 0 auto;
+  width: 100%;
+  height: 38px;
+  margin-bottom: 0;
+  padding: 0.75em 1.375em;
+  border: var(--space-fixed-border) solid var(--color-line-30);
+  background-color: var(--color-transparent);
+  color: var(--color-text-muted);
+  vertical-align: middle;
+  transition: border-color var(--duration-base);
+}
+
+.input::placeholder {
+  color: var(--color-placeholder);
+}
+
+.input:hover,
+.input:focus {
+  border-color: var(--color-line-50);
+  color: var(--color-text-muted);
+  outline: 0;
+}
+
+.input.textarea {
+  height: auto;
+  min-height: 8rem;
+}
+
+/* .w-form-formrecaptcha */
+.captcha {
+  margin-bottom: 8px;
+}
+
+/* one-off: the form's Send is an <input type="submit">, not a link, so it can't
+   be the button original; it copies the live .button.w-button here. */
+.submit {
+  display: inline-block;
+  width: var(--space-fixed-button-news-width);
+  padding: var(--space-fixed-button-news-y) var(--space-fixed-button-news-x);
+  border: 0;
+  border-radius: 0;
+  background-color: var(--color-grey-70);
+  color: var(--color-white-90);
+  text-align: center;
+  line-height: inherit;
+  cursor: pointer;
+  transition: transform var(--duration-medium), background-color var(--duration-medium);
+  appearance: button;
+}
+
+.submit:hover {
+  border-style: solid;
+  border-color: var(--color-button-hover-border);
+  background-color: var(--color-text-muted);
+  transform: translate(0, var(--space-fixed-button-news-lift));
+}
+
+@media (min-width: 1920px) {
+  .shade {
+    --shade: 0.76;
+  }
+
+  .socials {
+    gap: 2rem;
+    margin-bottom: 1.5em;
+  }
+
+  .space3375 {
+    height: 2.5em;
+  }
+
+  .note {
+    color: var(--color-text-muted);
+  }
+}
+
+@media (max-width: 991px) {
+  .hero {
+    padding-top: 15em;
+  }
+
+  .heroText {
+    left: 3em;
+  }
+
+  .lineWrapper,
+  .pinText {
+    display: none;
+  }
+
+  .container {
+    width: 90%;
+    max-width: none;
+  }
+
+  .layout {
+    flex-flow: column;
+    gap: 2em;
+  }
+
+  .social {
+    width: 2em;
+  }
+
+  .iconBox {
+    width: 3em;
+    height: 3em;
+  }
+
+  .formBlock {
+    width: 100%;
+    margin-top: 25px;
+    padding: 4rem 2.5rem;
+  }
+}
+
+@media (max-width: 767px) {
+  .input {
+    min-height: 3.1rem;
+  }
+}
+
+@media (max-width: 479px) {
+  .bgImage {
+    object-fit: cover;
+  }
+
+  .formBlock {
+    margin-bottom: 0;
+    padding-inline: 1.25rem;
+  }
+
+  .input {
+    padding: 0.75rem 1.5rem;
+  }
+}

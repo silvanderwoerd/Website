@@ -54,5 +54,7 @@ export type PageContent = {
   // "black": the live <body class="background-color-black"> (projects, Work, Act …);
   // "plain": no page-background layer at all, the bare page colour (the news pages).
   background?: "black" | "plain";
+  // "black": the closing stripe and the footer on solid black (Contact's .footer-background).
+  footerBand?: "black";
   stripes: StripeInstance[];
 };
