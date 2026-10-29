@@ -1,0 +1,74 @@
+/* (base) */
+.text-color-white {
+  color: #fff;
+}
+.fl-project-page_title {
+  font-size: 3.64375em;
+  font-weight: 900;
+  line-height: 1;
+}
+.fl-numbers-container {
+  width: 100%;
+  max-width: 74.75em;
+  margin-left: auto;
+  margin-right: auto;
+}
+.fl-numbers-layout {
+  justify-content: center;
+  display: flex;
+}
+.fl-numbers-number-wrapper {
+  border-right: 1px solid #5a5a5a;
+  width: 15.875em;
+  padding-left: 3.5em;
+  padding-right: 3.5em;
+}
+.fl-numbers-number-wrapper.cc-is-last {
+  border-right-style: none;
+}
+.fl-numbers-number-big {
+  color: var(--blue);
+  font-size: 2.75em;
+  font-weight: 900;
+}
+.fl-numbers-number-paragraph-description {
+  letter-spacing: -.025em;
+  font-size: 1.21875em;
+  font-weight: 300;
+  line-height: 1.2;
+}
+.fl-numbers-layout-title-wrapper {
+  flex: 1;
+}
+.fl-spacing-4-5em {
+  height: 4.5em;
+}
+
+/* @media screen and (max-width: 991px) */
+.fl-numbers-container {
+  width: 90%;
+}
+.fl-numbers-layout {
+  grid-row-gap: 3em;
+  flex-wrap: wrap;
+}
+.fl-numbers-number-wrapper {
+  flex: 1;
+}
+.fl-numbers-number-wrapper.cc-is-second {
+  border-right-style: none;
+}
+.fl-numbers-layout-title-wrapper {
+  flex: 0 auto;
+  width: 100%;
+}
+
+/* @media screen and (max-width: 767px) */
+.fl-project-page_title.tricks {
+  font-size: 2em;
+}
+.fl-numbers-number-wrapper {
+  border-right-style: none;
+  flex: 1 0 100%;
+  padding-left: 0;
+}

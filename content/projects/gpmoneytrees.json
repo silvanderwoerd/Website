@@ -1,0 +1,494 @@
+{
+  "slug": "gpmoneytrees",
+  "title": "MoneyTrees",
+  "description": "‍MoneyTrees is a film made with Greenpeace that exposes the absurd destruction of rainforests and other natural habitats driven by billions in investment from unregulated banks and corporations.",
+  "family": "fluid",
+  "background": "black",
+  "client": "Greenpeace",
+  "inGrid": true,
+  "stripes": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "content": {
+        "eyebrow": "Our Work",
+        "client": "Greenpeace",
+        "title": "MoneyTrees",
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/664371bb431ad8e9d46318c3_MoneyTrees_still_5.1.4.webp",
+          "alt": ""
+        }
+      }
+    },
+    {
+      "id": "details",
+      "type": "project-details",
+      "content": {
+        "eyebrow": "ABOUT THE PROJECT",
+        "about": "## ‍*MoneyTrees* exposes the absurd **destruction of rainforests and other natural habitats** driven by billions in investment from unregulated banks and corporations.\n\nTogether with the multi-year, international campaign 'Defund Nature Destruction Now', the film aims to pressure governments to regulate the finance industry.",
+        "credits": [
+          {
+            "role": "Directors",
+            "name": "Jorik Dozy & Sil van der Woerd"
+          },
+          {
+            "role": "Executive Producer",
+            "name": "Alea Rahim"
+          },
+          {
+            "role": "Producer",
+            "name": "Sara Kong"
+          }
+        ],
+        "fullCredits": "### Production Company\n\nStudio Birthplace\n\n### Film Directors/Writers/Editors\n\nJorik Dozy & Sil van der Woerd\n\n### Music Artist\n\nGreedyBoy aka Joseph Wills\n\n### Executive Producer\n\nAlea Rahim\n\n### Producer\n\nSara Kong\n\n### Line Producer\n\nBaby Tamba\n\n### Greenpeace Team\n\nDavin Hutchins\n\nChristine Gebeneter\n\nBamboo Zardetto\n\n### 1st AD\n\nNovia Puspita\n\n### Unit & Location Manager\n\nPatria Andaru Lasut\n\n### Location Assistant\n\nChristma Dewage Herman\n\n### Production Assistant\n\nMelina Sarjanti (Mellie)\n\nPratama Sadani Mulia (Tama)\n\n### Production Runner\n\nAli Wardana (Danang)\n\nIpus\n\n### Director of Photography\n\nCharlie Balch\n\n### 1st AC\n\nYudi Gunawan\n\n### 2nd AC\n\nIda Bagus Nyoman Wira Adi Putra\n\n### Camera Assist\n\nMichael Sagarmatna Haryo\n\n### DIT\n\nDenny Chrisna\n\n### Gaffer\n\nJaya Dilaga\n\n### Best Girl\n\nSari Hidayat\n\n### Lightingman\n\nAlmo Septiantoro\n\nRiswanto\n\nSutrisno\n\nYuga Alfarezi\n\n### Art Director\n\nJohanis Petra\n\n### Assistant Art Director\n\nI Wayan Yuliawan (Julian)\n\n### Set Dresser\n\nMuklas (Arek)\n\nNyoman Mahendra (Koming)\n\nNyoman Arianto (Kupit)\n\nI Made Sutawan (Depang)\n\nPutu Gede Mahardika (Lego)\n\n### Local Runner\n\nI Made Sumita Yasa\n\nI Kadek Prastyawan\n\nBintang Budianto\n\nI Made Dana Yasa\n\n### Casting Director\n\nAsep Kamaludin\n\n### Casting Assistant\n\nLiu Utomo\n\n### Costume Supervisor\n\nI Gusti Ayu Krisna (Gung Krisna)\n\n### Costume Assistant\n\nRaditya Tri Murti\n\n### Hair & Make-up\n\nNI Wayan Ika Indriyani (Ika)\n\n### Hair & Make-up Assistant\n\nNi Komang Sriasih\n\n### BTS & Stills Photographer\n\nJakub Chlouba\n\n### Head of Security\n\nI Komang Arta Sudana\n\n### Rain Man\n\nI Wayan Wartana\n\n### On Set Medic\n\nKristin Wiandari\n\n### Transport Coordinator\n\nBimo Prasetyo\n\n### Talents: Bankers\n\nJames Roget\n\nDavid Zimmermann\n\nValentino. R. Lestuny\n\nJohn Williams\n\nLuis Gonzalez\n\nYenny Lourens\n\nIqbal Perdana\n\nHendrik Frederik\n\nSabrina White\n\nMariia\n\n### Talents: Politicians\n\nTony Talakua\n\nA. Rani Someng\n\nArdiansyah\n\nNia (Mak Rungsing)\n\nGalina Volkova\n\nRicardo Coppen\n\nTalis Jacobsen\n\nTarun Mote\n\nAnna Pustovit\n\n### Visual Effects Company\n\nHeckler Singapore\n\n### Visual Effects Supervisor\n\nCody Amos\n\n### Executive Producer\n\nCharu Menon\n\n### 3D Artists\n\nSen Ree Ooi, Sam Schwier\n\n### Compositors\n\nCody Amos, Davor Zec, Johnson Lim, Abi Santos\n\n### Grading Company\n\nNo. 8\n\n### Colourist\n\nAlex Gregory\n\n### Music Composer\n\nJoe Wills\n\n### Music Production\n\nJoe Wills\n\n### Music Company\n\nObscenic Ltd\n\n### Sound Designer\n\nJoe Wills \n\n### Thanks to\n\nRadu Dumitrascu\n\nMeike Rijksen\n\nMarieke de Vries",
+        "creditsNote": "GREENPEACE 2024",
+        "press": [
+          {
+            "label": "Branding In Asia",
+            "href": "https://www.brandinginasia.com/unregulated-banks-wreak-havoc-on-nature-in-moneytrees-video-from-greenpeace/"
+          },
+          {
+            "label": "Campaign Brief Asia",
+            "href": "https://campaignbriefasia.com/2024/05/23/studio-birthplace-and-heckler-singapore-partner-on-new-cinematic-greenpeace-music-video/"
+          },
+          {
+            "label": "Creative Review",
+            "href": "https://www.creativereview.co.uk/greenpeace-bankers-ad-studio-birthplace/"
+          },
+          {
+            "label": "Marketech APAC",
+            "href": "https://marketech-apac.com/greenpeaces-latest-campaign-with-studio-birthplace-heckler-sg-a-wakeup-call-on-ending-corporate-destruction-of-nature/"
+          },
+          {
+            "label": "The Stable",
+            "href": "https://www.thestable.com.au/studio-birthplace-greenpeace-demands-that-the-absurd-destruction-of-nature-is-not-ignored/"
+          },
+          {
+            "label": "Shots",
+            "href": "https://www.shots.net/news/view/greenpeaces-call-to-end-corporate-destruction"
+          },
+          {
+            "label": "Page Magazine",
+            "href": "https://page-online.de/kreation/wie-immer-grosses-kino-studio-birthplace-fuer-greenpeace/"
+          }
+        ],
+        "logo": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/648f37ed4342be4ed866de40_greenpeace.svg",
+          "alt": "",
+          "href": "https://greenpeace.com"
+        },
+        "creditsLabel": "View Full Credits",
+        "pressLabel": "View Media Features"
+      }
+    },
+    {
+      "id": "film-2",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "F10RZysFR94",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6645caa56110e2e296cb7b53_MoneyTrees.videoCover.webp",
+          "ratio": "2:1"
+        }
+      }
+    },
+    {
+      "id": "cta-3",
+      "type": "cta",
+      "content": {
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/664569b02bfd5b393dc1da9e_MoneyTree.Act2.jpg",
+          "alt": ""
+        },
+        "heading": "Get Involved",
+        "text": "As long as money keeps flowing towards nature destruction, we can’t solve the climate crisis and reverse biodiversity collapse. We need urgent government action to protect and restore nature and defund its destruction.",
+        "button": {
+          "label": "Act to end Nature Destruction",
+          "href": "https://www.greenpeace.org/international/act/defund-nature-destruction-now/"
+        }
+      }
+    },
+    {
+      "id": "text-4",
+      "type": "text",
+      "content": {
+        "heading": "Follow The Money",
+        "body": "Each year, we witness the loss of more of our last remaining nature. Who’s to blame? Giant corporations destroying nature for industrial agriculture, beef, soy, palm oil, feed, timber, paper and mining.. and maximum profit.\n\n‍\n\nGreedy corporations don’t value what we value. They are destroying nature’s treasures making the climate crisis and biodiversity collapse worse. Banks and finance Institutions provide billions so these businesses continue to operate without accountability. **We need government action now.**"
+      },
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-5",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66456f720e6cde445fd1074c_MoneyTrees.STILLS_4.2.1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6645cccd3fe7faf72f02549d_MoneyTrees.STILLS.15.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66456f959212989cf21e4b47_MoneyTrees.STILLS.06.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66456f72c99ccc56e96cb227_MoneyTrees.STILLS.08.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6645cccdbd140fa3afe36beb_MoneyTrees.STILLS.10.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6645cccdf43793bcc25d6c44_MoneyTrees.STILLS.16.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66456f7213ac2313b831ba00_MoneyTrees.STILLS.04.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66456f723183b39f2166012f_MoneyTrees.STILLS.07.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66456f72f7f012ca2c591f62_MoneyTrees.STILLS.09.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6645cccc845b02f7f12e22e1_MoneyTrees.STILLS.12.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6645cccd654a7366e2157ab3_MoneyTrees.STILLS.13.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66456f72c6ccf4cd97c3a95b_MoneyTrees.STILLS.03.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6645cccd7d2101af98d9ea96_MoneyTrees.STILLS.14.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "image": "stills"
+      },
+      "overrideReasons": {
+        "image": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "campaign-7",
+      "type": "campaign",
+      "content": {
+        "heading": "The Campaign",
+        "text": "'Defund Nature Destruction Now' is a multi-year, international campaign for which we created many different assets including animated key visuals and a brand identity.\n\nThe campaign launched worldwide with the participation of many Greenpeace offices including Brazil, Indonesia, The Netherlands and many others. In tandem with the film and digital assets, real-life demonstrations and actions were organized to gain attention.",
+        "press": [
+          {
+            "label": "Branding In Asia",
+            "href": "https://www.brandinginasia.com/unregulated-banks-wreak-havoc-on-nature-in-moneytrees-video-from-greenpeace/"
+          },
+          {
+            "label": "Campaign Brief Asia",
+            "href": "https://campaignbriefasia.com/2024/05/23/studio-birthplace-and-heckler-singapore-partner-on-new-cinematic-greenpeace-music-video/"
+          },
+          {
+            "label": "Creative Review",
+            "href": "https://www.creativereview.co.uk/greenpeace-bankers-ad-studio-birthplace/"
+          },
+          {
+            "label": "Marketech APAC",
+            "href": "https://marketech-apac.com/greenpeaces-latest-campaign-with-studio-birthplace-heckler-sg-a-wakeup-call-on-ending-corporate-destruction-of-nature/"
+          },
+          {
+            "label": "The Stable",
+            "href": "https://www.thestable.com.au/studio-birthplace-greenpeace-demands-that-the-absurd-destruction-of-nature-is-not-ignored/"
+          },
+          {
+            "label": "Shots",
+            "href": "https://www.shots.net/news/view/greenpeaces-call-to-end-corporate-destruction"
+          },
+          {
+            "label": "Page Magazine",
+            "href": "https://page-online.de/kreation/wie-immer-grosses-kino-studio-birthplace-fuer-greenpeace/"
+          }
+        ],
+        "pressLabel": "View Media Features",
+        "link": {
+          "label": "Greenpeace Landing Page",
+          "href": "https://www.greenpeace.org/international/act/defund-nature-destruction-now/"
+        }
+      },
+      "spaceBefore": "4-5"
+    },
+    {
+      "id": "posters-8",
+      "type": "posters",
+      "content": {
+        "films": [
+          {
+            "provider": "youtube",
+            "id": "4_PJ7BVaByI",
+            "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66448abd3f8312019ae816f4_KeyVisual.cover2.jpg",
+            "ratio": "16:9"
+          },
+          {
+            "provider": "youtube",
+            "id": "VsFKsbX4HF0",
+            "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66448abd2fc78af0c9d70b88_KeyVisual.cover1.jpg",
+            "ratio": "16:9"
+          }
+        ]
+      },
+      "overrides": {
+        "layout": "films"
+      },
+      "overrideReasons": {
+        "layout": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "film-9",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "hHpeOyXtwOw",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6644894f9d62c538b12cef17_KeyVisual.EUParliament.webp",
+          "ratio": "2:1"
+        }
+      }
+    },
+    {
+      "id": "posters-10",
+      "type": "posters",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6645c7dfc6db919f477b45d3_instaFeed.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "layout": "exhibition"
+      },
+      "overrideReasons": {
+        "layout": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "text-11",
+      "type": "text",
+      "content": {
+        "heading": "Climate March Zuidas",
+        "body": "Greenpeace opened Climate March Zuidas, Amsterdam with a demonstration of MoneyTrees. The demonstration featured a large prop tree being attacked by volunteers dressed as bankers as the 'MoneyTrees' song played.\n\n‍\n\nOver 15,000 people joined the climate march that happened a week ahead of the European Elections, demanding that banks such as Rabobank, ING and ABN Amro change their course and stop investing their money in deforestation, mining or pollution."
+      },
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-12",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6666d6f66b9e80ee2625a274_climatemarch1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6682258a4d5bef2b105c49bb_moneytrees.climatemarch.content2-square.png",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6666d638586206aa9aca1ac0_moneytrees.climatemarch.mainimage.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/668225f9aa4bfd23fcc33d7e_666b592010e478e9206b564d_IMG_5419_VSCO-new.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6666d628609d6d3020f0450b_moneytrees.climatemarch.content3.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "align": "center"
+      },
+      "overrideReasons": {
+        "align": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "gallery-13",
+      "type": "gallery",
+      "content": {
+        "heading": "Campaign Photography",
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6644358ead0bac63ebf0389f_MoneyTrees.KeyVisual.01.webp",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/664437dfb3b57ea7fec1e79a_MoneyTrees.KeyVisual.05.webp",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6644358d25dd854c04d488cf_MoneyTrees.KeyVisual.02.webp",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/664437dfe50d34c3c212fc2a_MoneyTrees.KeyVisual.08.webp",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/664437e4a71a095c7e6b811e_MoneyTrees.KeyVisual.11.webp",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "image": "visuals"
+      },
+      "overrideReasons": {
+        "image": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "text-14",
+      "type": "text",
+      "content": {
+        "heading": "No Trees Were Harmed",
+        "body": "A lot of care was put into making sure this film would not harm the natural environment. The team scouted large areas of forest and found a couple of huge trees fallen over in a storm. This allowed us to put forest destruction on screen without actually damaging the ecosystem.\n\n‍\n\n**Watch the Behind The Scenes below!**"
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "film-15",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "zdO_9I7Vwt0",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6645fec979c3429c19f1eef1_MoneyTrees.BTS.Cover.webp",
+          "ratio": "2:1"
+        }
+      },
+      "overrides": {
+        "size": "medium"
+      },
+      "overrideReasons": {
+        "size": "as on the live site (phase 1)"
+      },
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-16",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/664601f2984ab31501a9ba26_BTS_07.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/664601f257883e33531c0c3c_BTS_15.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/664601f2abda337882c17781_BTS_16.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/664601f240a301d0baa50702_BTS_01.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/664601f21ade91afd53dfee7_BTS_08.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/664601f1aae2a34f0e7ed731_BTS_03.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "align": "center"
+      },
+      "overrideReasons": {
+        "align": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "cta-17",
+      "type": "cta",
+      "content": {
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6650929d5593bd454fa773e2_GreedyBoy%20-%20MoneyTrees%20-%20cover%20image%20-%20with%20copy.jpg",
+          "alt": ""
+        },
+        "heading": "The Soundtrack",
+        "text": "'MoneyTrees' features a specially composed rap soundtrack by GreedyBoy alias Joe Wills, available to listen now on Spotify, Tidal and other platforms below.",
+        "button": {
+          "label": "Stream The Song",
+          "href": "https://ditto.fm/moneytrees-greedyboy"
+        }
+      }
+    },
+    {
+      "id": "quote-18",
+      "type": "quote",
+      "content": {
+        "quote": "\"I am thrilled to present 'MoneyTrees,' a song that explores the theme of human greed through the lens of caricatured corporate bankers. The music mirrors the intensity of Greenpeace's message through chaotic beats and primal cries that mirror the sounds of revving chainsaws, accompanied by a bassline that strikes like an axe.”",
+        "cite": "Music Artist GreedyBoy alias Joe Wills"
+      }
+    },
+    {
+      "id": "text-19",
+      "type": "text",
+      "content": {
+        "heading": "Campaign Identity",
+        "body": "We created a campaign identity to unify all of the assets under the same look. Central to the identity was the logo which had to communicate the feeling of the campaign as well as all of the themes surrounding it."
+      },
+      "padTop": "4-5"
+    },
+    {
+      "id": "posters-20",
+      "type": "posters",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6645d7eb47ec948105331f07_DNDN.Poster.webp",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "layout": "poster"
+      },
+      "overrideReasons": {
+        "layout": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "more-work",
+      "type": "more-work",
+      "content": {
+        "button": {
+          "label": "View More Work",
+          "href": "/work"
+        }
+      }
+    }
+  ]
+}

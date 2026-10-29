@@ -1,0 +1,59 @@
+/* (base) */
+.fl-section-poster-haze2 {
+  padding-top: 2em;
+  padding-bottom: 4.625em;
+}
+.fl-poster-container {
+  object-fit: fill;
+  width: 100%;
+  max-width: 69em;
+  margin-left: auto;
+  margin-right: auto;
+}
+.fl-posters-layout {
+  display: flex;
+}
+.fl-poster-imagehaze {
+  object-fit: cover;
+  width: 26.3125em;
+  height: 39.5em;
+  margin-right: 1.125em;
+}
+.fl-poster-still-image-haze {
+  object-fit: cover;
+  width: 41.4375em;
+  height: 39.5em;
+}
+
+/* @media screen and (min-width: 1920px) */
+.fl-section-poster-haze2 {
+  object-fit: contain;
+}
+.fl-poster-container {
+  max-width: 75em;
+  max-height: 819.884em;
+}
+.fl-posters-layout {
+  display: block;
+}
+.fl-poster-imagehaze {
+  object-fit: contain;
+  height: 40em;
+  margin-right: 0;
+}
+.fl-poster-still-image-haze {
+  height: 40em;
+}
+
+/* @media screen and (max-width: 991px) */
+.fl-poster-container {
+  width: 90%;
+}
+.fl-posters-layout {
+  font-size: .6em;
+}
+
+/* @media screen and (max-width: 767px) */
+.fl-posters-layout {
+  flex-direction: column;
+}

@@ -1,0 +1,463 @@
+{
+  "slug": "broken-wings",
+  "title": "Broken Wings",
+  "description": "Broken Wings is a unique documentary music film that unveils the untold story of bird poaching in Southeast Asia. In an effort to raise awareness on this critical issue, nature focused WaterBear Network and Studio Birthplace teamed up with renowned composer Ludovico Einaudi to tell this story.",
+  "family": "fluid",
+  "background": "black",
+  "client": "Ludovico Einaudi",
+  "inGrid": true,
+  "stripes": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "content": {
+        "eyebrow": "Our Work",
+        "client": "Ludovico Einaudi",
+        "title": "Broken Wings",
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65fe2a2ef0517f7d1d4185e2_BrokenWings.CoverImage.jpg",
+          "alt": ""
+        }
+      }
+    },
+    {
+      "id": "details",
+      "type": "project-details",
+      "content": {
+        "eyebrow": "ABOUT THE PROJECT",
+        "about": "## Broken Wings is a unique documentary music film that **unveils the untold story of bird poaching** in Southeast Asia.\n\nThe film captures the journey tropical birds make from forest to cage, revealing how forests are emptied on a massive scale, threatening more than 1,500 bird species with extinction. **Yet, almost nobody knows about it.**\n\n‍\n\nThe full film can be watched for free on [Waterbear Network](https://www.waterbear.com/watch/broken-wings).\n\n‍",
+        "credits": [
+          {
+            "role": "Directors & writers",
+            "name": "Jorik Dozy & Sil van der Woerd"
+          },
+          {
+            "role": "Producer",
+            "name": "Alea Rahim"
+          },
+          {
+            "role": "Cinematographer",
+            "name": "Nicholas Chin"
+          }
+        ],
+        "fullCredits": "### Film Directors & Editors\n\nJorik Dozy & Sil van der Woerd\n\n### Production Company\n\nStudio Birthplace\n\n### Executive Producer\n\nSean Lin\n\n### Producer\n\nAlea Rahim\n\n### Line Producer\n\nBayu Topan\n\n### Production Assistant & Researcher\n\nTheresa Cellona\n\n### Production Assistant\n\nMarsya Mohd Johari\n\n‍\n\n### Director of Photography\n\nNicholas Chin\n\n### 1st AC\n\nSandra Cheah\n\n### 2nd AC\n\nSkaiste Kazragyte\n\n‍\n\n### Campaign Advisor &<br>Photographer\n\nPaul Hilton\n\n‍\n\n### Singapore Researchers\n\nDaniaal Adam\n\nYap Suat Honk\n\n‍\n\n### Sound Designer\n\nJoe Wills\n\n### Grade\n\nNo. 8 London\n\n### Colourist & Visual Effects\n\nAlex Gregory\n\nDylanne Powell\n\n‍\n\n### NGO Partner\n\nThrive Conservation\n\n### With Thanks to\n\nM3 Films\n\n‍\n\n### Piano\n\nLudovico Einaudi\n\n### Violin\n\nFederico Mecozzi\n\n### Cello\n\nRedi Hasa\n\n### Ponderosa Music\n\nTitti Santini\n\nStefania Nepi\n\nStefano Chiabrando\n\nPiero Tudisco\n\n‍",
+        "creditsNote": "“Low Mist” (Ludovico Einaudi) Courtesy of Ponderosa Music Records & Universal Music Group © Chester Music Ltd WATERBEAR NETWORK 2023",
+        "press": [
+          {
+            "label": "Advanced Televison",
+            "href": "https://advanced-television.com/2023/05/15/ludovico-einaudi-launches-new-film-to-tackle-biodiversity/"
+          },
+          {
+            "label": "Corriere Della Sera TV",
+            "href": "https://video.corriere.it/spettacoli/ludovico-einaudi-presenta-broken-wings-cortometraggio-contro-bracconaggio-uccelli/445154b4-f09f-11ed-a7ab-be01d764a27b"
+          },
+          {
+            "label": "David Reviews",
+            "href": "https://davidreviews.com/Story.asp?StoryTypeID=1&StoryNo=18&StoryID=4384"
+          },
+          {
+            "label": "Fan Carpet",
+            "href": "https://www.thefancarpet.com/movie_news/classical-music-tackles-biodiversity-as-renowned-musician-ludovico-einaudi-presents-broken-wings-on-the-waterbear-network/"
+          },
+          {
+            "label": "Little Black Book",
+            "href": "https://www.lbbonline.com/news/film-from-waterbear-highlights-devastating-effects-of-bird-poaching/"
+          },
+          {
+            "label": "Nowness Asia",
+            "href": "https://www.nowness.asia/picks/broken-wings"
+          },
+          {
+            "label": "TV Real",
+            "href": "https://worldscreen.com/tvreal/waterbear-teams-with-classical-artist-ludovico-einaudi/"
+          },
+          {
+            "label": "World Animal News",
+            "href": "https://worldanimalnews.com/world-renowned-composer-ludovico-einaudi-highlights-bird-crisis-in-new-music-film-broken-wings/"
+          }
+        ],
+        "logo": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/648f9fa6aeeeb6d045d51011_WaterBear.white.webp",
+          "alt": "",
+          "href": "https://www.waterbear.com/"
+        },
+        "creditsLabel": "View Full Credits",
+        "pressLabel": "View Media Features"
+      }
+    },
+    {
+      "id": "film-2",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "6UWA-D7RbJA",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/660085b620ce314b474208a2_BrokenWings.VideoCover.jpg",
+          "ratio": "2.39:1"
+        }
+      }
+    },
+    {
+      "id": "cta-3",
+      "type": "cta",
+      "content": {
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65b81dff7363d638ee73f149_BrokenWings_act.webp",
+          "alt": ""
+        },
+        "heading": "Get Involved",
+        "text": "Together with our partners, we are raising funds to protect birds in Indonesia, a country with more globally threatened bird species than anywhere else in the world.",
+        "button": {
+          "label": "Act to Protect Birds",
+          "href": "https://thriveconservation.org/brokenwings/"
+        }
+      }
+    },
+    {
+      "id": "stats-4",
+      "type": "stats",
+      "content": {
+        "title": "Impact",
+        "items": [
+          {
+            "number": "1.8m",
+            "label": "Views across platforms"
+          },
+          {
+            "number": "$12k",
+            "label": "Raised for non-profit"
+          },
+          {
+            "number": "7",
+            "label": "International Awards"
+          },
+          {
+            "number": "38+",
+            "label": "Film Festival Appearances"
+          }
+        ]
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "text-5",
+      "type": "text",
+      "content": {
+        "heading": "Birds in Crisis",
+        "body": "**Globally, 49% of bird species are declining, one in eight are threatened with extinction.​**\n\n‍\n\nYou might have never thought about it, but where does your pet bird come from? Bird poaching is a global problem that has devastating consequences for ecosystems and biodiversity. Southeast Asia is home to over one fifth of global bird species. This richness has brought about large-scale wildlife trafficking throughout the region to fulfill demand for the pet trade.\n\n‍\n\nIn an effort to raise awareness on this critical issue, nature focused WaterBear Network and Studio Birthplace teamed up with renowned composer Ludovico Einaudi to tell this story."
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "quote-6",
+      "type": "quote",
+      "content": {
+        "quote": "\"A wild bird in a cage isn't cute or fun, it's a symbol of robbed freedom, suffering, torn families and destruction of ecosystems.\" Directors Jorik Dozy & Sil van der Woerd",
+        "cite": "Directors Jorik Dozy & Sil van der Woerd"
+      },
+      "padBottom": "4-5"
+    },
+    {
+      "id": "campaign-7",
+      "type": "campaign",
+      "content": {
+        "heading": "The Campaign",
+        "text": "Veteran conservation photojournalist Paul Hilton first brought the issue of bird poaching to the attention of the team at Studio Birthplace while they were filming a documentary in SouthEast Asia. Paul, whose striking images captured the immense suffering caused by the bird trade, is one of the leading voices raising awareness for the cause.\n\nTogether with the release of the film, a social media campaign was launched with critical data facts and other important information about the trade to further educate the audience.",
+        "press": [
+          {
+            "label": "Advanced Televison",
+            "href": "https://advanced-television.com/2023/05/15/ludovico-einaudi-launches-new-film-to-tackle-biodiversity/"
+          },
+          {
+            "label": "Corriere Della Sera TV",
+            "href": "https://video.corriere.it/spettacoli/ludovico-einaudi-presenta-broken-wings-cortometraggio-contro-bracconaggio-uccelli/445154b4-f09f-11ed-a7ab-be01d764a27b"
+          },
+          {
+            "label": "David Reviews",
+            "href": "https://davidreviews.com/Story.asp?StoryTypeID=1&StoryNo=18&StoryID=4384"
+          },
+          {
+            "label": "Fan Carpet",
+            "href": "https://www.thefancarpet.com/movie_news/classical-music-tackles-biodiversity-as-renowned-musician-ludovico-einaudi-presents-broken-wings-on-the-waterbear-network/"
+          },
+          {
+            "label": "Little Black Book",
+            "href": "https://www.lbbonline.com/news/film-from-waterbear-highlights-devastating-effects-of-bird-poaching/"
+          },
+          {
+            "label": "Nowness Asia",
+            "href": "https://www.nowness.asia/picks/broken-wings"
+          },
+          {
+            "label": "TV Real",
+            "href": "https://worldscreen.com/tvreal/waterbear-teams-with-classical-artist-ludovico-einaudi/"
+          },
+          {
+            "label": "World Animal News",
+            "href": "https://worldanimalnews.com/world-renowned-composer-ludovico-einaudi-highlights-bird-crisis-in-new-music-film-broken-wings/"
+          }
+        ],
+        "pressLabel": "View Media Features",
+        "link": {
+          "label": "Waterbear Landing Page",
+          "href": "https://www.waterbear.com/campaigns/set-the-birds-free"
+        }
+      }
+    },
+    {
+      "id": "gallery-8",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6607bcd1b743df5125ec871f_Stories.01.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6607bcd2af7f72c2d5f0b095_Stories.02.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6607bcd2f8fc9b2b45ad1099_Stories.03.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6607bcd193f055261b9f24c6_Stories.04.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65c47d73f14a7f05540731aa_Stories.05.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65c5bbd8341852ed8ad3ffc2_Stories.06.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65c5bbd8a01a14b103c4ecab_Stories.07.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65c5bbd833cc00bc57070a28_Stories.08.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "image": "story"
+      },
+      "overrideReasons": {
+        "image": "as on the live site (phase 1)"
+      },
+      "padBottom": "4-375"
+    },
+    {
+      "id": "posters-9",
+      "type": "posters",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65c480709fac9ecd19ecc0c0_PaulHilton.02.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65c48797315e98aa84363911_PaulHilton.01.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "layout": "poster-still"
+      },
+      "overrideReasons": {
+        "layout": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "cta-10",
+      "type": "cta",
+      "content": {
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66017222218b066354781b05_BrokenWings.ReportThumbnail.jpg",
+          "alt": ""
+        },
+        "heading": "The Report",
+        "text": "The pre-export mortality rate of wild birds in the trade is up to 90%. Every year, millions of wild birds are taken from their natural habitat and forced to spend the rest of their lives in cages.\n\nTo comprehend the vastness of the poaching industry in Southeast Asia, Thrive Conservation compiled a detailed report for the campaign on it's current state.",
+        "button": {
+          "label": "Read Full Report",
+          "href": "https://thriveconservation.org/wp-content/uploads/2023/05/Broken-Wings-Report-2023_FINAL.pdf"
+        }
+      },
+      "overrides": {
+        "size": "big"
+      },
+      "overrideReasons": {
+        "size": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "text-11",
+      "type": "text",
+      "content": {
+        "heading": "Ludovico Einaudi",
+        "body": "Being one of the most ubiquitous contemporary composers of the century and the highest-streamed classical pianist of all time, Ludovico Einaudi previously brought attention to the protection of the Arctic Ocean. Now, Einaudi shares his platform to bring attention to the issue of wild bird trafficking."
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "quote-12",
+      "type": "quote",
+      "content": {
+        "quote": "\"Music has the ability to transcend language barriers and connect with people on a deep emotional level, raising awareness on important issues and having a positive impact on the world. With nearly half of the world's wild bird species in decline, and one in eight at risk of extinction, we must stop the trafficking of wild birds. Let's leave them free, let's keep them out of cages.\"",
+        "cite": "Ludovico Einaudi"
+      },
+      "padBottom": "4-5"
+    },
+    {
+      "id": "posters-13",
+      "type": "posters",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65b82678a9b9a80b280378a6_Poster.webp",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65b8267875da001eaf0838c7_Poster2.webp",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "layout": "poster-still-double"
+      },
+      "overrideReasons": {
+        "layout": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "gallery-14",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65b964d720440c2a26da3677_BrokenWings.STILL_2.68.1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65b964d79e311d1c24947903_BrokenWings.STILL_2.75.1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65b964d74bc666d72c2d0dfc_BrokenWings.STILL_2.53.1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65b964d665450d7eb246d471_BrokenWings.STILL_2.37.1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65b964d6d7701712ff626d26_BrokenWings.STILL_2.34.1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65b964d6ae04f064201be6e7_BrokenWings.STILL_2.62.1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65b964d6b64808f89eeaac01_BrokenWings.STILL_2.33.3.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65b964d634f31ab85a4d8085_BrokenWings.STILL_2.22.2.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "image": "stills"
+      },
+      "overrideReasons": {
+        "image": "as on the live site (phase 1)"
+      },
+      "padBottom": "4-375"
+    },
+    {
+      "id": "text-15",
+      "type": "text",
+      "content": {
+        "heading": "Production",
+        "body": "The team at Studio Birthplace, helmed by directors Jorik Dozy and Sil van der Woerd, set out to capture the story of what a single bird experiences from being captured in the wild, to ending up in a cage as a pet bird. The team conducted extensive on-the-ground research to reveal the shocking methods used to capture and transport birds. To tell the story as accurately as possible, the team followed a real bird poacher for several days and filmed in three wildlife markets.\n\n‍\n\nBroken Wings was filmed over a period of 7 days. Using only natural light, cinematographer Nicholas Chin braved the challenges of filming in a rainforest during monsoon season to capture stunning footage of the bird trade in action.The birds that were poached while filming were released back into the wild at the end of the shoot."
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-16",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65b8330d26e216df6ceb446a_BrokenWings.BTS.02.webp",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6607c2d5eaadd16a59f3e3df_BrokenWings.BTS.v2.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6607c2d5094a6c4d5d892e2f_BrokenWings.BTS.v4.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65b8330d6521b1f787f91745_BrokenWings.BTS.06.webp",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6607c2d5903649268148caea_BrokenWings.BTS.v3.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6607c2d3094a6c4d5d892c8d_BrokenWings.BTS.v5.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65b8330d2da8a2439d1a51ef_BrokenWings.BTS.04.webp",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65b8330d2da8a2439d1a51f7_BrokenWings.BTS.11.webp",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6607c2d3af7f72c2d5f5dc90_BrokenWings.BTS.v6.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65b8330f506a47e6b6bc1bba_BrokenWings.BTS.05.webp",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "align": "center"
+      },
+      "overrideReasons": {
+        "align": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "more-work",
+      "type": "more-work",
+      "content": {
+        "button": {
+          "label": "View More Work",
+          "href": "/work"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "slug": "hutan",
+  "title": "Hutan",
+  "description": "Through the hands of Hutan’s Indigenous Orang Sungai women, a damaged rainforest begins to find balance again. This film reveals a story of restoration, care and the quiet power of those working to protect one of the planet's richest ecosystems we have left.",
+  "family": "fluid",
+  "background": "black",
+  "client": "Hutan",
+  "inGrid": true,
+  "stripes": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "content": {
+        "eyebrow": "Our Work",
+        "client": "Hutan",
+        "title": "The Forest in Her Hands",
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6aa8f2379eb5eb831184131f_Hutan.Cover.jpg",
+          "alt": ""
+        }
+      }
+    },
+    {
+      "id": "details",
+      "type": "project-details",
+      "content": {
+        "eyebrow": "ABOUT THE PROJECT",
+        "about": "## Through the hands of Hutan’s Indigenous Orang Sungai women, **fragmented forests begin to find balance again.**\n\n*The Forest in Her Hands* reveals a story of restoration, care and the quiet power of those working to **protect one of the planet's richest ecosystems we have left.**",
+        "credits": [
+          {
+            "role": "Director",
+            "name": "Jorik Dozy"
+          },
+          {
+            "role": "Executive Producer",
+            "name": "Alea Rahim"
+          },
+          {
+            "role": "Cinematographer",
+            "name": "Jakub Chlouba"
+          }
+        ],
+        "fullCredits": "### Production Company\n\nStudio Birthplace\n\n### Film Director\n\nJorik Dozy\n\n### Executive Producer\n\nAlea Rahim\n\n### Producer\n\nSara Kong\n\n### Borneo Fixers\n\nCede Prudente \n\nCarol Kathy\n\nRieko\n\n### Director of Photography\n\nJakub Chlouba\n\n### 1st Assistant Camera\n\nSandra Cai En\n\n### 2nd Assistant Camera\n\nKiefer Daniel Yu\n\n### Equipment Support\n\n2117 Rentals\n\n### Colourist\n\nJorik Dozy\n\n### Music Composer\n\nElijah Siegler\n\n### Sound Designer\n\nJoe Wills\n\n### Translations\n\nSarah Lois Dorai\n\n### Hutan Team\n\nKesha Menon Jayadeep\n\n‍\n\n### Talents\n\nAdnan Adam\n\nAhmad \n\nAzman\n\nAzrimah Binti Aslee\n\nEddie\n\nChristine\n\nHamsiah\n\nHaslina\n\nJubaidah\n\nJumatiah\n\nMahala\n\nMahavarah\n\nMardiana\n\nMariana\n\nMaslindah\n\nMasni\n\nMasrita\n\nMisliha Binti Osop \n\nMuhawarah\n\nNorinah\n\nNorisah\n\nRatnah\n\nRahmadi Mahdi \n\nRubianah \n\nShuzairey\n\nSiti Nor Afiqah \n\nSiti Sauda \n\nSelamat\n\nYasir\n\nZuzayrey\n\n‍\n\n### Thanks to\n\n2117 Rentals\n\nMarina Bay Sands\n\nMother Nature",
+        "creditsNote": "",
+        "press": [],
+        "logo": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6aae88b46d44e135e2505acd_Hutan.logo.png",
+          "alt": "",
+          "href": "https://hutan.earth/"
+        },
+        "creditsLabel": "View Full Credits",
+        "pressLabel": "View Media Features"
+      }
+    },
+    {
+      "id": "film-2",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "vdO9cna71Ms",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6aa8f682a6c3703be6e70679_Hutan.stills.08..jpg",
+          "ratio": "2:1"
+        }
+      },
+      "overrides": {
+        "phoneBox": "inline"
+      },
+      "overrideReasons": {
+        "phoneBox": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "text-3",
+      "type": "text",
+      "content": {
+        "heading": "Wildlife Corridors",
+        "body": "Along the Kinabatangan River in Malaysian Borneo, Hutan's Indigenous women are helping a rainforest return.\n\n‍\n\nFrom thousands of young trees growing in Hutan’s nursery to seedlings planted within essential wildlife corridors, their work is part of a long-term effort to reconnect a landscape shaped by decades of human pressure.\n\n‍\n\nFrom its beginnings as an orangutan research project, Hutan works to protect threatened wildlife and restore the habitats they depend on. Combining decades of scientific research with community-led conservation, Hutan is working toward a future in which people and wildlife can continue to coexist within one of Borneo’s most extraordinary landscapes, a habitat vital to the Earth's biodiversity."
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-4",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6aa8f3cdcdac8d10287e9421_Hutan.videoCover.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6aa8f6830a8d75e488da9cd4_Hutan.stills.07..jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6aa8f68260d0fc55d5878421_Hutan.stills.06..jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6aa8f6837f6ea9d1acc3f53b_Hutan.stills.02..jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6aa8f682ad74b0bd71f1c7c8_Hutan.stills.01..jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6aa8f6824d584ff9f661ebe6_Hutan.stills.04..jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6aa8f6823806ce2302d9b80c_Hutan.stills.03..jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "image": "stills"
+      },
+      "overrideReasons": {
+        "image": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "more-work",
+      "type": "more-work",
+      "content": {
+        "button": {
+          "label": "View More Work",
+          "href": "/work"
+        }
+      }
+    }
+  ]
+}

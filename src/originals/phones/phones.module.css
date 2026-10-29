@@ -1,0 +1,63 @@
+/* Live: .fl-projects-phones-section(.cc-totalpollution), .fl-phones-track, .fl-phone,
+   .fl-phone-scroll-track, .fl-phone-screenshot, .fl-phone-frame */
+
+.section {
+  position: relative;
+  padding-block: 3.5em;
+}
+
+/* Total Pollution's version sits on a darkened photo (another photo at ≥1920). */
+.withBg {
+  background-image: linear-gradient(var(--overlay-black-50), var(--overlay-black-50)), var(--bg);
+  background-position: 0 0, 50%;
+  background-repeat: repeat, no-repeat;
+  background-size: auto, cover;
+}
+
+.track {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  gap: 3.125em;
+}
+
+.phone {
+  position: relative;
+  width: 15.375em;
+  height: 30.4375em;
+}
+
+.scrollTrack {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  width: 15.3125em;
+  height: 31.1875em;
+  padding: 0.6em 0.2em;
+  border-radius: 3.1em;
+}
+
+.screen {
+  width: 15.4em;
+}
+
+.frame {
+  position: absolute;
+  width: 100%;
+}
+
+@media (min-width: 1920px) {
+  .withBg {
+    background-image: linear-gradient(var(--color-transparent), var(--color-transparent)), var(--bg-xxl);
+  }
+}
+
+@media (max-width: 991px) {
+  .withBg {
+    overflow: hidden;
+  }
+
+  .phone {
+    flex: none;
+  }
+}

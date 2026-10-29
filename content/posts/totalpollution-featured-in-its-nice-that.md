@@ -22,7 +22,7 @@ Who can forget *Wasteminster*? In easily one of the most memorable campaigns of 
 
 Now, Greenpeace France has released the next instalment with Studio Birthplace and Park Village, flooding a rugby match with crude oil.
 
-‍  
+‍<br>
 
 <figure class="w-richtext-align-fullwidth w-richtext-figure-type-image"><div><img loading="lazy" alt="" src="https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/65d5c0a00f0a0dd302eeed34_Content.TotalPollution.ItsNiceThat.jpg"></div></figure>
 

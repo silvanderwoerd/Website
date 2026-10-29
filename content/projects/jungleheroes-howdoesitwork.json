@@ -1,0 +1,158 @@
+{
+  "slug": "jungleheroes-howdoesitwork",
+  "title": "Jungle Heroes - How Does It Work",
+  "description": "Jungle Heroes donates a portion of its revenue to certified organisations that restore ecosystems in the real world.‍ The game aims to support as many reforestation efforts as possible.",
+  "family": "fluid",
+  "background": "black",
+  "client": "Jungle Heroes",
+  "inGrid": false,
+  "stripes": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "content": {
+        "eyebrow": "Our Work",
+        "client": "Jungle Heroes",
+        "title": "How Does It Work?",
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66ded39eea531bb4a0db535e_2021_03_09_Screenshot%202021-03-09%20at%2020.51.02.jpg",
+          "alt": ""
+        }
+      }
+    },
+    {
+      "id": "text-1",
+      "type": "text",
+      "content": {
+        "heading": "Planting Trees",
+        "body": "Whenever you buy suns, coins or other items in the game with real money, this creates revenue. Jungle Heroes donates a portion of this revenue to certified organisations that restore ecosystems in the real world. The % that is being donated is variable and balanced with reinvestments in new content for the game. Jungle Heroes aims to plant as many trees as possible.\n\n‍"
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-2",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66ded3e31882f6d64ec332b2_2020_10_21_Coco_Orang_Bayu.png",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66ded3e31882f6d64ec332c5_2020_10_21_Splash_Dinda_Auntie.png",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66ded3e56366d8a39c98b266_2020_10_13_Maraja_ForestPeople_Stripes.png",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "align": "center"
+      },
+      "overrideReasons": {
+        "align": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "text-3",
+      "type": "text",
+      "content": {
+        "heading": "Current Projects",
+        "body": "Jungle Heroes started with two projects: One that expands the vulnerable and threatened Indonesian rainforest, home to the Orangutan. And one that restores some of the more than 90% of destroyed original forests of Madagascar.\n\n‍"
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "text-4",
+      "type": "text",
+      "content": {
+        "heading": "Indonesia",
+        "body": "#### **Planting Trees in Sumatra's Leuser Ecosystem**\n\n‍\n\n##### [Oranguan Information Center (OIC)](https://orangutancentre.org/)\n\nEstablished in 2001\n\nRescued over 180 orangutans\n\nPlanted over 2.2 million seedlings\n\nRestored 2.000+ Ha of forest\n\n‍\n\nOIC created a reforesting project specifically for Jungle Heroes.\n\nThe to-be-planted area is located on the edge of the Leuser Ecosystem; the only place on earth where the orangutan, rhinoceros, Sumatran elephant and Sumatran tiger still live together.\n\n‍<br>We started with 1Ha of land, which plants about 1,100 trees. More land will be added soon.\n\n‍<br>The trees that are planted are a good mix of rainforest trees and fruit trees, meaning there will be plenty of food for the animals that return.\n\n​\n\n##### [Sumatran Orangutan Society (S.O.S.)](https://www.orangutans-sos.org)\n\nS.O.S. supports high-impact frontline projects and delivers hard-hitting campaigns, which together secure a brighter future for Sumatra’s orangutans, forests and people.\n\n​\n\nOIC & S.O.S. share updates about this joint project in the newsfeed in the game."
+      },
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-5",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6621f3c241043d1d15cfe46c_Saving_Orangutans_02.JPG",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6621f3c02f3a2345204e2411_Pemeliharaan%20Bibit%20(1).JPG",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6621f3bd425e124cf27a7999_FeedingPlat142.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6621f3c02f3a2345204e23bb_Perawata%20Bibit%20(2).JPG",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "align": "center"
+      },
+      "overrideReasons": {
+        "align": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "text-6",
+      "type": "text",
+      "content": {
+        "heading": "Madagascar",
+        "body": "#### **Planting Trees With Eden Projects & Tree-Nation**\n\n‍\n\n##### [Eden Projects](https://tree-nation.com/projects/eden-reforestation-madagascar/about#header)\n\nEstablished in 2004\n\nOperates in 8 countries\n\nPlanted over 347 million trees in Madagascar\n\nCreated over 3 million work days in Madagascar\n\n‍\n\nFamous for its unique biodiversity and lush forests, Madagascar has some of the rarest animal and plant species on the planet. Tragically, more than 90% of Madagascar’s original forests have been destroyed.\n\n‍\n\nEden Projects launched its Madagascar project sites in 2007 by restoring ecologically devastated mangrove estuaries in the northwest of the country. Mangrove forests are essential ecosystems whose dense roots serve as an anchor for the soil and coastline preventing erosion and creating a barrier between harsh ocean systems and land. Eden Projects partners include two National Park systems, which aim to reforest and revive natural habitat for endangered and endemic animal species.\n\n​\n\n##### [Tree-Nation](https://tree-nation.com)\n\nTree-Nation gathers and coordinates reforestation efforts worldwide in a unique platform, enabling every citizen, company and planter to take action. Tree-Nation is a home to 255 planting projects from 33 differents countries. These projects use Tree-Nation to share their stories and get help in their journey to reforest the world.​\n\n‍\n\nEden Projects & Tree-Nation share updates about this project in the newsfeed in the game.\n\n‍"
+      },
+      "padTop": "4-5"
+    },
+    {
+      "id": "gallery-7",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6621f3c2b59f8dc0e6b2550a_Madagascar_02.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6621f3c0e34572af4b131e30_Madagascar_04.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6621f3bccec3ea790f57c6a5_Madagascar_01.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6621f3c0a070b7b7102a83d3_Madagascar_03.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "align": "center"
+      },
+      "overrideReasons": {
+        "align": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "more-work",
+      "type": "more-work",
+      "content": {
+        "button": {
+          "label": "View More Work",
+          "href": "/work"
+        }
+      }
+    }
+  ]
+}

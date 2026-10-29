@@ -1,0 +1,156 @@
+/* Live: .fl-section-project-details, _container, .fl-project-details_layout,
+   _about-wrapper, .fl-project-details-rich-text, _credits-title, _credits-paragraph,
+   .credits-rich-text, the media-features rich text. */
+
+.section {
+  padding-block: 5.5em;
+}
+
+.container {
+  width: 100%;
+  max-width: 71.125em;
+  margin-inline: auto;
+}
+
+.eyebrow {
+  color: var(--color-white);
+}
+
+.space2875 {
+  height: 2.875em;
+}
+
+.space25 {
+  height: 1.5em;
+}
+
+.space2 {
+  height: 1.5em;
+}
+
+.space1 {
+  height: 1em;
+}
+
+.layout {
+  display: flex;
+  gap: 8.5625em;
+}
+
+.about {
+  flex: none;
+  width: 37em;
+}
+
+.aboutText h2 {
+  margin-bottom: 1.3em;
+  font-size: 2.34375em;
+  font-weight: 300;
+  line-height: 1.28;
+}
+
+.aboutText strong {
+  font-weight: 900;
+}
+
+.aboutText p {
+  font-size: 1.3em;
+  font-weight: 300;
+}
+
+.aboutText a {
+  color: var(--color-white);
+  text-decoration: underline;
+}
+
+.creditTitle {
+  color: var(--color-white);
+}
+
+.creditName {
+  color: var(--color-white);
+}
+
+/* Modal content */
+.modalTitle {
+  margin: 0;
+  color: var(--color-white);
+  text-align: center;
+}
+
+.credits {
+  width: 50%;
+  margin-left: auto;
+}
+
+.credits h3 {
+  position: absolute;
+  right: 52%;
+  margin-bottom: 0;
+  color: var(--color-text-muted);
+  font-size: 0.9375em;
+  font-weight: 300;
+  line-height: 1.6;
+  text-align: right;
+}
+
+.credits p {
+  margin-bottom: 0.2em;
+  color: var(--color-white);
+  font-size: 0.9375em;
+  font-weight: 700;
+}
+
+.note {
+  text-align: center;
+}
+
+.press {
+  color: var(--color-white);
+  text-align: center;
+}
+
+@media (min-width: 1920px) {
+  .creditName {
+    color: var(--color-text-muted);
+  }
+
+  .space25 {
+    height: 2em;
+  }
+}
+
+@media (max-width: 991px) {
+  .container {
+    width: 90%;
+  }
+
+  .layout {
+    flex-direction: column;
+  }
+
+  .about {
+    width: auto;
+  }
+}
+
+/* The client's logo (.fl-project_waterbear-logo in a link), after a 3.5em gap. */
+.space35 {
+  height: 3.5em;
+}
+
+.logoLink {
+  display: inline-block;
+  max-width: 100%;
+}
+
+.logo {
+  width: 11.875em;
+}
+
+@media (min-width: 1920px) {
+  .logo {
+    width: 10em;
+    max-height: none;
+  }
+}

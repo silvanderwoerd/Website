@@ -1,0 +1,67 @@
+/* Live: .fl-split-small-section, .fl-split-medium-container, .fl-split-small-layout,
+   .fl-project_text-large.u-no-wrap.tricks, .fl-split-small-rich-text(-dark-bg). */
+
+.section {
+  position: relative;
+}
+
+.container {
+  position: relative;
+  width: 100%;
+  max-width: 50em;
+  margin-inline: auto;
+}
+
+.layout {
+  display: flex;
+  gap: 3.75em;
+}
+
+.heading {
+  margin: 0;
+  color: var(--color-white);
+  white-space: nowrap;
+}
+
+.body p,
+.bodyDark p {
+  font-weight: 300;
+}
+
+.body strong,
+.bodyDark strong {
+  color: var(--color-white);
+  font-weight: 300;
+}
+
+.body a,
+.bodyDark a {
+  color: var(--color-white);
+  text-decoration: underline;
+}
+
+.bodyDark p {
+  color: var(--color-text-muted);
+}
+
+@media (min-width: 1920px) {
+  .bodyDark p {
+    color: var(--color-white);
+  }
+}
+
+@media (max-width: 991px) {
+  .container {
+    width: 90%;
+  }
+
+  .layout {
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 479px) {
+  .container {
+    width: 100%;
+  }
+}

@@ -1,0 +1,656 @@
+{
+  "slug": "woolmark",
+  "title": "Woolmark",
+  "description": "Every 25 minutes an olympic pool's worth of crude oil is used to produce our synthetic clothing. Studio Birthplace teamed up with Woolmark to create an extensive, worldwide, multi-facetted campaign to educate the public about the hidden impact of synthetic fabrics on the environment and expose the fact that most of our clothes are made of oil.",
+  "family": "fluid",
+  "background": "black",
+  "client": "Woolmark",
+  "inGrid": true,
+  "stripes": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "content": {
+        "eyebrow": "Our Work",
+        "client": "Woolmark",
+        "title": "Wear Wool, Not Fossil Fuel",
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65c8b94300010f798a59c10e_Cover.Image.jpg",
+          "alt": ""
+        }
+      }
+    },
+    {
+      "id": "details",
+      "type": "project-details",
+      "content": {
+        "eyebrow": "ABOUT THE PROJECT",
+        "about": "## Every **25 minutes an olympic pool's worth of crude oil** is used to produce our synthetic clothing.\n\nStudio Birthplace teamed up with Woolmark to create an extensive, worldwide, multi-facetted campaign to educate the public about the hidden impact of synthetic fabrics on the environment and expose the fact that most of our clothes are made of oil.",
+        "credits": [
+          {
+            "role": "Directors & writers",
+            "name": "Jorik Dozy & Sil van der Woerd"
+          },
+          {
+            "role": "Producer",
+            "name": "Lauren Havard"
+          },
+          {
+            "role": "VFX Supervisor",
+            "name": "Tim Smit"
+          }
+        ],
+        "fullCredits": "### Client\n\nThe Woolmark Company\n\n### Production Company\n\nPark Village\n\n### Creative Company\n\n20something\n\n### Creatives / Film Directors\n\nJorik Dozy & Sil van der Woerd, Studio Birthplace\n\n### Creative Director\n\nWill Thacker\n\n### Executive Producer\n\nAdam Booth\n\n### Creative / Copywriter\n\nElliott Starr\n\n### Strategy Partner\n\nFran Docx\n\n### Business Lead\n\nAnisha Obeng\n\n### Account Manager\n\nAmy Greasby\n\n### Film & Stills Producer\n\nLauren Havard\n\n‍\n\n### Service Company\n\nSilver Lining Pictures SA\n\n### Service Provider\n\nRenier Ridgeway\n\n### Production Manager\n\nCourtney Rabie\n\n### Production Coordinator\n\nDylanne Powell\n\n### Production Chaperone\n\nJoubert Thorold\n\n### Client & Agency Chap\n\nAllan Maritz\n\n### Production PA\n\nLiebschen Saal\n\n### Assistant Director\n\nWestley Durand\n\n### Director Of Photography\n\nLennert Hillege\n\n### Focus Puller\n\nMiche Britz\n\n### 1st AC (Pre-light Only)\n\nAlex Ortscheit\n\n### Loader\n\nAdriaan Madikisa\n\n### DIT\n\nJason Bendemann\n\n### VTO\n\nThando Ntombela\n\n### VTO Assistant\n\nTshidiso Makhoba\n\n### Gaffer\n\nGrant Forbes\n\n### Best Boy Lights\n\nRichard Mello\n\n### Spark\n\nSiegfried Krull\n\n### Dimmer Technician\n\nGideon Naude\n\n### Key Grip\n\nNkutalo Ngcwabe\n\n### Best Boy Grip\n\nJohnson Ngubili\n\n### Techno Crane Op\n\nRyan Ballard\n\n### Libra Head Operator\n\nKeith Saayman\n\n### Rigging Grip\n\nJohnny Steenkamp\n\nKyle Reade\n\n### VFX Supervisor\n\nTim Smit\n\n### SFX\n\nMax Poolman, MXFX\n\n### SFX Coordinator\n\nStefanie Walzl\n\n### SFX Floor Supervisor\n\nJabulani Zwane\n\n### SFX Technician\n\nRichard Ngwane\n\nArchiford Makarutse\n\nSamuel Murombo\n\n### Designers\n\nRory Stiff\n\nCasey Highfield\n\n### Production Designer\n\nArlene Wentzel\n\n### Art Assistant\n\nMichelle Koch\n\n### Standby Art\n\nCarl Hatting\n\n### Standby Assist\n\nEddy Sungu\n\n### Wardrobe Designer\n\nLewis Munro\n\n### Stylist\n\nKristi Vlok\n\n### Wardrobe Mistress\n\nKaren Ter Morshuizen\n\n### Hair & Make-Up\n\nMichelle Lee Collins\n\n### Hair & Make-Up Assistant\n\nKeagan Cafun\n\n### Unit/Location Manager\n\nErik Haraldsen\n\n### Unit/Locations Assistant\n\nXolani Pohlwana\n\n### Safety Officer\n\nMick Milligan\n\n### Medic/ Covid Officer\n\nDarryn Whittington\n\n### Covid Testing Nurse\n\nJohn Stevens\n\n### ECO Ninja\n\nAubrey Guza\n\n### Security\n\nX2\n\n### 3D-OOH Design\n\nLewis MunroDirector Samuel Guillotel, 3Dsomething\n\n‍\n\n### Post Production Company\n\nDead Pixel\n\n### Grade\n\nNo 8 London\n\n### Colourist\n\nAlex Gregory\n\n### Audio & Music Production\n\nAmbit Sound\n\n### Photographer\n\nDirk Rees\n\n### Stills Assistant\n\nSteph Venter\n\n### Media Agency\n\nCraft/PMG\n\n### Media Planner\n\nSam Fowler/ Alistair Hornsby",
+        "creditsNote": "THE WOOLMARK COMPANY 2022",
+        "press": [
+          {
+            "label": "ABC",
+            "href": "https://www.abc.net.au/news/rural/2022-09-05/new-australian-wool-innovation-ad-fossil-fuel/101406064"
+          },
+          {
+            "label": "Ad News",
+            "href": "https://www.adnews.com.au/campaigns/the-woolmark-company-s-wear-wool-not-fossil-fuel-via-20something"
+          },
+          {
+            "label": "Ads Of Brands",
+            "href": "https://adsofbrands.net/en/news/the-woolmark-company-addresses-dangers-of-synthetic-fabrics-in-a-striking-new-global-campaign/3533"
+          },
+          {
+            "label": "Ads Of The World",
+            "href": "https://www.adsoftheworld.com/campaigns/wear-wool-not-fossil-fuel"
+          },
+          {
+            "label": "Adweek",
+            "href": "https://www.adweek.com/creativity/this-striking-campaign-exposes-the-hidden-environmental-danger-of-our-clothes/"
+          },
+          {
+            "label": "Campaign",
+            "href": "https://www.campaignlive.co.uk/article/woolmark-company-wear-wool-not-fossil-fuel-20something/1797926"
+          },
+          {
+            "label": "Creative Review",
+            "href": "https://www.creativereview.co.uk/woolmark-synthetic-fabrics-bold-new-ad/"
+          },
+          {
+            "label": "Designboom",
+            "href": "https://www.designboom.com/design/the-woolmark-company-wear-wool-not-fossil-fuel-global-campaign-09-07-2022/"
+          },
+          {
+            "label": "Design Taxi",
+            "href": "https://designtaxi.com/news/420251/Petroleum-Drenched-Models-Convey-The-Sticky-Mess-Of-Synthetic-Fuels-In-New-Ad/"
+          },
+          {
+            "label": "Fashion Network",
+            "href": "https://ww.fashionnetwork.com/news/Woolmark-company-focuses-on-natural-fibre-in-latest-promotional-push,1435908.html"
+          },
+          {
+            "label": "Fashion United",
+            "href": "https://fashionunited.in/news/fashion/woolmark-highlights-impact-of-synthetic-fibres-in-new-global-campaign/2022090636171"
+          },
+          {
+            "label": "Forbes",
+            "href": "https://www.forbes.com/sites/oliviapinnock/2022/09/05/woolmark-launches-global-anti-synthetic-textiles-campaign/"
+          },
+          {
+            "label": "Just Style",
+            "href": "https://www.just-style.com/news/industry-news/wool-campaign-highlights-dangers-of-synthetic-fibres/"
+          },
+          {
+            "label": "Little Black Book #1",
+            "href": "https://www.lbbonline.com/news/the-woolmark-companys-oil-drenched-campaign-addresses-dangers-of-synthetic-fabrics"
+          },
+          {
+            "label": "Little Black Book #2",
+            "href": "https://www.lbbonline.com/news/how-the-woolwork-company-drenched-people-in-oil-to-show-the-impact-of-synthetic-clothing"
+          },
+          {
+            "label": "Luerzers Archive",
+            "href": "https://www.luerzersarchive.com/en/spot-of-the-week/2022-36.html"
+          },
+          {
+            "label": "Media Shotz",
+            "href": "https://mediashotz.co.uk/shocking-woolmark-ad-exposes-climate-danger-of-synthetics/"
+          },
+          {
+            "label": "New Cloth Market",
+            "href": "https://www.newclothmarketonline.com/international-business-pages/woolmarks-new-global-brand-promotion-campaign-wear-wool-not-fossil-fuel/"
+          },
+          {
+            "label": "Roastbrief",
+            "href": "https://roastbrief.us/2022/09/the-woolmark-companys-oil-drenched-campaign-addresses-dangers-of-synthetic-fabrics/"
+          },
+          {
+            "label": "Shoot Online",
+            "href": "https://www.shootonline.com/video/top-spot-week-woolmark-company-20something-studio-birthplace-park-village-make-fashion"
+          },
+          {
+            "label": "Shots",
+            "href": "https://www.shots.net/news/view/the-woolmark-company-aims-to-turn-the-tide-on-synthetic-fast-fashion"
+          },
+          {
+            "label": "Stash Media",
+            "href": "https://www.stashmedia.tv/studio-birthplace-urge-you-to-wear-wool-not-fossil-fuel/"
+          },
+          {
+            "label": "Stock And Land",
+            "href": "https://www.stockandland.com.au/story/7889102/wool-hits-back-at-synthetic-fibres/?cs=28105"
+          },
+          {
+            "label": "The Drum",
+            "href": "https://www.thedrum.com/news/2022/09/05/ad-the-day-woolmark-s-oil-filled-swimming-pool-highlights-fashion-s-environmental"
+          },
+          {
+            "label": "The Industry Fashion",
+            "href": "https://www.theindustry.fashion/the-woolmark-company-launches-wear-wool-not-fossil-fuel-campaign/"
+          },
+          {
+            "label": "The National Tribune",
+            "href": "https://www.nationaltribune.com.au/wear-wool-not-fossil-fuel-dangers-of-synthetic-fibres-highlighted-in-striking-new-global-campaign/"
+          },
+          {
+            "label": "The Scot Free",
+            "href": "https://thescotfree.com/ausnz/wool-industrys-visceral-new-advertising-campaign-dresses-down-oil-heavy-synthetics/"
+          },
+          {
+            "label": "The Woolmark Company",
+            "href": "https://www.woolmark.com/wear-wool"
+          }
+        ],
+        "logo": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65cccd17d06c6c51c519c3bb_Woolmark%20logo-white.wide.png",
+          "alt": "",
+          "href": "https://woolmark.com"
+        },
+        "creditsLabel": "View Full Credits",
+        "pressLabel": "View Media Features"
+      }
+    },
+    {
+      "id": "film-2",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "5Y9-u24Av7k",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65ccc443757a9fd7e8303d2f_Cover.Image.video.jpg",
+          "ratio": "16:9"
+        }
+      }
+    },
+    {
+      "id": "stats-3",
+      "type": "stats",
+      "content": {
+        "title": "Impact",
+        "items": [
+          {
+            "number": "92m+",
+            "label": "Views Across Platforms"
+          },
+          {
+            "number": "200+",
+            "label": "International Media Features"
+          },
+          {
+            "number": "733m",
+            "label": "Total Campaign Reach"
+          },
+          {
+            "number": "10+",
+            "label": "International Awards"
+          }
+        ]
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "quote-4",
+      "type": "quote",
+      "content": {
+        "quote": "\"There is an urgent need for accountability and transformation within the fossil fuel industry to avoid the worst effects of climate breakdown - sponsoring major sporting events to greenwash their dirty business has to be stopped. In this film, we wanted to make visible the tremendous scale of our global crude oil production, and expose the extreme rate at which we are continuing to fuel our climate crisis. Together, let us stand against the exploitation of sports for corporate interests and advocate for a sustainable, livable future for all.\"",
+        "cite": "Directors Jorik Dozy & Sil van der Woerd"
+      },
+      "padBottom": "4-5"
+    },
+    {
+      "id": "campaign-5",
+      "type": "campaign",
+      "content": {
+        "heading": "The Campaign",
+        "text": "A full 360 campaign was created in collaboration with UK based production company Park Village and agency 20 Something. The campaign performed so well in the first 24 hours the client extended media to 5 new markets. The film was seen over 40 million times in the first month alone. Meanwhile, the broader campaign reached over 193 million people, receiving coverage from over 200 media outlets. What's more, post-campaign research revealed the work to be some of the strongest ever measured, in all major markets.",
+        "press": [
+          {
+            "label": "ABC",
+            "href": "https://www.abc.net.au/news/rural/2022-09-05/new-australian-wool-innovation-ad-fossil-fuel/101406064"
+          },
+          {
+            "label": "Ad News",
+            "href": "https://www.adnews.com.au/campaigns/the-woolmark-company-s-wear-wool-not-fossil-fuel-via-20something"
+          },
+          {
+            "label": "Ads Of Brands",
+            "href": "https://adsofbrands.net/en/news/the-woolmark-company-addresses-dangers-of-synthetic-fabrics-in-a-striking-new-global-campaign/3533"
+          },
+          {
+            "label": "Ads Of The World",
+            "href": "https://www.adsoftheworld.com/campaigns/wear-wool-not-fossil-fuel"
+          },
+          {
+            "label": "Adweek",
+            "href": "https://www.adweek.com/creativity/this-striking-campaign-exposes-the-hidden-environmental-danger-of-our-clothes/"
+          },
+          {
+            "label": "Campaign",
+            "href": "https://www.campaignlive.co.uk/article/woolmark-company-wear-wool-not-fossil-fuel-20something/1797926"
+          },
+          {
+            "label": "Creative Review",
+            "href": "https://www.creativereview.co.uk/woolmark-synthetic-fabrics-bold-new-ad/"
+          },
+          {
+            "label": "Designboom",
+            "href": "https://www.designboom.com/design/the-woolmark-company-wear-wool-not-fossil-fuel-global-campaign-09-07-2022/"
+          },
+          {
+            "label": "Design Taxi",
+            "href": "https://designtaxi.com/news/420251/Petroleum-Drenched-Models-Convey-The-Sticky-Mess-Of-Synthetic-Fuels-In-New-Ad/"
+          },
+          {
+            "label": "Fashion Network",
+            "href": "https://ww.fashionnetwork.com/news/Woolmark-company-focuses-on-natural-fibre-in-latest-promotional-push,1435908.html"
+          },
+          {
+            "label": "Fashion United",
+            "href": "https://fashionunited.in/news/fashion/woolmark-highlights-impact-of-synthetic-fibres-in-new-global-campaign/2022090636171"
+          },
+          {
+            "label": "Forbes",
+            "href": "https://www.forbes.com/sites/oliviapinnock/2022/09/05/woolmark-launches-global-anti-synthetic-textiles-campaign/"
+          },
+          {
+            "label": "Just Style",
+            "href": "https://www.just-style.com/news/industry-news/wool-campaign-highlights-dangers-of-synthetic-fibres/"
+          },
+          {
+            "label": "Little Black Book #1",
+            "href": "https://www.lbbonline.com/news/the-woolmark-companys-oil-drenched-campaign-addresses-dangers-of-synthetic-fabrics"
+          },
+          {
+            "label": "Little Black Book #2",
+            "href": "https://www.lbbonline.com/news/how-the-woolwork-company-drenched-people-in-oil-to-show-the-impact-of-synthetic-clothing"
+          },
+          {
+            "label": "Luerzers Archive",
+            "href": "https://www.luerzersarchive.com/en/spot-of-the-week/2022-36.html"
+          },
+          {
+            "label": "Media Shotz",
+            "href": "https://mediashotz.co.uk/shocking-woolmark-ad-exposes-climate-danger-of-synthetics/"
+          },
+          {
+            "label": "New Cloth Market",
+            "href": "https://www.newclothmarketonline.com/international-business-pages/woolmarks-new-global-brand-promotion-campaign-wear-wool-not-fossil-fuel/"
+          },
+          {
+            "label": "Roastbrief",
+            "href": "https://roastbrief.us/2022/09/the-woolmark-companys-oil-drenched-campaign-addresses-dangers-of-synthetic-fabrics/"
+          },
+          {
+            "label": "Shoot Online",
+            "href": "https://www.shootonline.com/video/top-spot-week-woolmark-company-20something-studio-birthplace-park-village-make-fashion"
+          },
+          {
+            "label": "Shots",
+            "href": "https://www.shots.net/news/view/the-woolmark-company-aims-to-turn-the-tide-on-synthetic-fast-fashion"
+          },
+          {
+            "label": "Stash Media",
+            "href": "https://www.stashmedia.tv/studio-birthplace-urge-you-to-wear-wool-not-fossil-fuel/"
+          },
+          {
+            "label": "Stock And Land",
+            "href": "https://www.stockandland.com.au/story/7889102/wool-hits-back-at-synthetic-fibres/?cs=28105"
+          },
+          {
+            "label": "The Drum",
+            "href": "https://www.thedrum.com/news/2022/09/05/ad-the-day-woolmark-s-oil-filled-swimming-pool-highlights-fashion-s-environmental"
+          },
+          {
+            "label": "The Industry Fashion",
+            "href": "https://www.theindustry.fashion/the-woolmark-company-launches-wear-wool-not-fossil-fuel-campaign/"
+          },
+          {
+            "label": "The National Tribune",
+            "href": "https://www.nationaltribune.com.au/wear-wool-not-fossil-fuel-dangers-of-synthetic-fibres-highlighted-in-striking-new-global-campaign/"
+          },
+          {
+            "label": "The Scot Free",
+            "href": "https://thescotfree.com/ausnz/wool-industrys-visceral-new-advertising-campaign-dresses-down-oil-heavy-synthetics/"
+          },
+          {
+            "label": "The Woolmark Company",
+            "href": "https://www.woolmark.com/wear-wool"
+          }
+        ],
+        "pressLabel": "View Media Features",
+        "link": {
+          "label": "Woolmark Landing Page",
+          "href": "https://www.woolmark.com/environment/wear-wool/"
+        }
+      }
+    },
+    {
+      "id": "gallery-6",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65c951374522ac324b201ff6_Posters.01.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65c951336348e83137d182ea_Posters.02.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65c951332e9b728afebcacc5_Posters.03.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65c9b0354ccd8ab96295f07b_Posters.05.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65c9b0e6d2e95d7d838bc3bc_Posters.06.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "align": "center"
+      },
+      "overrideReasons": {
+        "align": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "text-7",
+      "type": "text",
+      "content": {
+        "heading": "New York & London",
+        "body": "To amplify the release of the film, a striking 3D billboard at prime locations Times Square in New York, and Piccadilly Circus in London was created in collaboration with 20 Something. The screens were turned into swimming pools, bringing the alarming fact into the real world.\n\n‍\n\n**The billboards were launched during New York Fashion Week, making a bold statement to the fasion industry.**"
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "film-8",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "9n9qZVu4Vx8",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65ccc531726016bca7c22a2c_Cover.Image.Billboards.jpg",
+          "ratio": "16:9"
+        }
+      },
+      "overrides": {
+        "size": "medium"
+      },
+      "overrideReasons": {
+        "size": "as on the live site (phase 1)"
+      },
+      "padBottom": "4-5"
+    },
+    {
+      "id": "text-on-image-9",
+      "type": "text-on-image",
+      "content": {
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65c941816f05ec6d1be4c76a_media.BG.jpg",
+          "alt": ""
+        },
+        "parts": [
+          {
+            "kind": "text",
+            "heading": "In the Media",
+            "body": ""
+          },
+          {
+            "kind": "gallery",
+            "image": "media",
+            "images": [
+              {
+                "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65c9431f6f05ec6d1be571ef_woolmark-in-the-media-04.webp",
+                "alt": ""
+              },
+              {
+                "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65c9431fbdae1d24d030ac63_woolmark-in-the-media-01.webp",
+                "alt": ""
+              },
+              {
+                "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65c9432374cdd39f180c66ad_woolmark-in-the-media-02.webp",
+                "alt": ""
+              },
+              {
+                "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65c94320fd69df683ba40816_woolmark-in-the-media-03.webp",
+                "alt": ""
+              },
+              {
+                "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65c9431f5c1f5d9eff5db9dc_woolmark-in-the-media-05.webp",
+                "alt": ""
+              },
+              {
+                "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65cefee8016a00cad9885fff_News07.webp",
+                "alt": ""
+              },
+              {
+                "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65cefe1532b119446323acf1_News06.webp",
+                "alt": ""
+              }
+            ]
+          }
+        ]
+      },
+      "overrides": {
+        "panel": "campaign"
+      },
+      "overrideReasons": {
+        "panel": "as on the live site (phase 1)"
+      },
+      "padBottom": "4-5"
+    },
+    {
+      "id": "text-10",
+      "type": "text",
+      "content": {
+        "heading": "WeTransfer",
+        "body": "A partnership with WeTransfer brought the reality of synthetic clothing's oil consumption to life for people transferring files on the popular file sharing platform. 20 Something created a wait screen while files upload, filling it with oil and revealing our data fact."
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "film-11",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "0u02r_bfx5Y",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65ccc61a56cb7e4554b7d618_Cover.Image.WeTransfer.jpg",
+          "ratio": "16:9"
+        }
+      },
+      "overrides": {
+        "size": "split"
+      },
+      "overrideReasons": {
+        "size": "as on the live site (phase 1)"
+      },
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-12",
+      "type": "gallery",
+      "content": {
+        "heading": "Campaign Visuals",
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65c8bc99aeab9fdc64318922_campaignVisuals.01.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65c8bc984aa293e5fc9d715e_campaignVisuals.02.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65c8bc980b7b07d9ce6e6fd4_campaignVisuals.03.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65c8bc984aa293e5fc9d715a_campaignVisuals.04.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65cd7fc72f8a25117bbf8951_campaignVisuals.06.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65c8bc987417c8e8f618b693_campaignVisuals.05.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "image": "visuals"
+      },
+      "overrideReasons": {
+        "image": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "text-13",
+      "type": "text",
+      "content": {
+        "heading": "Production",
+        "body": "Woolmark approached us with a clear challenge: how do we educate the public on the enormous impact the synthetic clothing industry has on our planet? The answer came in the form of a data visualization concept - visualizing an Olympic sized pool filled with oil which is used for the production of synthetic clothing, every 25 minutes.\n\n‍\n\nWe collaborated on the production with our London based partner Park Village and Silver Lining Films in South Africa."
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-14",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65c8f70dbeedf24f0ede41f6_BTS_01_lowres.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65c8f70d00010f798a7911d0_BTS_02_lowres.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65c8f70c23ab16435f7899a9_BTS_03_lowres.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65c8f70d23ab16435f7899fd_BTS_06_lowres.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65c8f70d74651f26dcf42b4d_BTS_07_lowres.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65c8f70ebeedf24f0ede4217_BTS_08_lowres.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65c8f70d6348e83137a4d273_BTS_10_lowres.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "image": "bts"
+      },
+      "overrideReasons": {
+        "image": "as on the live site (phase 1)"
+      },
+      "padBottom": "4-375"
+    },
+    {
+      "id": "text-on-image-15",
+      "type": "text-on-image",
+      "content": {
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65c9b202f78ae07595cfc900_OilFilledPool.BG.jpg",
+          "alt": ""
+        },
+        "parts": [
+          {
+            "kind": "text",
+            "heading": "Oil Filled Pool",
+            "body": "The special effects team of Max Poolman at MXFX built a custom 6x6 meter pool that was filled with 36,000 liters of fake oil, created from a mixture of water, food thickener and edible children's paint. Lighting the pool was a significant challenge as the pool essentially acted as a mirror, reflecting everything visible in the studio. A white dome was created over the pool that was lit to match the nature plates that were previously shot on location."
+          },
+          {
+            "kind": "film",
+            "film": {
+              "provider": "youtube",
+              "id": "B7kNupNbVDc",
+              "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65c8bc980b7b07d9ce6e6fd4_campaignVisuals.03.jpg",
+              "ratio": "16:9"
+            }
+          }
+        ]
+      },
+      "overrides": {
+        "panel": "noise"
+      },
+      "overrideReasons": {
+        "panel": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "text-16",
+      "type": "text",
+      "content": {
+        "heading": "Visual Effects",
+        "body": "The project went through an elaborate pre-production phase where we created a full CG previsualization of the film together with Dead Pixel in Amsterdam, to understand many of the challenges before going into full scale production.\n\n‍\n\nWatch the video below for a detailed breakdown of the process:"
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "film-17",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "-d3FOEQdkmQ",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65ccc81811e20c5e9d853b5b_Cover.Image.VFX.jpg",
+          "ratio": "16:9"
+        }
+      },
+      "overrides": {
+        "size": "split"
+      },
+      "overrideReasons": {
+        "size": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "more-work",
+      "type": "more-work",
+      "content": {
+        "button": {
+          "label": "View More Work",
+          "href": "/work"
+        }
+      }
+    }
+  ]
+}

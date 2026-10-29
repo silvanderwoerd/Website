@@ -1,0 +1,119 @@
+/* Live: .fl-section-no-spacing.u--relative.overflow-hidden, .fl-half-bg(.noise-overlay),
+   .fl-campaign-container, .fl-split-medium-container.relative-position.z-2,
+   and the page-level grain (.noise-overlay:after). */
+
+.section {
+  position: relative;
+  overflow: hidden;
+}
+
+.bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: 36.75em;
+  object-fit: cover;
+}
+
+.bgImage {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.space {
+  height: 4.5em;
+}
+
+.heading {
+  position: relative;
+  width: 100%;
+  max-width: 70.375em;
+  margin-inline: auto;
+}
+
+.headingText {
+  margin: 0;
+  color: var(--color-white);
+  white-space: nowrap;
+}
+
+.headingSpace {
+  height: 3.375em;
+}
+
+.film {
+  position: relative;
+  z-index: 2;
+  width: 100%;
+  max-width: 50em;
+  margin-inline: auto;
+}
+
+.section[data-s-panel="plain"] .bg,
+.section[data-s-panel="campaign"] .bg {
+  overflow: visible;
+}
+
+/* The noise panel: the half background carries the moving film grain. */
+.section[data-s-panel="noise"] .bg {
+  overflow: hidden;
+}
+
+.section[data-s-panel="noise"] .bg::after {
+  content: "";
+  position: absolute;
+  top: -10rem;
+  left: -10rem;
+  z-index: 1;
+  width: calc(100% + 20rem);
+  height: calc(100% + 20rem);
+  background-image: var(--grain);
+  background-position: 50%;
+  mix-blend-mode: multiply;
+  pointer-events: none;
+  animation: noise var(--duration-grain) steps(2) infinite;
+}
+
+@keyframes noise {
+  0% { transform: translate3d(0, 9rem, 0); }
+  10% { transform: translate3d(-1rem, -4rem, 0); }
+  20% { transform: translate3d(-8rem, 2rem, 0); }
+  30% { transform: translate3d(9rem, -9rem, 0); }
+  40% { transform: translate3d(-2rem, 7rem, 0); }
+  50% { transform: translate3d(-9rem, -4rem, 0); }
+  60% { transform: translate3d(2rem, 6rem, 0); }
+  70% { transform: translate3d(7rem, -8rem, 0); }
+  80% { transform: translate3d(-9rem, 1rem, 0); }
+  90% { transform: translate3d(6rem, -5rem, 0); }
+  to { transform: translate3d(-7rem, 0, 0); }
+}
+
+@media (min-width: 1920px) {
+  .headingSpace {
+    height: 2.5em;
+  }
+}
+
+@media (max-width: 991px) {
+  .heading,
+  .film {
+    width: 90%;
+  }
+}
+
+@media (max-width: 479px) {
+  .film {
+    width: 100%;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .section[data-s-panel="noise"] .bg::after {
+    animation: none;
+  }
+}

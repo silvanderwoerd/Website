@@ -1,0 +1,92 @@
+/* Live: section.section-6/7/8 > .fl-project-video-container (large),
+   .fl-section-no-spacing > .fl-project-video-medium-container (medium),
+   .fl-section-no-spacing > .fl-split-medium-container (split). */
+
+.film[data-s-size="large"] .container {
+  display: block;
+  box-sizing: border-box;
+  margin-left: 75px;
+  padding-inline: 2em;
+}
+
+@media (min-width: 1280px) {
+  .film[data-s-size="large"] .container {
+    margin-right: 70px;
+    margin-bottom: -36px;
+    padding-top: 0;
+    padding-right: 2.7em;
+  }
+}
+
+@media (max-width: 991px) {
+  .film[data-s-size="large"] .container {
+    margin-inline: auto;
+    padding-inline: 0;
+  }
+}
+
+@media (max-width: 479px) {
+  .film[data-s-size="large"] .container {
+    width: 100%;
+    margin-left: 0;
+  }
+}
+
+.film[data-s-size="medium"] .container {
+  width: 100%;
+  max-width: 76.375em;
+  margin-inline: auto;
+}
+
+.film[data-s-size="split"] .container {
+  width: 100%;
+  max-width: 50em;
+  margin-inline: auto;
+}
+
+@media (max-width: 991px) {
+  .film[data-s-size="split"] .container {
+    width: 90%;
+  }
+}
+
+@media (max-width: 479px) {
+  .film[data-s-size="split"] .container {
+    width: 100%;
+  }
+}
+
+/* .section-8: hidden except on phones (≤479), where it replaces the episode's own film. */
+.film[data-s-visibility="always"] {
+  display: block;
+}
+
+.film[data-s-visibility="phone"] {
+  display: none;
+}
+
+@media (max-width: 479px) {
+  .film[data-s-visibility="phone"] {
+    display: block;
+  }
+}
+
+/* Phones (≤479): the large film's container turns 16:9 (.fl-project-video-container),
+   and .section-7 bands become inline blocks, which adds line space around them. */
+@media (max-width: 479px) {
+  .film[data-s-size="large"] .container {
+    aspect-ratio: 16 / 9;
+    height: auto;
+    text-align: left;
+  }
+
+  .film[data-s-phoneBox="block"] {
+    display: block;
+  }
+
+  .film[data-s-phoneBox="inline"] {
+    display: inline-block;
+    width: 100%;
+    vertical-align: baseline;
+  }
+}

@@ -10,7 +10,7 @@ order: 9999
 
 ‍
 
-Studio Birthplace is now on Boom Saloon, presenting a curated collection of environmentally focused visual projects that not only captivate and inspire but also serve as catalysts for positive change. The list includes not only some of the studio's works, but mostly of other works that have inspired the studio.  
+Studio Birthplace is now on Boom Saloon, presenting a curated collection of environmentally focused visual projects that not only captivate and inspire but also serve as catalysts for positive change. The list includes not only some of the studio's works, but mostly of other works that have inspired the studio.<br>
 
 ‍
 

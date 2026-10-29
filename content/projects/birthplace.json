@@ -1,0 +1,480 @@
+{
+  "slug": "birthplace",
+  "title": "Birthplace",
+  "description": "The music video for Novo Amor's Birthplace tells the symbolic story of a man arriving on a perfect earth, who encounters his nemesis in the form of ocean trash. With this video we raise awareness for the plastic pollution emergency in the oceans, and hope to inspire others to become a part of the change.",
+  "family": "fluid",
+  "background": "black",
+  "client": "Novo Amor",
+  "inGrid": true,
+  "stripes": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "content": {
+        "eyebrow": "Our Work",
+        "client": "Novo Amor",
+        "title": "Birthplace",
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d05a5eee86ebaacc57ece6_BirthplaceCover.Image.jpg",
+          "alt": ""
+        }
+      }
+    },
+    {
+      "id": "details",
+      "type": "project-details",
+      "content": {
+        "eyebrow": "ABOUT THE PROJECT",
+        "about": "## Birthplace tells the symbolic story of a man arriving on a perfect earth, who **encounters his nemesis in the form of ocean trash****.**\n\nWith this video we raise awareness for the plastic pollution emergency in the oceans, and hope to inspire others to become a part of the change.",
+        "credits": [
+          {
+            "role": "Directors & writers",
+            "name": "Jorik Dozy & Sil van der Woerd"
+          },
+          {
+            "role": "Producer",
+            "name": "Sean Lin"
+          },
+          {
+            "role": "Cinematographer",
+            "name": "Nihal Friedel"
+          }
+        ],
+        "fullCredits": "### Directors & Writers\n\nSil van der Woerd & Jorik Dozy\n\n### Producer\n\nSean Lin\n\n### Line Producer\n\nBayu Topan\n\n### Cinematographer\n\nNihal Friedel\n\n### Art Director\n\nDalbo Suarimbawa\n\n### Free Diver\n\nMichael Board\n\n### AC\n\nDavid Cheung\n\n### Production Assistants\n\nVanya Safitri\n\nLim Chiu Shik\n\nAiman Arrifin\n\n### Safety Free Diver\n\nDani Mulyana\n\n### Dive Team\n\nJun Nakamatsu\n\nBrata / Ketut Subrata\n\nBlenk / Nengah Setiawan\n\nAdis / Kadek Suadistayana\n\nAmin / Ketut Sudi\n\nSincang\n\nWayan Merta\n\nJim / Ngurah Jinuarta\n\nLeso / Wayan Sudita\n\nGede Buana\n\nNicholas Chin\n\n### Assistant Divers\n\nNi Luh\n\nMila Paramita\n\n### Fishermen\n\nNengah Suanda\n\nNengah Sudana\n\nKetut Sudana\n\nNyoman Sukrata\n\nWayan Mena\n\nKadek Apriana\n\n### Truck Driver\n\nKomen\n\n### Whale Builders\n\nNgasem / Wayan Widianta\n\nMoncos / Ketut Arimbawa\n\nPerak / Ketut Ardana\n\nBoncet / Wayan Ariantana\n\nWindhu / Kadek Windutama\n\nKlebot / Putu Sukmawibawa\n\nMumun / Ketut Supartika\n\nBerenteng / Wayan Sudirta\n\nDengkak / Ketut Sridana\n\nPegil / Komang Artana\n\nBlotone / Wayan Muliasa\n\nRenol / Komang Kerta Udiantika\n\nDegleg Lipi / Degleg Astika\n\nCekel / Komang Nesa\n\nSampi / Wayan Suriasa\n\nBento / Wayan Muliawan\n\nGilo / Gede Rupawan\n\nKeplek / Gede Ardana\n\nDoblar / Ketut Buki\n\nBolong / Ketut Sumerta\n\nPecit / Komang Suardana\n\nGinyu / Wayan Mertana\n\nPatil / Kadek Suartawan\n\nPolcek / Komane Sutawan\n\n### Edit\n\nSil van der Woerd & Jorik Dozy\n\n### VFX Production\n\nKacy McDonald\n\nJeen Yee\n\n### VFX Supervision\n\nSimon Rafin\n\nNicolas Caillier\n\n### Visual Effects Artists\n\nEugene Cheong\n\nSenye Onn\n\nGina Phoo\n\nGermaine Phoo\n\nSeungYub Bag\n\nJulian Lojek\n\nVincent Chang\n\nJanice Tan\n\nDiego Riestra Olguin\n\nAzman Rohman\n\nEmanuele Comotti\n\n### Colorist\n\nNihal Friedel\n\n### Music\n\n‘Birthplace’ by Novo Amor\n\n‘Seneca’ by Novo Amor\n\n### Record Label\n\nDave Grinnell, All Points\n\n### Supported by\n\nZen Freediving Pte Ltd\n\nSpeedboat Sponsored By Villa Markisa Bali\n\nTrash Truck sponsored by Peduli Alam\n\n### Web Design\n\nNoor Valibhoy\n\n### Special Thanks\n\nChris Kim\n\nNigel Sumner\n\nLuke Hetherington\n\n### Thanks to\n\nKepala Desa Purwa Kerthi\n\nRomke Faber\n\nSeabert Deuling\n\nFrancois Desplanques\n\nChizuru Itaya\n\nAlex Steier\n\nRajbir Dhalla\n\nFifi Maree\n\nMatthew Synth\n\n‍\n\n‍",
+        "creditsNote": "“Birthplace” (Novo Amor) © AllPoints NOVO AMOR 2018",
+        "press": [
+          {
+            "label": "Culture Trip",
+            "href": "https://theculturetrip.com/asia/indonesia/articles/novo-amors-new-music-video-highlights-the-tragedy-of-plastic-in-our-oceans/"
+          },
+          {
+            "label": "Comunidade de Culturae Arte",
+            "href": "https://comunidadeculturaearte.com/novo-amor-actua-pela-primeira-vez-em-portugal/"
+          },
+          {
+            "label": "Deeper Blue",
+            "href": "https://www.deeperblue.com/video-novo-amor-birthplace/"
+          },
+          {
+            "label": "Everything Is Noise",
+            "href": "https://everythingisnoise.net/reviews/novo-amor-birthplace/"
+          },
+          {
+            "label": "Earmilk",
+            "href": "https://earmilk.com/2018/08/23/novo-amor-takes-us-behind-the-scenes-with-the-creation-of-his-new-album-birthplace-photo-gallery/"
+          },
+          {
+            "label": "Greenpeace Australia",
+            "href": "https://www.greenpeace.org.au/blog/novo-amor-birthplace/"
+          },
+          {
+            "label": "Glasgow Times",
+            "href": "https://www.glasgowtimes.co.uk/entertainment/16595294.novo-amor-unveils-stunning-music-video-title-track-birthplace/"
+          },
+          {
+            "label": "KLOF Mag",
+            "href": "https://klofmag.com/2018/06/novo-amor-video-birthplace/"
+          },
+          {
+            "label": "Muzzart",
+            "href": "https://www.muzzart.fr/20190613_21007_novo-amorinterview-english-version/"
+          },
+          {
+            "label": "Parley For The Oceans",
+            "href": "https://www.parley.tv/updates/2018/7/11/novo-amor-birthplace-video-is-a-powerful-statement-for-the-oceans"
+          },
+          {
+            "label": "Plastic Oceans",
+            "href": "https://plasticoceans.org/birthplace-filmmakers/"
+          },
+          {
+            "label": "RIFF Magazine",
+            "href": "https://riffmagazine.com/qa/novo-amor-birthplace/"
+          },
+          {
+            "label": "Scroll.in",
+            "href": "https://scroll.in/video/882637/watch-novo-amors-stunning-music-video-for-birthplace-aspires-to-save-the-oceans-from-pollution"
+          },
+          {
+            "label": "The Independent",
+            "href": "https://www.independent.co.uk/arts-entertainment/music/news/novo-amor-birthplace-video-watch-ocean-plastics-pollution-album-release-date-a8398191.html"
+          },
+          {
+            "label": "The Jakarta Post",
+            "href": "https://www.thejakartapost.com/life/2018/06/20/novo-amor-shoots-underwater-music-video-in-indonesia-highlights-ocean-pollution.html"
+          },
+          {
+            "label": "The Line of Best Fit",
+            "href": "https://www.thelineofbestfit.com/news/latest-news/novo-amor-announces-debut-album-title-track-birthplace"
+          },
+          {
+            "label": "WWF International Instagram",
+            "href": "https://www.instagram.com/p/B2T26jdC2FR/"
+          },
+          {
+            "label": "WWF Voices",
+            "href": "https://wwf.exposure.co/birthplacewwfvoices"
+          }
+        ],
+        "logo": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d2d7c4ec36cc22969d905a_NA.logo.jpg",
+          "alt": "",
+          "href": "https://novoamor.co.uk/"
+        },
+        "creditsLabel": "View Full Credits",
+        "pressLabel": "View Media Features"
+      }
+    },
+    {
+      "id": "film-2",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "MGslEcmVurg",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d05c756ca432aa067f8a55_BirthplaceCover.Video.jpg",
+          "ratio": "2.35:1"
+        }
+      }
+    },
+    {
+      "id": "stats-3",
+      "type": "stats",
+      "content": {
+        "title": "Impact",
+        "items": [
+          {
+            "number": "9m+",
+            "label": "Views Across Platforms"
+          },
+          {
+            "number": "25",
+            "label": "International Awards"
+          },
+          {
+            "number": "50+",
+            "label": "International Media Features"
+          },
+          {
+            "number": "60+",
+            "label": "Film Festival Appearances"
+          }
+        ]
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "text-4",
+      "type": "text",
+      "content": {
+        "heading": "A Viral Message",
+        "body": "When the film released in 2018, the issue of plastic pollution was only just gaining momentum in awareness. Due to it's message and the unique manner in which it was told, the video quickly became viral and got picked up by international media receiving coverage from The Independent, Greenpeace and even all the way in Indonesia from The Jakarta Post. The film went on to win over 25 international awards including winning the prestigious CamerImage Film Festival.\n\n‍\n\n**The film became an iconic piece of environmentalism and is used in schools around the world as an educational tool.**"
+      },
+      "padBottom": "4-5"
+    },
+    {
+      "id": "phones-5",
+      "type": "phones",
+      "content": {
+        "screens": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d0641eb882f82e9f461d3f_News01.birthplace.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d2061992bf6bd84ae02e82_News02.birthplace.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d208122fb696a06ecc5308_News03.birthplace.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d2085d86ea9062baf217d3_News04.birthplace.jpg",
+            "alt": ""
+          }
+        ],
+        "frame": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65c611e7f2a21ac92ede6b11_Frame.svg"
+      }
+    },
+    {
+      "id": "campaign-7",
+      "type": "campaign",
+      "content": {
+        "heading": "The Campaign",
+        "text": "Next to the film we designed a webpage that brought all the most critical and mind-blowing facts of the plastic pollution crisis together on a single page. This webpage was hosted by Novo Amor and included interviews of experts and tips on how to get involved and be part of the solution. Thousands of his fans worldwide interacted with the information. Additionally we collaborated with the organization Plastic Oceans who included the film in their educational program and showcase it in schools around the world.",
+        "press": [
+          {
+            "label": "Culture Trip",
+            "href": "https://theculturetrip.com/asia/indonesia/articles/novo-amors-new-music-video-highlights-the-tragedy-of-plastic-in-our-oceans/"
+          },
+          {
+            "label": "Comunidade de Culturae Arte",
+            "href": "https://comunidadeculturaearte.com/novo-amor-actua-pela-primeira-vez-em-portugal/"
+          },
+          {
+            "label": "Deeper Blue",
+            "href": "https://www.deeperblue.com/video-novo-amor-birthplace/"
+          },
+          {
+            "label": "Everything Is Noise",
+            "href": "https://everythingisnoise.net/reviews/novo-amor-birthplace/"
+          },
+          {
+            "label": "Earmilk",
+            "href": "https://earmilk.com/2018/08/23/novo-amor-takes-us-behind-the-scenes-with-the-creation-of-his-new-album-birthplace-photo-gallery/"
+          },
+          {
+            "label": "Greenpeace Australia",
+            "href": "https://www.greenpeace.org.au/blog/novo-amor-birthplace/"
+          },
+          {
+            "label": "Glasgow Times",
+            "href": "https://www.glasgowtimes.co.uk/entertainment/16595294.novo-amor-unveils-stunning-music-video-title-track-birthplace/"
+          },
+          {
+            "label": "KLOF Mag",
+            "href": "https://klofmag.com/2018/06/novo-amor-video-birthplace/"
+          },
+          {
+            "label": "Muzzart",
+            "href": "https://www.muzzart.fr/20190613_21007_novo-amorinterview-english-version/"
+          },
+          {
+            "label": "Parley For The Oceans",
+            "href": "https://www.parley.tv/updates/2018/7/11/novo-amor-birthplace-video-is-a-powerful-statement-for-the-oceans"
+          },
+          {
+            "label": "Plastic Oceans",
+            "href": "https://plasticoceans.org/birthplace-filmmakers/"
+          },
+          {
+            "label": "RIFF Magazine",
+            "href": "https://riffmagazine.com/qa/novo-amor-birthplace/"
+          },
+          {
+            "label": "Scroll.in",
+            "href": "https://scroll.in/video/882637/watch-novo-amors-stunning-music-video-for-birthplace-aspires-to-save-the-oceans-from-pollution"
+          },
+          {
+            "label": "The Independent",
+            "href": "https://www.independent.co.uk/arts-entertainment/music/news/novo-amor-birthplace-video-watch-ocean-plastics-pollution-album-release-date-a8398191.html"
+          },
+          {
+            "label": "The Jakarta Post",
+            "href": "https://www.thejakartapost.com/life/2018/06/20/novo-amor-shoots-underwater-music-video-in-indonesia-highlights-ocean-pollution.html"
+          },
+          {
+            "label": "The Line of Best Fit",
+            "href": "https://www.thelineofbestfit.com/news/latest-news/novo-amor-announces-debut-album-title-track-birthplace"
+          },
+          {
+            "label": "WWF International Instagram",
+            "href": "https://www.instagram.com/p/B2T26jdC2FR/"
+          },
+          {
+            "label": "WWF Voices",
+            "href": "https://wwf.exposure.co/birthplacewwfvoices"
+          }
+        ],
+        "pressLabel": "View Media Features",
+        "link": {
+          "label": "Birthplace Landing Page",
+          "href": "https://novoamor.co.uk/about/birthplace/"
+        }
+      },
+      "spaceBefore": "4-375"
+    },
+    {
+      "id": "gallery-8",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d34da644cb4b959719c15a_Website.01.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d34da6d59dc5e7a42778a7_Website.02.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d34e686297dee1228d31db_Website.03.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d34f7fe051873ae78261c7_Website.04.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d34f7f899b302c8dca7d28_Website.05.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "image": "bts"
+      },
+      "overrideReasons": {
+        "image": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "text-on-image-10",
+      "type": "text-on-image",
+      "content": {
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d2cca379eb647c98af2742_Birthplace.plasticBG2.jpg",
+          "alt": ""
+        },
+        "parts": [
+          {
+            "kind": "text",
+            "heading": "Plastic Oceans",
+            "body": "Watch our interview with Craig Leeson, director of the Plastic Oceans Organisation below, where he explains the magnitude of the problem as well as some solutions.",
+            "dark": true
+          },
+          {
+            "kind": "film",
+            "film": {
+              "provider": "youtube",
+              "id": "1OL8FxUwlT0",
+              "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d2cb383b093288f86807a8_Birthplace.plasticCover.jpg",
+              "ratio": "16:9"
+            }
+          }
+        ]
+      },
+      "spaceBefore": "4-375"
+    },
+    {
+      "id": "gallery-11",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d21e67772349200fefc781_Edit_02.00_00_56_03.Still084.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d21e656aa58491e81b966e_Edit_02.00_05_00_07.Still123.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d21e66a1b0f3dc9b7d46fa_Edit_02.00_01_38_00.Still091.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d21e66f7710714027a9d14_Edit_02.00_02_21_11.Still095.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d21e65981519f7edae5a47_Edit_02.00_02_38_14.Still098.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d21e6579eb647c98632c75_Edit_02.00_03_40_04.Still107.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d21e657dd9a485269e8ee3_Edit_02.00_01_23_06.Still090.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d21e658b721fc8e2150762_Edit_02.00_03_50_23.Still110.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d21e66becdc1f23328bee9_Edit_02.00_04_39_09.Still117.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d21e6655604fbc04d9b44d_Edit_02.00_04_44_09.Still119.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "image": "wide"
+      },
+      "overrideReasons": {
+        "image": "as on the live site (phase 1)"
+      },
+      "padTop": "4-375"
+    },
+    {
+      "id": "text-12",
+      "type": "text",
+      "content": {
+        "heading": "Production",
+        "body": "We collaborated with a local community in Bali to build a life-size 13 meter prop whale. The whale was constructed from bamboo, and covered with real waste, for which we worked together with a group of school kids who were picking trash in the jungle, in return for books and pencils.\n\n‍\n\nIt took a team of 10 divers to control the whale puppet underwater. UK freediving champion Michael Board performed over 250 free dives, while the dive team spent over 35 hours underwater.\n\n‍\n\nMichael's performance was challenging, as he could use none of his professional gear and was practically blind underwater. Other challenges included the buoyancy of the whale, which preferred to either sink or float - the strong currents, that pulled the crew and the whale in any direction - and communication, as most of the crew couldn't see each other and none could speak underwater.\n\n‍"
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "film-13",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "FjtjX6pudhM",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d2d1f62635a0233ea86733_BirthplaceCover.BTS.jpg",
+          "ratio": "16:9"
+        }
+      },
+      "overrides": {
+        "size": "medium"
+      },
+      "overrideReasons": {
+        "size": "as on the live site (phase 1)"
+      },
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-14",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d2d6c84f1e37947c8e3d87_IMG_0448.webp",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d2d6c8b62184f9a4917789_IMG_0447.webp",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d2d6c84f1e37947c8e3dcc_BTS%20Edit.00_08_45_06.Still019.webp",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d2d6c88848a6206e3fd7f4_BTS%20Edit.00_07_23_07.Still014_01.webp",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d2d1f62635a0233ea86733_BirthplaceCover.BTS.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "align": "center"
+      },
+      "overrideReasons": {
+        "align": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "more-work",
+      "type": "more-work",
+      "content": {
+        "button": {
+          "label": "View More Work",
+          "href": "/work"
+        }
+      }
+    }
+  ]
+}

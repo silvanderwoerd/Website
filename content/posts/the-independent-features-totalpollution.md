@@ -26,7 +26,7 @@ Environmental group Greenpeace released an animated video Wednesday showing a ma
 
 The video takes aim at energy giant TotalEnergies, a sponsor of the event in France.
 
-‍  
+‍<br>
 
 The full article can be read [here](https://www.independent.co.uk/news/greenpeace-ap-paris-stade-de-france-new-zealand-b2401799.html).
 

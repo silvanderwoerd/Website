@@ -1,0 +1,235 @@
+/* (base) */
+.text-align-center {
+  text-align: center;
+  font-weight: 400;
+}
+.text-color-white {
+  color: #fff;
+}
+.button-link-content-act {
+  z-index: 1;
+  grid-column-gap: 4px;
+  grid-row-gap: 10px;
+  display: flex;
+}
+.arrow-button {
+  font-family: Filled Icon;
+}
+.underline-button {
+  background-color: #ffffff40;
+  width: 100%;
+  height: 1px;
+  position: relative;
+}
+.link-progress-bar {
+  background-color: #fff;
+  width: 0;
+  height: 1px;
+  position: absolute;
+  inset: 0% auto auto 0%;
+}
+.fl-button-link-act {
+  z-index: 1;
+  color: #fff;
+  letter-spacing: .1em;
+  font-size: .875em;
+  font-weight: 400;
+  position: relative;
+}
+.fl-project-eyebrow {
+  letter-spacing: .075em;
+  text-transform: uppercase;
+  font-size: .75em;
+  font-weight: 700;
+  line-height: 1;
+}
+.fl-section-project-details {
+  padding-top: 5.5em;
+  padding-bottom: 5.5em;
+}
+.fl-section-project-details_container {
+  width: 100%;
+  max-width: 71.125em;
+  margin-left: auto;
+  margin-right: auto;
+}
+.fl-project-details_layout {
+  grid-column-gap: 8.5625em;
+  grid-row-gap: 8.5625em;
+  grid-auto-columns: 1fr;
+  display: flex;
+}
+.fl-spacing-2em {
+  height: 1.5em;
+}
+.fl-project-details_about-wrapper {
+  flex: none;
+  width: 37em;
+}
+.fl-spacing-2-875em {
+  height: 2.875em;
+}
+.fl-section-project-details_credits-title {
+  letter-spacing: .03125rem;
+  text-transform: uppercase;
+  font-size: .875em;
+  font-weight: 700;
+  line-height: 1.6;
+}
+.fl-section-project-details_credits-paragraph {
+  letter-spacing: .025em;
+  font-size: .875em;
+  font-weight: 300;
+  line-height: 1.6;
+}
+.fl-project_waterbear-logo {
+  width: 11.875em;
+}
+.modal-wrapper {
+  z-index: 99999;
+  background-color: #141414cc;
+  flex-direction: column;
+  grid-template-rows: auto auto;
+  grid-template-columns: 1fr 1fr;
+  grid-auto-columns: 1fr;
+  justify-content: center;
+  align-items: center;
+  display: none;
+  position: fixed;
+  inset: 0;
+  overflow: scroll;
+}
+.modal-container {
+  z-index: 5;
+  background-color: var(--black);
+  width: 85%;
+  max-width: 46.25em;
+  margin: 10vh auto 20px;
+  padding: 40px;
+  display: block;
+  position: relative;
+  overflow: hidden;
+}
+.modal-close_btn {
+  z-index: 10;
+  color: #fff;
+  padding: 12px 16px;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: .7;
+  text-decoration: none;
+  transition: opacity .2s;
+  position: absolute;
+  inset: 0% 0% auto auto;
+}
+.modal-close_btn:hover {
+  color: #444;
+}
+.sr-only {
+  white-space: nowrap;
+  border: 0 solid #0000;
+  width: 1px;
+  height: 1px;
+  margin-top: -1px;
+  padding: 0;
+  position: absolute;
+  overflow: hidden;
+}
+.modal-close_area {
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  inset: 0;
+}
+.credits-rich-text {
+  width: 50%;
+  margin-left: auto;
+}
+.credits-rich-text p {
+  color: var(--white-11);
+  margin-bottom: .2em;
+  font-size: .9375em;
+  font-weight: 700;
+}
+.credits-rich-text h3 {
+  color: var(--dark-grey);
+  text-align: right;
+  margin-bottom: 0;
+  font-size: .9375em;
+  font-weight: 300;
+  line-height: 1.6;
+  position: absolute;
+  right: 52%;
+}
+.fl-project-details-rich-text h2 {
+  margin-bottom: 1.3em;
+  font-size: 2.34375em;
+  font-weight: 300;
+  line-height: 1.28;
+}
+.fl-project-details-rich-text strong {
+  font-weight: 900;
+}
+.fl-project-details-rich-text p {
+  font-size: 1.3em;
+  font-weight: 300;
+}
+.fl-project-details-rich-text a {
+  color: var(--white-11);
+  text-decoration: underline;
+}
+.fl-spacing-2-5em {
+  height: 1.5em;
+}
+.fl-spacing-1em {
+  height: 1em;
+}
+.fl-spacing-3-5em {
+  height: 3.5em;
+}
+#w-node-_590371f9-497d-6678-5c6c-460579e604ad-79e604ad {
+  grid-area: 1 / 1 / 2 / 2;
+}
+#w-node-_941b5bbe-6f7c-b50e-9167-bce205acd970-05acd948,  #w-node-_941b5bbe-6f7c-b50e-9167-bce205acd97b-05acd948 {
+  grid-area: 2 / 1 / 3 / 2;
+}
+#w-node-_468f8221-18c0-5890-18ad-9a2900a13c4c-00a13c4c {
+  grid-area: 1 / 1 / 2 / 2;
+}
+
+/* @media screen and (min-width: 1920px) */
+.underline-button {
+  margin-bottom: 0;
+}
+.fl-section-project-details_credits-paragraph.text-color-white {
+  color: #9c9c9c;
+}
+.fl-project_waterbear-logo {
+  width: 10em;
+  max-height: none;
+}
+.fl-spacing-2-5em {
+  height: 2em;
+}
+.fl-spacing-1em {
+  height: 1em;
+}
+.fl-spacing-3-5em {
+  height: 3.5em;
+}
+
+/* @media screen and (max-width: 991px) */
+.fl-section-project-details_container {
+  width: 90%;
+}
+.fl-project-details_layout {
+  flex-direction: column;
+}
+.fl-project-details_about-wrapper {
+  width: auto;
+}
+
+/* @media screen and (max-width: 767px) */
+.modal-close_btn {
+  font-size: 1.8rem;
+}

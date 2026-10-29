@@ -1,0 +1,134 @@
+/* Live: .fl-section-cta-small / -big, .fl-cta-small(-container), .fl-cta-big-container,
+   .fl-cta-small-image-wrapper / .fl-cta-big-image-wrapper, .fl-cta-small-content /
+   .fl-cta-big-content, .fl-cta-small-paragraph (white on small, grey on big). */
+
+.section {
+  padding-block: 4.625em;
+}
+
+.container {
+  width: 100%;
+  margin-inline: auto;
+}
+
+.card {
+  display: flex;
+  background-color: var(--color-surface);
+}
+
+.imageBox {
+  position: relative;
+  flex: none;
+}
+
+.image {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+.heading {
+  margin: 0;
+  color: var(--color-white);
+  text-align: center;
+}
+
+.space {
+  height: 0.875em;
+}
+
+.text {
+  margin-bottom: 1.5em;
+  text-align: center;
+}
+
+.section[data-s-size="small"] .container {
+  max-width: 53.75em;
+}
+
+.section[data-s-size="small"] .imageBox {
+  width: 25em;
+  height: 19.8125em;
+}
+
+.section[data-s-size="small"] .content {
+  padding-inline: 2.9em;
+}
+
+.section[data-s-size="small"] .text {
+  color: var(--color-white);
+}
+
+.section[data-s-size="small"] .spaceAfter {
+  height: 0.875em;
+}
+
+.section[data-s-size="big"] .container {
+  max-width: 70em;
+}
+
+.section[data-s-size="big"] .imageBox {
+  width: 37.9375em;
+  height: 27.9375em;
+}
+
+.section[data-s-size="big"] .content {
+  padding-inline: 4.5em;
+}
+
+.section[data-s-size="big"] .spaceAfter {
+  height: 1.5em;
+}
+
+@media (min-width: 1920px) {
+  .text {
+    margin-bottom: 0.5em;
+    color: var(--color-text-muted);
+  }
+
+  .section[data-s-size="small"] .text {
+    padding-bottom: 10px;
+    color: var(--color-white);
+  }
+}
+
+@media (max-width: 991px) {
+  .container {
+    width: 90%;
+  }
+
+  .card {
+    flex-direction: column;
+    width: 30.1875em;
+    margin-inline: auto;
+  }
+
+  .content {
+    padding-block: 3.5em;
+  }
+
+  .section[data-s-size="big"] .imageBox {
+    width: 30.1875em;
+    height: 22em;
+  }
+}
+
+@media (max-width: 767px) {
+  .card {
+    width: auto;
+  }
+
+  .section[data-s-size="small"] .imageBox {
+    width: auto;
+  }
+}

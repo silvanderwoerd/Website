@@ -32,8 +32,7 @@ Slowly, at first, then with exponentially increasing pace and volume, a cascade 
 
 Fusing uncanny satire with alarming visuals, the campaign by Studio Birthplace has certainly got people’s attention. But just how was it made?.
 
-  
-Read the full article [here](https://www.itsnicethat.com/news/studio-birthplace-wasteminster-greenpeace-animation-190521).
+<br>Read the full article [here](https://www.itsnicethat.com/news/studio-birthplace-wasteminster-greenpeace-animation-190521).
 
 ‍
 

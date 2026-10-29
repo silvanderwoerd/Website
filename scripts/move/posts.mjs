@@ -27,6 +27,8 @@ const categorySlug = Object.fromEntries(CATEGORIES.map((c) => [c.name, c.slug]))
 
 const td = new TurndownService({ headingStyle: "atx", emDelimiter: "*", bulletListMarker: "-" });
 td.keep(["figure", "iframe"]);
+// Keep Webflow's line breaks as <br>: two in a row make a blank line inside one paragraph.
+td.addRule("br", { filter: "br", replacement: () => "<br>" });
 
 const decode = (s) => parse(`<p>${s}</p>`).text;
 

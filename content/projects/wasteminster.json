@@ -1,0 +1,812 @@
+{
+  "slug": "wasteminster",
+  "title": "Wasteminster",
+  "description": "What would happen if the plastic waste the UK exports each day was instead dumped on Downing Street and Boris Johnson? Created for Greenpeace UK, 'Wasteminster' is voiced by two of Britain’s best impressionists, Jon Culshaw and Matt Forde, the animation raises awareness of the plastic pollution crisis the UK is creating overseas as well as putting pressure on the government.",
+  "family": "fluid",
+  "background": "black",
+  "client": "Greenpeace",
+  "inGrid": true,
+  "stripes": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "content": {
+        "eyebrow": "Our Work",
+        "client": "Greenpeace",
+        "title": "Wasteminster",
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d355b23376bd7b4cbe0470_WasteminsterCover.Image.jpg",
+          "alt": ""
+        }
+      }
+    },
+    {
+      "id": "details",
+      "type": "project-details",
+      "content": {
+        "eyebrow": "ABOUT THE PROJECT",
+        "about": "## What would happen if the **plastic waste the UK exports each day was instead dumped** on Downing Street and Boris Johnson?\n\nVoiced by two of Britain’s best impressionists, Jon Culshaw and Matt Forde, the animation raises awareness of the plastic pollution crisis the UK is creating overseas as well as putting pressure on the government.",
+        "credits": [
+          {
+            "role": "Directors & writers",
+            "name": "Jorik Dozy & Sil van der Woerd"
+          },
+          {
+            "role": "Producer",
+            "name": "Wenhao Tan & Adam Booth"
+          },
+          {
+            "role": "VFX Supervisor",
+            "name": "Alex Scollay"
+          }
+        ],
+        "fullCredits": "### **Concept & Production**\n\n**Studio Birthplace**\n\n### Directors\n\nJorik Dozy & Sil van der Woerd\n\n### Producer\n\nSean Lin\n\n### V.O. Boris Johnson\n\nMatt Forde\n\n### V.O. Michael Gove\n\nJon Culshaw\n\n### Sound Design\n\nWavefarer Audio\n\n### Music Composer\n\nOnn San\n\n‍\n\n### **Co-Production & Directors Representation UK**\n\n**Park Village**\n\n### MD / Executive Producer\n\nTom Webb\n\n### Executive Producer\n\nAdam Booth\n\n### Brand Partnership Consultant\n\nPeter Myers\n\n### Recording Studio\n\nGCRS London\n\n### V.O. Sound Engineer\n\nGary Turnbull\n\n‍\n\n### **CG Production**\n\n**Method & Madness**\n\n### CG Executive Producer\n\nTan Wen Hao\n\n### CG Producer\n\nChristian Fontaine\n\n### CG Director\n\nAlex Scollay\n\n### CG Previsualization\n\nKevin Chua\n\n### CG Artists\n\nAbdul Rahman\n\nPilipino Reyes\n\nFabio Wasques\n\nJiaJun Haw\n\n### Compositing\n\nSimon ‘Duck’ Rafin",
+        "creditsNote": "GREENPEACE 2021",
+        "press": [
+          {
+            "label": "AD Week",
+            "href": "https://www.adweek.com/brand-marketing/greenpeaces-protest-ad-aims-to-pressure-uk-into-plastic-waste-export-ban"
+          },
+          {
+            "label": "Arnhemsche Courant",
+            "href": "https://arnhemschecourant.nl/britse-premier-verdrinkt-in-plastic-afval-dankzij-arnhemse-filmmaker-en-arnhemse-uitvinding/"
+          },
+          {
+            "label": "BoingBoing",
+            "href": "https://boingboing.net/2021/05/19/watch-animation-shows-how-much-recycled-plastic-britain-dumps-abroad.html"
+          },
+          {
+            "label": "Branding News",
+            "href": "https://www.branding.news/2021/05/27/a-huge-pile-of-plastic-waste-ends-up-on-downing-street"
+          },
+          {
+            "label": "Bustle",
+            "href": "https://www.bustle.com/life/uk-plastic-waste-is-being-dumped-burned-in-turkey-says-greenpeace"
+          },
+          {
+            "label": "Campaign",
+            "href": "https://www.campaignlive.co.uk/article/greenpeace-wastes-boris-comedy-ad/1716407"
+          },
+          {
+            "label": "Cartoon Brew",
+            "href": "https://www.cartoonbrew.com/vfx/how-cg-studio-method-madness-buried-boris-johnson-in-digital-trash-205559.html"
+          },
+          {
+            "label": "Circular",
+            "href": "https://www.circularonline.co.uk/news/turkey-bans-plastic-waste-imports-following-greenpeace-investigation/"
+          },
+          {
+            "label": "City Nomads",
+            "href": "https://citynomads.com/wasteminster-a-downing-street-disaster-greenpeaces-2-minute-hard-hitting-film-about-plastic-pollution/?utm_source=tw&utm_medium=organic_post&utm_campaign=film_wasteminster"
+          },
+          {
+            "label": "Collater.al",
+            "href": "https://www.collater.al/en/wasteminster-provokes-boris-johnson-environmental-policy"
+          },
+          {
+            "label": "Creative Review",
+            "href": "https://www.creativereview.co.uk/greenpeace-film-plastic-waste-wasteminster"
+          },
+          {
+            "label": "De Gelderlander",
+            "href": "https://www.gelderlander.nl/arnhem/geniale-video-van-arnhemse-filmmaker-sil-38-gaat-de-wereld-over-britse-premier-verdrinkt-in-plastic-afval~ac759a23"
+          },
+          {
+            "label": "DesignBoom",
+            "href": "https://www.designboom.com/design/greenpeace-film-plastic-waste-uk-05-19-2021"
+          },
+          {
+            "label": "Eco Hustler",
+            "href": "https://ecohustler.com/technology/wasteminster-a-downing-street-disaster"
+          },
+          {
+            "label": "Ex Bulletin",
+            "href": "https://exbulletin.com/politics/915216/"
+          },
+          {
+            "label": "Explica",
+            "href": "https://www.explica.co/boris-johnson-buried-by-a-mountain-of-plastic-in-a-shocking-greenpeace-spot.html"
+          },
+          {
+            "label": "Famous Campaigns",
+            "href": "https://www.famouscampaigns.com/2021/05/greenpeace-launches-powerful-campaign-to-expose-uks-plastics-policy"
+          },
+          {
+            "label": "Global Citizen",
+            "href": "https://www.globalcitizen.org/en/content/britain-plastic-waste-exported-turkey-greenpeace"
+          },
+          {
+            "label": "Idea Hunter",
+            "href": "https://ideahuntr.com/greenpeace-film-attacks-the-uks-plastic-policy-by-drowning-boris-johnson-in-it"
+          },
+          {
+            "label": "Indie 100",
+            "href": "https://www.indy100.com/viral/boris-johnson-swept-away-in-sea-of-plastic-uk-waste-b1851722"
+          },
+          {
+            "label": "It's Nice That",
+            "href": "https://www.itsnicethat.com/news/studio-birthplace-wasteminster-greenpeace-animation-190521"
+          },
+          {
+            "label": "Little Black Book",
+            "href": "https://www.lbbonline.com/news/wasteminster-a-downing-street-disaster"
+          },
+          {
+            "label": "London News",
+            "href": "https://londonnewstime.com/greenpeace-wastes-boris-on-comedy-ads/252705/"
+          },
+          {
+            "label": "Time",
+            "href": "https://londonnewstime.com/greenpeace-wastes-boris-on-comedy-ads/252705/"
+          },
+          {
+            "label": "Mad Over Marketing",
+            "href": "https://mad-over-marketing.com/pm-boris-johnson-is-drowning-in-plastic-in-greenpeaces-new-ad"
+          },
+          {
+            "label": "Metro",
+            "href": "https://metro.co.uk/2021/05/18/greenpeace-ad-of-downing-street-buried-in-rubbish-reveals-uks-plastic-crisis-14600165/"
+          },
+          {
+            "label": "More About Advertising",
+            "href": "https://www.moreaboutadvertising.com/2021/05/now-bumbling-boris-stars-in-geenpeaces-wasteminster"
+          },
+          {
+            "label": "Moss And Fog",
+            "href": "https://mossandfog.com/greenpeace-sends-a-giant-wave-of-plastic-waste-down-onto-boris-johnsons-eco-incompetence"
+          },
+          {
+            "label": "Motionographer",
+            "href": "https://motionographer.com/news/uk-prime-minister-boris-johnson-buried-in-plastic-waste-as-greenpeace-and-studio-birthplace-collaboration-sheds-light-on-uks-plastic-waste-exports-to-developing-countries"
+          },
+          {
+            "label": "ND TV",
+            "href": "https://www.ndtv.com/offbeat/this-video-tells-uk-politicians-to-change-its-policy-on-plastic-2445873"
+          },
+          {
+            "label": "News Break",
+            "href": "https://www.newsbreak.com/news/2262495815518/wasteminster-a-downing-street-disaster-greenpeace-s-2-minute-hard-hitting-film-about-plastic-pollution"
+          },
+          {
+            "label": "Omroep Gelderland",
+            "href": "https://www.omroepgelderland.nl/nieuws/6925613/Sil-gaat-viral-met-filmpje-over-plastic-video-al-vier-miljoen-keer-bekeken"
+          },
+          {
+            "label": "Plant Based News",
+            "href": "https://plantbasednews.org/news/environment/boris-johnson-drowns-in-plastic-in-new-satirical-animation-highlighting-pollution"
+          },
+          {
+            "label": "Shots",
+            "href": "https://www.shots.net/news/view/greenpeaces-waterfall-of-waste"
+          },
+          {
+            "label": "Small Caps News",
+            "href": "https://www.smallcapnews.co.uk/the-uk-ships-1-8-million-tons-of-plastic-waste-daily-to-another-country-greenpeace"
+          },
+          {
+            "label": "Stash",
+            "href": "https://www.stashmedia.tv/greenpeace-wasteminster-by-sil-van-der-woerd-and-jorik-dozy/"
+          },
+          {
+            "label": "Sunday World",
+            "href": "https://www.sundayworld.com/videos/startling-advert-for-greenpeace-featuring-boris-johnson-raises-uk-plastic-issues-40444147.html"
+          },
+          {
+            "label": "The Big Issue",
+            "href": "http://www.bigissue.com/latest/boris-johnson-urged-to-ban-plastic-waste-exports-as-majority-of-brits-opposed"
+          },
+          {
+            "label": "The Denver Egotist",
+            "href": "https://www.thedenveregotist.com/news/2013/05/30/daft-punk-and-the-lotus-f1-team-come-together"
+          },
+          {
+            "label": "The Drum",
+            "href": "https://www.thedrum.com/news/2021/05/18/ad-the-day-greenpeace-promo-rubbishes-politicians-plastic-promises"
+          },
+          {
+            "label": "The English Print",
+            "href": "https://www.theenglishprint.com/international-news-english/unique-opposition-to-plastic-policy-in-britain-heaps-of-garbage-dropped-on-pm-boris-44453"
+          },
+          {
+            "label": "The Guardian",
+            "href": "https://www.instagram.com/p/CPFyAs4HZVX"
+          },
+          {
+            "label": "The Independent",
+            "href": "https://www.independent.co.uk/tv/editors-picks/greenpeace-advert-criticises-government-s-plastic-policy-v522f1e86"
+          },
+          {
+            "label": "The Irish Times",
+            "href": "https://www.irishtimes.com/news/new-greenpeace-ad-portrays-boris-johnson-as-floundering-caricature-1.4569194"
+          },
+          {
+            "label": "The London Economic",
+            "href": "https://www.thelondoneconomic.com/politics/wasteminster-greenpeace-campaign-highlights-weight-of-uk-plastic-sent-overseas-269883"
+          },
+          {
+            "label": "The National News",
+            "href": "https://www.thenationalnews.com/opinion/editorial/importing-waste-is-costing-the-earth-1.1225912"
+          },
+          {
+            "label": "The Poke",
+            "href": "https://www.thepoke.co.uk/2021/05/19/this-greenpeace-video-about-plastic-waste-is-devastatingly-brilliant"
+          },
+          {
+            "label": "The Spectator",
+            "href": "https://www.spectator.co.uk/article/greenpeace-offers-no-answers-to-the-plastic-waste-crisis"
+          },
+          {
+            "label": "The Sun",
+            "href": "https://www.thesun.co.uk/news/14999034/fake-boris-johnson-drowns-in-plastic-in-hard-hitting-greenpeace-ad"
+          },
+          {
+            "label": "The Vale Magazine",
+            "href": "https://thevalemagazine.com/2021/05/31/greenpeace-boris-johnson-plastic/"
+          },
+          {
+            "label": "This Is Colossal",
+            "href": "https://www.thisiscolossal.com/2021/05/greenpeace-downing-street-plastic"
+          },
+          {
+            "label": "UK Today News",
+            "href": "https://todayuknews.com/travel/fake-boris-johnson-drowns-in-plastic-in-hard-hitting-greenpeace-ad"
+          },
+          {
+            "label": "Vimeo Staff Pick",
+            "href": "https://vimeo.com/542648585"
+          }
+        ],
+        "logo": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/648f37ed4342be4ed866de40_greenpeace.svg",
+          "alt": "",
+          "href": "https://www.greenpeace.com"
+        },
+        "creditsLabel": "View Full Credits",
+        "pressLabel": "View Media Features"
+      }
+    },
+    {
+      "id": "film-2",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "Hr6RqGg6ExE",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d473ac6e2d78cd4af11a41_WasteminsterCover.Video.jpg",
+          "ratio": "16:9"
+        }
+      }
+    },
+    {
+      "id": "cta-3",
+      "type": "cta",
+      "content": {
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d48218472e577cbf542a79_Wasteminster.getInvolved3.jpg",
+          "alt": ""
+        },
+        "heading": "Get Involved",
+        "text": "Plastic the UK government claims it recycles is being sent overseas and dumped or burned in the open air, with local communities in Turkey and Malaysia reporting serious health problems. Take action now and stop this crime.",
+        "button": {
+          "label": "Stop uK export of plastic waste",
+          "href": "https://www.greenpeace.org.uk/news/wasteminster-downing-street-disaster/"
+        }
+      }
+    },
+    {
+      "id": "stats-4",
+      "type": "stats",
+      "content": {
+        "title": "Impact",
+        "items": [
+          {
+            "number": "10m+",
+            "label": "Views Across Platforms"
+          },
+          {
+            "number": "50+",
+            "label": "International Media Features"
+          },
+          {
+            "number": "500k",
+            "label": "Petition Signatures"
+          },
+          {
+            "number": "40k+",
+            "label": "Shares Across Platforms"
+          }
+        ]
+      },
+      "padBottom": "4-5"
+    },
+    {
+      "id": "text-5",
+      "type": "text",
+      "content": {
+        "heading": "Waste Crisis",
+        "body": "Globally, many rich first world countries such as the USA, Germany, Australia and the UK export huge quantities of their plastic waste to third world and developing countries. The plastic that is carefully washed and sorted for recycling by the people is being shipped off to other countries where much of it ends up illegally dumped or burned, poisoning local people and polluting oceans and rivers.\n\n‍\n\nThe UK exported 688,000 tonnes of plastic packaging waste in 2020 which equates to an average of 1.8 million kilograms a day. It is illegal to export plastic waste unless it is recycled or incinerated in an energy-from-waste plant but investigations have revealed evidence of UK plastic being dumped and burned in the countries the UK exports the most plastic waste to, such as Turkey and Malaysia."
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "text-on-image-6",
+      "type": "text-on-image",
+      "content": {
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d4a75c32318a8278025177_WasteminsterMedia.bg.Image.jpg",
+          "alt": ""
+        },
+        "parts": [
+          {
+            "kind": "text",
+            "heading": "In the Media",
+            "body": ""
+          },
+          {
+            "kind": "gallery",
+            "image": "media",
+            "images": [
+              {
+                "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d61018801af8a75682d91c_Wasteminster.News06.webp",
+                "alt": ""
+              },
+              {
+                "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d4ace60206d8b96d771c02_Wasteminster.News02.webp",
+                "alt": ""
+              },
+              {
+                "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d611bd98e563f566fe84c5_Wasteminster.News08.webp",
+                "alt": ""
+              },
+              {
+                "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d4ace6a8f6c5ea0f7adc6a_Wasteminster.News01.webp",
+                "alt": ""
+              },
+              {
+                "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d4ace7c4a9e8a2befe057f_Wasteminster.News03.webp",
+                "alt": ""
+              },
+              {
+                "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d611bc7a3de1509af29dd4_Wasteminster.News07.webp",
+                "alt": ""
+              },
+              {
+                "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d611bd9e0dfb7d4fde720e_Wasteminster.News04.webp",
+                "alt": ""
+              },
+              {
+                "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d611bdaa83e6b3ff0ca178_Wasteminster.News09.webp",
+                "alt": ""
+              },
+              {
+                "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d611bdb5d0d1dc30ee03d5_Wasteminster.News05.webp",
+                "alt": ""
+              },
+              {
+                "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d611bc46664ffc844be020_Wasteminster.News10.webp",
+                "alt": ""
+              }
+            ]
+          }
+        ]
+      },
+      "overrides": {
+        "panel": "campaign"
+      },
+      "overrideReasons": {
+        "panel": "as on the live site (phase 1)"
+      },
+      "padBottom": "4-5"
+    },
+    {
+      "id": "campaign-7",
+      "type": "campaign",
+      "content": {
+        "heading": "The Campaign",
+        "text": "When Wasteminster released, it went viral within hours and quickly became one of the most shared pieces of content from Greenpeace UK with over 10 million views in a week. It send shockwaves through the political world and caused heavy discussions online and in the press.\n\nGreenpeace brought the film into the real world by dumping 30 seconds worth of trash exports in front of Downing Street. The film inspired school children to write signs in protest and bring them to the Prime Minister.",
+        "press": [
+          {
+            "label": "AD Week",
+            "href": "https://www.adweek.com/brand-marketing/greenpeaces-protest-ad-aims-to-pressure-uk-into-plastic-waste-export-ban"
+          },
+          {
+            "label": "Arnhemsche Courant",
+            "href": "https://arnhemschecourant.nl/britse-premier-verdrinkt-in-plastic-afval-dankzij-arnhemse-filmmaker-en-arnhemse-uitvinding/"
+          },
+          {
+            "label": "BoingBoing",
+            "href": "https://boingboing.net/2021/05/19/watch-animation-shows-how-much-recycled-plastic-britain-dumps-abroad.html"
+          },
+          {
+            "label": "Branding News",
+            "href": "https://www.branding.news/2021/05/27/a-huge-pile-of-plastic-waste-ends-up-on-downing-street"
+          },
+          {
+            "label": "Bustle",
+            "href": "https://www.bustle.com/life/uk-plastic-waste-is-being-dumped-burned-in-turkey-says-greenpeace"
+          },
+          {
+            "label": "Campaign",
+            "href": "https://www.campaignlive.co.uk/article/greenpeace-wastes-boris-comedy-ad/1716407"
+          },
+          {
+            "label": "Cartoon Brew",
+            "href": "https://www.cartoonbrew.com/vfx/how-cg-studio-method-madness-buried-boris-johnson-in-digital-trash-205559.html"
+          },
+          {
+            "label": "Circular",
+            "href": "https://www.circularonline.co.uk/news/turkey-bans-plastic-waste-imports-following-greenpeace-investigation/"
+          },
+          {
+            "label": "City Nomads",
+            "href": "https://citynomads.com/wasteminster-a-downing-street-disaster-greenpeaces-2-minute-hard-hitting-film-about-plastic-pollution/?utm_source=tw&utm_medium=organic_post&utm_campaign=film_wasteminster"
+          },
+          {
+            "label": "Collater.al",
+            "href": "https://www.collater.al/en/wasteminster-provokes-boris-johnson-environmental-policy"
+          },
+          {
+            "label": "Creative Review",
+            "href": "https://www.creativereview.co.uk/greenpeace-film-plastic-waste-wasteminster"
+          },
+          {
+            "label": "De Gelderlander",
+            "href": "https://www.gelderlander.nl/arnhem/geniale-video-van-arnhemse-filmmaker-sil-38-gaat-de-wereld-over-britse-premier-verdrinkt-in-plastic-afval~ac759a23"
+          },
+          {
+            "label": "DesignBoom",
+            "href": "https://www.designboom.com/design/greenpeace-film-plastic-waste-uk-05-19-2021"
+          },
+          {
+            "label": "Eco Hustler",
+            "href": "https://ecohustler.com/technology/wasteminster-a-downing-street-disaster"
+          },
+          {
+            "label": "Ex Bulletin",
+            "href": "https://exbulletin.com/politics/915216/"
+          },
+          {
+            "label": "Explica",
+            "href": "https://www.explica.co/boris-johnson-buried-by-a-mountain-of-plastic-in-a-shocking-greenpeace-spot.html"
+          },
+          {
+            "label": "Famous Campaigns",
+            "href": "https://www.famouscampaigns.com/2021/05/greenpeace-launches-powerful-campaign-to-expose-uks-plastics-policy"
+          },
+          {
+            "label": "Global Citizen",
+            "href": "https://www.globalcitizen.org/en/content/britain-plastic-waste-exported-turkey-greenpeace"
+          },
+          {
+            "label": "Idea Hunter",
+            "href": "https://ideahuntr.com/greenpeace-film-attacks-the-uks-plastic-policy-by-drowning-boris-johnson-in-it"
+          },
+          {
+            "label": "Indie 100",
+            "href": "https://www.indy100.com/viral/boris-johnson-swept-away-in-sea-of-plastic-uk-waste-b1851722"
+          },
+          {
+            "label": "It's Nice That",
+            "href": "https://www.itsnicethat.com/news/studio-birthplace-wasteminster-greenpeace-animation-190521"
+          },
+          {
+            "label": "Little Black Book",
+            "href": "https://www.lbbonline.com/news/wasteminster-a-downing-street-disaster"
+          },
+          {
+            "label": "London News",
+            "href": "https://londonnewstime.com/greenpeace-wastes-boris-on-comedy-ads/252705/"
+          },
+          {
+            "label": "Time",
+            "href": "https://londonnewstime.com/greenpeace-wastes-boris-on-comedy-ads/252705/"
+          },
+          {
+            "label": "Mad Over Marketing",
+            "href": "https://mad-over-marketing.com/pm-boris-johnson-is-drowning-in-plastic-in-greenpeaces-new-ad"
+          },
+          {
+            "label": "Metro",
+            "href": "https://metro.co.uk/2021/05/18/greenpeace-ad-of-downing-street-buried-in-rubbish-reveals-uks-plastic-crisis-14600165/"
+          },
+          {
+            "label": "More About Advertising",
+            "href": "https://www.moreaboutadvertising.com/2021/05/now-bumbling-boris-stars-in-geenpeaces-wasteminster"
+          },
+          {
+            "label": "Moss And Fog",
+            "href": "https://mossandfog.com/greenpeace-sends-a-giant-wave-of-plastic-waste-down-onto-boris-johnsons-eco-incompetence"
+          },
+          {
+            "label": "Motionographer",
+            "href": "https://motionographer.com/news/uk-prime-minister-boris-johnson-buried-in-plastic-waste-as-greenpeace-and-studio-birthplace-collaboration-sheds-light-on-uks-plastic-waste-exports-to-developing-countries"
+          },
+          {
+            "label": "ND TV",
+            "href": "https://www.ndtv.com/offbeat/this-video-tells-uk-politicians-to-change-its-policy-on-plastic-2445873"
+          },
+          {
+            "label": "News Break",
+            "href": "https://www.newsbreak.com/news/2262495815518/wasteminster-a-downing-street-disaster-greenpeace-s-2-minute-hard-hitting-film-about-plastic-pollution"
+          },
+          {
+            "label": "Omroep Gelderland",
+            "href": "https://www.omroepgelderland.nl/nieuws/6925613/Sil-gaat-viral-met-filmpje-over-plastic-video-al-vier-miljoen-keer-bekeken"
+          },
+          {
+            "label": "Plant Based News",
+            "href": "https://plantbasednews.org/news/environment/boris-johnson-drowns-in-plastic-in-new-satirical-animation-highlighting-pollution"
+          },
+          {
+            "label": "Shots",
+            "href": "https://www.shots.net/news/view/greenpeaces-waterfall-of-waste"
+          },
+          {
+            "label": "Small Caps News",
+            "href": "https://www.smallcapnews.co.uk/the-uk-ships-1-8-million-tons-of-plastic-waste-daily-to-another-country-greenpeace"
+          },
+          {
+            "label": "Stash",
+            "href": "https://www.stashmedia.tv/greenpeace-wasteminster-by-sil-van-der-woerd-and-jorik-dozy/"
+          },
+          {
+            "label": "Sunday World",
+            "href": "https://www.sundayworld.com/videos/startling-advert-for-greenpeace-featuring-boris-johnson-raises-uk-plastic-issues-40444147.html"
+          },
+          {
+            "label": "The Big Issue",
+            "href": "http://www.bigissue.com/latest/boris-johnson-urged-to-ban-plastic-waste-exports-as-majority-of-brits-opposed"
+          },
+          {
+            "label": "The Denver Egotist",
+            "href": "https://www.thedenveregotist.com/news/2013/05/30/daft-punk-and-the-lotus-f1-team-come-together"
+          },
+          {
+            "label": "The Drum",
+            "href": "https://www.thedrum.com/news/2021/05/18/ad-the-day-greenpeace-promo-rubbishes-politicians-plastic-promises"
+          },
+          {
+            "label": "The English Print",
+            "href": "https://www.theenglishprint.com/international-news-english/unique-opposition-to-plastic-policy-in-britain-heaps-of-garbage-dropped-on-pm-boris-44453"
+          },
+          {
+            "label": "The Guardian",
+            "href": "https://www.instagram.com/p/CPFyAs4HZVX"
+          },
+          {
+            "label": "The Independent",
+            "href": "https://www.independent.co.uk/tv/editors-picks/greenpeace-advert-criticises-government-s-plastic-policy-v522f1e86"
+          },
+          {
+            "label": "The Irish Times",
+            "href": "https://www.irishtimes.com/news/new-greenpeace-ad-portrays-boris-johnson-as-floundering-caricature-1.4569194"
+          },
+          {
+            "label": "The London Economic",
+            "href": "https://www.thelondoneconomic.com/politics/wasteminster-greenpeace-campaign-highlights-weight-of-uk-plastic-sent-overseas-269883"
+          },
+          {
+            "label": "The National News",
+            "href": "https://www.thenationalnews.com/opinion/editorial/importing-waste-is-costing-the-earth-1.1225912"
+          },
+          {
+            "label": "The Poke",
+            "href": "https://www.thepoke.co.uk/2021/05/19/this-greenpeace-video-about-plastic-waste-is-devastatingly-brilliant"
+          },
+          {
+            "label": "The Spectator",
+            "href": "https://www.spectator.co.uk/article/greenpeace-offers-no-answers-to-the-plastic-waste-crisis"
+          },
+          {
+            "label": "The Sun",
+            "href": "https://www.thesun.co.uk/news/14999034/fake-boris-johnson-drowns-in-plastic-in-hard-hitting-greenpeace-ad"
+          },
+          {
+            "label": "The Vale Magazine",
+            "href": "https://thevalemagazine.com/2021/05/31/greenpeace-boris-johnson-plastic/"
+          },
+          {
+            "label": "This Is Colossal",
+            "href": "https://www.thisiscolossal.com/2021/05/greenpeace-downing-street-plastic"
+          },
+          {
+            "label": "UK Today News",
+            "href": "https://todayuknews.com/travel/fake-boris-johnson-drowns-in-plastic-in-hard-hitting-greenpeace-ad"
+          },
+          {
+            "label": "Vimeo Staff Pick",
+            "href": "https://vimeo.com/542648585"
+          }
+        ],
+        "pressLabel": "View Media Features",
+        "link": {
+          "label": "Greenpeace Landing Page",
+          "href": "https://www.greenpeace.org.uk/news/wasteminster-downing-street-disaster/"
+        }
+      }
+    },
+    {
+      "id": "gallery-8",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d72fc3c5b4695a3d4f2b12_Wasteminster.GPaction.01.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d72fc9870e6d2e8b48e42e_Wasteminster.GPaction.02.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d73188c06242d5eb74ee9c_childrenDemonstrate.02.webp",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d73189118d914efee303f6_childrenDemonstrate.01.webp",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d72fc9afa6be22dccaa87a_Wasteminster.GPaction.03.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d72fc9c4fb59c82b14cd75_Wasteminster.GPaction.04.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d730c98cdd1ef56e094675_Wasteminster.GPaction.05.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "align": "center"
+      },
+      "overrideReasons": {
+        "align": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "quote-9",
+      "type": "quote",
+      "content": {
+        "quote": "\"The dedication and outstanding technical ability that has gone into this animation is phenomenal. We’re so grateful for the creativity of Studio Birthplace and Park Village, the ecological ethos of directors Sil & Jorik, and the CGI skills of Method & Madness. This powerful film will show people the shocking truth about what happens to plastic the government tells us is being recycled. And who better to enlist for the voiceovers than impressionists from the legendary Spitting Image, the impeccable voice talents of Jon Culshaw and Matt Forde.\"",
+        "cite": "Greenpeace Senior Campaigner Nina Schrank"
+      },
+      "padTop": "4-5"
+    },
+    {
+      "id": "text-10",
+      "type": "text",
+      "content": {
+        "heading": "Changed The Law",
+        "body": "Greenpeace campaigners delivered petitions from the UK and Turkey to 10 Downing Street, calling on the UK government to stop dumping plastic waste in Turkey. The petition was signed by 422,735 in the UK and 71,000 in Turkey. Greenpeace demanded that the UK government immediately ban exports of plastic waste and tackle plastic pollution at source by reducing single use plastic by 50% by 2023.\n\n‍\n\nDue to the pressure of the campaign, Turkey announced a ban on plastic waste imports coming from the UK. The immediate result of the ban was a dramatic drop of waste entering the country, reaching almost zero.\n\n‍\n\nUnfortunately, the fight continues as slowly plastic waste imports started rising again and eventually the ban was reverted by the Turkish government."
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-11",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d74d1c2882715a10e4c115_GP1SX7HN_PressMedia.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d735bf80214893b6bb28ec_Plastics-Petition-Hand-in-at-Downing-Street-in-London-Suzanne-Plunkett-Greenpeace.webp",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d750b29f6e504216c61c72_Guardian.ban2.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d73b76cb8e7b4098794de9_Turkey.plastic.Imports.webp",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "align": "center"
+      },
+      "overrideReasons": {
+        "align": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "text-on-image-13",
+      "type": "text-on-image",
+      "content": {
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d754bed520cd31450b357a_WasteminsterBG.BTS2.jpg",
+          "alt": ""
+        },
+        "parts": [
+          {
+            "kind": "text",
+            "heading": "Production",
+            "body": "We believe that comedy can be a powerful tool to help tell some of the saddest stories in our world. That's why we created mannequin versions of Boris Johnson and Michael Gove that represent them, but that also introduce some distance to these real politicians. After all, they are only dummies. Our intention was not to ridicule politicians, but to place their dummy-personas in a direct conflict with the invisible consequences of their own actions.",
+            "dark": true
+          },
+          {
+            "kind": "film",
+            "film": {
+              "provider": "youtube",
+              "id": "1OL8FxUwlT0",
+              "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d7552e41e4da38f2b55af6_WasteminsterCover.BTS.jpg",
+              "ratio": "16:9"
+            }
+          }
+        ]
+      },
+      "spaceBefore": "4-5"
+    },
+    {
+      "id": "quote-14",
+      "type": "quote",
+      "content": {
+        "quote": "\"We didn’t want to put words into Boris’s mouth so we went through hours of interviews and speeches by Boris and the government where plastic pollution and the environment were discussed and quotes were extracted. All statements in the film were made by Boris and the government.\"",
+        "cite": "Directors Jorik Dozy & Sil van der Woerd"
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "text-15",
+      "type": "text",
+      "content": {
+        "heading": "1.8 Million KG",
+        "body": "To visualize how much trash the UK exports daily, we started with the latest real world data. In 2020, the UK exported an average of 1.8 million kilograms of plastic waste every single day.\n\nWe researched the most common items found in household plastic waste, which resulted in 150 different pieces - plastic bags, coffee cups, etc. These were then modeled in 3d with various crushed or damaged variations to add to the realism. Using Daniel Webb and Dr. Julie Schneider’s research of their ‘Everyday Plastic’ project, we fine tuned the balance between all the items and how frequent they are found in our trash. We then looked up the average weight of each of the 150 items and concluded that it takes on average, 37 plastic items to make up 1KG of plastic waste. \n\n‍\n\nThat makes the daily export of UK plastic waste a total of 67.7 million pieces.\n\n‍\n\nThe talented team at Method & Madness under leadership of CG Director Alex Scollay built a digital Downing Street set using satellite imagery onto which we unleashed a computer simulation. To define the actual size of the waste pile, we combined 1,000 plastic items into a single, large ball. We then dropped 67.7 thousand of those balls onto our digital set, giving us a realistic representation of the actual daily volume. In total, the two minute film required roughly 14,600 hours of render time, or 20 months, to create the final shots. The CO2 emitted by our render farm was compensated for."
+      },
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-16",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d9d82b6ac57a7675e86e23_Wasteminster.bts.01.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d9d82a41e4bdcda5780403_Wasteminster.bts.02.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d9daa0f55fa45b0ec04d43_Wasteminster.bts.03.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d9d82ba0cf4509f3a26aae_Wasteminster.bts.04.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d9d82b912b10774dc9aee6_Wasteminster.bts.05.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "image": "bts"
+      },
+      "overrideReasons": {
+        "image": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "more-work",
+      "type": "more-work",
+      "content": {
+        "button": {
+          "label": "View More Work",
+          "href": "/work"
+        }
+      }
+    }
+  ]
+}

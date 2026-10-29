@@ -1,0 +1,73 @@
+/* Live: .fl-numbers-container, .fl-numbers-layout, .fl-numbers-layout-title-wrapper,
+   .fl-numbers-number-wrapper (.cc-is-second, .cc-is-last), .fl-numbers-number-big,
+   .fl-numbers-number-paragraph-description */
+
+.container {
+  width: 100%;
+  max-width: 74.75em;
+  margin-inline: auto;
+}
+
+.layout {
+  display: flex;
+  justify-content: center;
+}
+
+.titleBox {
+  flex: 1;
+}
+
+.title {
+  margin: 0;
+  color: var(--color-white);
+}
+
+.item {
+  width: 15.875em;
+  padding-inline: 3.5em;
+  border-right: 1px solid var(--color-stat-divider);
+}
+
+.item:last-child {
+  border-right-style: none;
+}
+
+.number {
+  color: var(--color-link);
+}
+
+.label {
+  color: var(--color-white);
+}
+
+@media (max-width: 991px) {
+  .container {
+    width: 90%;
+  }
+
+  .layout {
+    flex-wrap: wrap;
+    row-gap: 3em;
+  }
+
+  .titleBox {
+    flex: 0 auto;
+    width: 100%;
+  }
+
+  .item {
+    flex: 1;
+  }
+
+  .item:nth-child(3) {
+    border-right-style: none;
+  }
+}
+
+@media (max-width: 767px) {
+  .item {
+    flex: 1 0 100%;
+    padding-left: 0;
+    border-right-style: none;
+  }
+}

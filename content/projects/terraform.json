@@ -1,0 +1,307 @@
+{
+  "slug": "terraform",
+  "title": "Terraform",
+  "description": "The music video for Novo Amor and Lowswimmer's 'Terraform' tells the true story of the hardships and sacrifices the sulphur miners of Kawah Ijen make in order to provide for their family. Together with about 100 more miners, Bas (a real miner featured in the video) extracts sulphur from the highly toxic crater of mount Ijen in Indonesia, risking his health in the process.",
+  "family": "fluid",
+  "background": "black",
+  "client": "Novo Amor & Lowswimmer",
+  "inGrid": true,
+  "stripes": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "content": {
+        "eyebrow": "Our Work",
+        "client": "Novo Amor & Lowswimmer",
+        "title": "Terraform",
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/660617d5e83dbc240fc1cb4c_Terraform.CoverImage.jpg",
+          "alt": ""
+        }
+      }
+    },
+    {
+      "id": "details",
+      "type": "project-details",
+      "content": {
+        "eyebrow": "ABOUT THE PROJECT",
+        "about": "## Terraform tells **the true story of the hardships and sacrifices** the sulphur miners of Kawah Ijen make in order to provide for their family.\n\nTogether with about 100 more miners, Bas (a real miner featured in the video) extracts sulphur from the highly toxic crater of mount Ijen in Indonesia, risking his health in the process.",
+        "credits": [
+          {
+            "role": "Directors & writers",
+            "name": "Jorik Dozy & Sil van der Woerd"
+          },
+          {
+            "role": "Producer",
+            "name": "Sean Lin"
+          },
+          {
+            "role": "Cinematographer",
+            "name": "Nicholas Chin"
+          }
+        ],
+        "fullCredits": "### Directors & Writers\n\nJorik Dozy & Sil van der Woerd\n\n### Producer\n\nSean Lin\n\n### Miner\n\nBastomi\n\n### Wife\n\nSiti Sulaeha\n\n### Daughter\n\nSifa Nur Hasanah\n\n### Additional Miners\n\nJaelani\n\nSantoso\n\nAsia\n\nJumanto\n\nSal\n\nBagyo\n\n### Director of Photography\n\nNicholas Chin​\n\n### AD / Line Producer / Translator\n\nBayu Topan\n\n### AC / BTS\n\nSkaise Kazragyte\n\n### Fixer\n\nVanya Safitri\n\n### Rigging Team\n\nAbdul Rohim\n\nPanca Teguh Suparman\n\nCatur Wahyudi\n\nSucintoro Satria Hadinata\n\nRahem\n\nKholifah Az-Zahro\n\n### Driver\n\nSutik\n\n### Porters\n\nSal\n\nSantoso\n\nAsia\n\n### Edit & Color\n\nJorik Dozy & Sil van der Woerd\n\n### Compositer\n\nGina Phoo\n\nGermaine Phoo\n\nEugene Matthew\n\nCheong Onn Senye\n\n### Music\n\n'Terraform' by Novo Amor & Ed Tullett\n\n### Record Label\n\nDave Grinnell\n\nAndy Inglis\n\nAll Points\n\n### Thanks To\n\nHeinz von Holzen\n\nsmpn 1 giri banyuwangi (suspension school)\n\n‍\n\n‍",
+        "creditsNote": "“Terraform\" (Novo Amor & Lowswimmer) © AllPoints NOVO AMOR & LOWSWIMMER 2017",
+        "press": [
+          {
+            "label": "Earmilk",
+            "href": "https://earmilk.com/2017/12/21/novo-amor-ed-tullett-talk-dynamic-and-formative-music-the-terraform-video-and-the-creation-of-heiress-interview/"
+          },
+          {
+            "label": "It's Nice That",
+            "href": "https://www.itsnicethat.com/news/novo-amor-and-ed-tullett-sil-and-jorik-terraform-film-261017"
+          },
+          {
+            "label": "Metalocus",
+            "href": "https://www.metalocus.es/en/news/terraform-novo-amor-ed-tullett"
+          },
+          {
+            "label": "",
+            "href": "https://www.greenpeace.org.au/blog/novo-amor-birthplace/"
+          }
+        ],
+        "logo": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d2d7c4ec36cc22969d905a_NA.logo.jpg",
+          "alt": "",
+          "href": "https://novoamor.co.uk/"
+        },
+        "creditsLabel": "View Full Credits",
+        "pressLabel": "View Media Features"
+      }
+    },
+    {
+      "id": "film-2",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "AK75VFQQA40",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6610f97ff1eebb5a51d484a5_Terraform.Cover.video.jpg",
+          "ratio": "2.36:1"
+        }
+      }
+    },
+    {
+      "id": "stats-3",
+      "type": "stats",
+      "content": {
+        "title": "Impact",
+        "items": [
+          {
+            "number": "3.2m",
+            "label": "Views Across Platforms"
+          },
+          {
+            "number": "$20k",
+            "label": "Raised for local NGO"
+          },
+          {
+            "number": "100",
+            "label": "Children funded schooling"
+          },
+          {
+            "number": "19",
+            "label": "International Awards"
+          }
+        ]
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "text-4",
+      "type": "text",
+      "content": {
+        "heading": "For Family",
+        "body": "Two times a day, miners like Bas carry loads weighing up to 95KG each up to the rim of the volcano and down the mountain, all without the use of any modern tools or equipment. All for less than 10 dollars a day.\n\n‍<br>\n\nWith a reduced life expectancy and deteriorating health, Bas sacrifices himself to sustain his family and give his children a future. His story is a humbling reminder that many people in this world suffer terrible working conditions everyday.\n\n‍"
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-5",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/660624ba38e757dde9c340b0_Terraform.Still2.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/660624ba5e1b01c5af46db4b_Terraform.Still3.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/660624bae83dbc240fccc269_Terraform.Still4.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/660624ba789f950f3a259415_Terraform.Still5.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/660624bb463c07469c8ac486_Terraform.Still6.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/660624ba38e757dde9c340aa_Terraform.Still7.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/660624ba9107247da79a8249_Terraform.Still8.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/660624bad17db3d2a6dd5363_Terraform.Still9.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/660624bba5677c4756ea1022_Terraform.Still10.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "image": "wide"
+      },
+      "overrideReasons": {
+        "image": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "text-6",
+      "type": "text",
+      "content": {
+        "heading": "Production",
+        "body": "To capture the video we followed Bas into the active volcano and experienced what the miners go through in a day's work; When the sulfur gasses hit us the cloud was so thick and big, there was no way to escape it. Even with our gas masks and goggles on it was unbearable as the smoke stung our eyes and lungs, making it almost impossible to breath at times. But the miners have no masks or goggles. They simply wear a piece of cloth in front of their mouth.\n\n​\n\nWe covered our camera to protect it from the toxic sulfur fumes so we could film right in the middle of it, getting the close ups of the miners in action. To achieve the family floating in the air we build an improvised rig in between trees on a school yard with the help of the local school teachers.\n\n‍\n\nWatch The Story of Terraform, a behind the scenes documentary that dives into the hardships of the miners and their families."
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "film-7",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "REe8KqX-lqU",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/660762884d546ada97c67700_Terraform.VideoBTSCover.jpg",
+          "ratio": "16:9"
+        }
+      },
+      "overrides": {
+        "size": "medium"
+      },
+      "overrideReasons": {
+        "size": "as on the live site (phase 1)"
+      },
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-8",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66075ee640e39c69217d137e_Terraform.BTS2.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66075ee693f055261b4f559b_Terraform.BTS3.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66075ee580088fd2352ab730_Terraform.BTS1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66075ee66fa59b6be6024bfe_Terraform.BTS4.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/660762884d546ada97c67700_Terraform.VideoBTSCover.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "align": "center"
+      },
+      "overrideReasons": {
+        "align": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "campaign-10",
+      "type": "campaign",
+      "content": {
+        "heading": "The Campaign",
+        "text": "We founded Ijen Assistance; a platform that raises funds to help the Ijen community. The project is linked to Heinz von Holzen, who found out about the miners long before us and put incredible effort into helping them. He introduced trolleys so that the miners no longer have to carry the sulphur down the mountain, his foundation sends the miners' children to school and provides the miners with clothes and shoes.\n\nThe platform has raised over 20 thousand dollars to date.\n\nThe funds have been used to purchase better equipment to improve the safety of the miners, fund the schooling for over 100 kids in the community and to buy new desk and chairs in the local schools.",
+        "press": [
+          {
+            "label": "Earmilk",
+            "href": "https://earmilk.com/2017/12/21/novo-amor-ed-tullett-talk-dynamic-and-formative-music-the-terraform-video-and-the-creation-of-heiress-interview/"
+          },
+          {
+            "label": "It's Nice That",
+            "href": "https://www.itsnicethat.com/news/novo-amor-and-ed-tullett-sil-and-jorik-terraform-film-261017"
+          },
+          {
+            "label": "Metalocus",
+            "href": "https://www.metalocus.es/en/news/terraform-novo-amor-ed-tullett"
+          }
+        ],
+        "pressLabel": "View Media Features",
+        "link": {
+          "label": "Ijen Assistance Landing Page",
+          "href": "https://www.simplygiving.com/appeal/ijenassistance"
+        }
+      },
+      "spaceBefore": "4-5"
+    },
+    {
+      "id": "gallery-11",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/660c93ec5cbc5fc2c91058de_Terraform.IjenAssistance1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/660c93ecf4020d2e666b6a32_Terraform.IjenAssistance3.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/660c93ec1113e4ba30edbd78_Terraform.IjenAssistance2.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/660c93ebdc1cd184c59fa990_Terraform.IjenAssistance4.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/660c93ece60a5ffb233f85f7_Terraform.IjenAssistance5.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "align": "center"
+      },
+      "overrideReasons": {
+        "align": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "more-work",
+      "type": "more-work",
+      "content": {
+        "button": {
+          "label": "View More Work",
+          "href": "/work"
+        }
+      }
+    }
+  ]
+}

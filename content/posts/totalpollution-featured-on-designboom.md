@@ -30,7 +30,7 @@ As part of calling out TotalEnergies, one of the sponsors of the Rugby World Cup
 
 The last 10 seconds of the video feature footage of real climate destruction caused both directly and indirectly by the fossil fuel industry.
 
-‍  
+‍<br>
 
 The full article can be read [here](https://www.designboom.com/design/rugby-world-cup-2023-campaign-fossil-fuel-totalenergies-greenpeace-studio-birthplace-08-31-2023/).
 

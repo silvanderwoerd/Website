@@ -1,0 +1,966 @@
+{
+  "slug": "total-pollution",
+  "title": "Total Pollution",
+  "description": "Greenpeace's TotalPollution unmasks how fossil fuel giants like TotalEnergies sponsor major sporting events to greenwash their dirty business. All the while continuing to add to the climate crisis - and urges audiences to stand against the exploitation of sports and the ecological harm caused by corporate interests and advocate for a sustainable, livable future for all.",
+  "family": "fluid",
+  "background": "black",
+  "client": "Greenpeace",
+  "inGrid": true,
+  "stripes": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "content": {
+        "eyebrow": "Our Work",
+        "client": "Greenpeace",
+        "title": "TotalPollution",
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6600b3f19e4cbfc61886dedd_TotalPollution.CoverImage.jpg",
+          "alt": ""
+        }
+      }
+    },
+    {
+      "id": "details",
+      "type": "project-details",
+      "content": {
+        "eyebrow": "ABOUT THE PROJECT",
+        "about": "## TotalPollution unmasks how fossil fuel giants like **TotalEnergies sponsor major sporting events to greenwash** their dirty business.\n\nAll the while continuing to add to the climate crisis - and urges audiences to stand against the exploitation of sports and the ecological harm caused by corporate interests and advocate for a sustainable, livable future for all.",
+        "credits": [
+          {
+            "role": "Directors & writers",
+            "name": "Jorik Dozy & Sil van der Woerd"
+          },
+          {
+            "role": "Producer",
+            "name": "Alea Rahim"
+          },
+          {
+            "role": "VFX Supervisor",
+            "name": "Tim Smit"
+          }
+        ],
+        "fullCredits": "### Production Company\n\nStudio Birthplace\n\n### Film Directors / Writers / Editors\n\nJorik Dozy & Sil van der Woerd\n\n### Producer\n\nAlea Rahim\n\n### Executive Producer\n\nSean Lin\n\n### Executive Producer\n\nAdam Booth, Park Village\n\n‍\n\n### CG Director / Producer\n\n‍\n\n### / Lead Liquid Simulation Artist\n\nTimSmiT\n\n‍\n\n### CG Supervisor / Shading & Lighting Artist\n\n‍\n\n### / Compositor\n\nMatthijs Joor\n\n‍\n\n### Additional Sims by Nervous FX\n\nLuka Zabret\n\nBlaz Miklavic\n\n### Camera Tracking\n\nElephant Gate\n\n‍\n\n### VO Talent (ENG)\n\nSeán Burke\n\n### VO Talent (FRA)\n\nGuillaume Meurice\n\n### Recording Studio (UK)\n\nSound Studio - Grand Central Sound Studios\n\n### VO Sound Engineer\n\nMiles Henry\n\n### French Voice Over Director\n\nStéphane Ridard\n\n### Recording Studio (FRA)\n\nBenzēne in Paris, France\n\n### VO Sound Engineer\n\nPauline Facon\n\n### Sound Designer\n\nJoe Wills\n\n### Color Grade\n\nAlex Gregory, No. 8 London\n\n‍\n\n### Greenpeace Team\n\nMarta Alemany\n\nHélène Bourges\n\nCécile Caillez\n\nCamille Collin\n\nDelphine De La Encina\n\nSarah Fayolle\n\nMyrtille Gibaud\n\nLisa Goeldner\n\nClara Gonzales\n\nJulian Gretsch\n\nPriska Haidant\n\nRussell Harvey\n\nEdina Ifticène\n\nAmy Jacobsen\n\nGuillaumine Lickel\n\nElsa Palito\n\nMagali Rubino\n\nEleonore Thelot\n\nJasmine Watkiss",
+        "creditsNote": "GREENPEACE 2023",
+        "press": [
+          {
+            "label": "ABC News",
+            "href": "https://abcnews.go.com/Sports/wireStory/greenpeace-releases-animated-video-campaign-fossil-fuel-sponsorship-102668859"
+          },
+          {
+            "label": "‍",
+            "href": "https://abcnews.go.com/Sports/wireStory/greenpeace-releases-animated-video-campaign-fossil-fuel-sponsorship-102668859"
+          },
+          {
+            "label": "AOL",
+            "href": "https://www.aol.com/news/greenpeace-releases-animated-video-campaign-104615299.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuYmluZy5jb20v&guce_referrer_sig=AQAAABkgNq18wbySnug0YJpunlTzWtvYMr2GaKi9sXnoNA9DiZREljizeYwuQdIIWAZt7H2bmR92oupieVrN-RMMBp2t-mvzK4QA_G8c44cWSUNqgBPlekMUuj278qm_Siv1AkgNqQltjvX-pcqnl4KkAN6wpnC6AS9vCyvj_PLEVRyK"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.aol.com/news/greenpeace-releases-animated-video-campaign-104615299.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuYmluZy5jb20v&guce_referrer_sig=AQAAABkgNq18wbySnug0YJpunlTzWtvYMr2GaKi9sXnoNA9DiZREljizeYwuQdIIWAZt7H2bmR92oupieVrN-RMMBp2t-mvzK4QA_G8c44cWSUNqgBPlekMUuj278qm_Siv1AkgNqQltjvX-pcqnl4KkAN6wpnC6AS9vCyvj_PLEVRyK"
+          },
+          {
+            "label": "AP News",
+            "href": "https://apnews.com/article/world-cup-totalenergies-greenpeace-141503d85aa8cbb227c1a1550f7742d8"
+          },
+          {
+            "label": "‍",
+            "href": "https://apnews.com/article/world-cup-totalenergies-greenpeace-141503d85aa8cbb227c1a1550f7742d8"
+          },
+          {
+            "label": "BBC News",
+            "href": "https://www.bbc.com/sport/rugby-union/66723726"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.bbc.com/sport/rugby-union/66723726"
+          },
+          {
+            "label": "Buzz",
+            "href": "https://www.buzz.ie/news/world-news/totalenergies-rugby-world-cup-greenpeace-30814998"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.buzz.ie/news/world-news/totalenergies-rugby-world-cup-greenpeace-30814998"
+          },
+          {
+            "label": "Campaign",
+            "href": "https://www.campaignlive.co.uk/article/greenpeace-france-totalpollution-dirty-game-studio-birthplace/1835632"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.campaignlive.co.uk/article/greenpeace-france-totalpollution-dirty-game-studio-birthplace/1835632"
+          },
+          {
+            "label": "Creative Review",
+            "href": "https://www.creativereview.co.uk/greenpeace-rugby-world-cup-campaign/"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.creativereview.co.uk/greenpeace-rugby-world-cup-campaign/"
+          },
+          {
+            "label": "Designboom",
+            "href": "https://www.designboom.com/design/rugby-world-cup-2023-campaign-fossil-fuel-totalenergies-greenpeace-studio-birthplace-08-31-2023/"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.designboom.com/design/rugby-world-cup-2023-campaign-fossil-fuel-totalenergies-greenpeace-studio-birthplace-08-31-2023/"
+          },
+          {
+            "label": "Financial Express",
+            "href": "https://www.financialexpress.com/business/brandwagon-greenpeace-unveils-animated-video-as-part-of-campaign-targeting-fossil-fuel-sponsorship-of-rugby-world-cup-3228134/"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.financialexpress.com/business/brandwagon-greenpeace-unveils-animated-video-as-part-of-campaign-targeting-fossil-fuel-sponsorship-of-rugby-world-cup-3228134/"
+          },
+          {
+            "label": "Forbes",
+            "href": "https://www.forbes.com/sites/vitascarosella/2023/09/01/rugby-world-cup-2023-how-environmentally-sustainable-will-it-be/"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.forbes.com/sites/vitascarosella/2023/09/01/rugby-world-cup-2023-how-environmentally-sustainable-will-it-be/"
+          },
+          {
+            "label": "France Bleu",
+            "href": "https://www.francebleu.fr/infos/environnement/mondial-de-rugby-dans-une-video-choc-greenpeace-denonce-le-sponsoring-de-totalenergies-6033110"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.francebleu.fr/infos/environnement/mondial-de-rugby-dans-une-video-choc-greenpeace-denonce-le-sponsoring-de-totalenergies-6033110"
+          },
+          {
+            "label": "Huffington Post",
+            "href": "https://www.huffingtonpost.fr/environnement/video/a-10-jours-de-la-coupe-du-monde-de-rugby-la-campagne-choc-de-greenpeace-contre-totalenergies-et-le-greenwashing_222386.html"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.huffingtonpost.fr/environnement/video/a-10-jours-de-la-coupe-du-monde-de-rugby-la-campagne-choc-de-greenpeace-contre-totalenergies-et-le-greenwashing_222386.html"
+          },
+          {
+            "label": "Irish Daily Mirror",
+            "href": "https://www.irishmirror.ie/news/irish-news/irish-comedians-existential-terror-moved-30815558"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.irishmirror.ie/news/irish-news/irish-comedians-existential-terror-moved-30815558"
+          },
+          {
+            "label": "It's Nice That",
+            "href": "https://www.itsnicethat.com/news/greenpeace-studio-birthplace-totalpollution-film-300823"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.itsnicethat.com/news/greenpeace-studio-birthplace-totalpollution-film-300823"
+          },
+          {
+            "label": "La Montagne",
+            "href": "https://www.lamontagne.fr/paris-75000/sports/coupe-du-monde-greenpeace-publie-une-video-pour-denoncer-le-sponsoring-de-totalenergies-et-deplore-une-tentative-de-censure_14362871/"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.lamontagne.fr/paris-75000/sports/coupe-du-monde-greenpeace-publie-une-video-pour-denoncer-le-sponsoring-de-totalenergies-et-deplore-une-tentative-de-censure_14362871/"
+          },
+          {
+            "label": "La Republique",
+            "href": "https://www.larep.fr/paris-75000/sports/coupe-du-monde-greenpeace-publie-une-video-pour-denoncer-le-sponsoring-de-totalenergies-et-deplore-une-tentative-de-censure_14362871/"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.larep.fr/paris-75000/sports/coupe-du-monde-greenpeace-publie-une-video-pour-denoncer-le-sponsoring-de-totalenergies-et-deplore-une-tentative-de-censure_14362871/"
+          },
+          {
+            "label": "L'Echo Republicain",
+            "href": "https://www.lechorepublicain.fr/paris-75000/sports/coupe-du-monde-greenpeace-publie-une-video-pour-denoncer-le-sponsoring-de-totalenergies-et-deplore-une-tentative-de-censure_14362871/"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.lechorepublicain.fr/paris-75000/sports/coupe-du-monde-greenpeace-publie-une-video-pour-denoncer-le-sponsoring-de-totalenergies-et-deplore-une-tentative-de-censure_14362871/"
+          },
+          {
+            "label": "La Parisien",
+            "href": "https://www.leparisien.fr/sports/rugby/coupe-du-monde/coupe-du-monde-de-rugby-greenpeace-sattaque-au-sponsoring-de-totalenergies-30-08-2023-LEMMY6DGP5F7PPUM47KYOTIE3I.php?at_creation=Le%20Parisien%20%7C%20Ma%20Terre&at_campaign=Partage%20Twitter%20CM&at_medium=Social%20media"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.leparisien.fr/sports/rugby/coupe-du-monde/coupe-du-monde-de-rugby-greenpeace-sattaque-au-sponsoring-de-totalenergies-30-08-2023-LEMMY6DGP5F7PPUM47KYOTIE3I.php?at_creation=Le%20Parisien%20%7C%20Ma%20Terre&at_campaign=Partage%20Twitter%20CM&at_medium=Social%20media"
+          },
+          {
+            "label": "Le Populaire",
+            "href": "https://www.lepopulaire.fr/paris-75000/sports/coupe-du-monde-greenpeace-publie-une-video-pour-denoncer-le-sponsoring-de-totalenergies-et-deplore-une-tentative-de-censure_14362871/"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.lepopulaire.fr/paris-75000/sports/coupe-du-monde-greenpeace-publie-une-video-pour-denoncer-le-sponsoring-de-totalenergies-et-deplore-une-tentative-de-censure_14362871/"
+          },
+          {
+            "label": "Little Black Book",
+            "href": "https://www.lbbonline.com/news/fossil-fuel-floods-a-rugby-stadium-in-powerful-greenpeace-spot-a-dirty-game"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.lbbonline.com/news/fossil-fuel-floods-a-rugby-stadium-in-powerful-greenpeace-spot-a-dirty-game"
+          },
+          {
+            "label": "National World",
+            "href": "https://www.nationalworld.com/news/environment/greenpeace-new-campaign-fossil-fuel-money-sports-rugby-world-cup-sponsorship-4272610"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.nationalworld.com/news/environment/greenpeace-new-campaign-fossil-fuel-money-sports-rugby-world-cup-sponsorship-4272610"
+          },
+          {
+            "label": "Ouest France",
+            "href": "https://www.ouest-france.fr/coupe-du-monde-rugby/coupe-du-monde-de-rugby-dans-une-video-choc-greenpeace-sattaque-au-sponsor-totalenergies"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.ouest-france.fr/coupe-du-monde-rugby/coupe-du-monde-de-rugby-dans-une-video-choc-greenpeace-sattaque-au-sponsor-totalenergies"
+          },
+          {
+            "label": "RFI",
+            "href": "https://www.rfi.fr/en/france/20230830-greenpeace-slams-totalenergies-sponsorship-of-rugby-world-cup-in-france-as-sports-washing"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.rfi.fr/en/france/20230830-greenpeace-slams-totalenergies-sponsorship-of-rugby-world-cup-in-france-as-sports-washing"
+          },
+          {
+            "label": "RTL",
+            "href": "https://www.rtl.fr/actu/debats-societe/video-coupe-du-monde-rugby-greenpeace-critique-le-sponsoring-de-totalenergies-7900292130"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.rtl.fr/actu/debats-societe/video-coupe-du-monde-rugby-greenpeace-critique-le-sponsoring-de-totalenergies-7900292130"
+          },
+          {
+            "label": "Rugby Lad",
+            "href": "https://rugbylad.ie/rugby-world-cup-oil-video/"
+          },
+          {
+            "label": "‍",
+            "href": "https://rugbylad.ie/rugby-world-cup-oil-video/"
+          },
+          {
+            "label": "Scoop",
+            "href": "https://www.scoop.co.nz/stories/WO2308/S00232/breaking-oil-floods-stadium-ahead-of-mens-rugby-world-cup-tournament-kick-off.htm"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.scoop.co.nz/stories/WO2308/S00232/breaking-oil-floods-stadium-ahead-of-mens-rugby-world-cup-tournament-kick-off.htm"
+          },
+          {
+            "label": "Shots",
+            "href": "https://www.shots.net/news/view/greenpeace-paints-a-black-picture"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.shots.net/news/view/greenpeace-paints-a-black-picture"
+          },
+          {
+            "label": "Sport Buzz Business",
+            "href": "https://www.sportbuzzbusiness.fr/greenpeace-sattaque-a-totalenergies-sponsor-de-la-coupe-du-monde-de-rugby-2023-et-met-en-scene-un-stade-de-france-noye-sous-le-petrole.html"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.sportbuzzbusiness.fr/greenpeace-sattaque-a-totalenergies-sponsor-de-la-coupe-du-monde-de-rugby-2023-et-met-en-scene-un-stade-de-france-noye-sous-le-petrole.html"
+          },
+          {
+            "label": "Stash",
+            "href": "https://www.stashmedia.tv/studio-birthplace-exposes-totalenergies-dirty-game-for-greenpeace/"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.stashmedia.tv/studio-birthplace-exposes-totalenergies-dirty-game-for-greenpeace/"
+          },
+          {
+            "label": "Sustainability Beat",
+            "href": "https://www.sustainability-beat.co.uk/2023/08/30/greenpeace-sportswashing/"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.sustainability-beat.co.uk/2023/08/30/greenpeace-sportswashing/"
+          },
+          {
+            "label": "Taiwan News",
+            "href": "https://www.taiwannews.com.tw/en/news/4985261"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.taiwannews.com.tw/en/news/4985261"
+          },
+          {
+            "label": "The Drum",
+            "href": "https://www.thedrum.com/news/2023/08/29/stade-de-france-flooded-with-oil-greenpeace-rugby-world-cup-protest-ad"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.thedrum.com/news/2023/08/29/stade-de-france-flooded-with-oil-greenpeace-rugby-world-cup-protest-ad"
+          },
+          {
+            "label": "The Drum follow up",
+            "href": "https://www.thedrum.com/news/2023/08/30/rugby-world-cup-threatens-legal-action-over-greenpeace-protest-video"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.thedrum.com/news/2023/08/30/rugby-world-cup-threatens-legal-action-over-greenpeace-protest-video"
+          },
+          {
+            "label": "The Independent",
+            "href": "https://www.independent.co.uk/news/greenpeace-ap-paris-stade-de-france-new-zealand-b2401799.html"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.independent.co.uk/news/greenpeace-ap-paris-stade-de-france-new-zealand-b2401799.html"
+          },
+          {
+            "label": "The Independent - Irish",
+            "href": "https://m.independent.ie/irish-news/rugby-world-cup-legal-bid-to-stop-greenpeace-video-featuring-irish-comic-satirising-events-oil-company-sponsor/a2145555076.html"
+          },
+          {
+            "label": "‍",
+            "href": "https://m.independent.ie/irish-news/rugby-world-cup-legal-bid-to-stop-greenpeace-video-featuring-irish-comic-satirising-events-oil-company-sponsor/a2145555076.html"
+          },
+          {
+            "label": "Washington Times",
+            "href": "https://www.washingtontimes.com/news/2023/aug/30/greenpeace-releases-animated-video-in-campaign-aga/"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.washingtontimes.com/news/2023/aug/30/greenpeace-releases-animated-video-in-campaign-aga/"
+          },
+          {
+            "label": "Yahoo News",
+            "href": "https://news.yahoo.com/greenpeace-releases-animated-video-campaign-104615618.html?src=rss&utm_source=dlvr.it&utm_medium=twitter&guccounter=1&guce_referrer=aHR0cHM6Ly90LmNvLw&guce_referrer_sig=AQAAAFnEv7P2VRf-O4St7WtMfEEGlOBtKcI8wqtUUBrKsFvuysOLxiaACuHw4A9uqL-hHyH1smSjHW3kOAomQZMoCr5s2BjY3aiImfXxuw8_PpMupLxSlIyb4uwOsi3ZcqPb552B4K3Uyj6XSIx1O7_tL3Aw3kdO4snW85sI1TJCgeP6"
+          }
+        ],
+        "logo": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/648f37ed4342be4ed866de40_greenpeace.svg",
+          "alt": "",
+          "href": "https://www.greenpeace.com"
+        },
+        "creditsLabel": "View Full Credits",
+        "pressLabel": "View Media Features"
+      }
+    },
+    {
+      "id": "film-2",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "NTLLmT11P8E",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6600b55e63fee3efca3a61cc_TotalPollution.VideoCover.jpg",
+          "ratio": "16:9"
+        }
+      }
+    },
+    {
+      "id": "cta-3",
+      "type": "cta",
+      "content": {
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65c2b962383fe4847c4eae80_TotalPollution_act.jpg",
+          "alt": ""
+        },
+        "heading": "Get Involved",
+        "text": "Fossil fuel companies are responsible for countless crimes against the environment and humanity and they have been getting away with it for far too long. Together with Greenpeace we want to put an end to this.",
+        "button": {
+          "label": "Act to End Fossil Crimes",
+          "href": "https://act-int.greenpeace.org/end-fossil-crimes"
+        }
+      }
+    },
+    {
+      "id": "stats-4",
+      "type": "stats",
+      "content": {
+        "title": "Impact",
+        "items": [
+          {
+            "number": "3.8m",
+            "label": "Views Across Platforms"
+          },
+          {
+            "number": "154",
+            "label": "International Media Features"
+          },
+          {
+            "number": "12k",
+            "label": "Petition Signatures"
+          },
+          {
+            "number": "6x",
+            "label": "Countries National News"
+          }
+        ]
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "text-5",
+      "type": "text",
+      "content": {
+        "heading": "Sportswashing",
+        "body": "TotalPollution sheds light on the pressing issue of the fossil fuel industry sponsoring major sporting events to greenwash their image - also known as sportswashing.\n\n‍\n\nThrough associating themselves with these popular sports they pull the focus away from the undeniable major ecological harm they cause on communities and ecosystems worldwide.\n\n‍\n\n[3 hours 37 minutes](https://www.greenpeace.org/static/planet4-international-stateless/2023/08/6f444a90-gp-totalpollution-calculation-method.pdf). That’s how long it takes the global fossil fuel industry to fill a huge rugby stadium the size of the Stade de France with oil. That’s almost seven stadiums every single day. The extraction & usage of this oil is destroying a livable future, and the film aims to wake up audiences to the scale of our consumption."
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "quote-6",
+      "type": "quote",
+      "content": {
+        "quote": "\"There is an urgent need for accountability and transformation within the fossil fuel industry to avoid the worst effects of climate breakdown - sponsoring major sporting events to greenwash their dirty business has to be stopped. In this film, we wanted to make visible the tremendous scale of our global crude oil production, and expose the extreme rate at which we are continuing to fuel our climate crisis. Together, let us stand against the exploitation of sports for corporate interests and advocate for a sustainable, livable future for all.\"",
+        "cite": "Directors Jorik Dozy & Sil van der Woerd"
+      },
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-7",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65b9798f377af5b8642ad46b_TotalPollution_1.8.3%20(1).jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65b9798f71e86b9201084fb0_TotalPollution_1.1.2.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65b9798fa59ffb5bffb2afa1_TotalPollution_1.15.3%20(1).jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65b9798f4b477415c86fa769_TotalPollution_1.7.3.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65b9798f9b3d2d57414e5240_TotalPollution_1.4.1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65b9798fcd8746b7f896a65c_TotalPollution_1.22.3.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65b9798f4b477415c86fa79f_TotalPollution_1.19.2.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65b9798f4fd5489901f50c20_TotalPollution_1.21.3.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65b9798fbcedb4541bc0819e_TotalPollution_1.14.3%20(1).jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65b9798fc14666f20e89b150_TotalPollution_1.20.4.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65b9798f0d3ffbc1e0c41e74_TotalPollution_1.18.2.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65b9798fd9b551dbe128b0a2_TotalPollution_1.17.2%20(1).jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "image": "bts"
+      },
+      "overrideReasons": {
+        "image": "as on the live site (phase 1)"
+      },
+      "padBottom": "4-375"
+    },
+    {
+      "id": "campaign-8",
+      "type": "campaign",
+      "content": {
+        "heading": "The Campaign",
+        "text": "The release of TotalPollution faced a rocky start. Days before the launch the press embargo was broken and the film was leaked. A day before the launch the Rugby World Cup threatened Greenpeace with legal action if it were to release the video. On launch day TotalEnergies issued an official statement to the press, further greenwashing its image.\n\nNot deterred by the threats, we pushed forwards with the campaign and the story received wide press coverage and was talked about on National news all around the world. Eventually the Rugby World Cup dropped their case after much backlash.",
+        "press": [
+          {
+            "label": "ABC News",
+            "href": "https://abcnews.go.com/Sports/wireStory/greenpeace-releases-animated-video-campaign-fossil-fuel-sponsorship-102668859"
+          },
+          {
+            "label": "‍",
+            "href": "https://abcnews.go.com/Sports/wireStory/greenpeace-releases-animated-video-campaign-fossil-fuel-sponsorship-102668859"
+          },
+          {
+            "label": "AOL",
+            "href": "https://www.aol.com/news/greenpeace-releases-animated-video-campaign-104615299.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuYmluZy5jb20v&guce_referrer_sig=AQAAABkgNq18wbySnug0YJpunlTzWtvYMr2GaKi9sXnoNA9DiZREljizeYwuQdIIWAZt7H2bmR92oupieVrN-RMMBp2t-mvzK4QA_G8c44cWSUNqgBPlekMUuj278qm_Siv1AkgNqQltjvX-pcqnl4KkAN6wpnC6AS9vCyvj_PLEVRyK"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.aol.com/news/greenpeace-releases-animated-video-campaign-104615299.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuYmluZy5jb20v&guce_referrer_sig=AQAAABkgNq18wbySnug0YJpunlTzWtvYMr2GaKi9sXnoNA9DiZREljizeYwuQdIIWAZt7H2bmR92oupieVrN-RMMBp2t-mvzK4QA_G8c44cWSUNqgBPlekMUuj278qm_Siv1AkgNqQltjvX-pcqnl4KkAN6wpnC6AS9vCyvj_PLEVRyK"
+          },
+          {
+            "label": "AP News",
+            "href": "https://apnews.com/article/world-cup-totalenergies-greenpeace-141503d85aa8cbb227c1a1550f7742d8"
+          },
+          {
+            "label": "‍",
+            "href": "https://apnews.com/article/world-cup-totalenergies-greenpeace-141503d85aa8cbb227c1a1550f7742d8"
+          },
+          {
+            "label": "BBC News",
+            "href": "https://www.bbc.com/sport/rugby-union/66723726"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.bbc.com/sport/rugby-union/66723726"
+          },
+          {
+            "label": "Buzz",
+            "href": "https://www.buzz.ie/news/world-news/totalenergies-rugby-world-cup-greenpeace-30814998"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.buzz.ie/news/world-news/totalenergies-rugby-world-cup-greenpeace-30814998"
+          },
+          {
+            "label": "Campaign",
+            "href": "https://www.campaignlive.co.uk/article/greenpeace-france-totalpollution-dirty-game-studio-birthplace/1835632"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.campaignlive.co.uk/article/greenpeace-france-totalpollution-dirty-game-studio-birthplace/1835632"
+          },
+          {
+            "label": "Creative Review",
+            "href": "https://www.creativereview.co.uk/greenpeace-rugby-world-cup-campaign/"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.creativereview.co.uk/greenpeace-rugby-world-cup-campaign/"
+          },
+          {
+            "label": "Designboom",
+            "href": "https://www.designboom.com/design/rugby-world-cup-2023-campaign-fossil-fuel-totalenergies-greenpeace-studio-birthplace-08-31-2023/"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.designboom.com/design/rugby-world-cup-2023-campaign-fossil-fuel-totalenergies-greenpeace-studio-birthplace-08-31-2023/"
+          },
+          {
+            "label": "Financial Express",
+            "href": "https://www.financialexpress.com/business/brandwagon-greenpeace-unveils-animated-video-as-part-of-campaign-targeting-fossil-fuel-sponsorship-of-rugby-world-cup-3228134/"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.financialexpress.com/business/brandwagon-greenpeace-unveils-animated-video-as-part-of-campaign-targeting-fossil-fuel-sponsorship-of-rugby-world-cup-3228134/"
+          },
+          {
+            "label": "Forbes",
+            "href": "https://www.forbes.com/sites/vitascarosella/2023/09/01/rugby-world-cup-2023-how-environmentally-sustainable-will-it-be/"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.forbes.com/sites/vitascarosella/2023/09/01/rugby-world-cup-2023-how-environmentally-sustainable-will-it-be/"
+          },
+          {
+            "label": "France Bleu",
+            "href": "https://www.francebleu.fr/infos/environnement/mondial-de-rugby-dans-une-video-choc-greenpeace-denonce-le-sponsoring-de-totalenergies-6033110"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.francebleu.fr/infos/environnement/mondial-de-rugby-dans-une-video-choc-greenpeace-denonce-le-sponsoring-de-totalenergies-6033110"
+          },
+          {
+            "label": "Huffington Post",
+            "href": "https://www.huffingtonpost.fr/environnement/video/a-10-jours-de-la-coupe-du-monde-de-rugby-la-campagne-choc-de-greenpeace-contre-totalenergies-et-le-greenwashing_222386.html"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.huffingtonpost.fr/environnement/video/a-10-jours-de-la-coupe-du-monde-de-rugby-la-campagne-choc-de-greenpeace-contre-totalenergies-et-le-greenwashing_222386.html"
+          },
+          {
+            "label": "Irish Daily Mirror",
+            "href": "https://www.irishmirror.ie/news/irish-news/irish-comedians-existential-terror-moved-30815558"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.irishmirror.ie/news/irish-news/irish-comedians-existential-terror-moved-30815558"
+          },
+          {
+            "label": "It's Nice That",
+            "href": "https://www.itsnicethat.com/news/greenpeace-studio-birthplace-totalpollution-film-300823"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.itsnicethat.com/news/greenpeace-studio-birthplace-totalpollution-film-300823"
+          },
+          {
+            "label": "La Montagne",
+            "href": "https://www.lamontagne.fr/paris-75000/sports/coupe-du-monde-greenpeace-publie-une-video-pour-denoncer-le-sponsoring-de-totalenergies-et-deplore-une-tentative-de-censure_14362871/"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.lamontagne.fr/paris-75000/sports/coupe-du-monde-greenpeace-publie-une-video-pour-denoncer-le-sponsoring-de-totalenergies-et-deplore-une-tentative-de-censure_14362871/"
+          },
+          {
+            "label": "La Republique",
+            "href": "https://www.larep.fr/paris-75000/sports/coupe-du-monde-greenpeace-publie-une-video-pour-denoncer-le-sponsoring-de-totalenergies-et-deplore-une-tentative-de-censure_14362871/"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.larep.fr/paris-75000/sports/coupe-du-monde-greenpeace-publie-une-video-pour-denoncer-le-sponsoring-de-totalenergies-et-deplore-une-tentative-de-censure_14362871/"
+          },
+          {
+            "label": "L'Echo Republicain",
+            "href": "https://www.lechorepublicain.fr/paris-75000/sports/coupe-du-monde-greenpeace-publie-une-video-pour-denoncer-le-sponsoring-de-totalenergies-et-deplore-une-tentative-de-censure_14362871/"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.lechorepublicain.fr/paris-75000/sports/coupe-du-monde-greenpeace-publie-une-video-pour-denoncer-le-sponsoring-de-totalenergies-et-deplore-une-tentative-de-censure_14362871/"
+          },
+          {
+            "label": "La Parisien",
+            "href": "https://www.leparisien.fr/sports/rugby/coupe-du-monde/coupe-du-monde-de-rugby-greenpeace-sattaque-au-sponsoring-de-totalenergies-30-08-2023-LEMMY6DGP5F7PPUM47KYOTIE3I.php?at_creation=Le%20Parisien%20%7C%20Ma%20Terre&at_campaign=Partage%20Twitter%20CM&at_medium=Social%20media"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.leparisien.fr/sports/rugby/coupe-du-monde/coupe-du-monde-de-rugby-greenpeace-sattaque-au-sponsoring-de-totalenergies-30-08-2023-LEMMY6DGP5F7PPUM47KYOTIE3I.php?at_creation=Le%20Parisien%20%7C%20Ma%20Terre&at_campaign=Partage%20Twitter%20CM&at_medium=Social%20media"
+          },
+          {
+            "label": "Le Populaire",
+            "href": "https://www.lepopulaire.fr/paris-75000/sports/coupe-du-monde-greenpeace-publie-une-video-pour-denoncer-le-sponsoring-de-totalenergies-et-deplore-une-tentative-de-censure_14362871/"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.lepopulaire.fr/paris-75000/sports/coupe-du-monde-greenpeace-publie-une-video-pour-denoncer-le-sponsoring-de-totalenergies-et-deplore-une-tentative-de-censure_14362871/"
+          },
+          {
+            "label": "Little Black Book",
+            "href": "https://www.lbbonline.com/news/fossil-fuel-floods-a-rugby-stadium-in-powerful-greenpeace-spot-a-dirty-game"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.lbbonline.com/news/fossil-fuel-floods-a-rugby-stadium-in-powerful-greenpeace-spot-a-dirty-game"
+          },
+          {
+            "label": "National World",
+            "href": "https://www.nationalworld.com/news/environment/greenpeace-new-campaign-fossil-fuel-money-sports-rugby-world-cup-sponsorship-4272610"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.nationalworld.com/news/environment/greenpeace-new-campaign-fossil-fuel-money-sports-rugby-world-cup-sponsorship-4272610"
+          },
+          {
+            "label": "Ouest France",
+            "href": "https://www.ouest-france.fr/coupe-du-monde-rugby/coupe-du-monde-de-rugby-dans-une-video-choc-greenpeace-sattaque-au-sponsor-totalenergies"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.ouest-france.fr/coupe-du-monde-rugby/coupe-du-monde-de-rugby-dans-une-video-choc-greenpeace-sattaque-au-sponsor-totalenergies"
+          },
+          {
+            "label": "RFI",
+            "href": "https://www.rfi.fr/en/france/20230830-greenpeace-slams-totalenergies-sponsorship-of-rugby-world-cup-in-france-as-sports-washing"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.rfi.fr/en/france/20230830-greenpeace-slams-totalenergies-sponsorship-of-rugby-world-cup-in-france-as-sports-washing"
+          },
+          {
+            "label": "RTL",
+            "href": "https://www.rtl.fr/actu/debats-societe/video-coupe-du-monde-rugby-greenpeace-critique-le-sponsoring-de-totalenergies-7900292130"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.rtl.fr/actu/debats-societe/video-coupe-du-monde-rugby-greenpeace-critique-le-sponsoring-de-totalenergies-7900292130"
+          },
+          {
+            "label": "Rugby Lad",
+            "href": "https://rugbylad.ie/rugby-world-cup-oil-video/"
+          },
+          {
+            "label": "‍",
+            "href": "https://rugbylad.ie/rugby-world-cup-oil-video/"
+          },
+          {
+            "label": "Scoop",
+            "href": "https://www.scoop.co.nz/stories/WO2308/S00232/breaking-oil-floods-stadium-ahead-of-mens-rugby-world-cup-tournament-kick-off.htm"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.scoop.co.nz/stories/WO2308/S00232/breaking-oil-floods-stadium-ahead-of-mens-rugby-world-cup-tournament-kick-off.htm"
+          },
+          {
+            "label": "Shots",
+            "href": "https://www.shots.net/news/view/greenpeace-paints-a-black-picture"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.shots.net/news/view/greenpeace-paints-a-black-picture"
+          },
+          {
+            "label": "Sport Buzz Business",
+            "href": "https://www.sportbuzzbusiness.fr/greenpeace-sattaque-a-totalenergies-sponsor-de-la-coupe-du-monde-de-rugby-2023-et-met-en-scene-un-stade-de-france-noye-sous-le-petrole.html"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.sportbuzzbusiness.fr/greenpeace-sattaque-a-totalenergies-sponsor-de-la-coupe-du-monde-de-rugby-2023-et-met-en-scene-un-stade-de-france-noye-sous-le-petrole.html"
+          },
+          {
+            "label": "Stash",
+            "href": "https://www.stashmedia.tv/studio-birthplace-exposes-totalenergies-dirty-game-for-greenpeace/"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.stashmedia.tv/studio-birthplace-exposes-totalenergies-dirty-game-for-greenpeace/"
+          },
+          {
+            "label": "Sustainability Beat",
+            "href": "https://www.sustainability-beat.co.uk/2023/08/30/greenpeace-sportswashing/"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.sustainability-beat.co.uk/2023/08/30/greenpeace-sportswashing/"
+          },
+          {
+            "label": "Taiwan News",
+            "href": "https://www.taiwannews.com.tw/en/news/4985261"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.taiwannews.com.tw/en/news/4985261"
+          },
+          {
+            "label": "The Drum",
+            "href": "https://www.thedrum.com/news/2023/08/29/stade-de-france-flooded-with-oil-greenpeace-rugby-world-cup-protest-ad"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.thedrum.com/news/2023/08/29/stade-de-france-flooded-with-oil-greenpeace-rugby-world-cup-protest-ad"
+          },
+          {
+            "label": "The Drum follow up",
+            "href": "https://www.thedrum.com/news/2023/08/30/rugby-world-cup-threatens-legal-action-over-greenpeace-protest-video"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.thedrum.com/news/2023/08/30/rugby-world-cup-threatens-legal-action-over-greenpeace-protest-video"
+          },
+          {
+            "label": "The Independent",
+            "href": "https://www.independent.co.uk/news/greenpeace-ap-paris-stade-de-france-new-zealand-b2401799.html"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.independent.co.uk/news/greenpeace-ap-paris-stade-de-france-new-zealand-b2401799.html"
+          },
+          {
+            "label": "The Independent - Irish",
+            "href": "https://m.independent.ie/irish-news/rugby-world-cup-legal-bid-to-stop-greenpeace-video-featuring-irish-comic-satirising-events-oil-company-sponsor/a2145555076.html"
+          },
+          {
+            "label": "‍",
+            "href": "https://m.independent.ie/irish-news/rugby-world-cup-legal-bid-to-stop-greenpeace-video-featuring-irish-comic-satirising-events-oil-company-sponsor/a2145555076.html"
+          },
+          {
+            "label": "Washington Times",
+            "href": "https://www.washingtontimes.com/news/2023/aug/30/greenpeace-releases-animated-video-in-campaign-aga/"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.washingtontimes.com/news/2023/aug/30/greenpeace-releases-animated-video-in-campaign-aga/"
+          },
+          {
+            "label": "Yahoo News",
+            "href": "https://news.yahoo.com/greenpeace-releases-animated-video-campaign-104615618.html?src=rss&utm_source=dlvr.it&utm_medium=twitter&guccounter=1&guce_referrer=aHR0cHM6Ly90LmNvLw&guce_referrer_sig=AQAAAFnEv7P2VRf-O4St7WtMfEEGlOBtKcI8wqtUUBrKsFvuysOLxiaACuHw4A9uqL-hHyH1smSjHW3kOAomQZMoCr5s2BjY3aiImfXxuw8_PpMupLxSlIyb4uwOsi3ZcqPb552B4K3Uyj6XSIx1O7_tL3Aw3kdO4snW85sI1TJCgeP6"
+          }
+        ],
+        "pressLabel": "View Media Features",
+        "link": {
+          "label": "Greenpeace Landing Page",
+          "href": "https://www.greenpeace.org/international/story/61870/total-pollution-a-dirty-game/"
+        }
+      }
+    },
+    {
+      "id": "phones-9",
+      "type": "phones",
+      "content": {
+        "screens": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65c55988a992268a096f55f4_News01.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65c559887aa7bef218bb86a9_News02.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65c559881e25c6ee02b0c87e_News03.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65c5598701ff8eeefdc80a45_News04.jpg",
+            "alt": ""
+          }
+        ],
+        "frame": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65c611e7f2a21ac92ede6b11_Frame.svg",
+        "background": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65b97215d59959599edbd4f4_TotalPollution_1.14.1.jpg",
+          "srcXXL": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65b9798f4fd5489901f50c20_TotalPollution_1.21.3.jpg"
+        }
+      }
+    },
+    {
+      "id": "film-10",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "BOB-m1yH5Q4",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6607b2bfb8e4f7837666b62e_totalPollution.bbc.jpg",
+          "ratio": "16:9"
+        }
+      },
+      "overrides": {
+        "size": "split"
+      },
+      "overrideReasons": {
+        "size": "as on the live site (phase 1)"
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "text-11",
+      "type": "text",
+      "content": {
+        "heading": "Insta Filters",
+        "body": "To amplify the release of the film, we developed an Instagram AR filter. The filter invites users to unmask the truth behind the colorfulTotalEnergies logo.\n\n‍<br>Users can scan the logo in the real world, upon which the filter replaces it with an animated, oil-leaking TotalPollution logo. The filter was developed in collaboration with Superposition and TimSmiT.<br>",
+        "link": {
+          "label": "Try the filter on your phone",
+          "href": "https://www.instagram.com/ar/818701256922247"
+        }
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "instafilter-12",
+      "type": "instafilter",
+      "content": {
+        "video": {
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65c55ef5b33df3c3793cea0c_InstaFilters-poster-00001.jpg",
+          "mp4": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65c55ef5b33df3c3793cea0c_InstaFilters-transcode.mp4",
+          "webm": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65c55ef5b33df3c3793cea0c_InstaFilters-transcode.webm"
+        }
+      }
+    },
+    {
+      "id": "cta-13",
+      "type": "cta",
+      "content": {
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65b97c9b5f7173ae2730ec92_TotalPollution_act2.jpg",
+          "alt": ""
+        },
+        "heading": "Sign The Petition",
+        "text": "People everywhere are rising up in resistance against the fossil fuel industry. The industry is built on colonialism and injustice. From systemic pollution and environmental damage to displacement of communities, murder, fraud, misleading greenwashing marketing campaigns and now the global energy crisis.\n\nLET'S END FOSSIL FUEL CRIMES AGAINST HUMANITY AND THE CLIMATE.",
+        "button": {
+          "label": "Act To End Fossil Crimes",
+          "href": "#"
+        }
+      },
+      "overrides": {
+        "size": "big"
+      },
+      "overrideReasons": {
+        "size": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "text-14",
+      "type": "text",
+      "content": {
+        "heading": "Production",
+        "body": "The CG of TotalPollution was produced under the expert guidance of VFX supervisor Tim Smit. The production commenced early May and took 3 months to complete. A faithful replica of Stade de France was created, where, just like in the film, the first game of the Rugby World Cup will be played between France and New Zealand on September 8th, 2023. The stadium was then populated with a crowd of 80,000 mannequins and 2 rugby teams.\n\n‍\n\nThe biggest challenge were the massive oil simulations that had to dynamically interact with the crowds and players. Some of the simulations contained North of 1.5 billion voxels (3D pixels), which required lots of computing power and patience. Through very precise planning and digital storyboarding the team was able to complete these massive simulations within the deadline and with a very minimal crew.\n\n‍\n\n**Watch the BTS film by Redivider Studio below!**\n\n‍"
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "film-15",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "Zc9bV8mZTZ8",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6a2986f4a26d41d6f2067b16_TotalPollution-BTS00086400.jpg",
+          "ratio": "16:9"
+        }
+      },
+      "overrides": {
+        "size": "split"
+      },
+      "overrideReasons": {
+        "size": "as on the live site (phase 1)"
+      },
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-16",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65c562649add0d982490a8fc_vfx.01.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65c56264bcebcfa17ac3bac0_vfx.02.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65c56264949ad2e0df21f991_vfx.03.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65c5626487363f38acebbc96_vfx.04.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65c562655ea34f134bdbcc5d_vfx.05.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65c5626445cc6d37c6e556a2_vfx.06.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "image": "bts"
+      },
+      "overrideReasons": {
+        "image": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "more-work",
+      "type": "more-work",
+      "content": {
+        "button": {
+          "label": "View More Work",
+          "href": "/work"
+        }
+      }
+    }
+  ]
+}

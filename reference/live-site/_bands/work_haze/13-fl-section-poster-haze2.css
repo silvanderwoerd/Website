@@ -1,0 +1,70 @@
+/* (base) */
+.fl-section-poster-haze2 {
+  padding-top: 2em;
+  padding-bottom: 4.625em;
+}
+.fl-posters-layout {
+  display: flex;
+}
+.fl-poster-image-haze {
+  object-fit: contain;
+  width: 100em;
+  max-width: 100%;
+  height: 50em;
+  margin-right: 0;
+}
+.fl-poster-container-haze {
+  grid-column-gap: 16px;
+  grid-row-gap: 16px;
+  object-fit: fill;
+  grid-template-rows: auto;
+  grid-template-columns: 1fr;
+  grid-auto-columns: 1fr;
+  place-items: center;
+  width: 100%;
+  max-width: 100em;
+  margin-left: auto;
+  margin-right: auto;
+  display: grid;
+}
+
+/* @media screen and (min-width: 1920px) */
+.fl-section-poster-haze2 {
+  object-fit: contain;
+}
+.fl-posters-layout {
+  display: block;
+}
+.fl-poster-image-haze {
+  object-fit: contain;
+  width: 100em;
+  max-width: 100%;
+  height: 45em;
+  margin-right: 0;
+  display: inline-block;
+}
+.fl-poster-container-haze {
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+  object-fit: fill;
+  grid-template-rows: auto;
+  grid-template-columns: 1fr;
+  grid-auto-columns: 1fr;
+  place-items: center;
+  max-width: 100em;
+  max-height: 2000px;
+  display: grid;
+}
+
+/* @media screen and (max-width: 991px) */
+.fl-posters-layout {
+  font-size: .6em;
+}
+.fl-poster-container-haze {
+  width: 90%;
+}
+
+/* @media screen and (max-width: 767px) */
+.fl-posters-layout {
+  flex-direction: column;
+}

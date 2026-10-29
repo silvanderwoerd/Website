@@ -1,0 +1,176 @@
+{
+  "slug": "mantra",
+  "title": "Mantra",
+  "description": "Noisia's 'Mantra' music video chronicles the dangerous obstacles that refugees and migrants face on their journeys to reach safer harbours. Most of the stories we see about the refugee crisis are told from a political angle, but when we meet refugees in person, we above all encounter kindness and strength. We set out to tell a powerful story about the risks that refugees are willing to take to reach safety or a better living standard.",
+  "family": "fluid",
+  "background": "black",
+  "client": "Noisia",
+  "inGrid": true,
+  "stripes": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "content": {
+        "eyebrow": "Our Work",
+        "client": "Noisia",
+        "title": "Mantra",
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65cf04fea6d20cc1e183a319_MantraCover.Image.jpg",
+          "alt": ""
+        }
+      }
+    },
+    {
+      "id": "details",
+      "type": "project-details",
+      "content": {
+        "eyebrow": "ABOUT THE PROJECT",
+        "about": "## Mantra chronicles the **dangerous obstacles that refugees and migrants face** on their journeys to reach safer harbours.\n\nMost of the stories we see about the refugee crisis are told from a political angle, but when we meet refugees in person, we above all encounter kindness and strength. We set out to tell a powerful story about the risks that refugees are willing to take to reach safety or a better living standard.",
+        "credits": [
+          {
+            "role": "Director",
+            "name": "Sil van der Woerd"
+          },
+          {
+            "role": "Producers",
+            "name": "Trent & Charlotte Scott-Wilson"
+          },
+          {
+            "role": "Artist",
+            "name": "Noisia"
+          }
+        ],
+        "fullCredits": "### Directed by\n\nSil van der Woerd\n\n### Producer\n\nOak Motion Pictures\n\nTrent\n\nCharlotte Scott-Wilson\n\n### Line Producer\n\nAngelo Schuurmans\n\nGiuseppe Contario\n\n### Director of Photography\n\nEmo Weemhoff\n\n### Camera Assistant / Focus Puller\n\nAlyssa van Veen\n\n### Data Handler\n\nBoyd Bakema\n\n### Gaffer\n\nStan Widdershoven\n\n### Best Boy\n\nHidde Muskee\n\n### First AD\n\nAndrej Kraus\n\n### Production Assistant\n\nDemi Plettenburg\n\nRoberta Caruana\n\n### Art Director\n\nRomke Faber\n\n### Art Assistant\n\nBart Joling\n\n### Migrant Coordinator\n\nHamdan Suweid\n\n### Wardrobe\n\nFleur Enderberg\n\n### Dresser\n\nDaphne Jonas\n\n### Choreography\n\nHouse of Makers\n\nPeter Leung\n\nMatthew Pawlick-Sinclair\n\n### Dancers\n\nJuersson Hermanus\n\nSuzana Gomes\n\nMohamed Yusuf Boss\n\n### Thank You\n\nRefugees it was a privilege to meet you and an honour to work with you\n\n### Runner\n\nFemke de Bruijn\n\n### Location\n\nGet Wet Maritiem\n\nBen\n\n### Concept\n\nSil van der Woerd\n\n### Editing\n\nSil van der Woerd\n\n### Compositing\n\nStorm Post Production\n\nJack Kuiper\n\nLuuk Meijer\n\n### Grade\n\nDaphne Maierna\n\n### Label\n\nVision Recordings\n\nwww.noisia.nl\n\n### Thanks to\n\nElmar Noteboom\n\n### Made With Support From\n\nTax Videoclipfonds",
+        "creditsNote": "“Mantra” (Noisia) Courtesy of Vision Recordings NOISIA 2016",
+        "press": [
+          {
+            "label": "Billboard",
+            "href": "https://www.billboard.com/music/music-news/noisia-mantra-video-refugees-7541056/"
+          }
+        ],
+        "logo": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65cf071f26e52092bc21300f_noisia.logo.png",
+          "alt": "",
+          "href": "https://www.noisia.nl/"
+        },
+        "creditsLabel": "View Full Credits",
+        "pressLabel": "View Media Features"
+      }
+    },
+    {
+      "id": "film-2",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "50oHjGnnS_0",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65cf08154880ca4cf7158f0f_MantraCover.video.jpg",
+          "ratio": "16:9"
+        }
+      }
+    },
+    {
+      "id": "text-3",
+      "type": "text",
+      "content": {
+        "heading": "A Long Journey",
+        "body": "Many refugees arriving in Europe make long and dangerous journeys across the sea. To tell this story, it had to be told by them. Almost all of the people portrayed in the video are actual refugees from Syria, and migrants from Afghanistan, Ghana, Mali, Nigeri and Somalia. Some fled from wars, others had economic reasons.\n\n‍\n\nAll of them spent some part of their journey on a boat. Some 'only' a few hours, others as long as 7 days, often without enough water and food. Some were witness to their friends or family drowning during the crossing of the Mediterranean Sea.\n\n‍\n\nDuring production we shared several dinners with the migrants and they would share their stories which were often daggers to the heart. They were often mixed with stories of joy."
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-4",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65cf17e23c8dcb4654007fdf_Noisia_Mantra_edit_151_DPX_A001C006_160821_R59F_0017.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65cf17e2a68f93b6e3d28487_Noisia_Mantra_edit_151_DPX_A010C027_160825_R59F%5B1%5D_0019.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65cf17e28b35f278e658c7a1_Noisia_Mantra_edit_151_DPX_A011C027_160826_R59F%5B2%5D_0001.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65cf17e2194148a1e1697b8f_Noisia_Mantra_edit_151_DPX_A013C035_160827_R59F%5B1%5D_0031.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65cf17e1022a793487f24a1d_Noisia_Mantra_edit_151_DPX_A014C002_160827_R59F%5B1%5D_0027.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65cf17e16ac17526e731826b_Noisia_Mantra_edit_151_DPX_A006C015_160824_R59F_0051.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65cf17e2a68f93b6e3d284af_Noisia_Mantra_edit_151_DPX_A007C035_160824_R59F_0016.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "image": "bts"
+      },
+      "overrideReasons": {
+        "image": "as on the live site (phase 1)"
+      },
+      "padBottom": "4-375"
+    },
+    {
+      "id": "text-5",
+      "type": "text",
+      "content": {
+        "heading": "Production",
+        "body": "We filmed in Sicily in Italy, and in the Netherlands in a special pool where we recreated the dangerous boat scenes. When we filmed the migrants in Sicily, they had arrived to the European main land just days earlier. Even so, they were excited to recreate their journey for the film and tell their stories.\n\nThe painting featured in the video is made by Syrian refugee Khattar Shaheen.\n\n‍"
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-6",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65cf1985fe3715263a73adf7_IMG_2771.JPG.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65cf198422cfdc8d38a3aa17_IMG_2794.JPG.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65cf19849150b79c92869048_IMG_2763.JPG.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65cf1984a6d20cc1e18d5f97_IMG_2736.JPG.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "align": "center"
+      },
+      "overrideReasons": {
+        "align": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "more-work",
+      "type": "more-work",
+      "content": {
+        "button": {
+          "label": "View More Work",
+          "href": "/work"
+        }
+      }
+    }
+  ]
+}

@@ -24,7 +24,7 @@ An excerpt from the article below: 
 
 "The film invites audiences to see the rainforest through a different lens: as the field of play itself. With professional footballers and stunt performers navigating the landscape in extraordinary ways, transforming the forest from backdrop to pitch, the film reframes one of our most vital ecosystems as a shared home ground in need of protection.
 
-‍  
+‍<br>
 
 Staging a football match in the rainforest canopy presented a unique set of challenges. Working closely with an expert stunt team, production tested a range of rigging systems and movements to create action that felt both safe and spectacular.
 

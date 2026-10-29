@@ -1,24 +1,46 @@
-/* eslint-disable @next/next/no-img-element -- icons copied as-is; media moves in step 7 */
+/* eslint-disable @next/next/no-img-element -- images copied as-is; media moves in step 7 */
 import { resolveOriginal } from "../resolve";
 import { field, marks } from "../marks";
 import { Button } from "../button/Button";
 import { BackgroundVideo, type VideoSource } from "@/motion/BackgroundVideo";
+import { AnimatedText } from "@/motion/AnimatedText";
 import { Inline } from "@/lib/inline";
 import { stripeBase } from "@/stripes/base";
 import { getSite } from "@/content";
 import type { StripeProps } from "@/stripes/types";
-import { HeroFade } from "./HeroFade";
+import { HeroFade, HeroParallax } from "./HeroFade";
 import styles from "./hero.module.css";
 
-type Content = { title: string; video: VideoSource; button: { label: string; href: string; lightbox?: boolean } };
+type HomeContent = { title: string; video: VideoSource; button: { label: string; href: string; lightbox?: boolean } };
+type ProjectContent = { eyebrow: string; client: string; title: string; image: { src: string; alt: string } };
 
 export function Hero({ instance, stripe }: StripeProps) {
-  const { attrs } = resolveOriginal("hero", stripe);
+  const { settings, attrs } = resolveOriginal("hero", stripe);
   const base = stripeBase(stripe);
-  const content = stripe.content as Content;
+  const root = { style: base.style, ...marks("hero", instance), ...attrs, ...base.attrs };
+
+  if (settings.variant === "project") {
+    const c = stripe.content as ProjectContent;
+    return (
+      <section className={styles.project} {...root}>
+        <img src={c.image.src} alt={c.image.alt} className={styles.cover} />
+        <HeroParallax className={styles.projectText}>
+          <div className={`${styles.projectEyebrow} ts-eyebrow-project`} {...field("eyebrow")}>{c.eyebrow}</div>
+          <div className={styles.space15} aria-hidden="true" />
+          <p className={`${styles.client} ts-hero-client`} {...field("client")}>{c.client}</p>
+          <div className={styles.space05} aria-hidden="true" />
+          <div className={styles.titleBox}>
+            <AnimatedText as="h1" className={`${styles.projectTitle} ts-project-title`} text={c.title} field="title" afterLoad />
+          </div>
+        </HeroParallax>
+      </section>
+    );
+  }
+
+  const content = stripe.content as HomeContent;
   const { socials } = getSite();
   return (
-    <header className={styles.hero} style={base.style} {...marks("hero", instance)} {...attrs} {...base.attrs}>
+    <header className={styles.hero} {...root}>
       <div className={styles.media}>
         <BackgroundVideo video={content.video} className={styles.video} />
       </div>

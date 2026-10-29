@@ -1,0 +1,75 @@
+/* (base) */
+.text-align-center {
+  text-align: center;
+  font-weight: 400;
+}
+.cover-image {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  inset: 0%;
+}
+.text-color-white {
+  color: #fff;
+}
+.relative-position {
+  position: relative;
+}
+.fl-project-hero {
+  justify-content: center;
+  align-items: center;
+  min-height: 100svh;
+  padding-top: 17.875em;
+  padding-bottom: 17.875em;
+  display: flex;
+  position: relative;
+}
+.fl-project-eyebrow {
+  letter-spacing: .075em;
+  text-transform: uppercase;
+  font-size: .75em;
+  font-weight: 700;
+  line-height: 1;
+}
+.fl-project-hero_client {
+  font-size: 2.08125em;
+  font-weight: 300;
+  line-height: 1;
+}
+.fl-project-page_title {
+  font-size: 3.64375em;
+  font-weight: 900;
+  line-height: 1;
+}
+.fl-project-page_title.tricks.u-show-on-load {
+  margin-top: 10px;
+  font-weight: 700;
+}
+.fl-spacing-2em {
+  height: 1.5em;
+}
+.fl-project-title-wrapper {
+  height: 4em;
+}
+.fl-spacing-0-5em {
+  height: .5em;
+}
+
+/* @media screen and (min-width: 1920px) */
+.cover-image {
+  aspect-ratio: auto;
+  position: absolute;
+  inset: 0%;
+}
+.fl-project-page_title.tricks.u-show-on-load {
+  margin-top: 5px;
+}
+
+/* @media screen and (max-width: 767px) */
+.cover-image {
+  position: absolute;
+}
+.fl-project-page_title.tricks {
+  font-size: 2em;
+}

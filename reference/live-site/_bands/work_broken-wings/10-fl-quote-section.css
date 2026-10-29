@@ -1,0 +1,47 @@
+/* (base) */
+.fl-spacing-4-5em {
+  height: 4.5em;
+}
+.fl-project-quote {
+  letter-spacing: .021875em;
+  font-size: .9375em;
+  font-style: italic;
+  font-weight: 300;
+}
+.fl-quote-container {
+  width: 100%;
+  max-width: 50em;
+  margin-left: auto;
+  margin-right: auto;
+}
+.fl-quote-wrapper {
+  margin-bottom: 0;
+  padding-left: 1.625em;
+  position: relative;
+}
+.fl-quote-cite {
+  color: var(--white-11);
+  text-align: left;
+  letter-spacing: .00625em;
+  font-size: .9375em;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 1.44;
+}
+.fl-quote-decoration {
+  background-color: #d9d9d9;
+  width: .1875em;
+  height: 100%;
+  max-height: 3.375em;
+  margin-top: auto;
+  margin-bottom: auto;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+}
+
+/* @media screen and (max-width: 991px) */
+.fl-quote-container {
+  width: 90%;
+}

@@ -1,0 +1,824 @@
+{
+  "slug": "haze",
+  "title": "Haze",
+  "description": "Through film, murals and an activist art exhibition, our Greenpeace campaign hold Malaysia’s big polluters accountable for dangerous haze pollution. Every year, toxic haze blankets Malaysia, caused by corporate giants financing the destruction of peatlands and forests in Indonesia for the production of palm oil. Together with Splash & Burn, we created a Greenpeace campaign to demand action.",
+  "family": "fluid",
+  "background": "black",
+  "client": "Greenpeace",
+  "inGrid": true,
+  "stripes": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "content": {
+        "eyebrow": "Our Work",
+        "client": "Greenpeace",
+        "title": "Haze: Coming Soon",
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e6fc9d31435f8f0f32ac24_HzeCover.Image.jpg",
+          "alt": ""
+        }
+      }
+    },
+    {
+      "id": "details",
+      "type": "project-details",
+      "content": {
+        "eyebrow": "ABOUT THE PROJECT",
+        "about": "## Through film, murals and an activist art exhibition we **hold Malaysia’s big polluters accountable** for dangerous haze pollution.\n\nEvery year, toxic haze blankets Malaysia, caused by corporate giants financing the destruction of peatlands and forests in Indonesia for the production of palm oil. Together with Splash & Burn, we created a Greenpeace campaign to demand action.",
+        "credits": [
+          {
+            "role": "Campaign Producers",
+            "name": "Sean Lin & Alea Rahim"
+          },
+          {
+            "role": "Film Director",
+            "name": "Abhilash Chandra"
+          },
+          {
+            "role": "Art",
+            "name": "Splash & Burn"
+          }
+        ],
+        "fullCredits": "### Haze: Coming Soon - A Creative Campaign\n\n**Greenpeace Malaysia, Studio Birthplace and Splash & Burn**\n\n‍\n\n### Producers\n\nSean Lin\n\nAlea Rahim\n\n### Co-Producer\n\nSara Kong\n\n### Associate Producer\n\nMarsya Mohd Johari\n\n### Executive Producers\n\nJorik Dozy\n\nSil van der Woerd\n\n### Curator & Artist\n\nErnest Zacharevic\n\n### Artists\n\nKaiyi Wong\n\nPangrok Sulap\n\nCloakwork\n\nFahmi Reza\n\nTrexus\n\nTrina Teoh\n\nBibichun\n\n### Art Assistant\n\nTaz\n\n### Location Partners\n\nREXKL\n\n### Copywriter\n\nDanielle Willat\n\n### Graphic Designer\n\nKashinie Subramaniam\n\n### Photographer\n\nAnnice Lyn\n\nAntoine Loncle\n\n### Videographer\n\nTim Chan\n\nSandra Cheah\n\nWei Ming Tan\n\nJoshua Kok\n\n### Media Coordinator\n\nWinona Law\n\n### Digital Media\n\nPierce Higgins\n\n### Special Thanks\n\nDr Helena Varkeyy\n\nKiu Jia Yaw\n\nMelissa Tan\n\nAsia Ballet Theatre\n\nCzip Lee\n\nLeonard Tee\n\nJohnston Wang\n\n### Greenpeace Team\n\nAida\n\nBabu\n\nDiego\n\nFarah\n\nGabby\n\nHalim\n\nHamizah\n\nHeng Kiah Chun\n\nIli\n\nMei Heng\n\nNur Sakeenah Omar\n\nPrabu Bala\n\nSatpal Kaler\n\nSelvan Segaran\n\nShuen\n\nSiva Yemeni \n\nSze Won\n\nWazif\n\nWee Hon Koo\n\nYvonne\n\nZarif\n\n‍\n\n### Film\n\n**Haze-zilla**\n\n‍\n\n### Client\n\nGreenpeace SEA\n\n### Director & Writer\n\nAbhilash Chandra\n\n### Producer\n\nSean Lin\n\n### Producer & 1st AD\n\nAlea Rahim\n\n### Executive Producers\n\nJorik Dozy & Sil van der Woerd\n\n### Associate Producer & 2nd AD\n\nSara Kong\n\n### Production Manager\n\nIan Kirk Jing Kye\n\n### Production Assistants\n\nMarsya Mohd Johari\n\nWan Muhammad Anas\n\nBaling\n\nA. Hakim\n\n### Director Of Photography\n\nNicholas Chin\n\n### Focus Puller\n\nMeor Nazrin\n\n### 1st AC\n\nJeff Teong\n\n### 2nd AC\n\nSandra Cheah\n\n### Cam B\n\nJorik Dozy\n\n### Tech Crew\n\nJacky\n\nSkaiste Kazragyte\n\n### DIT & Assistant Editor\n\nHazeem\n\n### Gaffer\n\nClifford Tan\n\nKayee\n\n### Best Boy Lights\n\nXiao Yang\n\n### Spark\n\nAnto\n\n### Key Grip\n\nMuru\n\n### Sound Recordist\n\nFung Kheng Loon\n\n### Boom Operator\n\nCheong Su Shin\n\n### Art Director\n\nRay Tan\n\n### Art Assistants\n\nSiang Meng Fei\n\nLim Xin Yang\n\nLee Jia Jie\n\nLee Chin Fang\n\nCho Shou Yu\n\n### Art Team Lorry Driver\n\nB.Kogul Nath\n\n### Wardrobe Stylist\n\nShasha\n\n### Wardrobe Assistant\n\nWawa\n\n### Hair & Make-up\n\nJenny Kon\n\n### Unit/Location Manager\n\nWafi\n\n### Facilities\n\nRaj Wisdom Enterprise\n\n### Medic/ Covid Officers\n\nZulkifle Muslim\n\nNik Danial Amirul\n\n### Editor\n\nAbhilash Chandra\n\n### VFX Company\n\nMira Digital\n\n### VFX Supervisor\n\nAzim Hulaimi\n\n### VFX Artist\n\nFirdaus\n\n### VFX\n\nKit\n\n### Motion Graphic Designer\n\nSenizeug\n\n### Colourist\n\nKeidrych Wasley\n\n### Music Composer\n\nKen Hor\n\n### Music Production\n\nChloe Khor\n\n### Music Company\n\nInner Voices\n\n### Sound Designer\n\nJoe Wills\n\n### Malay Dialogue & Translations\n\nHazo Mahayuddin\n\n### BTS Stills & Videos\n\nSarah Rinaldi\n\n‍\n\n### Cast\n\n**Main Talent**\n\n### Corporate Giant\n\nRay Dapdap\n\n### Lead Protestor\n\nAyam Fared\n\n### TV Reporter\n\nLuqman Hariz\n\n### Secretary\n\nSharifah Sofia\n\n### Office Exec\n\nFaiq Syazwan\n\n### Omg Protestor\n\nSonicWebs\n\n‍\n\n### Cast\n\n**All Talents**\n\n### Military Personnel 1\n\nTaufiq Jusoff\n\n### Military Personnel 2\n\nMelissa Tan\n\n### Military Personnel 3\n\nEl-Umar\n\n### Military General\n\nRahim Said\n\n### Scientist\n\nJohari Abass\n\n### Politican 1\n\nHeng Kiah Chun\n\n### Politician 2\n\nHema Sulakshana Mahadevan\n\n### Man in Car\n\nAnuar Hamidaziz\n\n### Office Personnel\n\nLia Francis\n\nMun Yip\n\nTheresa Cellona\n\nRyan Matjeraie\n\nAmirul Zain\n\n### Protestors\n\nAdrianna Astle\n\nAinatul Mardhiah\n\nAldwin Joseph Tabasa \n\nAreej Gawaher Saleh Abdelmalek Salam (AJ)\n\nArif Radzif\n\nAziz Ismail \n\nAzmi Chin\n\nBen Colvin \n\nBenignus Cheah Kee Guan\n\nBerlin Liew\n\nChin How Chung\n\nChloe Ching\n\nChloe Luthi\n\nChong Kar Woh\n\nDamien Thanam Divean \n\nDanielle Willat (Dani)\n\nDavina Goh\n\nDuraisaran a/l Velayutham \n\nDylan Luthi\n\nFaridah Hanim Binti Mohd Ayub\n\nGrace Ng\n\nHema Sulakshana Mahadevan\n\nHeng Kiah Chun\n\nIdris\n\nIkram Kamarudin \n\nJames Quah\n\nJamie Chin\n\nJoanna Moo\n\nKhaled Khairi Ismail Hashim \n\nKoo Wee Hon\n\nLia Francis\n\nMargo Prebenda \n\nMasitah \n\nMazlan Ismath\n\nMuhd Aliff Hussaini \n\nMuhammad Nabil bin Rozali\n\nMun Yip\n\nNabil Zakariya\n\nNanda\n\nNick Augustin \n\nNur Anisah Zunaibi (Anis) \n\nNur Sakeenah Omar \n\nPrabu Balasubramaniam\n\nPrakash Daniel\n\nRohan Kai-Jin Sreesanthan\n\nSafinaz Hiryati Sanusi (Peanut)\n\nSelvan Segaran\n\nShen\n\nShreya Su-Ree Sreesanthan\n\nSyahir\n\nThing Siew Shuen\n\nThuvaaraka Srikanth \n\nUncle Anuar\n\nVimalan Vicknesh \n\nVince Joseph Stahtiaris\n\nWei Kiat\n\nXin Dee\n\nYvonne Nathan",
+        "creditsNote": "GREENPEACE 2023",
+        "press": [
+          {
+            "label": "Astro Awani",
+            "href": "https://www.astroawani.com/videos/consider-x7ko7s/consider-haze-part-2-going-beyond-smoke-screen-x8ksclt"
+          },
+          {
+            "label": "Bernama",
+            "href": "https://www.bernama.com/en/features/news.php?id=2194203"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.bernama.com/en/features/news.php?id=2194203"
+          },
+          {
+            "label": "Bernama",
+            "href": "https://www.bernama.com/bm/bfokus/news.php?id=2194202"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.bernama.com/bm/bfokus/news.php?id=2194202"
+          },
+          {
+            "label": "Brooklyn Street Art",
+            "href": "https://www.brooklynstreetart.com/2023/05/23/fighting-haze-in-malaysia-with-splash-burn-and-greenpeace/"
+          },
+          {
+            "label": "BFM",
+            "href": "https://www.bfm.my/podcast/bigger-picture/earth-matters/haze-coming-soon"
+          },
+          {
+            "label": "Buro Malaysia",
+            "href": "https://www.buro247.my/lifestyle/news/events-klang-valley-weekend-6-7-may-2023.html"
+          },
+          {
+            "label": "Cincai News",
+            "href": "https://www.cincainews.com/news/eat-travel/2023/04/25/from-may-5th-to-14th-at-rexkl-or-haze-coming-soon/66292"
+          },
+          {
+            "label": "Free Malaysia Today",
+            "href": "https://www.freemalaysiatoday.com/category/leisure/2023/05/08/exhibition-invites-us-to-take-a-clear-look-at-malaysias-haze-problem/"
+          },
+          {
+            "label": "Frontal Revista",
+            "href": "https://frontalrevista.com.ar/arte/transboundary-haze-de-ernest-zacharevic-en-kuala-lumpur-malasia-streetartnews/"
+          },
+          {
+            "label": "Getaran",
+            "href": "https://www.getaran.my/artikel/budaya/46176/fahmi-reza-terlibat-dengan-pameran-seni-aktivis-gesa-tindakan-segera-terhadap-pencemaran-jerebu"
+          },
+          {
+            "label": "Graffiti Street",
+            "href": "https://www.graffitistreet.com/splash-and-burn-art-activism-holding-polluters-to-account-malaysia-2023/"
+          },
+          {
+            "label": "Head Topics",
+            "href": "https://headtopics.com/my/greenpeace-malaysia-pushes-for-transboundary-haze-pollution-act-with-art-exhibition-by-artists-and-f-38924655"
+          },
+          {
+            "label": "Juice",
+            "href": "https://juiceonline.com/jerebu-fahmi-reza-mural/"
+          },
+          {
+            "label": "Juxtapoz I",
+            "href": "https://www.juxtapoz.com/news/street-art/splash-and-burn-teams-with-greenpeace-malaysia-and-studio-birthplace-for-haze-coming-soon-project/"
+          },
+          {
+            "label": "Lumi News",
+            "href": "https://luminews.my/news/1274482"
+          },
+          {
+            "label": "Malay Mail",
+            "href": "https://www.malaymail.com/news/life/2023/05/09/greenpeace-malaysia-pushes-for-transboundary-haze-pollution-act-with-art-exhibition-by-artists-and-filmmakers/68351"
+          },
+          {
+            "label": "Malaysia World News",
+            "href": "https://www.malaysiaworldnews.com/greenpeace-and-artists-demand-action-on-transboundary-haze-pollution/"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.malaysiaworldnews.com/greenpeace-and-artists-demand-action-on-transboundary-haze-pollution/"
+          },
+          {
+            "label": "Malaysiakini",
+            "href": "https://www.malaysiakini.com/news/667140"
+          },
+          {
+            "label": "New Straits Times",
+            "href": "https://drive.google.com/file/d/1sdxHJ6XTXsv7zI4EuwPl6KMkREd9f9P5/view?usp=share_link"
+          },
+          {
+            "label": "New Strait Times",
+            "href": "https://drive.google.com/file/d/1sdxHJ6XTXsv7zI4EuwPl6KMkREd9f9P5/view?usp=share_link"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.isupportstreetart.com/ernest-zacharevic-reveals-transboundary-haze/"
+          },
+          {
+            "label": "Nanyang Siang Pau",
+            "href": "https://www.enanyang.my/%E4%BC%98%E7%94%9F%E6%B4%BB/%E6%88%91%E5%9B%BD%E6%AF%8F%E5%B9%B4%E9%80%BE3%E4%B8%872%E5%8D%83%E4%BA%BA-%E6%AD%BB%E4%BA%8E%E7%A9%BA%E6%B0%94%E6%B1%A1%E6%9F%93"
+          },
+          {
+            "label": "Nanyang Siang Pau",
+            "href": "https://drive.google.com/file/d/17vxmAAFEaghLYaus5TvUw4q74-k90yUg/view?usp=share_link"
+          },
+          {
+            "label": "Newswav",
+            "href": "https://newswav.com/article/fahmi-reza-terlibat-dengan-pameran-seni-aktivis-gesa-tindakan-segera-terhad-A2305_M8F25c"
+          },
+          {
+            "label": "Newswav",
+            "href": "https://newswav.com/article/greenpeace-malaysia-pushes-for-transboundary-haze-pollution-act-with-art-ex-A2305_zDfYQR"
+          },
+          {
+            "label": "Noodou",
+            "href": "https://noodou.com/%E5%8F%82%E5%8A%A0%E3%80%8Ehaze-coming-soon%E3%80%8F%E8%89%BA%E6%9C%AF%E5%B1%95%E5%AF%B9%E6%8A%97%E8%B7%A8%E5%A2%83%E7%83%9F%E9%9C%BE%E6%B1%A1%E6%9F%93%EF%BC%8C%E6%8D%8D%E5%8D%AB%E8%8E%B7%E5%BE%97/"
+          },
+          {
+            "label": "Sin Chew Daily",
+            "href": "https://drive.google.com/file/d/1I1UiTPLqEOXUx9HdFklDR5jn8TzNRW4x/view?usp=share_link"
+          },
+          {
+            "label": "Sinar Harian",
+            "href": "https://www.sinarharian.com.my/article/220088/berita/semasa/mural-caution-jerebu-is-coming-back-dirosakkan-dua-kali"
+          },
+          {
+            "label": "Support Street Art",
+            "href": "https://www.isupportstreetart.com/ernest-zacharevic-reveals-transboundary-haze/"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.isupportstreetart.com/ernest-zacharevic-reveals-transboundary-haze/"
+          },
+          {
+            "label": "Street Art News",
+            "href": "https://streetartnews.net/2022/06/transboundary-haze-by-ernest-zacharevic-in-kuala-lumpur-malaysia.html"
+          },
+          {
+            "label": "Street Art News",
+            "href": "https://streetartnews.net/2023/05/haze-coming-soon-by-ernest-zacharevic-in-kuala-lumpur-malaysia.html"
+          },
+          {
+            "label": "The Borneo Post",
+            "href": "https://drive.google.com/file/d/14jXnNBmV1SWnOzdJyImDnbJzqZXzLDe1/view?usp=share_link"
+          },
+          {
+            "label": "The Star",
+            "href": "https://www.thestar.com.my/lifestyle/culture/2023/05/04/artists-and-activists-unite-to-demand-clean-air-as-039haze-zilla039-approaches"
+          },
+          {
+            "label": "The Star",
+            "href": "https://www.thestar.com.my/lifestyle/culture/2023/05/05/weekend-for-the-arts-open-day-at-the-parliament-haze-exhibition-at-rexkl"
+          },
+          {
+            "label": "The Star Metro",
+            "href": "https://www.thestar.com.my/metro/metro-news/2023/05/15/activist-art-exposes-haze-hazards"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.thestar.com.my/metro/metro-news/2023/05/15/activist-art-exposes-haze-hazards"
+          },
+          {
+            "label": "The Sun",
+            "href": "https://drive.google.com/file/d/1C4i7xZDYTnwRrBxN368d-zTCNdEYH_MJ/view?usp=share_link"
+          },
+          {
+            "label": "‍",
+            "href": "https://drive.google.com/file/d/1C4i7xZDYTnwRrBxN368d-zTCNdEYH_MJ/view?usp=share_link"
+          },
+          {
+            "label": "The Rakyat Post",
+            "href": "https://www.therakyatpost.com/news/2023/05/05/greenpeace-and-artists-unite-to-demand-action-on-transboundary-haze-pollution/"
+          },
+          {
+            "label": "Yahoo News",
+            "href": "https://malaysia.news.yahoo.com/greenpeace-malaysia-pushes-transboundary-haze-073154850.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAAzfutPhxZdBx79mw27QcyFGey_MfKE5UeA0JMHrF83M6XHd4GOaKx0Gs-OxhUSxAyOvyMxHmH0pLl08_UnKh0gxKjxDtCUJaRpFWdNNoikqAk8DpU5D8K5qGo4sUfxEKENDOA11l3mRp9i6w_EgAj1TaSZpvygY8QEWZGuLdxwt"
+          }
+        ],
+        "logo": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/648f37ed4342be4ed866de40_greenpeace.svg",
+          "alt": "",
+          "href": "https://greenpeace.com"
+        },
+        "creditsLabel": "View Full Credits",
+        "pressLabel": "View Media Features"
+      }
+    },
+    {
+      "id": "film-2",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "7z4ZdDmZjP4",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e70f954dfb9ce1f2d01bac_HazeCover.video.jpg",
+          "ratio": "2.39:1"
+        }
+      }
+    },
+    {
+      "id": "cta-3",
+      "type": "cta",
+      "content": {
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e7100d1ffbca030b695098_haze.getInvolved.jpg",
+          "alt": ""
+        },
+        "heading": "Get Involved",
+        "text": "Clean breathable air is a basic human right. Join us to demand government to hold the big polluters accountable and protect our basic right to clean, haze-free air.",
+        "button": {
+          "label": "Act to end Haze Pollution",
+          "href": "https://www.greenpeace.org/malaysia/act/my-haze-free-rights/"
+        }
+      }
+    },
+    {
+      "id": "stats-4",
+      "type": "stats",
+      "content": {
+        "title": "Impact",
+        "items": [
+          {
+            "number": "500k+",
+            "label": "Campaign Film Views"
+          },
+          {
+            "number": "6000+",
+            "label": "Exhibition Attendees"
+          },
+          {
+            "number": "3000+",
+            "label": "Petition Signatures"
+          },
+          {
+            "number": "60+",
+            "label": "International Media Features"
+          }
+        ]
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "text-5",
+      "type": "text",
+      "content": {
+        "heading": "Haze Pollution",
+        "body": "Air Pollution is a leading environmental health threat in Malaysia and many other parts in the world. An estimated 32,000 premature deaths per year could be avoided in Malaysia alone with clean air quality. During the last case of heavy haze in 2019, respiratory illnesses in Malaysia were found to be the 2nd leading cause of death (14.8%).\n\n‍\n\nThe burning of forests and peatlands cause thick toxic haze that travels to many surrounding countries. **This hazardous haze has been a massive threat to the climate, public health, and biodiversity for decades.**"
+      },
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-6",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e7202bc35c510f70c71418_Haze.Still.09.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e7202a50d60013ef91a876_Haze.Still.03.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e7202a343a10e8a9ab21c0_Haze.Still.05.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e720297a1dfcd0b5e7a6cf_Haze.Still.07.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e720291a7bef1f8a7ee4a7_Haze.Still.08.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e7202a3346c4bdd982c5e6_Haze.Still.06.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e7202a406f7efea07e9f7e_Haze.Still.02.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e7202aa1b01e59ea7e0a99_Haze.Still.04.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "image": "stills"
+      },
+      "overrideReasons": {
+        "image": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "campaign-8",
+      "type": "campaign",
+      "content": {
+        "heading": "The Campaign",
+        "text": "The project included a multi-faceted campaign stretching across multiple months - starting with various street art interventions, a campaign film and ending with a large art exhibition in downtown Kuala Lumpur. A series of public murals was created to alert people about the imminent haze, featuring artworks from artists Fahmi Reza, Cloakwork, Pangrok Sulap, and Ernest Zacharevic.",
+        "press": [
+          {
+            "label": "Astro Awani",
+            "href": "https://www.astroawani.com/videos/consider-x7ko7s/consider-haze-part-2-going-beyond-smoke-screen-x8ksclt"
+          },
+          {
+            "label": "Bernama",
+            "href": "https://www.bernama.com/en/features/news.php?id=2194203"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.bernama.com/en/features/news.php?id=2194203"
+          },
+          {
+            "label": "Bernama",
+            "href": "https://www.bernama.com/bm/bfokus/news.php?id=2194202"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.bernama.com/bm/bfokus/news.php?id=2194202"
+          },
+          {
+            "label": "Brooklyn Street Art",
+            "href": "https://www.brooklynstreetart.com/2023/05/23/fighting-haze-in-malaysia-with-splash-burn-and-greenpeace/"
+          },
+          {
+            "label": "BFM",
+            "href": "https://www.bfm.my/podcast/bigger-picture/earth-matters/haze-coming-soon"
+          },
+          {
+            "label": "Buro Malaysia",
+            "href": "https://www.buro247.my/lifestyle/news/events-klang-valley-weekend-6-7-may-2023.html"
+          },
+          {
+            "label": "Cincai News",
+            "href": "https://www.cincainews.com/news/eat-travel/2023/04/25/from-may-5th-to-14th-at-rexkl-or-haze-coming-soon/66292"
+          },
+          {
+            "label": "Free Malaysia Today",
+            "href": "https://www.freemalaysiatoday.com/category/leisure/2023/05/08/exhibition-invites-us-to-take-a-clear-look-at-malaysias-haze-problem/"
+          },
+          {
+            "label": "Frontal Revista",
+            "href": "https://frontalrevista.com.ar/arte/transboundary-haze-de-ernest-zacharevic-en-kuala-lumpur-malasia-streetartnews/"
+          },
+          {
+            "label": "Getaran",
+            "href": "https://www.getaran.my/artikel/budaya/46176/fahmi-reza-terlibat-dengan-pameran-seni-aktivis-gesa-tindakan-segera-terhadap-pencemaran-jerebu"
+          },
+          {
+            "label": "Graffiti Street",
+            "href": "https://www.graffitistreet.com/splash-and-burn-art-activism-holding-polluters-to-account-malaysia-2023/"
+          },
+          {
+            "label": "Head Topics",
+            "href": "https://headtopics.com/my/greenpeace-malaysia-pushes-for-transboundary-haze-pollution-act-with-art-exhibition-by-artists-and-f-38924655"
+          },
+          {
+            "label": "Juice",
+            "href": "https://juiceonline.com/jerebu-fahmi-reza-mural/"
+          },
+          {
+            "label": "Juxtapoz I",
+            "href": "https://www.juxtapoz.com/news/street-art/splash-and-burn-teams-with-greenpeace-malaysia-and-studio-birthplace-for-haze-coming-soon-project/"
+          },
+          {
+            "label": "Lumi News",
+            "href": "https://luminews.my/news/1274482"
+          },
+          {
+            "label": "Malay Mail",
+            "href": "https://www.malaymail.com/news/life/2023/05/09/greenpeace-malaysia-pushes-for-transboundary-haze-pollution-act-with-art-exhibition-by-artists-and-filmmakers/68351"
+          },
+          {
+            "label": "Malaysia World News",
+            "href": "https://www.malaysiaworldnews.com/greenpeace-and-artists-demand-action-on-transboundary-haze-pollution/"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.malaysiaworldnews.com/greenpeace-and-artists-demand-action-on-transboundary-haze-pollution/"
+          },
+          {
+            "label": "Malaysiakini",
+            "href": "https://www.malaysiakini.com/news/667140"
+          },
+          {
+            "label": "New Straits Times",
+            "href": "https://drive.google.com/file/d/1sdxHJ6XTXsv7zI4EuwPl6KMkREd9f9P5/view?usp=share_link"
+          },
+          {
+            "label": "New Strait Times",
+            "href": "https://drive.google.com/file/d/1sdxHJ6XTXsv7zI4EuwPl6KMkREd9f9P5/view?usp=share_link"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.isupportstreetart.com/ernest-zacharevic-reveals-transboundary-haze/"
+          },
+          {
+            "label": "Nanyang Siang Pau",
+            "href": "https://www.enanyang.my/%E4%BC%98%E7%94%9F%E6%B4%BB/%E6%88%91%E5%9B%BD%E6%AF%8F%E5%B9%B4%E9%80%BE3%E4%B8%872%E5%8D%83%E4%BA%BA-%E6%AD%BB%E4%BA%8E%E7%A9%BA%E6%B0%94%E6%B1%A1%E6%9F%93"
+          },
+          {
+            "label": "Nanyang Siang Pau",
+            "href": "https://drive.google.com/file/d/17vxmAAFEaghLYaus5TvUw4q74-k90yUg/view?usp=share_link"
+          },
+          {
+            "label": "Newswav",
+            "href": "https://newswav.com/article/fahmi-reza-terlibat-dengan-pameran-seni-aktivis-gesa-tindakan-segera-terhad-A2305_M8F25c"
+          },
+          {
+            "label": "Newswav",
+            "href": "https://newswav.com/article/greenpeace-malaysia-pushes-for-transboundary-haze-pollution-act-with-art-ex-A2305_zDfYQR"
+          },
+          {
+            "label": "Noodou",
+            "href": "https://noodou.com/%E5%8F%82%E5%8A%A0%E3%80%8Ehaze-coming-soon%E3%80%8F%E8%89%BA%E6%9C%AF%E5%B1%95%E5%AF%B9%E6%8A%97%E8%B7%A8%E5%A2%83%E7%83%9F%E9%9C%BE%E6%B1%A1%E6%9F%93%EF%BC%8C%E6%8D%8D%E5%8D%AB%E8%8E%B7%E5%BE%97/"
+          },
+          {
+            "label": "Sin Chew Daily",
+            "href": "https://drive.google.com/file/d/1I1UiTPLqEOXUx9HdFklDR5jn8TzNRW4x/view?usp=share_link"
+          },
+          {
+            "label": "Sinar Harian",
+            "href": "https://www.sinarharian.com.my/article/220088/berita/semasa/mural-caution-jerebu-is-coming-back-dirosakkan-dua-kali"
+          },
+          {
+            "label": "Support Street Art",
+            "href": "https://www.isupportstreetart.com/ernest-zacharevic-reveals-transboundary-haze/"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.isupportstreetart.com/ernest-zacharevic-reveals-transboundary-haze/"
+          },
+          {
+            "label": "Street Art News",
+            "href": "https://streetartnews.net/2022/06/transboundary-haze-by-ernest-zacharevic-in-kuala-lumpur-malaysia.html"
+          },
+          {
+            "label": "Street Art News",
+            "href": "https://streetartnews.net/2023/05/haze-coming-soon-by-ernest-zacharevic-in-kuala-lumpur-malaysia.html"
+          },
+          {
+            "label": "The Borneo Post",
+            "href": "https://drive.google.com/file/d/14jXnNBmV1SWnOzdJyImDnbJzqZXzLDe1/view?usp=share_link"
+          },
+          {
+            "label": "The Star",
+            "href": "https://www.thestar.com.my/lifestyle/culture/2023/05/04/artists-and-activists-unite-to-demand-clean-air-as-039haze-zilla039-approaches"
+          },
+          {
+            "label": "The Star",
+            "href": "https://www.thestar.com.my/lifestyle/culture/2023/05/05/weekend-for-the-arts-open-day-at-the-parliament-haze-exhibition-at-rexkl"
+          },
+          {
+            "label": "The Star Metro",
+            "href": "https://www.thestar.com.my/metro/metro-news/2023/05/15/activist-art-exposes-haze-hazards"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.thestar.com.my/metro/metro-news/2023/05/15/activist-art-exposes-haze-hazards"
+          },
+          {
+            "label": "The Sun",
+            "href": "https://drive.google.com/file/d/1C4i7xZDYTnwRrBxN368d-zTCNdEYH_MJ/view?usp=share_link"
+          },
+          {
+            "label": "‍",
+            "href": "https://drive.google.com/file/d/1C4i7xZDYTnwRrBxN368d-zTCNdEYH_MJ/view?usp=share_link"
+          },
+          {
+            "label": "The Rakyat Post",
+            "href": "https://www.therakyatpost.com/news/2023/05/05/greenpeace-and-artists-unite-to-demand-action-on-transboundary-haze-pollution/"
+          },
+          {
+            "label": "Yahoo News",
+            "href": "https://malaysia.news.yahoo.com/greenpeace-malaysia-pushes-transboundary-haze-073154850.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAAzfutPhxZdBx79mw27QcyFGey_MfKE5UeA0JMHrF83M6XHd4GOaKx0Gs-OxhUSxAyOvyMxHmH0pLl08_UnKh0gxKjxDtCUJaRpFWdNNoikqAk8DpU5D8K5qGo4sUfxEKENDOA11l3mRp9i6w_EgAj1TaSZpvygY8QEWZGuLdxwt"
+          }
+        ],
+        "pressLabel": "View Media Features",
+        "link": {
+          "label": "Greenpeace Landing Page",
+          "href": "https://www.greenpeace.org/malaysia/act/my-haze-free-rights/"
+        }
+      },
+      "spaceBefore": "4-5"
+    },
+    {
+      "id": "posters-9",
+      "type": "posters",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65eee2cf20b1b3b54cc22913_haze.campaignPosters.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "layout": "poster"
+      },
+      "overrideReasons": {
+        "layout": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "text-on-image-10",
+      "type": "text-on-image",
+      "content": {
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e72cb41cefcfe820a0df07_haze.streetArt.bg.jpg",
+          "alt": ""
+        },
+        "parts": [
+          {
+            "kind": "text",
+            "heading": "Street Art",
+            "body": "Leading up to the exhibition, a series of creative interventions by artists Cloakwork, Pangrok Sulap and Ernest Zacharevic were held across areas of Kuala Lumpur and Penang. These pieces are part of a larger movement to sound the alarm on the recurring haze pollution and to demand urgent action.\n\n‍"
+          },
+          {
+            "kind": "film",
+            "film": {
+              "provider": "youtube",
+              "id": "m5EIhT1Isfo",
+              "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65eee8bfb95157f5c48884cf_ArtCover.video.jpg",
+              "ratio": "16:9"
+            }
+          }
+        ]
+      },
+      "overrides": {
+        "panel": "noise"
+      },
+      "overrideReasons": {
+        "panel": "as on the live site (phase 1)"
+      },
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-11",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e7325d783b83329af3aeda_streetArt.01.webp",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e7325d452971f9107ea162_streetArt.03.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e7325d4a1417b8e8bc9204_streetArt.05.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e7325c4971a421bf6060dc_streetArt.01.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e7325d2da5d971cfa2e0ed_streetArt.04.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e7325c4ca328310ca43ec6_streetArt.02.webp",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "align": "center"
+      },
+      "overrideReasons": {
+        "align": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "text-12",
+      "type": "text",
+      "content": {
+        "heading": "Exhibition",
+        "body": "This series of art interventions culminated into an activist art exhibition titled “Haze: Coming Soon”, from May 5th to 14th at REXKL, in the heart of Kuala Lumpur. Curated by artist Ernest Zacharevic, the exhibition featured a collection of immersive installations, short films and artworks by an exciting line-up of artists including Cloakwork, Pangrok Sulap, Wong Kai Yi, Fahmi Reza, Trina Teoh and Bibichun.\n\n‍\n\nIn 10 days, the exbhition brought together over 6000 visitors including policy makers, and gathered over 2000 signatures for Greenpeace's petition for a Transboundary Haze Pollution Act in Malaysia. These signatures will be sent to parliament to drum up our ministers political will for solution-oriented actions prior to the ASEAN transboundary haze meeting in Singapore next month."
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "posters-13",
+      "type": "posters",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e737f83e8ef8b0cc2deb07_Exhibition.01.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "layout": "exhibition"
+      },
+      "overrideReasons": {
+        "layout": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "posters-14",
+      "type": "posters",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e738e6a0f38607bccf6412_Exhibition.02.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "layout": "exhibition"
+      },
+      "overrideReasons": {
+        "layout": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "text-15",
+      "type": "text",
+      "content": {
+        "heading": "Creative Activism",
+        "body": "The exhibition included a panel discussion on the topic of haze pollution and creative activism. The panel was moderated by environmental activist Melissa Tan, and invited environmentalists and creatives to share their insights. An interpretive dance about the haze was performed by Asia Ballet Academy."
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-16",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e7e19ca09bd49101c111c2_haze.exhibition.01.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6814b7afcd46279cfe42776f_IMG_3699-optimized.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e7e19b09d709c468575abe_haze.exhibition.06.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e7e19c5598890c627f1afb_haze.exhibition.03.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e7e19affa29a1be7807f2c_haze.exhibition.04.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e7e19b74ed1a8b482092ca_haze.exhibition.05.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e7e19c54305b61de1aeec1_haze.exhibition.09.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e7e19b6f8a44266cd2b737_haze.exhibition.08.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6814b7ebf61cb80637e23452_4C2A3487-ED35-4F6C-8C5A-B53EDC90DADE-optimized.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e7e19baa3c9f54b3819230_haze.exhibition.07.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "align": "center"
+      },
+      "overrideReasons": {
+        "align": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "posters-17",
+      "type": "posters",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6814b71033878569de141bf7_96417F53-E736-4978-8AB9-D2E9DA8CA318-optimized.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6814b6d289ffbfd7939b7dea_IMG_3693-optimized.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "layout": "poster-still"
+      },
+      "overrideReasons": {
+        "layout": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "text-on-image-18",
+      "type": "text-on-image",
+      "content": {
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e7eee8fc7ec99b46a265aa_hazemedia.BG.jpg",
+          "alt": ""
+        },
+        "parts": [
+          {
+            "kind": "text",
+            "heading": "In the Media",
+            "body": ""
+          },
+          {
+            "kind": "gallery",
+            "image": "media",
+            "images": [
+              {
+                "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e7ea2312223bb0c6f98c9e_Haze.news.01.webp",
+                "alt": ""
+              },
+              {
+                "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e7ea240ed98c007d152539_Haze.news.02.webp",
+                "alt": ""
+              },
+              {
+                "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e7ea24796a4c5dd71c20c0_Haze.news.03.webp",
+                "alt": ""
+              },
+              {
+                "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e7ea243f5b3350fcd05acc_Haze.news.04.webp",
+                "alt": ""
+              },
+              {
+                "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e7ea24f58bad540f61f6bf_Haze.news.05.webp",
+                "alt": ""
+              },
+              {
+                "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e7ea24b7a8fce764a8d4a7_Haze.news.06.webp",
+                "alt": ""
+              },
+              {
+                "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e7ea23210101203be93246_Haze.news.07.webp",
+                "alt": ""
+              }
+            ]
+          }
+        ]
+      },
+      "overrides": {
+        "panel": "campaign"
+      },
+      "overrideReasons": {
+        "panel": "as on the live site (phase 1)"
+      },
+      "padBottom": "4-5"
+    },
+    {
+      "id": "more-work",
+      "type": "more-work",
+      "content": {
+        "button": {
+          "label": "View More Work",
+          "href": "/work"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "slug": "water-witness",
+  "title": "Water Witness",
+  "description": "Studio Birthplace's campaign Inequality by the Gallon made with Don't Panic London for Water Witness exposes the hidden water footprint behind everyday supermarket products and the communities affected by it.",
+  "family": "fluid",
+  "background": "black",
+  "client": "Water Witness",
+  "inGrid": true,
+  "stripes": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "content": {
+        "eyebrow": "Our Work",
+        "client": "Water Witness",
+        "title": "Inequality By The Gallon",
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/69adda3643643da3cb1d67aa_WW-Cover.jpg",
+          "alt": ""
+        }
+      }
+    },
+    {
+      "id": "details",
+      "type": "project-details",
+      "content": {
+        "eyebrow": "ABOUT THE PROJECT",
+        "about": "## *Inequality by The Gallon* exposes **the hidden water footprint** behind everyday supermarket products and the communities affected by it.\n\nThe campaign film shows a supermarket aisle flooding as products burst open with water, eventually **revealing the real-world impact of this hidden consumption in a water-scarce community.**",
+        "credits": [
+          {
+            "role": "Directors",
+            "name": "Sil van der Woerd & Jorik Dozy"
+          },
+          {
+            "role": "Agency",
+            "name": "Don't Panic"
+          },
+          {
+            "role": "VFX Studio",
+            "name": "Redivider Studio"
+          }
+        ],
+        "fullCredits": "### Production Company\n\nStudio Birthplace\n\n### Film Directors\n\nSil van der Woerd & Jorik Dozy\n\n### Executive Producer\n\nAlea Rahim\n\n### VFX Production Company\n\nRedivider Studio\n\n### VFX Director\n\nTimSmiT\n\n### VFX Supervisor\n\nDieuwer Feldbrugge\n\n### Layout & Animation\n\nMatthijs Joor\n\n### FX Simulations\n\nDieuwer Feldbrugge, Matthijs Joor & TimSmiT\n\n### Shading and Lighting Artist\n\nSohaib Bouiass\n\n### Comp\n\nEwoud Heidanus\n\n### Sound Design & Mix\n\nJoe Munday\n\n### Post Sound House\n\nOPM London",
+        "creditsNote": "",
+        "press": [
+          {
+            "label": "Water Witness",
+            "href": "https://waterwitness.org/act-now"
+          },
+          {
+            "label": "",
+            "href": "https://www.stashmedia.tv/studio-birthplace-sees-the-forest-and-the-trees-in-canopys-pack4good-spot/"
+          }
+        ],
+        "logo": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/69addb1dafa8832a9c235dc0_waterwitnesslogorgb-white.png",
+          "alt": "",
+          "href": "https://waterwitness.org/"
+        },
+        "creditsLabel": "View Full Credits",
+        "pressLabel": "View Media Features"
+      }
+    },
+    {
+      "id": "film-2",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "lPuwa3hVib4",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/69add69ec691c180dd1658d3_WW-Thumbnail.jpg",
+          "ratio": "2:1"
+        }
+      }
+    },
+    {
+      "id": "text-4",
+      "type": "text",
+      "content": {
+        "heading": "Flooded Aisles",
+        "body": "Most of us walk through a supermarket several times a week, filling our baskets without realizing that every product carries a story far beyond the shelf. In truth, there is a hidden water usage attached to the products we buy, water taken from communities and ecosystems far from our homes.\n\n‍\n\nWater Witness is a non-profit organization focused on addressing the global water crisis by promoting sustainable, equitable water management.\n\n‍"
+      },
+      "padTop": "4-5",
+      "spaceBefore": "4-5"
+    },
+    {
+      "id": "cta-5",
+      "type": "cta",
+      "content": {
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/69ae93c757972ffe23a4e7fc_WW-CalltoAction-Cover.jpg",
+          "alt": ""
+        },
+        "heading": "Get Involved",
+        "text": "Add your voice and join Water Witness in enforcing stronger sustainable and fair water use for all businesses.",
+        "button": {
+          "label": "Act to Demand a Fair Water Footprint",
+          "href": "https://waterwitness.org/act-now"
+        }
+      }
+    },
+    {
+      "id": "quote-6",
+      "type": "quote",
+      "content": {
+        "quote": "“Our work often focuses on making the unseen seen. We are surrounded by products, yet we rarely see their hidden impact. This film makes the invisible water footprint connected to these products visible.”",
+        "cite": "Directors Sil van der Woerd & Jorik Dozy"
+      },
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-7",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/69addc3233a0f7e0c4028966_WW-Still-1.avif",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/69addc32d841b41a35c7ceb9_WW-Still-2.avif",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/69addc32d9df6e0e0de39dca_WW-Still-2b.avif",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/69addc32f5e01fed2409e6de_WW-Still-3.avif",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/69addc32f5e01fed2409e6db_WW-Still-4.avif",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/69addc322229115f557b92e6_WW-Still-5.avif",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/69addc32e1a15b0b4d6fbd67_WW-Still-6.avif",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/69addc3207f5d167d18804d2_WW-Still-7.avif",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "image": "stills"
+      },
+      "overrideReasons": {
+        "image": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "text-8",
+      "type": "text",
+      "content": {
+        "heading": "Human-Made",
+        "body": "The world of snow and fossil fuel explosions you see in Oilympics was brought to life by the craft of VFX Director Tim Smit and his team at Redivider Studio.\n\n‍\n\n**Watch the VFX Breakdown below.**"
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "film-9",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "sSP-hV2Tfqg",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/699bbf5d5e450009629e504a_SaveVid.Net_631623760_17850880875671687_5295755110845021892_n.jpg",
+          "ratio": "16:9"
+        }
+      },
+      "overrides": {
+        "size": "split"
+      },
+      "overrideReasons": {
+        "size": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "more-work",
+      "type": "more-work",
+      "content": {
+        "button": {
+          "label": "View More Work",
+          "href": "/work"
+        }
+      }
+    }
+  ]
+}

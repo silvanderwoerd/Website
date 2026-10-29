@@ -26,8 +26,7 @@ We are on course for three to four degrees Celsius warming by the end of the cen
 
 ‍
 
-This is why in their own way, the creators at Studio Birthplace and their production partner Park Village do everything to protect the integrity of their voice within the industry.  
-  
+This is why in their own way, the creators at Studio Birthplace and their production partner Park Village do everything to protect the integrity of their voice within the industry.<br><br>
 
 The full article can be read [here](https://www.lbbonline.com/news/2022-in-retrospect-did-adland-match-its-sustainability-promises).
 

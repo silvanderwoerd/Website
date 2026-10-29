@@ -1,0 +1,79 @@
+/* Live: .modal-component, .modal-wrapper, .modal-container, .modal-close_btn,
+   .modal-close_area, .sr-only (+ the page style hiding the wrapper's scrollbar). */
+
+.component {
+  position: relative;
+}
+
+.wrapper {
+  position: fixed;
+  inset: 0;
+  z-index: var(--z-top);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  overflow: scroll;
+  background-color: var(--color-modal-backdrop);
+  font-size: var(--u);
+  scrollbar-width: none;
+}
+
+.wrapper::-webkit-scrollbar {
+  display: none;
+}
+
+.container {
+  position: relative;
+  z-index: 5;
+  display: block;
+  overflow: hidden;
+  width: 85%;
+  max-width: 46.25em;
+  margin: 10vh auto 20px;
+  padding: 40px;
+  background-color: var(--color-black);
+}
+
+.close {
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 10;
+  padding: 12px 16px;
+  color: var(--color-white);
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 0.7;
+  text-decoration: none;
+  transition: opacity var(--duration-fast);
+}
+
+.close:hover {
+  color: var(--color-grey-44);
+}
+
+.srOnly {
+  position: absolute;
+  overflow: hidden;
+  width: 1px;
+  height: 1px;
+  margin-top: -1px;
+  padding: 0;
+  border: 0;
+  white-space: nowrap;
+}
+
+.closeArea {
+  position: fixed;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@media (max-width: 767px) {
+  .close {
+    font-size: 1.8rem;
+  }
+}

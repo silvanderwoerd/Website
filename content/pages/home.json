@@ -7,6 +7,12 @@
     {
       "id": "hero",
       "type": "hero",
+      "overrides": {
+        "variant": "home"
+      },
+      "overrideReasons": {
+        "variant": "Home's hero: video, showreel button, socials (live site)"
+      },
       "content": {
         "title": "We Ignite **Action Through Stories**",
         "video": {

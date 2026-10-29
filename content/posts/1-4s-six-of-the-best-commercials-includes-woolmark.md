@@ -18,8 +18,7 @@ Woolmark's 'Wear Wool, Not Fossil Fuel' has been shortlisted in September 2022's
 
 ‍
 
-1.4 has been showcasing the best established and new talent in short-form filmmaking since 2012. They are also known for their 'Six of the Best" features in numerous categories, from Creative Music Videos to Cannes Lion Film Crafts.  
-  
+1.4 has been showcasing the best established and new talent in short-form filmmaking since 2012. They are also known for their 'Six of the Best" features in numerous categories, from Creative Music Videos to Cannes Lion Film Crafts.<br><br>
 
 The full list can be read [here](https://www.onepointfour.co/2022/09/14/six-of-the-best-creative-commercials-59/).
 

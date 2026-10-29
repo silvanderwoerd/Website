@@ -1,0 +1,368 @@
+{
+  "slug": "dangerous-lies",
+  "title": "Dangerous Lies",
+  "description": "Greenpeace's Dangerous Lies lifts the veil on the marketing scams of big polluters and how they turn nature into a commodity. The campaign exposes 'carbon offset schemes' through short live-action segments where the concept of greenwashing is depicted, and using educational animation to dive deeper into each scam.",
+  "family": "fluid",
+  "background": "black",
+  "client": "Greenpeace",
+  "inGrid": true,
+  "stripes": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "content": {
+        "eyebrow": "Our Work",
+        "client": "Greenpeace",
+        "title": "Dangerous Lies",
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e7fce02f26f492c42f9482_DangerousLies.Cover.jpg",
+          "alt": ""
+        }
+      }
+    },
+    {
+      "id": "details",
+      "type": "project-details",
+      "content": {
+        "eyebrow": "ABOUT THE PROJECT",
+        "about": "## Dangerous Lies **lifts the veil on the marketing scams of big polluters** and how they turn nature into a commodity.\n\nThe campaign exposes 'carbon offset schemes' through short live-action segments where the concept of greenwashing is depicted, and using educational animation to dive deeper into each scam.",
+        "credits": [
+          {
+            "role": "Directors & writers",
+            "name": "Jorik Dozy & Sil van der Woerd"
+          },
+          {
+            "role": "Producer",
+            "name": "Sean Lin"
+          },
+          {
+            "role": "VFX Supervisor",
+            "name": "Tim Smit"
+          }
+        ],
+        "fullCredits": "### **Concept & Production**\n\n**Studio Birthplace**\n\n### Writers & Directors\n\nJorik Dozy & Sil van der Woerd\n\n### Producer\n\nSean Lin\n\n### Music Composer\n\nVitaliy Zavadsky\n\n### Sound Designer\n\nWavefarer Audio\n\n### Colorist\n\nKeidrych Wasley\n\n### Production Assistant\n\nMarsya Mohd Johari\n\n‍\n\n### **Singapore Co-Production**\n\n**Chuan Pictures**\n\n### Executive Producer\n\nKaren Khoo-Toohey\n\n### Assistant Director\n\nJun Chong\n\n### Production Manager\n\nTerri Goh\n\n### Director Of Photography\n\nShyan Tan\n\n### 1st Camera Assistant\n\nJuan Qi An\n\n### 2nd Camera Assistant\n\nNadia Low\n\n### 3rd Camera Assistant\n\nIvan Chong\n\n### Data Wrangler\n\nErnest Lee\n\n### Grip\n\nKo Swee Kheng\n\nDickson Chua\n\n### Soundman\n\nJames Choong\n\n### Art Director\n\nChris Koh\n\n### Art Assistant\n\nEricson Esteban\n\n### Location Manager\n\nFeefee\n\n### **VFX Supervisor**\n\nWen Hao Tan\n\n### Props Assistant\n\nLynette Wee\n\n### Stylist\n\nMeredith Lee\n\n### Casting\n\nHello Group\n\n### Production Assistant\n\nLionel Seah\n\nWendy Lie\n\n‍\n\n### **VFX Production**\n\n**Deal Pixel**\n\n### VFX Supervisor & Lead Artist\n\nTimSmiT\n\n### 3D Lighting, Shading & Environment Rendering\n\nSohaib Bouaiss\n\n### Animations, Lead Comp & Additional Rendering\n\nTimSmiT\n\n### Additional Comp & Digital Matte Painting\n\nMarti Pujol\n\n‍\n\n### **Animation Production**\n\n**Method & Madness**\n\n### VFX Executive Producer\n\nTan Wen Hao\n\n### VFX Producer\n\nTerence Ng\n\n### CG Director\n\nTan Yating\n\n### **Concept/ Art**\n\nCamille Balete\n\n### CG Generalist\n\nMuhammad Huzaifi Bin Razali\n\nNg Zheng Jie\n\nHisham Taufik\n\n### Modeling\n\nFabio Wasques\n\nBosko Ognjevic\n\nLittle Chicken Game Company\n\n### Animation\n\nBenjamin Lee\n\nLucio Mennillo\n\n### On-set VFX supervisor\n\nTan Wen Hao\n\n### Signboards VFX\n\nAlex Scollay\n\n‍\n\n### **Cast**\n\n**JBS**\n\n### Father\n\nMartin Paul Dieffenbach\n\n### Daughter\n\nKerys MiaoJinxi Packman\n\n### V.O Artist\n\nSusie Valerioi\n\n‍\n\n### **Cast**\n\n**Aviation**\n\n### Girl\n\nHannah Lin Qing Chandy\n\n### Boy\n\nLim Hong Ting Quintus\n\n### V.O Artist\n\nDarren Altman\n\n‍\n\n### **Cast**\n\n**Total**\n\n### Congo Researcher\n\nIwani Mawocha\n\n### **Congo Researcher**\n\nBenjamin Obaje\n\n### V.O Artist\n\nCynthia Kimola\n\n‍",
+        "creditsNote": "GREENPEACE 2021",
+        "press": [
+          {
+            "label": "Greenpeace International",
+            "href": "https://www.greenpeace.org/international/story/50804/realzero-video-series-shows-how-offsetting-is-the-biggest-book-keeping-trick-of-the-century/"
+          },
+          {
+            "label": "Greenpeace Italy",
+            "href": "https://www.instagram.com/p/CVnZZtSqF9m/"
+          }
+        ],
+        "logo": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/648f37ed4342be4ed866de40_greenpeace.svg",
+          "alt": "",
+          "href": "https://greenpeace.com"
+        },
+        "creditsLabel": "View Full Credits",
+        "pressLabel": "View Media Features"
+      }
+    },
+    {
+      "id": "film-2",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "eYScY6QQBSM",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e81365140a10ba51761a28_GP_Total_1.jpg",
+          "ratio": "16:9"
+        }
+      }
+    },
+    {
+      "id": "text-3",
+      "type": "text",
+      "content": {
+        "heading": "Total 'Clean Oil'",
+        "body": "Oil giant Total claims it can compensate for the pollution caused by its oil, by planting a 'tree farm' in the Republic of Congo. However, this farm endangers critical habitats in Congo and its trees are planned to be used for the timber industry."
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-4",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e813640a6848c49c09a004_GP_Total_2.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e813659e0ec5a2f9e422a3_GP_Total_3.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e8136523e4c06d63572c36_GP_Total_4.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e8136555bb13d1b0d6bdfa_GP_Total_6.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e813666dbb75cbb5ed4b4a_GP_Total_5.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e81365f6a87e38c01bde1c_GP_Total_14.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e81365140a10ba51761a28_GP_Total_1.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "image": "bts"
+      },
+      "overrideReasons": {
+        "image": "as on the live site (phase 1)"
+      },
+      "padBottom": "4-375"
+    },
+    {
+      "id": "text-5",
+      "type": "text",
+      "content": {
+        "heading": "Carbon Offsets",
+        "body": "Carbon offsets are when a polluter that has emitted greenhouse gases exchanges or 'offsets' their pollution with a 'credit' for carbon captured by someone else. It’s an accounting trick used by companies like Shell, Total, Exxon, and others to burn oil and fossil gas in exchange for carbon credits from tree planting or conservation projects to theoretically “offset” their carbon emissions.\n\n‍\n\nOffsetting isn’t just a scam, it’s unjust. Polluters in wealthy countries can effectively keep polluting by shifting responsibility for their pollution, and adding more of a burden to already vulnerable communities suffering from the effects of climate change.<br><br>Offsetting projects often distort local economies and grab local and Indigenous Peoples’ land that they use for their livelihoods. And have led to natural ecosystems being destroyed, threatened species habitat lost, and human rights abuses.<br>"
+      },
+      "padBottom": "4-5"
+    },
+    {
+      "id": "film-6",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "MjY1aQvE_0I",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e815ddd6f08a2c763d2aaa_GP_JBS_03.jpg",
+          "ratio": "16:9"
+        }
+      }
+    },
+    {
+      "id": "text-7",
+      "type": "text",
+      "content": {
+        "heading": "JBS 'Green Meat'",
+        "body": "JBS, the world's largest meat producer, has pledged to be carbon neutral by 2040. But their plan to do so, allows them to keep destroying the valuable Amazon Rainforest and does not address the fundamental source of their climate impact: methane release by cattle."
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-8",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e815deeb4eba1be8a16013_GP_JBS_02.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e815de56180a955e3554f5_GP_JBS_05.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e815de505782b0f8f143d1_GP_JBS_06.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e815dd693dc15751f498ef_GP_JBS_01.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e815ddaad625e74b56bfaf_GP_JBS_04.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e815ddd6f08a2c763d2aaa_GP_JBS_03.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "image": "bts"
+      },
+      "overrideReasons": {
+        "image": "as on the live site (phase 1)"
+      },
+      "padBottom": "4-375"
+    },
+    {
+      "id": "film-9",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "d-PCLVUH6lE",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e817dd9e0ec5a2f9e668e1_GP_Aviation_03.jpg",
+          "ratio": "16:9"
+        }
+      }
+    },
+    {
+      "id": "text-10",
+      "type": "text",
+      "content": {
+        "heading": "Flying 'Carbon Neutral'",
+        "body": "The aviation industry has you believe that it is possible to fly carbon neutral by paying a little extra on your ticket to 'offset' the carbon emitted by your flight. But these 'offset schemes' work in divisive ways, are often impossible to verify and are a distraction to the real solution."
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-11",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e817de23e4c06d635938f6_GP_Aviation_04.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e817dd84b5bfb5c42700c6_GP_Aviation_02.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e817dd9992c9bea6f6ee9f_GP_Aviation_05.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e817dd3d356d5516cc7343_GP_Aviation_01.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e817dc95ed851cfd5cb22f_GP_Aviation_06.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e817dd9e0ec5a2f9e668e1_GP_Aviation_03.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "image": "bts"
+      },
+      "overrideReasons": {
+        "image": "as on the live site (phase 1)"
+      },
+      "padBottom": "4-375"
+    },
+    {
+      "id": "text-12",
+      "type": "text",
+      "content": {
+        "heading": "Production",
+        "body": "Each story of the three campaign films take place a on different continent. To guarantee the authenticity of the films, we had to make sure the environments looked accurate to each of the countries while also casting great actors with the right ethnicities.\n\n‍\n\nIn order to reduce our travel footprint while also guaranteeing production through various COVID-19 restrictions, we opted to shoot the campaign in Singapore and scout local locations to accurately represent each of the countries. Singapore provided us with a rich palette of looks while also allowing high production quality."
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-13",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e81c2a937b1548ed604511_bts_07.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e81c2ae7fde808391e2817_bts_13.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e81c2a7d5bf0b25bd2978d_bts_10.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e81c2a1a63caecb3343699_bts_15.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e81c2a3add4168961b5b9d_bts_11.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e81c2adcebe49054ba116e_bts_12.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "image": "bts"
+      },
+      "overrideReasons": {
+        "image": "as on the live site (phase 1)"
+      },
+      "padBottom": "4-375"
+    },
+    {
+      "id": "text-14",
+      "type": "text",
+      "content": {
+        "heading": "Animation",
+        "body": "To convey the intricacy of the case studies done by Greenpeace in a manner that would educate our audience on the issues while also entertain, we used 3d animation. Creating beautiful worlds full of life and interesting visuals, we were able to dive into great detail regarding each of the cases and their complexities.\n\n​\n\nThe 3d animations were carefully crafted to hit the right tone and style. After a research period defining the needs, artists at Method & Madness created concept art and extensive story boards, followed up with 3d animatics to create a clear picture of each of the films before heading into full production."
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-15",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e81c2a258471f6e45e9e67_bts_02.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e81c2a77cafe2037a6a526_bts_05.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e81c2a77212e66047efad7_bts_01.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e81c295bace53bca4bb2e8_bts_04.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e81c2907a8f694041a0675_bts_06.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65e81c29eb4eba1be8a4e08b_bts_03.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "image": "bts"
+      },
+      "overrideReasons": {
+        "image": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "more-work",
+      "type": "more-work",
+      "content": {
+        "button": {
+          "label": "View More Work",
+          "href": "/work"
+        }
+      }
+    }
+  ]
+}

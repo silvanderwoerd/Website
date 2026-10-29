@@ -8,8 +8,7 @@ order: 59
 ---
 ## **Ad of the week alert 📣 - Shots**
 
-Shots has wonderfully named our project 'Wear Wool, Not Waste' Ad of the Week.  
-‍  
+Shots has wonderfully named our project 'Wear Wool, Not Waste' Ad of the Week.<br>‍<br>
 
 The instagram post announcement can be read [here](https://www.instagram.com/p/DAbCqGCtWp_/?hl=en).
 

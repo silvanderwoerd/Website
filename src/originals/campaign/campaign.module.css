@@ -1,0 +1,69 @@
+/* Live: .fl-campaign-section, .fl-campaign-container, .fl-campaign-layout,
+   .fl-campaign-paragraph-wrapper, .fl-cta-small-paragraph, .fl-project-page_title.tricks */
+
+.section {
+  padding-top: 2.75em;
+  padding-bottom: 4.625em;
+}
+
+.container {
+  width: 100%;
+  max-width: 70.375em;
+  margin-inline: auto;
+}
+
+.heading {
+  margin: 0;
+  color: var(--color-white);
+}
+
+.space {
+  height: 2.875em;
+}
+
+.layout {
+  display: flex;
+  gap: 6em;
+}
+
+.paragraph {
+  width: 31.75em;
+}
+
+.text {
+  margin-bottom: 1.5em;
+}
+
+.modalTitle {
+  margin: 0;
+  color: var(--color-white);
+  text-align: center;
+}
+
+.modalSpace {
+  height: 1.5em;
+}
+
+.press {
+  color: var(--color-white);
+  text-align: center;
+}
+
+@media (max-width: 991px) {
+  .container {
+    width: 90%;
+  }
+
+  .layout {
+    flex-direction: column;
+  }
+
+  .paragraph {
+    width: auto;
+  }
+}
+
+/* .fl-spacing-2em (1.5em) before the landing-page link */
+.linkSpace {
+  height: 1.5em;
+}

@@ -1,0 +1,48 @@
+/* Live: .swiper-container, .swiper.cc-slight-scroll, .swiper-slide (+ the
+   project pages' style: slides keep their own size, disabled arrows at 0.2),
+   .swiper-arrow-left/-right.cc-black-bg */
+
+.container {
+  position: relative;
+}
+
+.swiper {
+  width: 130vw;
+  padding-inline: 10vw;
+}
+
+/* Swiper sets slide widths inline; the live page undoes that with !important. */
+.slide {
+  flex: none;
+  width: unset !important;
+  height: unset !important;
+  cursor: grab;
+  transition: all var(--duration-fast);
+}
+
+.prev,
+.next {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 5em;
+  cursor: pointer;
+  transition: all var(--duration-fast);
+}
+
+.prev {
+  left: 0;
+}
+
+.next {
+  right: 0;
+}
+
+.prev:global(.swiper-button-disabled),
+.next:global(.swiper-button-disabled) {
+  opacity: 0.2;
+}

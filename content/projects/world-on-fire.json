@@ -1,0 +1,314 @@
+{
+  "slug": "world-on-fire",
+  "title": "World On Fire",
+  "description": "World On Fire is a documentary series made with Greenpeace that tells the stories of people and animals affected by the wildfires in Brazil caused by illegal deforestation for the meat industry.",
+  "family": "fluid",
+  "background": "black",
+  "client": "Greenpeace",
+  "inGrid": true,
+  "stripes": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "content": {
+        "eyebrow": "Our Work",
+        "client": "Greenpeace",
+        "title": "World On Fire",
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66ea536d616d2f1801733ba0_worldonfire.banner.jpg",
+          "alt": ""
+        }
+      }
+    },
+    {
+      "id": "details",
+      "type": "project-details",
+      "content": {
+        "eyebrow": "ABOUT THE PROJECT",
+        "about": "## ‍*World of Fire* unveils the **ravaging destruction of Brazil’s ecosystems**, driven by a financial system rigged against nature and humanity.\n\nThis 3 part mini-series exposes how deliberate fires are devastating ecosystems, harming public health, and exacerbating the global climate crisis.",
+        "credits": [
+          {
+            "role": "Director",
+            "name": "Roberto Natali"
+          },
+          {
+            "role": "Producer",
+            "name": "Tilly Compton"
+          },
+          {
+            "role": "Creative DIrectors",
+            "name": "Jorik Dozy & Sil van der Woerd"
+          }
+        ],
+        "fullCredits": "### Production Company\n\nStudio Birthplace\n\n### Film Director & Editor\n\nRoberto Natali\n\n### Creative Directors\n\nJorik Dozy & Sil van der Woerd\n\n### Executive Producer\n\nAlea Rahim\n\n### Producer\n\nTilly Compton\n\n### Director of Photography\n\nFernanda Ligabue\n\n### Focus Puller & Camera Assistant\n\nFlora Correia\n\n### Greenpeace International Team\n\nDavin Hutchins\n\nBamboo Zardetto\n\n### Greenpeace Brazil Team\n\nCristiane Mazzetti\n\nGregor Daflon\n\nRosana Villar\n\nAna Clis Ferreira\n\nVictor Bravo \n\n### Music Composer\n\nMarche Noir\n\nBad Knife Music\n\n### Sound Design and Mix\n\nMarche Noir\n\n### Colour Grading Company\n\nJagakarya Studio\n\n### Grade House Director\n\nAhmad Kamil\n\n### Grade House Producer\n\nBusyra Abi P\n\n### Colourist\n\nYehuda Aribowo\n\n### Assistant Colourist\n\nM. Zaenal Mutaqin",
+        "creditsNote": "GREENPEACE 2024",
+        "press": [],
+        "logo": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/648f37ed4342be4ed866de40_greenpeace.svg",
+          "alt": "",
+          "href": "https://greenpeace.com"
+        },
+        "creditsLabel": "View Full Credits",
+        "pressLabel": "View Media Features"
+      }
+    },
+    {
+      "id": "film-2",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "eOMXNrf-eg4",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66ea5ec3d8d50a160f6d4d8c_WorldOnFire.Cover.jpg",
+          "ratio": "2:1"
+        }
+      }
+    },
+    {
+      "id": "cta-3",
+      "type": "cta",
+      "content": {
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66ea5ecb15f2bd0cce6a7774_WorldOnFire_act2.jpg",
+          "alt": ""
+        },
+        "heading": "Get Involved",
+        "text": "As long as money keeps flowing towards nature destruction, we can’t solve the climate crisis and reverse biodiversity collapse. We need urgent government action to protect and restore nature and defund its destruction.",
+        "button": {
+          "label": "Act to end Nature Destruction",
+          "href": "https://www.greenpeace.org/international/act/defund-nature-destruction-now/"
+        }
+      }
+    },
+    {
+      "id": "text-4",
+      "type": "text",
+      "content": {
+        "heading": "Ep 1: Pantanal",
+        "body": "The Pantanal, the world’s largest tropical wetland, is on fire, with ecosystems and communities paying the price. Since 2013, over $201 billion has been given in credit to Brazil’s livestock and soya sectors, often linked to nature destruction.\n\n‍\n\nAmidst the crisis, we follow Paula on her tireless journey to protect endangered species and ecosystems, highlighting the resilience of those on the frontlines to protect their land and livelihoods."
+      },
+      "padBottom": "4-5"
+    },
+    {
+      "id": "quote-5",
+      "type": "quote",
+      "content": {
+        "quote": "\"Witnessing nature’s destruction first-hand was both heartbreaking and eye-opening. The whole crew were incredible in responding to the pressures and dangers that come with such a project, and our audience will receive a true portrayal of what it means to live on the front-line and fight against something so deeply-rooted that it seems impossible to overcome, but where faith is not lost.\"",
+        "cite": "Director Roberto Natali"
+      },
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-6",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66ea579113857dfa27b86c3f_WorldOnFire.stills.09.avif",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66ea579116fd776e08ee7c2d_WorldOnFire.stills.02.avif",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66ea57919af71be6a22d7987_WorldOnFire.stills.08.avif",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66ea5af0ed09c83806b491d3_WorldOnFire.stills.11.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66ea579143f2ff597aae6d85_WorldOnFire.stills.06.avif",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66ea5791e9931bf9ccebc720_WorldOnFire.stills.03.avif",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66ea57910ec31a34a3891474_WorldOnFire.stills.05.avif",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66ea57911e90e2706fd934f3_WorldOnFire.stills.07.avif",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "image": "stills"
+      },
+      "overrideReasons": {
+        "image": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "film-8",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "FNsDprh-u_c",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/67126803be374badf7b02468_DNDN_EPS2_1.23.1.jpg",
+          "ratio": "2:1"
+        }
+      },
+      "spaceBefore": "4-5"
+    },
+    {
+      "id": "text-9",
+      "type": "text",
+      "content": {
+        "heading": "Ep 2: Urban Haze",
+        "body": "In Porto Velho, Brazil, a health crisis is unfolding as thick haze from intentional fires in the Amazon suffocates the region. Residents, both in the city and surrounding areas, are struggling to breathe.\n\n‍\n\nThis story follows Anderson, a dedicated doctor serving Indigenous communities, as he battles to manage the severe health impacts of the toxic smoke, which is disrupting the body's natural functions.\n\n‍"
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "quote-10",
+      "type": "quote",
+      "content": {
+        "quote": "\"Here in our territory, we have a very dry climate which, along with this issue of haze, creates very alarming respiratory problems amongst our population. In every ten children, at least six experience coughing, and that number is still increasing by a lot.. a lot\".",
+        "cite": "Doctor Anderson"
+      },
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-11",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/67126802a9ea48d0bcd55ecd_DNDN_EPS2_1.5.1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6712687ce015ba6ed36fecc8_DNDN_EPS2_1.24.1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/67126802ed4f79ea76cee94b_DNDN_EPS2_1.35.1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/671268023619168acb5f78db_DNDN_EPS2_1.26.1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/671268021cd20cf8f429c8e3_DNDN_EPS2_1.42.1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/67126802d3b2768729de14e0_DNDN_EPS2_1.21.1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/67126803ef7b1d839ee63bb0_DNDN_EPS2_1.52.1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/671268021cd20cf8f429c8d0_DNDN_EPS2_1.27.2.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "image": "stills"
+      },
+      "overrideReasons": {
+        "image": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "film-13",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "NNkbJr1eYCs",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/671fc047a4a0ce24bfca36ce_DNDN_EPS_03_1.20.1.jpg",
+          "ratio": "2:1"
+        }
+      },
+      "spaceBefore": "4-5"
+    },
+    {
+      "id": "text-14",
+      "type": "text",
+      "content": {
+        "heading": "Ep 3: Agroecology",
+        "body": "Brazil's agricultural support system reveals a troubling inequity: large agribusinesses receive the majority of government resources and assistance, while smallholder farmers receive minimal support. Worsening this imbalance, fires—often ignited by medium and large farms—cause severe damage to the land, climate, and surrounding communities.\n\n‍\n\nIn this episode, we meet Mr. Nene, a smallholder farmer who has adopted agroecological practices, demostrating that sustainable food production is possible without degrading the land. It’s time to redirect financial support to those safeguarding the Amazon and other natural areas.\n\n‍"
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "quote-15",
+      "type": "quote",
+      "content": {
+        "quote": "\"And so we started this journey, regenerating the soil, a soil that was dead. We started\nin this small area,  and we noticed  that it was working. We now have several plantations here that we are already harvesting. And today we see nature responding. She speaks to me: 'Keep going, you’re on the right path.'\"",
+        "cite": "Mr. Nene"
+      },
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-16",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/671fbe1ceda721cd409a59f6_DNDN_EPS_03_1.23.1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/671fbe1c36ce350b70cbdb29_DNDN_EPS_03_1.21.1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/671fbe1d3c15ed76d7b2a1f1_DNDN_EPS_03_1.25.1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/671fbe1c1ec1775a5c54321e_DNDN_EPS_03_2.2.1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/671fbe1cd5bc1dc735884950_DNDN_EPS_03_1.53.1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/671fc014d7c2597f92122e6d_DNDN_EPS_03_1.1.1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/671fbe1dbdfe32d93723bef5_DNDN_EPS_03_1.39.1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/671fbe1c36ce350b70cbdb29_DNDN_EPS_03_1.21.1.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "image": "stills"
+      },
+      "overrideReasons": {
+        "image": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "more-work",
+      "type": "more-work",
+      "content": {
+        "button": {
+          "label": "View More Work",
+          "href": "/work"
+        }
+      }
+    }
+  ]
+}

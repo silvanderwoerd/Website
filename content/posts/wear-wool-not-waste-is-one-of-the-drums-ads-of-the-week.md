@@ -12,8 +12,7 @@ Our latest project is on The Drum again, this time shortlisted in their 'Ads of 
 
 ‍
 
-Our first project for The Woolmark Company 'Wear Wool, Not Fossil Fuel' had also received this honor back in 2022.  
-  
+Our first project for The Woolmark Company 'Wear Wool, Not Fossil Fuel' had also received this honor back in 2022.<br><br>
 
 The full article can be read [here](https://www.thedrum.com/news/2024/09/27/best-ads-the-week-woolmark-s-zombie-apocalypse-tony-hawk-s-manscaped-cameo).
 

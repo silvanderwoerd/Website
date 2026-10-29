@@ -1,0 +1,269 @@
+{
+  "slug": "plastik",
+  "title": "(PLASTIK)",
+  "description": "A child looks through a telescope she made out of a plastic bottle and experiences glimpses of our plastic-polluted future. (PLASTIK) is a short film made with MeshMinds in association with United Nations Environment Programme to raise awareness and catalyse action to end plastic pollution in South-East Asia.",
+  "family": "fluid",
+  "background": "black",
+  "client": "MeshMinds",
+  "inGrid": true,
+  "stripes": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "content": {
+        "eyebrow": "Our Work",
+        "client": "MeshMinds",
+        "title": "(PLASTIK)",
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66034e0f79c8c8d63f1995be_PLASTIK.CoverImage.jpg",
+          "alt": ""
+        }
+      }
+    },
+    {
+      "id": "details",
+      "type": "project-details",
+      "content": {
+        "eyebrow": "ABOUT THE PROJECT",
+        "about": "## A child looks through a telescope she made out of a plastic bottle and **experiences glimpses of our plastic-polluted future**.\n\n*(PLASTIK)* is a short film made with MeshMinds in association with United Nations Environment Programme to raise awareness and catalyse action to end plastic pollution in South-East Asia.",
+        "credits": [
+          {
+            "role": "Director",
+            "name": "Philip Rom"
+          },
+          {
+            "role": "Producer",
+            "name": "Sean Lin"
+          },
+          {
+            "role": "",
+            "name": ""
+          }
+        ],
+        "fullCredits": "### Writer and Director\n\nPhilip Rom\n\n### Producer\n\nSean Lin\n\n### Director of Photography\n\nNicholas Chin\n\n### 1st Camera Assistant\n\nMeor Nazrin\n\n### 2nd Camera Assistant\n\nJeffrey Teong\n\n### Gaffer\n\nClifford Tan\n\n### Grip\n\nTimothy Chan\n\n### General Tech Crew\n\nSkaiste Kazragyte\n\n### Equipment Rental\n\n2117 Rentals\n\n### Art Department\n\nSeni Lab\n\n### Art Director\n\nTaufiq Kamal\n\n### Art Assistants\n\nNain Ghazali\n\nAbdul Rais\n\nMohd Zaman\n\nAhmad Sarji\n\n### Assistant Director\n\nSoo Wei Wen\n\n### Casting Agencies\n\nCastcall Asia\n\nNelissa Agency\n\n### Casting Directors\n\nEddy Dato’ Rashid\n\nAyu Nelissa\n\n### Production Manager\n\nOoi Wei Sheng\n\n### Production Assistants\n\nTan Siew Li\n\nHo Yue Qin\n\n### Location Manager\n\nAhmad Wafi\n\n### Location Assistant\n\nHiu Chin Yih\n\n### Editor\n\nWillie Ong\n\nPhilip Rom\n\n### Colorist\n\nKwok Yong\n\n### Data Wrangler\n\nMarsya Mohd Johari\n\n### Audio House\n\nWavefarer Audio\n\n### Sound Designer\n\nJohnston Wang\n\n### Music Composer\n\nClinton Liew\n\n### Vocalist\n\njsn\n\n‍\n\n### **Cast**\n\n‍\n\n### Girl\n\nAisya Sufiah\n\n### Father\n\nSaiful Ghaz\n\n### Family Eating Plastic\n\nNellissa Emilea\n\nRazila Halim\n\nNazry Zahar\n\n### Cat\n\nAngel\n\n### Boys at the Beach\n\nAdam D\n\nLuqman Hakim\n\nZarif Zidane\n\n‍",
+        "creditsNote": "MESHMINDS 2022",
+        "press": [
+          {
+            "label": "Asian Development Bank",
+            "href": "https://seads.adb.org/news/short-film-plastic-pandemic-debut-world-environment-day"
+          },
+          {
+            "label": "FeMag Online",
+            "href": "https://www.femagonline.com/2022/06/filem-pendek-plastik.html"
+          },
+          {
+            "label": "Guang Ming Daily",
+            "href": "https://guangming.com.my/%E5%A4%A7%E9%A6%AC%E8%A3%BD%E4%BD%9C%E7%9F%AD%E7%89%87%E7%8D%B2%E8%81%AF%E5%9C%8B%E8%AA%8D%E5%8F%AF-%E3%80%8Aplastik%E3%80%8B%E5%96%9A%E8%B5%B7%E9%97%9C%E6%B3%A8%E5%A1%91%E6%96%99%E6%B1%A1%E6%9F%93"
+          },
+          {
+            "label": "Malaysia Trend",
+            "href": "https://www.malaysiatrend.com/malaysian-short-film-plastik-gets-chosen-by-un-to-address-plastic-pollution-in-southeast-asia/"
+          },
+          {
+            "label": "Mashable South East Asia",
+            "href": "https://sea.mashable.com/social-good/20530/malaysian-short-film-gets-un-nod-to-address-plastic-pollution-in-southeast-asia"
+          },
+          {
+            "label": "Marketing Interactive",
+            "href": "https://www.marketing-interactive.com/film-plastic-pollution-un-environment"
+          },
+          {
+            "label": "Mini Me Insights",
+            "href": "https://www.minimeinsights.com/2022/06/09/plastik-a-wake-up-call-to-end-plastic-pollution/?utm_source=rss&utm_medium=rss&utm_campaign=plastik-a-wake-up-call-to-end-plastic-pollution"
+          },
+          {
+            "label": "NOODOU",
+            "href": "https://noodou.com/%E3%80%90%E6%9D%A5%E5%BD%93%E4%B8%AA%E7%8E%AF%E4%BF%9D%E5%B0%8F%E5%B0%96%E5%85%B5%E5%90%A7%EF%BC%81%F0%9F%98%8E%E3%80%91%E7%8E%AF%E4%BF%9D%E7%9F%AD%E7%89%87%E3%80%8Eplastik%E3%80%8F%E4%BB%A5%E6%B8%A9/"
+          },
+          {
+            "label": "Prestige Online",
+            "href": "https://www.prestigeonline.com/my/people-events/people/the-duo-behind-plastik-on-why-they-are-spotlighting-plastic-pollution/"
+          },
+          {
+            "label": "The Rakyat Post",
+            "href": "https://www.therakyatpost.com/living/2022/06/10/plastics-pollution-through-the-eyes-of-a-10-year-old-local-short-film-recognized-by-the-unep/"
+          },
+          {
+            "label": "Remaja",
+            "href": "https://www.remaja.my/dirakam-di-sepang-filem-pendek-malaysia-plastik-dapat-sokongan-pbb/"
+          },
+          {
+            "label": "Reported Crime",
+            "href": "https://www.reportedcrime.com/malaysian-short-plastik-imagines-a-world-where-plastic-pollution-continues-unchecked/"
+          },
+          {
+            "label": "SAYS",
+            "href": "https://www.facebook.com/saysdotcom/posts/5295622817141577"
+          },
+          {
+            "label": "Siakap Keli",
+            "href": "https://en.siakapkeli.my/2022/06/plastik-a-wake-up-call-to-end-plastic-pollution/"
+          },
+          {
+            "label": "Sin Chew Daily",
+            "href": "https://www.sinchew.com.my/20220612/%E5%A4%A7%E9%A9%AC%E5%88%B6%E4%BD%9C%E7%9F%AD%E7%89%87%E8%8E%B7%E8%81%94%E5%9B%BD%E8%AE%A4%E5%8F%AF-%E3%80%8Aplastik%E3%80%8B%E5%94%A4%E8%B5%B7%E5%85%B3%E6%B3%A8%E5%A1%91%E6%96%99%E6%B1%A1/"
+          },
+          {
+            "label": "Tatler Asia",
+            "href": "https://www.tatlerasia.com/power-purpose/ideas-education/interview-plastik-2022-short-film-malaysian-director-and-producer"
+          },
+          {
+            "label": "UNEP's World Environment Day Website",
+            "href": "https://www.worldenvironmentday.global/latest/live-updates"
+          },
+          {
+            "label": "Wahu Times",
+            "href": "https://wahutimes.com/malaysian-brief-movie-plastik-imagines-a-world-the-place-plastic-air-pollution-continues-unchecked/74910/"
+          }
+        ],
+        "logo": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66035bc397ffaf8dcabaabd9_MM_White-logo.png",
+          "alt": "",
+          "href": "https://www.meshminds.com/"
+        },
+        "creditsLabel": "View Full Credits",
+        "pressLabel": "View Media Features"
+      }
+    },
+    {
+      "id": "film-2",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "P5OBWbZDZIc",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6604407191d4e40341bc372a_PLASTIK.VideoCover.jpg",
+          "ratio": "16:9"
+        }
+      }
+    },
+    {
+      "id": "text-3",
+      "type": "text",
+      "content": {
+        "heading": "Drowning in Plastic",
+        "body": "Plastic waste is choking our seas and coasts, threatening ecosystems and livelihoods in South-East Asia.\n\n‍\n\nPlastic pollutes our soil, our waterways, our ocean, and our food. It directly harms marine life, causes billions of dollars of damage to shipping, fishing and tourism, and threatens our health.\n\n‍\n\nThe most severe impacts of environmental degradation will be felt by young people, future generations, and disadvantaged groups. Preventing plastic pollution is a human rights issue.\n\n‍"
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-4",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66041d9fd6583ffcf6ebf7e4_PLASTIK.Stills1B.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66041d9fd333c7661bbc4a27_PLASTIK.Stills2.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66041d9f454f728f29655cf9_PLASTIK.Stills3.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66041d9f2e689376f9451086_PLASTIK.Stills4.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66041d9fffd0617b2e231325_PLASTIK.Stills5.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66041d9f5b431914e99b0f62_PLASTIK.Stills6.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66041d9fda9d5666b6eb7c24_PLASTIK.Stills7.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66041d9f454f728f29655d04_PLASTIK.Stills8.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "image": "bts"
+      },
+      "overrideReasons": {
+        "image": "as on the live site (phase 1)"
+      },
+      "padBottom": "4-375"
+    },
+    {
+      "id": "quote-5",
+      "type": "quote",
+      "content": {
+        "quote": "“To survive and evolve, humankind has had to learn by imitating the actions of other humans. We learn by watching and then doing. Films have the power to effect social change by impactful and compelling storytelling. We hope that in producing a short film with a fully South-East Asian cast and crew we can deepen engagement and catalyse long-lasting behaviour change amongst the region’s youth audience to take individual and collective action to end plastic pollution.\"",
+        "cite": "Kay Vasey, Founder of MeshMinds and Executive Producer"
+      },
+      "padBottom": "4-5"
+    },
+    {
+      "id": "text-6",
+      "type": "text",
+      "content": {
+        "heading": "Production",
+        "body": "The film was shot in Sepang, Malaysia. The set provided meals without the use of single-use plastics and required the crew to use their own reusable water bottles, while opting for digital call-sheets and scripts. Carbon emissions from transportation during the shoot days are calculated and compensated 150% through tree planting."
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-7",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/660420a7da9d5666b6ee5396_Plastik.BTS1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/660420ab9cf9083ceddc4660_Plastik.BTS2.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/660420a75addc867c63724dd_Plastik.BTS3.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/660420a6eb072d13262df313_Plastik.BTS4.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/660420a7e42b6fcfca852ef6_Plastik.BTS5.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/660420a720b69edb6262f213_Plastik.BTS6.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/660420a702eb7cad95824aab_Plastik.BTS7.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "align": "center"
+      },
+      "overrideReasons": {
+        "align": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "more-work",
+      "type": "more-work",
+      "content": {
+        "button": {
+          "label": "View More Work",
+          "href": "/work"
+        }
+      }
+    }
+  ]
+}

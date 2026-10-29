@@ -1,0 +1,305 @@
+{
+  "slug": "sleepless-repeat-until-death",
+  "title": "Sleepless Repeat Until Death",
+  "description": "The dual music video for Novo Amor is about a Mongolian miner who takes his sick daughter away from the most polluted city in the world, seeking salvation with the reindeer tribes. Due to climate change, an increasing amount of herders and nomads are unable to sustain their nomadic lifestyle in Mongolia. As a result, they relocate to the city and burn coal to stay warm, polluting the city and creating one of the worst public health emergencies in the world.",
+  "family": "fluid",
+  "background": "black",
+  "client": "Novo Amor",
+  "inGrid": true,
+  "stripes": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "content": {
+        "eyebrow": "Our Work",
+        "client": "Novo Amor",
+        "title": "Repeat Until Death",
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65ec164b5ccfa2b5880d3a27_RUD.Cover3.jpg",
+          "alt": ""
+        }
+      }
+    },
+    {
+      "id": "details",
+      "type": "project-details",
+      "content": {
+        "eyebrow": "ABOUT THE PROJECT",
+        "about": "## A Mongolian miner takes his sick daughter away from **the most polluted city in the world**, seeking salvation with the reindeer tribes.\n\nDue to climate change, an increasing amount of herders and nomads are unable to sustain their nomadic lifestyle in Mongolia. As a result, they relocate to the city and burn coal to stay warm, polluting the city and creating one of the worst public health emergencies in the world.",
+        "credits": [
+          {
+            "role": "Directors & writers",
+            "name": "Jorik Dozy & Sil van der Woerd"
+          },
+          {
+            "role": "Producer",
+            "name": "Sean Lin"
+          },
+          {
+            "role": "Cinematographer",
+            "name": "Nicholas Chin"
+          }
+        ],
+        "fullCredits": "### Directors & Writers\n\nJorik Dozy & Sil van der Woerd\n\n### Producer\n\nSean Lin\n\n### Line Producer\n\nByambadorj Altankhuyag\n\n### Cinematographer\n\nNicholas Chin\n\n‍\n\n### Nergui/Father\n\nYalalt Namsrai\n\n### Altan/Daughter\n\nMunkhjin Bayanmunkh\n\n### Shaman As Himself\n\nGanbat Sandag\n\n### Eiji/Man With Reindeer\n\nOchirbat Jambaldorj\n\n### Bayanmunkh/Nergui’s Brother\n\nBayanmunkh Erdenebaatar\n\n‍\n\n### Tsataan People\n\n**As Themselves**\n\n### Women\n\nPurevee Jambaldorj\n\nMunkhtsetseg Nyamjav\n\nBuyantogtokh Sandag\n\nTsetseg Jambaldorj\n\nSuren Eregzel\n\nMama Munkhuu\n\n### Men\n\nBattulga Khurelgaldan\n\n‍\n\n### AC/BTS\n\nSkaiste Kazragyte\n\n### Line Production Company\n\nHorizon Quest LLC\n\n### Line Producer\n\nByambadorj Altankhuyag\n\n### Unit Production Manager\n\nMiyegombo Alexander\n\n### Production Coordinator\n\nBujinlkham Myagmarjav\n\n### Cook\n\nAnkhbayar Borkhuu\n\n### Driver\n\nSansar Khaisvai\n\nKhagvadorj Lodonsharav\n\n### Edit\n\nJorik Dozy & Sil van der Woerd\n\n### Colorist\n\nKeidrych Wasley\n\n### CG Generalist\n\nAlex Scollay\n\n### 3D Modeling\n\nHoria Trandafir\n\n### Animation\n\nKhet Yee Sang\n\n### Cook\n\nAnkhbayar Borkhuu\n\n### Layout\n\nGoran Kocov\n\n### Matte Painting\n\nJorik Dozy\n\n### Compositing\n\nCaillier\n\n### Paint & Comp\n\nSenye\n\n### Sound Design\n\nSelle Sellink\n\n### Music\n\n‘Sleepless’, ‘06 13494’ and ‘Repeat Until Death’ by Novo Amor\n\n### Record Label\n\nDave Grinnell, All Points\n\n### Thanks To\n\nLeire Zabala Arrieta\n\n‍",
+        "creditsNote": "“Sleepless\" and \"Repeat Until Death” (Novo Amor) © AllPoints NOVO AMOR 2019",
+        "press": [
+          {
+            "label": "Clash",
+            "href": "https://www.clashmusic.com/news/novo-amor-tackles-ecological-concerns-on-sleepless/"
+          },
+          {
+            "label": "Ecohustler",
+            "href": "https://ecohustler.com/nature/sleepless-repeat-until-death/"
+          },
+          {
+            "label": "Fader",
+            "href": "https://www.thefader.com/2019/02/20/novo-amor-sleepless-repeat-video/"
+          },
+          {
+            "label": "LBB Online",
+            "href": "https://lbbonline.com/news/mongolias-reindeer-people-confront-pollution-in-poignant-double-music-video/"
+          },
+          {
+            "label": "PromoNews",
+            "href": "https://www.promonews.tv/videos/2019/02/22/novo-amor-sleepless-and-repeat-until-death-sil-and-jorik-now-signed-park-village/57419/"
+          },
+          {
+            "label": "Shots",
+            "href": "https://www.shots.net/news/view/97340-duo-create-beautiful-promos-amid-extreme-shooting-conditions/"
+          },
+          {
+            "label": "The Stable",
+            "href": "http://www.thestable.com.au/the-filmic-mastery-of-directing-duo-sil-jorik/"
+          }
+        ],
+        "logo": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d2d7c4ec36cc22969d905a_NA.logo.jpg",
+          "alt": "",
+          "href": "https://novoamor.co.uk/"
+        },
+        "creditsLabel": "View Full Credits",
+        "pressLabel": "View Media Features"
+      }
+    },
+    {
+      "id": "film-2",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "K4DL-Ox-Pd0",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65ec30f45f4b692b314f56aa_RUD.videoCover.jpg",
+          "ratio": "2.35:1"
+        }
+      }
+    },
+    {
+      "id": "text-4",
+      "type": "text",
+      "content": {
+        "heading": "Health Emergency",
+        "body": "Ulaanbaatar in Mongolia is our world's most polluted capital. The much harsher winters caused by climate change have killed off millions of livestock, forcing rural herders to the capital for work. Since there is no access to clean energy, people turn to coal to stay warm.\n\n‍\n\nWhen families can’t afford coal they sometimes burn tyres and other scraps. Air pollution, or “smoke” as the residents call it, often reaches several times that of Beijing or Delhi and can go up to 133x times the level the World Health Organization (WHO) deems safe. As a result, respiratory infections have increased at a rate of 270% over the last 10 years and children living in the city have a 40% lower lung function than those living in rural areas.\n\n‍\n\nThe Tsaatan, Mongolia's reindeer herders, are amongst these nomads forced to retreat from the wild. Today, only 40 Tsaatan families remain.\n\n‍"
+      },
+      "padTop": "4-5",
+      "spaceBefore": "4-375"
+    },
+    {
+      "id": "gallery-5",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65ec542a6c7b5f808a6ed61a_RepeatUntilDeath%20(6).jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65ec542ab0006561d0990c6e_RepeatUntilDeath%20(15).jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65ec542af8cbd4eb5bb0ca3c_RepeatUntilDeath%20(1).jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65ec542a14e3e398a7e13fe9_RepeatUntilDeath%20(5).jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65ec542ab745eca1bc79cdbe_RepeatUntilDeath%20(13).jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65ec542ab381bd5728ff0edf_RepeatUntilDeath%20(14).jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65ec542aeefb822fc03e0742_RepeatUntilDeath%20(11).jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65ec542bf11104be9ad65f30_RepeatUntilDeath%20(3).jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65ec542a4e64d3fad5dcee9e_RepeatUntilDeath%20(2).jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65ec542a80a8c0cb19f64e16_RepeatUntilDeath%20(8).jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "image": "wide"
+      },
+      "overrideReasons": {
+        "image": "as on the live site (phase 1)"
+      },
+      "padTop": "4-375"
+    },
+    {
+      "id": "quote-6",
+      "type": "quote",
+      "content": {
+        "quote": "\"We wanted to capture Mongolia's abundant beauty and at the same time expose its pressing environmental issues.\"",
+        "cite": "Directors Jorik Dozy & Sil van der Woerd"
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "posters-7",
+      "type": "posters",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65ed603ab01c9272ffc3f522_RUD.filmPoster.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "layout": "rud-poster"
+      },
+      "overrideReasons": {
+        "layout": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "text-8",
+      "type": "text",
+      "content": {
+        "heading": "Production",
+        "body": "To capture the film, we spent 20 days in Mongolia. The intense pollution in capital Ulaanbaatar, which is an essential part of our story, only occurs in winter, when temperatures drop to well below -35 degrees Celsius.\n\n‍\n\nFilming at such low temperatures proved to be extremely challenging. Not just physically for the crew and cast, but also for the equipment. Although there were some moments that we filmed at -10 and the sun was out and it really was quite comfortable, we shot the majority of the film in intense cold.\n\n‍"
+      },
+      "padTop": "4-5"
+    },
+    {
+      "id": "posters-9",
+      "type": "posters",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65ef089b3ba306faa5676fea_RUD.cold2.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65ef089a7e247c47c320eb36_RUD.cold1.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "layout": "rud-stills"
+      },
+      "overrideReasons": {
+        "layout": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "text-10",
+      "type": "text",
+      "content": {
+        "heading": "The Tsaatan",
+        "body": "The Tsaatan tribe lives in a very remote part of Southern Siberia, or the most Northern tip of Mongolia. From the capital Ulaanbaatar we traveled 3 days, mostly off-road through the wilderness of the country, relying purely on the memory and knowledge of our local drivers to guide us to the tribe.\n\n‍\n\nIn the camp, there was no running water, as all the water was deeply frozen. While we were shooting, our Mongolian crew cut big blocks of ice from the nearby lake, which we drunk as teas and soups. Overall the experience was humbling as we were exposed to the extreme climate, the very friendly locals and the reality of living in such harsh conditions.\n\n‍"
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-11",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65ef0c3de718730d2a8a29f3_16.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65ef0c3ddfcb3ed1bd577e0e_15.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65ef0c3dfbd7c76a016dc8a0_14.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65ef0c3d1e93433bb1ad49d9_03.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65ef0c3d01555209ff90bbca_02.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65ef0c3ec68e2486bee89c3b_05.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "align": "center"
+      },
+      "overrideReasons": {
+        "align": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "phones-13",
+      "type": "phones",
+      "content": {
+        "screens": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65ed598e76d32be7122b2337_News03.RUD.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65ed598e1d2d4ecefd54c759_News02.RUD.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65ed598efa620f5552184143_News04.RUD.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65ed598e38484cddb8ba3fd2_News01.RUD.jpg",
+            "alt": ""
+          }
+        ],
+        "frame": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65c611e7f2a21ac92ede6b11_Frame.svg"
+      },
+      "spaceBefore": "4-375"
+    },
+    {
+      "id": "more-work",
+      "type": "more-work",
+      "content": {
+        "button": {
+          "label": "View More Work",
+          "href": "/work"
+        }
+      }
+    }
+  ]
+}

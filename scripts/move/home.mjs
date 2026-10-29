@@ -94,6 +94,8 @@ write("content/pages/home.json", {
     {
       id: "hero",
       type: "hero",
+      overrides: { variant: "home" },
+      overrideReasons: { variant: "Home's hero: video, showreel button, socials (live site)" },
       content: {
         title: inline(hero.querySelector("h1")),
         video: video(hero),

@@ -1,0 +1,180 @@
+{
+  "slug": "requiem-2019",
+  "title": "Requiem 2019",
+  "description": "The last remaining blue whale shares its story of extinction with its only enemy; mankind. 'Requiem 2019' is directed by Sil van der Woerd and Rutger Hauer. Indigenous cultures are amongst the first to pay the price of climate change, often pushing them to the brink of extinction. This crisis is directly linked to our consumer culture.Whales, the largest and perhaps most majestic animals that ever lived on our planet, are still being slaughtered for human consumption under the false banner of 'research'. This film was made to support the activities of Sea Shepherd, the anti-whaling organisation that takes action against this injustice.",
+  "family": "fluid",
+  "background": "black",
+  "client": "Sea Shepherd",
+  "inGrid": true,
+  "stripes": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "content": {
+        "eyebrow": "Our Work",
+        "client": "Sea Shepherd",
+        "title": "Requiem 2019",
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65f769feb79b01d8ddb06c10_Requiem.CoverImage.jpg",
+          "alt": ""
+        }
+      }
+    },
+    {
+      "id": "details",
+      "type": "project-details",
+      "content": {
+        "eyebrow": "ABOUT THE PROJECT",
+        "about": "## The **last remaining blue whale** shares its story of extinction with its only enemy; mankind.\n\nWhales, the largest and perhaps most majestic animals that ever lived on our planet, are still being slaughtered for human consumption under the false banner of 'research'. This film was made to support the activities of Sea Shepherd, the anti-whaling organisation that takes action against this injustice.",
+        "credits": [
+          {
+            "role": "Directors & writers",
+            "name": "Sil van der Woerd & Rutger Hauer"
+          },
+          {
+            "role": "Featuring",
+            "name": "Rutger Hauer"
+          },
+          {
+            "role": "Music",
+            "name": "Lolly Jane Blue"
+          }
+        ],
+        "fullCredits": "### Directors & Writers\n\nRutger Hauer & Sil van der Woerd\n\n### Music\n\nLolly Jane Blue\n\n### Director of Photography\n\nKeidrych Wasley\n\n### Visual Effects Supervisor\n\nEvaldas Cesnavicius\n\n### Producers\n\nRadiator Film\n\nStefan Frost\n\nHenrik Underbjer\n\nAarhus Festug\n\nAnders Sondergaard\n\n### Cast\n\nRutger Hauer\n\n### Line Producer\n\nJais Christensen\n\n### Production Assistant\n\nAnn Pedersen\n\n### Stage Manager\n\nUlla Malmos\n\n### Stylist\n\nKirstin Zaschke\n\n### Costume\n\nKirstine Barker\n\n### Gaffer\n\nTobias Juhl\n\n### Sparks\n\nJacob Molmberg\n\nAmalie Haysley\n\nNina Tingberg\n\n### First Assistant Camera / Focus Puller\n\nSteen K\n\n### Second Assistant Camera\n\nOlafur Johnsson\n\n### Grip\n\nClaus Baadsgaard\n\n### Crane\n\nUffe Egeberg\n\nFrederik Holmberg\n\n### Drivers\n\nThomas Krupsdahl\n\nKasper Tornbjerg\n\n### Lighting and Grip Equipment Sponsored by\n\nMedietek Equipment\n\n### Camera Equipment Sponsored by\n\nRed Rental\n\n### Green Screen Studio Sponsored by\n\nFilm by Aarhu\n\n### Dolly Sponsored by\n\nClaus Baadsgaard\n\n### Catering\n\nLe Coq Den Rustikke\n\n### Visual Effects\n\nValdemaras Dzengo\n\nViktoras Makauskas\n\nArminas Didziokas\n\nPlaton Filimonov\n\nJustas Giedraitis\n\nRajbir Dhalla\n\nJorik Dozy\n\nDustin Blattner\n\n### Film Editing\n\nSil van der Woerd\n\nWouter Nordsiek\n\n### Storyboard\n\nDylan Ekren\n\n### Music\n\n‘On My Own’ by Lolly Jane Blue\n\n### Written and Performed by\n\nAnouk de Groot\n\nTim Meijer\n\n### Sound Effects\n\nPaulius Kilbauskas\n\n### Whale Song Recorded by\n\nMark Franklin\n\n### Thanks to\n\nCrew and Sponsors Steve Kenis Christin ‘Mini’ Pederson Jagtstuen Peder Pedersen\n\nGrethe Krupsdahl\n\nHans Peter Krupsdahl\n\nDee Dee’s Sandwiches\n\nSea Shepherd\n\nPulpfix\n\nElmar Noteboom\n\nHotel Royal\n\n### Co Producer\n\nPicturewise Film\n\nHenrik Laier\n\nJais Christensen\n\n### Executive Producer\n\nJens Folmer Jepsen\n\nAarhus Festuge\n\n### Produced by\n\nRadiator Film\n\nFilmlab Aarhus\n\nAarhus Festuge\n\n### With Support From\n\nWest Danish Film Fund",
+        "creditsNote": "",
+        "press": [
+          {
+            "label": "Artists for Sea Shepherd",
+            "href": "https://artistsforseashepherd.com/requiem-2019-with-rutger-hauer/"
+          },
+          {
+            "label": "MUBI",
+            "href": "https://mubi.com/en/br/films/requiem-2019-2011"
+          },
+          {
+            "label": "Softpedia",
+            "href": "https://news.softpedia.com/news/Watch-Requiem-2019-Shows-Rutger-Hauer-Meeting-the-Last-Whale-on-Earth-309024.shtml"
+          }
+        ],
+        "logo": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/648f3acefb56e48f60448e32_Sea%20Shepherd.svg",
+          "alt": "",
+          "href": "https://www.seashepherdglobal.org/"
+        },
+        "creditsLabel": "View Full Credits",
+        "pressLabel": "View Media Features"
+      }
+    },
+    {
+      "id": "film-2",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "JNRz_uG-1Cg",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65f76b8adaab805a9236e22c_Requiem.VideoCover.jpg",
+          "ratio": "2.39:1"
+        }
+      }
+    },
+    {
+      "id": "text-3",
+      "type": "text",
+      "content": {
+        "heading": "Illegal Whaling",
+        "body": "Blue whales can reach a weight of up to 180 tonnes, and a length up to 30m. They can reach an age of 80-90 years and love to sing, hitting notes our ears can’t even perceive. What is not to love?\n\n‍\n\nAlthough whaling is illegal in Denmark, the annual hunt known as the grindadráp, is still allowed in the Faroe Islands, which is part of Denmark. Here, hundreds of whales are still killed annually.\n\n‍\n\nLegendary actor Rutger Hauer (1944-2019), known for his roles in Blade Runner and Batman Begins, reached out to us to make a film to support Sea Shepherd, for which he was an ambassador."
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "quote-4",
+      "type": "quote",
+      "content": {
+        "quote": "“Although we're not the kind of people who have the stomach to go on a boat to block vessels on their way to the act of whaling, we felt that we can be the kind of people that make a film about it and take a stand against this injustice.”",
+        "cite": "Director Sil van der Woerd"
+      },
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-5",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65f7713b40ae1c68f80ec846_Requiem.Stills1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65f7713b4524b5eaca6e17d7_Requiem.Stills2.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65f7713c76116e14d6202c22_Requiem.Stills3.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65f7713b38c4b8a09b681ef5_Requiem.Stills4.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65f7713bc70e8acd907d6731_Requiem.Stills5.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "image": "stills"
+      },
+      "overrideReasons": {
+        "image": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "text-6",
+      "type": "text",
+      "content": {
+        "heading": "Production",
+        "body": "We captured Rutger's performance on a greenscreen stage in Denmark. We created the environment for our film digitally, and built a whale that we animated floating through the landscape.\n\n‍\n\nReal whaling footage supplied to us by Sea Shepherd was projected onto the digital whale's body, creating a haunting juxtaposition.<br>\n\n<br>"
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-7",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65f775775e7488f65d7f6939_Requiem.BTS1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65f77577419d2694c530033a_Requiem.BTS2.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65f77577e819c709455b3db4_Requiem.BTS3.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "align": "center"
+      },
+      "overrideReasons": {
+        "align": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "more-work",
+      "type": "more-work",
+      "content": {
+        "button": {
+          "label": "View More Work",
+          "href": "/work"
+        }
+      }
+    }
+  ]
+}

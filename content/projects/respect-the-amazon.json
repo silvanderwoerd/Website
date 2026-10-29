@@ -1,0 +1,293 @@
+{
+  "slug": "respect-the-amazon",
+  "title": "Respect The Amazon",
+  "description": "Respect The Amazon - JBS is an animated short that takes us into the Amazon rainforest where paradise is shattered when a mechanical army of bulldozers and chainsaws tear through ancient trees, replacing vibrant life with smoke, fire, and profit. At the centre of the destruction sit the Batista Brothers, bloated executives feasting on steak and money, indifferent to the devastation they’ve wrought.",
+  "family": "fluid",
+  "background": "black",
+  "client": "Greenpeace",
+  "inGrid": true,
+  "stripes": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "content": {
+        "eyebrow": "Our Work",
+        "client": "Greenpeace",
+        "title": "Respect The Amazon",
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/68b47fac9e1e0b057c933199_RespectTheAmazon.Thumbnail.jpg",
+          "alt": ""
+        }
+      }
+    },
+    {
+      "id": "details",
+      "type": "project-details",
+      "content": {
+        "eyebrow": "ABOUT THE PROJECT",
+        "about": "## In *Respect The Amazon*, paradise in the Amazon is ravaged by machines driven by profiteering executives until **local defenders rise and spark a global movement**.\n\nTogether with Greenpeace International's Respect the Amazon campaign, the animated short calls for us to stand together and demand world leaders to respect and protect our future.",
+        "credits": [
+          {
+            "role": "Directors",
+            "name": "Jorik Dozy & Sil van der Woerd"
+          },
+          {
+            "role": "Executive Producer",
+            "name": "Alea Rahim"
+          },
+          {
+            "role": "VFX Director",
+            "name": "Tim Smit"
+          }
+        ],
+        "fullCredits": "### Production Company\n\nStudio Birthplace\n\n### Directors\n\nJorik Dozy & Sil van der Woerd\n\n### Executive Producer\n\nAlea Rahim\n\n### Social Media Manager\n\nMarsya Mohd Johari\n\n### Researcher\n\nTheresa Cellona \n\n### VFX/Animation Studio\n\nSuperflux\n\n### VFX Director, Supervisor, Compositor\n\nTim Smit\n\n### Senior Generalist\n\nMatthijs Joor\n\n### Shading and Lighting\n\nSohaib Bouass\n\n### Previs Animation Artist\n\nLászló Lenhardt\n\n### Character Designer & Modeller\n\nMax Gierkink\n\n### Additional Character Animation\n\nRoel van de Sant\n\n### Music Composer, Production, Sound Designer\n\nJoe Wills\n\n### Music Company\n\nObscenic Ltd\n\n### FPV Amazon Footage\n\nJosh Turner\n\n### Digital Lead\n\nJonathan Findalen\n\n### Digital Campaigner for the Respect the Amazon Campaign\n\nBamboo Zardetto\n\n‍\n\n‍\n\n### Big Ag Linkedin Campaign Video\n\n‍\n\n### Production Company\n\nStudio Birthplace\n\n### Directors\n\nJack Whiteley & Joe Wills\n\n### Creative Directors\n\nSil van der Woerd & Jorik Dozy\n\n### Executive Producer\n\nAlea Rahim\n\n### Producer\n\nTilly Compton\n\n### Creative\n\nRoberto Natali \n\n### Spokesperson, Giles LeBoeuf\n\nJack Darrell\n\n### Talk Time News Host\n\nAbigail Moore\n\n### Sound Recordist\n\nAndrei Leskovski\n\n### Prop Assistant\n\nSian Stephens\n\n### Lead HMU\n\nRoseanna Velin\n\n### Wardrobe\n\nMizuki Sakakibara\n\n### Sound Designer\n\nSam Crombie\n\n### Title Designer / VFX\n\nLee Isserow\n\n### Social Media Manager\n\nMarsya Mohd Johari\n\n### Researcher\n\nTheresa Cellona\n\n### Camera Team\n\nIQ Studios\n\n### Greenpeace Team\n\n‍\n\n### Digital Lead\n\nDavin Hutchins\n\n‍",
+        "creditsNote": "GREENPEACE 2025",
+        "press": [],
+        "logo": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/648f37ed4342be4ed866de40_greenpeace.svg",
+          "alt": "",
+          "href": "https://greenpeace.com"
+        },
+        "creditsLabel": "View Full Credits",
+        "pressLabel": "View Media Features"
+      }
+    },
+    {
+      "id": "film-2",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "Ykn-ufwSGpA",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/68b4b79d7ad6ce8cc8094199_RespectTheAmazon.Header.jpg",
+          "ratio": "2:1"
+        }
+      }
+    },
+    {
+      "id": "cta-3",
+      "type": "cta",
+      "content": {
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/68b4b837ed7567b1fce6d747_RespectTheAmazon.Header-v2.jpg",
+          "alt": ""
+        },
+        "heading": "Get Involved",
+        "text": "The Amazon sustains life and regulates our climate, but industrial farming and gold mining are destroying it. Demand leaders to halt deforestation, stop funding forest destroyers, and support Indigenous communities now.",
+        "button": {
+          "label": "Act to Respect the Amazon",
+          "href": "https://www.greenpeace.org/international/act/respect-amazon/"
+        }
+      }
+    },
+    {
+      "id": "text-4",
+      "type": "text",
+      "content": {
+        "heading": "Hold The Line",
+        "body": "The Amazon rainforest, home to the most diverse plants and wildlife in the world, faces an urgent threat from industrial-scale agriculture and illegal gold mining. Scientists warn at this pace, the Amazon may soon be reaching a tipping point.\n\n‍\n\nCommunities across the Amazon—in the forest and in cities—are standing on the frontlines, pushing back these destroyers. **We can stand with them**. This November at COP30, political leaders, surrounded by corporate lobbyists, will meet in the heart of the Brazilian Amazon, to decide the future of the planet. The message they need to know is clear: **Respect the Amazon**."
+      },
+      "padBottom": "4-5"
+    },
+    {
+      "id": "quote-5",
+      "type": "quote",
+      "content": {
+        "quote": "\"Our collaboration with Greenpeace draws on the power of art and activism to drive positive change. Not many people know Big Agriculture is the New Big Oil. JBS is the world’s biggest industrial meat producer, land-grabber and driver of Amazon deforestation for profit. Now is the time to unite and hold the line for the Amazon.\"",
+        "cite": "Directors Jorik Dozy & Sil van der Woerd"
+      },
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-6",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/68b4c9b07f6d21cd2a536955_Greenpeace.JBS.STILLS_1.1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/68b4c9b00d989266b826ac37_Greenpeace.JBS.STILLS_2.1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/68b4c9b022e602db46bf5d1b_Greenpeace.JBS.STILLS_3.1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/68b4c9b02cf82cee901999ce_Greenpeace.JBS.STILLS_4.2.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/68b4c9b1d432f456ed4288e2_Greenpeace.JBS.STILLS_7.1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/68b4ca9a6ddf3cfecfe75e25_Greenpeace.JBS.STILLS_10.1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/68b4c9b136b30e92734e27a2_Greenpeace.JBS.STILLS_11.2.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/68b4c9b01a99f68c22a59ed3_Greenpeace.JBS.STILLS_12.2.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "image": "stills"
+      },
+      "overrideReasons": {
+        "image": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "text-on-image-8",
+      "type": "text-on-image",
+      "content": {
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/68ba465a8304ddf1de2e44dc_RespectTheAmazon-Background.jpg",
+          "alt": ""
+        },
+        "parts": [
+          {
+            "kind": "text",
+            "heading": "Stop Big Ag",
+            "body": "1.5 million hectares. That’s the scale of deforestation tied to JBS’s cattle supply chain, according to investigations by Repórter Brasil and Greenpeace Brazil.<br><br>These aren’t isolated cases. This is the business model.<br><br>As of 2023, JBS-linked farms cleared 60,000+ hectares even after being flagged for illegal deforestation, according to Mighty Earth.<br><br>Big Ag is the new Big Oil.<br>\n\n‍"
+          },
+          {
+            "kind": "film",
+            "film": {
+              "provider": "youtube",
+              "id": "ht5yj_A2MwI",
+              "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/68ba48b8e9166566b9725671_CEOs_Burning_Forest.jpg",
+              "ratio": "16:9"
+            }
+          }
+        ]
+      },
+      "overrides": {
+        "panel": "noise"
+      },
+      "overrideReasons": {
+        "panel": "as on the live site (phase 1)"
+      },
+      "spaceBefore": "4-5"
+    },
+    {
+      "id": "gallery-9",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/68ba48b892db5928d27bb948_Wildlife.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/68ba48bae9acfbf5ee890608_Tree_Excavators.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/68ba48b829c3c2373f3c4308_Cows_Methane.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/68ba48b978423ae4e51ba8c2_People_Line_Around_Forest.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "image": "visuals"
+      },
+      "overrideReasons": {
+        "image": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "text-10",
+      "type": "text",
+      "content": {
+        "heading": "Big Ag Exposed",
+        "body": "As part of the Respect the Amazon campaign, we created a satirical news interview video where we see 'Giles LeBoeuf' attempt to defend Big Agriculture.\n\n‍\n\nIn this video, we expose industrial agriculture's false promises through a cringe-worthy interview where greenwashing talking points literally backfire using dark comedy to demolish Big Ag's credibility.\n\n‍\n\n**Watch the video below!**"
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "film-11",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "_mSVysPD26o",
+          "poster": "",
+          "ratio": "16:9"
+        }
+      },
+      "overrides": {
+        "size": "split"
+      },
+      "overrideReasons": {
+        "size": "as on the live site (phase 1)"
+      },
+      "padBottom": "4-5"
+    },
+    {
+      "id": "quote-12",
+      "type": "quote",
+      "content": {
+        "quote": "\"The intersection of satirical wit and darker, more urgent underlying narrative is always something that appeals to our creative tendencies. Humour (and farts?) are such a valuable disarming tool in earning your viewer’s attention and trust. The skill is then in gradually provoking a deeper thought process or question on the serious issue at hand…in this instance saving the world from catastrophic climate change and ecological collapse. No pressure.\"",
+        "cite": "Directors Joe Wills & Jack Whiteley"
+      },
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-13",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6911f1b6bd0c08cc74cfbfd0_BigAg-BTS-optimized-4.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6911f1b56a4c132b0c385b7f_BigAg-BTS-optimized-1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6911f1b5c36bf409794affd6_BigAg-BTS-optimized-3.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6911f1b54906512fd78ef8d7_BigAg-BTS-optimized-6.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6911f1b45479f402aa85ad11_BigAg-BTS-optimized-5.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "align": "center"
+      },
+      "overrideReasons": {
+        "align": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "more-work",
+      "type": "more-work",
+      "content": {
+        "button": {
+          "label": "View More Work",
+          "href": "/work"
+        }
+      }
+    }
+  ]
+}

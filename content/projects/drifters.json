@@ -1,0 +1,390 @@
+{
+  "slug": "drifters",
+  "title": "Drifters",
+  "description": "Drifters by Studio Drift and Sil van der Woerd is about an entity in search of its origin and purpose. Colossal floating blocks of concrete, as living monoliths, migrate through an untouched landscape, without context, without reference, lost in space and time, on the move to something bigger to fall in place. ‍Drifters has been screened in some of the most prestigious venues across the globe, from Times Square to The Shed and Amos Rex.",
+  "family": "fluid",
+  "background": "black",
+  "client": "Studio Drift",
+  "inGrid": true,
+  "stripes": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "content": {
+        "eyebrow": "Our Work",
+        "client": "Studio Drift",
+        "title": "Drifters",
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/661ddeb29d8479b0cb236dd5_Drifters.Cover.01.jpg",
+          "alt": ""
+        }
+      }
+    },
+    {
+      "id": "details",
+      "type": "project-details",
+      "content": {
+        "eyebrow": "ABOUT THE PROJECT",
+        "about": "## Drifters is about an **entity in search of its origin and purpose**.\n\nColossal floating blocks of concrete, as living monoliths, migrate through an untouched landscape, lost in space and time, contemplating humanity’s relationship with the natural world.\n\n‍\n\n**Drifters has screened in some of the most prestigious venues across the globe, from Times Square to The Shed and Amos Rex**.",
+        "credits": [
+          {
+            "role": "Director",
+            "name": "Sil van der Woerd"
+          },
+          {
+            "role": "Co-Directors",
+            "name": "Lonneke Gordijn and Ralph Nauta"
+          },
+          {
+            "role": "Cinematographer",
+            "name": "Keidrych Wasley"
+          }
+        ],
+        "fullCredits": "### Drifters (2017)\n\n‍\n\n### A Film by\n\nStudio Drift and Sil van der Woerd\n\n### Directed by\n\nSil van der Woerd\n\n### Co-Directed by\n\nLonneke Gordijn\n\nRalph Nauta\n\n### Produced by\n\nSil van der Woerd\n\nLonneke Gordijn\n\nRalph Nauta\n\n### Director of Photography\n\nKeidrych Wasley\n\n### Edit\n\nSil van der Woerd\n\n### VFX Supervisor\n\nSil van der Woerd\n\nEvaldas Cesnavicius\n\nLuuk Meijer\n\n### Music and Sound Design\n\nVitaliy Zavadskyy\n\n### Location Scout\n\nSil van der Woerd\n\nKeidrych Wasley\n\n### Music Mix\n\nPost City Sound Inc\n\nLook Development Evaldas Cesnavicius\n\n### 3D and Compositing\n\nEvaldas Cesnavicius\n\nSil van der Woerd\n\nKestutis Rinkevicius\n\nAlvydas Jatkialo\n\nRaphael El Khaddar\n\nJenny van Son\n\nPim Reinders\n\nRoy Hoes\n\nMaria Peralta Ramos\n\n### Digimatte\n\nJorik Dozy\n\n### Color Grading\n\nBart Verraest\n\n### Thanks to\n\nStorm Post Production\n\nJack Kuiper\n\n‍\n\n### Drifters New York (2021)\n\n‍\n\n### A Film by\n\nStudio Drift and Sil van der Woerd\n\n### Production\n\nStudio Drift and Sil van der Woerd\n\n### Visual Effects & Post Production\n\nMethod & Madness\n\n### Visual Effects Supervisor\n\nWen Hao Tan\n\n### Visual Effects Artists\n\nAlex Scollay\n\nPinoy Reyes\n\nHuzaifi Razali\n\nHisman Taufik\n\nAbdul Rahman\n\nHuiying Gob\n\nEugene Seah\n\nValmik Chavan\n\n### Score\n\nVitaliy Zavadskyy\n\n### All Rights Reserved\n\nStudio Drift 2021\n\n‍",
+        "creditsNote": "Studio Drift and Sil van der Woerd 2016",
+        "press": [
+          {
+            "label": "Artlight Magazine",
+            "href": "http://www.artlight-magazine.com/en/immersed-in-light-studio-drift-at-the-mint/"
+          },
+          {
+            "label": "Artnet",
+            "href": "https://news.artnet.com/art-world/drift-fragile-future-2024052"
+          },
+          {
+            "label": "Cobo",
+            "href": "https://www.cobosocial.com/dossiers/studio-drift-mixing-nature-and-technology/"
+          },
+          {
+            "label": "Designboom",
+            "href": "https://www.designboom.com/art/drifters-midnight-moment-times-square-12-10-2021/"
+          },
+          {
+            "label": "Institut Art Dubai 2022",
+            "href": "https://institut.co/institut-at-art-dubai-2022/"
+          },
+          {
+            "label": "Tegenlicht",
+            "href": "https://www.vpro.nl/programmas/tegenlicht/kijk/afleveringen/2022-2023/nft-mania.html#"
+          },
+          {
+            "label": "Times Square Arts",
+            "href": "http://arts.timessquarenyc.org/times-square-arts/projects/midnight-moment/drifters/index.aspx"
+          },
+          {
+            "label": "Nowness",
+            "href": "https://www.nowness.com/series/portrait-of-a-place/drifters-nyc-2021"
+          }
+        ],
+        "logo": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/662013bc98b20898a07fbf0f_drift-logo-white.png",
+          "alt": "",
+          "href": "https://www.studiobirthplace.com"
+        },
+        "creditsLabel": "View Full Credits",
+        "pressLabel": "View Media Features"
+      }
+    },
+    {
+      "id": "film-2",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "Yc9kyhG0zQY",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/661de1d913f3a8c9656be92c_Drifters.videoCover.01.jpg",
+          "ratio": "16:9"
+        }
+      }
+    },
+    {
+      "id": "text-3",
+      "type": "text",
+      "content": {
+        "heading": "Times Square Takeover",
+        "body": "Drifters has been screened in many unique locations with a highlight being the take over on New York City's Times Square.\n\n‍\n\nAs part of the Times Square Arts Project 'Midnight Moment', Drifters was exhibited on 80 screens from 11:57 pm to midnight throughout December 2021 at Times Square, New York, USA.",
+        "link": {
+          "label": "Learn more about the screening here.",
+          "href": "http://arts.timessquarenyc.org/times-square-arts/projects/midnight-moment/drifters/index.aspx"
+        }
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "film-4",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "matFYaxlXp0",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6619c6cbfac8bec5e7d5e057_Drifters.TSVideoCover.jpg",
+          "ratio": "16:9"
+        }
+      },
+      "overrides": {
+        "size": "medium"
+      },
+      "overrideReasons": {
+        "size": "as on the live site (phase 1)"
+      },
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-5",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6619ca25ca169e0b60f6a81b_Drifters.TS1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6619ca25fac8bec5e7d90c2f_Drifters.TS2.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6619ca51d8e053c19e46c628_Drifters.TS3.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6619ca52e69a2395ba25dd35_Drifters.TS4.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "align": "center"
+      },
+      "overrideReasons": {
+        "align": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "text-6",
+      "type": "text",
+      "content": {
+        "heading": "Drifters New York",
+        "body": "This sequel to the original work portrays the colossal floating blocks of concrete in New York.",
+        "link": {
+          "label": "Drifters New York has been featured on Nowness.",
+          "href": "https://www.nowness.com/series/portrait-of-a-place/drifters-nyc-2021"
+        }
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "film-7",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "AcagxN7eyQU",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66228a0a2cfeb41f2736d8be_Drifters.NewYorkVideoCover.jpg",
+          "ratio": "16:9"
+        }
+      }
+    },
+    {
+      "id": "gallery-9",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/662295b9ee085fa19a832d44_Drifters.NY.Still1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/662295b9232829c9ed2f1ded_Drifters.NY.Still2.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/662295ba4cdd55209679f886_Drifters.NY.Still3.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/662295ba1bf0c9c3a5c7beea_Drifters.NY.Still4.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/662295b93785c5f6f8b3c2cf_Drifters.NY.Still5.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/662295b940fc32e78bf22e06_Drifters.NY.Still6.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66229628e8249ded915f1269_Drifters.NY.Still8.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "image": "bts"
+      },
+      "overrideReasons": {
+        "image": "as on the live site (phase 1)"
+      },
+      "spaceBefore": "4-375"
+    },
+    {
+      "id": "text-10",
+      "type": "text",
+      "content": {
+        "heading": "The Shed",
+        "body": "The Shed is one of New York's most unique venues and brings together established and emerging artists in an unprecedented movable structure that adapts to support all kinds of inventive work under one roof. Both the Drifter exhibition as well as the film were hosted in the venue."
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-11",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66229f8b4fc7f3a3f69ab600_drifters.theshedscreening1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/661df53d9c1807ddb7515dbd_Drifters.TheShed.02.webp",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/661df53e64245bb8987c16d4_Drifters.TheShed.01.webp",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66229f8b2c9abe39c20f0e5f_drifters.theshedscreening2.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/661df53e69f1521b16fcc7b3_Drifters.TheShed.03.webp",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/661df53e9d8479b0cb366b55_Drifters.TheShed.04.webp",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66229f8b7f9afedebfb28023_drifters.theshedscreening3.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "image": "drifters",
+        "align": "center"
+      },
+      "overrideReasons": {
+        "image": "as on the live site (phase 1)",
+        "align": "as on the live site (phase 1)"
+      },
+      "padBottom": "4-5"
+    },
+    {
+      "id": "text-on-image-12",
+      "type": "text-on-image",
+      "content": {
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/661df97ea96e7e9615b43768_Drifters.AmosBG.jpg",
+          "alt": ""
+        },
+        "parts": [
+          {
+            "kind": "text",
+            "heading": "Amos Rex",
+            "body": "One of the most innovative and modern contemporary art galleries of Northern Europe, Amos Rex rethinks the urban park as part of the museum experience. Its structure is built with large concrete domes and features unique exhibition halls as well as public spaces.",
+            "dark": true
+          },
+          {
+            "kind": "film",
+            "film": {
+              "provider": "youtube",
+              "id": "TDTQ_it3zaQ",
+              "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/661e05d79d8c67c185516d7e_Drifters.AmosCover.jpg",
+              "ratio": "16:9"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "text-13",
+      "type": "text",
+      "content": {
+        "heading": "Human Systems",
+        "body": "Drifters - a collaboration between Sil van der Woerd and Amsterdam based Studio Drift - is a companion work to the installation Drifter and displays how basic and rough human systems are, in contrast to the natural.\n\n‍\n\nThe work can be seen from the perspective of whether or not the individual can escape from the collective."
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-14",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6619ba2552f2edf7ce02bff9_Drifters.Stills1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6619ba254f1850584d44d562_Drifters.Stills2.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6619ba25ec5a99999d7b372f_Drifters.Stills3.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6619ba2596c549bc4de93240_Drifters.Stills5.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6619ba25fac8bec5e7c98b58_Drifters.Stills6.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6619ba252b0a0de319619d85_Drifters.Stills7.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6619ba2552f2edf7ce02bfff_Drifters.Stills8.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6619ba2514c76d79a02fc3c2_Drifters.Stills9.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6619bb51a457f12b5e53ec61_Drifters.Stills4.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6619ba251c430cca9984cc12_Drifters.Stills10.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "image": "bts"
+      },
+      "overrideReasons": {
+        "image": "as on the live site (phase 1)"
+      },
+      "padBottom": "4-375"
+    },
+    {
+      "id": "more-work",
+      "type": "more-work",
+      "content": {
+        "button": {
+          "label": "View More Work",
+          "href": "/work"
+        }
+      }
+    }
+  ]
+}

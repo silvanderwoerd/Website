@@ -12,7 +12,7 @@ order: 9999
 
 TotalPollution: A Dirty Game was featured on Newshub NZ in an article about the 2023 Rugby World Cup and Greenpeace's campaign.
 
-An excerpt from the article below:  
+An excerpt from the article below:<br>
 
 There are some looming deadlines that tournament organisers can’t brush off so easily.
 
@@ -20,7 +20,7 @@ There are some looming deadlines that tournament organisers can’t brush off so
 
 Greenpeace has accused World Rugby of being sustainability sellouts, with an ad attacking the tournament for accepting sponsorship from a French oil giant.  
 
-‍  
+‍<br>
 
 The sport has been increasingly concerned by climate change.
 
@@ -28,11 +28,11 @@ The sport has been increasingly concerned by climate change.
 
 At the start of Japan's World Cup in 2019, a typhoon caused match cancellations for the first time ever and France is currently sweltering in a recordbreaking heatwave.
 
-‍  
+‍<br>
 
 The full article can be read [here](https://www.newshub.co.nz/home/rugby-world-cup-2023/2023/09/rugby-world-cup-greenpeace-attacks-oil-sponsorship-as-world-rugby-targets-climate-change.html).
 
-‍  
+‍<br>
 
 ### Learn More:
 

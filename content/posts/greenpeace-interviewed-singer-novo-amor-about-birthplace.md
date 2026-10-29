@@ -24,11 +24,9 @@ Here's an excerpt from the interview:
 
 Greenpeace: What sparked the inspiration for the song, and for the music video?
 
-**‍**  
-Novo Amor: Briefly put, the song is about living in the past, being enthralled by a memory, place or period of your life. The song is about growing up, and realising that you’re better off letting go of these things.
+**‍**<br>Novo Amor: Briefly put, the song is about living in the past, being enthralled by a memory, place or period of your life. The song is about growing up, and realising that you’re better off letting go of these things.
 
-‍  
-I’m pretty sure that we’re all influenced by our surroundings and circumstances, whether we know it or not. I grew up in Wales, but it’s hard to pinpoint which part of my sound has emanated from my upbringing. Being surrounded by nature from a young age maybe played a role in my love of natural recording and mellow music.
+‍<br>I’m pretty sure that we’re all influenced by our surroundings and circumstances, whether we know it or not. I grew up in Wales, but it’s hard to pinpoint which part of my sound has emanated from my upbringing. Being surrounded by nature from a young age maybe played a role in my love of natural recording and mellow music.
 
 ‍
 

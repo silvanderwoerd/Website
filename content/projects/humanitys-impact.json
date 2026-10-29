@@ -1,0 +1,293 @@
+{
+  "slug": "humanitys-impact",
+  "title": "Humanity's Impact",
+  "description": "How many plastic bottles do we produce globally in real time? Animated short film Humanity's Impact shows us. The project aims to create awareness and inspire action towards a more sustainable future while the accompanying Augmented Reality app invites users to interact with the data on a personal level.",
+  "family": "fluid",
+  "background": "black",
+  "client": "Studio Birthplace",
+  "inGrid": true,
+  "stripes": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "content": {
+        "eyebrow": "Our Work",
+        "client": "Studio Birthplace",
+        "title": "Humanity's Impact",
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6602c1d51045cf37aa28c75c_HumanitysImpactCover.Image.jpg",
+          "alt": ""
+        }
+      }
+    },
+    {
+      "id": "details",
+      "type": "project-details",
+      "content": {
+        "eyebrow": "ABOUT THE PROJECT",
+        "about": "## **How many plastic bottles do we produce globally** in real time? Humanity's Impact shows us.\n\nThe project aims to create awareness and inspire action towards a more sustainable future while the accompanying Augmented Reality app invites users to interact with the data on a personal level.\n\n‍",
+        "credits": [
+          {
+            "role": "Directors & writers",
+            "name": "Jorik Dozy & Sil van der Woerd"
+          },
+          {
+            "role": "Producer",
+            "name": "Sean Lin"
+          },
+          {
+            "role": "CG Director",
+            "name": "Alex Scollay"
+          }
+        ],
+        "fullCredits": "### **Concept & Production**\n\n**Studio Birthplace**\n\n### Written and Directed by\n\nSil van der Woerd & Jorik Dozy\n\n### Producer\n\nSean Lin\n\n### V.O. Actor\n\nDarren Altman\n\n### V.O. Agency\n\nVocal Point\n\n### Sound Design\n\nWavefarer Audio\n\n### Music\n\nVictorian Era Classical Strings by Orchestralis\n\n‍\n\n### **CG Production**\n\n**Method & Madness**\n\n### CG Producer\n\nTan Wen Hao\n\n### CG Director\n\nAlex Scollay\n\n‍\n\n### **App Production**\n\n**Superposition**\n\n### App Concept\n\nStudio Birthplace & Superposition\n\n### App Development\n\nBram Bogaerts & Robin Smits\n\n‍",
+        "creditsNote": "Subsidised By Creative Industries Fund NL STUDIO BIRTHPLACE 2021",
+        "press": [
+          {
+            "label": "Digital Promise",
+            "href": "https://digitalpromise.org/initiative/360-story-lab/360-production-guide/360-filmmakers-challenge/project-gallery/humanitys-impact/"
+          },
+          {
+            "label": "EcoHustler",
+            "href": "https://ecohustler.com/culture/humanitys-impact"
+          },
+          {
+            "label": "Greendex",
+            "href": "https://greendex.hu/sokkolo-animacios-szatira-mutatja-meg-hogy-borit-be-bennunket-a-muanyag/"
+          },
+          {
+            "label": "It's Nice That",
+            "href": "https://www.itsnicethat.com/news/studio-birthplace-humanitys-impact-animation-140621"
+          },
+          {
+            "label": "Motionographer",
+            "href": "https://motionographer.com/news/humanitys-impact-how-many-plastic-bottles-do-we-produce/"
+          },
+          {
+            "label": "Newszf",
+            "href": "https://newszf.com/humanitys-impact-new-film-reveals-scale-of-global-plastic-bottle-production/"
+          },
+          {
+            "label": "One Point Four",
+            "href": "https://www.onepointfour.co/2021/06/22/call-to-action/"
+          },
+          {
+            "label": "Plant Based News",
+            "href": "https://plantbasednews.org/culture/film/humanitys-impact-film-reveals-plastic-bottles-produced-globally-in-real-time/"
+          },
+          {
+            "label": "Reason Why",
+            "href": "https://www.reasonwhy.es/actualidad/studio-birthplace-humanitys-impact-concienciar-consumo-plasticos"
+          },
+          {
+            "label": "SDG Action Zone",
+            "href": "https://sdgactionzone.org/class/immersive-productions-and-performances-2-1/"
+          },
+          {
+            "label": "Shots",
+            "href": "https://www.shots.net/news/view/new-film-highlights-humanitys-impact"
+          },
+          {
+            "label": "The VGA Times",
+            "href": "https://thevgatimes.com/2021/05/20/boris-johnson-drowns-in-plastic-in-new-satirical-animation-on-pollution/https://thevgatimes.com/2021/05/20/boris-johnson-drowns-in-plastic-in-new-satirical-animation-on-pollution"
+          },
+          {
+            "label": "World Animals Voice",
+            "href": "https://worldanimalsvoice.com/2021/05/21/england-wasteminster-the-british-pm-drowns-under-a-tidal-wave-of-plastic-bottles-please-give-a-shit/"
+          }
+        ],
+        "logo": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/646795605ef93b3edfe4e18a_2k.white.SB.icon.png",
+          "alt": "",
+          "href": "https://studiobirthplace.com"
+        },
+        "creditsLabel": "View Full Credits",
+        "pressLabel": "View Media Features"
+      }
+    },
+    {
+      "id": "film-2",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "M1_zb10euFo",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6606273a9107247da79c6ebd_HumanitysImpact.CoverImage.jpg",
+          "ratio": "16:9"
+        }
+      }
+    },
+    {
+      "id": "text-3",
+      "type": "text",
+      "content": {
+        "heading": "Visible Data",
+        "body": "With this animated short, we wanted to explore if we could make visible the incredible data related to humanity's impact on our planet, putting a picture to the numbers.\n\n‍\n\nSet in a 1960s American suburb test site that is populated with plastic test dummies, the film unleashes the 20,000 plastic bottles we produce globally per second onto the unknowing cast of dummies. Only 9% of the overwhelming pile of plastic bottles actually gets recycled, the rest is dumped or burnt, or ends up in landfills and our oceans.\n\n‍\n\n**The project aims to create awareness and inspire action towards a more sustainable future.**"
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "quote-4",
+      "type": "quote",
+      "content": {
+        "quote": "\"We believe that comedy can be a powerful tool to help tell some of the saddest stories in our world. It can allow for an easy way in with the audience and make it easier to call out the ugly side of our consumer culture. We created mannequin-like dummies that not only represent us but that also put up a mirror to us. It is easier to make fun of a plastic dummy rather than a real human, after all, it's only a dummy.\"",
+        "cite": "Directors Jorik Dozy & Sil van der Woerd"
+      },
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-5",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/660633e5ffb8ccf63f4d6014_HumanitysImpact.Still1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/660633e6789f950f3a335be1_HumanitysImpact.Still2.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/660633e5463c07469c97d071_HumanitysImpact.Still3.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/660633e419d287dd92890500_HumanitysImpact.Still4.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/660633e516ee244a25cf2bbe_HumanitysImpact.Still5.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/660633e8eaed3fe8150774d0_HumanitysImpact.Still6.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/660633e5ffb8ccf63f4d600e_HumanitysImpact.Still7.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/660633e50d7d5dc85f08ab0e_HumanitysImpact.Still8.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/660633e52b7b1cfd3c50daa2_HumanitysImpact.Still9.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "image": "bts"
+      },
+      "overrideReasons": {
+        "image": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "text-6",
+      "type": "text",
+      "content": {
+        "heading": "Production",
+        "body": "Humanity's Impact was made in collaboration with CG partners Method & Madness. CG Executive Producer Wenhao Tan and CG Director Alex Scollay used a bespoke data visualisation technology to create realistic physics of falling plastic using ‘Tyflow’ software.\n\n‍\n\nThe team built a custom virtual reality camera rig which allowed an Oculus Rift VR headset to be mounted to a professional camera mount. This allowed the directors to physically hand-operate a \"real\" camera which added realism to the fully digital set."
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-7",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/660b560144b9468ed5e6b60a_HumanitysImpact.BTS1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/660c7b1f9d9c4a4ac194e9c8_HumanitysImpact.BTS2.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/660c7b9212fb3965d86af931_HumanitysImpact.BTS3.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/660c7b20e24439fe315a8b51_HumanitysImpact.BTS4.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/660b557b48eaa4dd225ffa6d_HumanitysImpact_BTS_06.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/660b557a74ac6bb009ee134a_HumanitysImpact_BTS_07.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/660b557a9392e68e4fe762d9_HumanitysImpact_BTS_09.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/660b557af8acc8158a7c86a6_HumanitysImpact.BTS10.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "align": "center"
+      },
+      "overrideReasons": {
+        "align": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "quote-8",
+      "type": "quote",
+      "content": {
+        "quote": "“The biggest challenge in addressing the production brief for this film was to ensure we were able to transport viewers into the action so that they would leave feeling ‘humanity’s impact’ in a simple yet powerful way. We developed new ways of using CG technology (the method) that enabled us to bring the film to life in a non-clinical way, retaining the creativity of the campaign idea (the madness).” ​",
+        "cite": "Wenhao Tan, Executive Producer of Method & Madness"
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "text-9",
+      "type": "text",
+      "content": {
+        "heading": "The App",
+        "body": "To be able to understand our own consumption behavior better, we partnered with interactive design studio Superposition to release the augmented reality app Humanity's Impact to help users relate to consumption-related data on an even more personal level. For example, users can drop 20,000 bottles into their own kitchen or bedroom, pledge to reduce their own plastic use, track their progress, take a photo with their data and share it on social media to motivate others to take part.‍ The app is available for free right now on the Apple App Store and on Google Play.‍"
+      },
+      "padBottom": "4-5"
+    },
+    {
+      "id": "film-10",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "CqJjLZjhkXY",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/660c824c0ef8e828ec8e272e_HumanitysImpact.AppVideoCover.jpg",
+          "ratio": "16:9"
+        }
+      },
+      "overrides": {
+        "size": "split"
+      },
+      "overrideReasons": {
+        "size": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "more-work",
+      "type": "more-work",
+      "content": {
+        "button": {
+          "label": "View More Work",
+          "href": "/work"
+        }
+      }
+    }
+  ]
+}

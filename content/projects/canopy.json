@@ -1,0 +1,184 @@
+{
+  "slug": "canopy",
+  "title": "Canopy",
+  "description": "Pack4Good reveals the staggering 3.1 billion trees that are lost each year to paper packaging and advocates for sustainable solutions to protect our forests and biodiversity.",
+  "family": "fluid",
+  "background": "black",
+  "client": "Canopy",
+  "inGrid": true,
+  "stripes": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "content": {
+        "eyebrow": "Our Work",
+        "client": "Canopy",
+        "title": "Pack4Good",
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66a22eb37d4c6c740f535c31_canopy-thumbnail.jpg",
+          "alt": ""
+        }
+      }
+    },
+    {
+      "id": "details",
+      "type": "project-details",
+      "content": {
+        "eyebrow": "ABOUT THE PROJECT",
+        "about": "## *Pack4Good* reveals the staggering **3.1 billion trees that are lost each year** to paper packaging.\n\nThe campaign advocates for sustainable solutions to protect our forests and biodiversity and to ensure the world’s Ancient and Endangered Forests aren’t cut down to package your next delivery.",
+        "credits": [
+          {
+            "role": "Directors",
+            "name": "Sil van der Woerd & Jorik Dozy"
+          },
+          {
+            "role": "Producer",
+            "name": "Tilly Compton"
+          },
+          {
+            "role": "VFX Director",
+            "name": "TimSmit"
+          }
+        ],
+        "fullCredits": "### Production Company\n\nStudio Birthplace\n\n### Film Directors/Writers/Editors\n\nSil van der Woerd & Jorik Dozy\n\n### Producer\n\nTilly Compton\n\n### Director of Photography\n\nKeidrych Wasley\n\n### Focus Puller\n\nManu Amler\n\n### Talent\n\nWoman in Cafe - Tanisha Argawal\n\nMan in Cafe - Owoche Offoboche\n\nMan on Street - Gilbert Newton\n\nWoman on Balcony - Boo Bruce Smith\n\n### VFX Director / Producer / Sim Artist / Compositor\n\nTimSmiT\n\n### Matte Painting / Lighting Artist\n\nSohaib Bouaiss\n\n### Tree Simulation Assistant\n\nAlex Scollay\n\n### Roto\n\nElephant Gate and Supernova studios\n\n### On Set VFX Assistant\n\nCharles Chorein\n\n### Color Grade\n\nKeidrych Wasley\n\n### Music / Sound Design\n\nStorm Elfrink\n\n### Thanks To\n\nAdam Booth\n\nPark Village",
+        "creditsNote": "",
+        "press": [
+          {
+            "label": "PAGE",
+            "href": "https://page-online.de/kreation/papier-statt-plastik-warum-das-nicht-gut-ist-zeigt-studio-birthplace/"
+          },
+          {
+            "label": "Stash Media",
+            "href": "https://www.stashmedia.tv/studio-birthplace-sees-the-forest-and-the-trees-in-canopys-pack4good-spot/"
+          }
+        ],
+        "logo": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66a1f58c500020edf881b7f1_canopy.logo.png",
+          "alt": "",
+          "href": "https://canopyplanet.org/"
+        },
+        "creditsLabel": "View Full Credits",
+        "pressLabel": "View Media Features"
+      }
+    },
+    {
+      "id": "film-2",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "other",
+          "id": "https://www.youtube.com/embed/v=tr-1U6-8Cdworigin=https://plyr.io&iv_load_policy=3&modestbranding=1&playsinline=1&showinfo=0&rel=0&enablejsapi=1",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/696fbac23aa2a23d4b035b76_coralcatch-youtubethumbnail.jpg",
+          "ratio": "2:1"
+        }
+      }
+    },
+    {
+      "id": "text-3",
+      "type": "text",
+      "content": {
+        "heading": "Paper is better, right?",
+        "body": "When it comes to packaging, we all know plastic is bad. Paper, however, enjoys a much better reputation. But for every paper straw, cup, food container, or bag, trees are being cut. Not just a few, but a whopping 3.1 billion each year for the paper packaging industry.\n\n<br>\n\nMany believe this isn't a big problem because trees are replanted. **In reality, many trees are still sourced from wild, ancient forests rather than planted sites.** Furthermore, planted forests are monocultures that support very little biodiversity, making them vulnerable to disease. Once these planted forests are cut, their sites are destroyed, and take another 20+ years to regrow.\n\n‍"
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "quote-4",
+      "type": "quote",
+      "content": {
+        "quote": "\"In the face of our climate crisis, every industry must transition towards zero-impact, sustainable solutions. Making packaging from agricultural residues and discarded food waste instead of living trees, is a perfect example.\"",
+        "cite": "Directors Sil van der Woerd & Jorik Dozy"
+      },
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-5",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66a1fffefd8a60fbf77d2343_Canopy_stills.01.avif",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66a1fffe65c8d94d276f1629_Canopy_stills.02.avif",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66a1fffe33933c272321b084_Canopy_stills.04.avif",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66a1fffe0368f551e4f2c7a3_Canopy_stills.03.avif",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66a1fffea805d1355d26da11_Canopy_stills.05.avif",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66a1fffec44d9d55c5021a3f_Canopy_stills.07.avif",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66a1fffe240b9b702b2952d3_Canopy_stills.06.avif",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "image": "stills"
+      },
+      "overrideReasons": {
+        "image": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "text-7",
+      "type": "text",
+      "content": {
+        "heading": "3.1 Billion Trees",
+        "body": "What does the volume of 3.1 billion trees used annually by the paper industry look like? It's hard to say. Trees vary in size, and do we count just the trunks or also the branches?\n\n<br>\n\nWhen considering how to best visualize this volume, we felt it was crucial to depict trees not as mere trunks that look like resources, but as living beings that are part of complex ecosystems, providing habitats for animals, producing clean water, and generating the oxygen we breathe.\n\n<br>\n\nTo emphasize their role as living entities, we visualized the various types of CGI trees seen in the film, complete with branches and leaves. Together, they form a slow, elegant avalanche creeping through the streets of London, overwhelming yet graceful."
+      },
+      "padBottom": "4-5",
+      "spaceBefore": "4-5"
+    },
+    {
+      "id": "posters-8",
+      "type": "posters",
+      "content": {
+        "films": [
+          {
+            "provider": "youtube",
+            "id": "WBMnnhFBgeY",
+            "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66a225de8cea1016247c4bb3_Canopy_BTS_02.jpg",
+            "ratio": "16:9"
+          },
+          {
+            "provider": "youtube",
+            "id": "-yJbU6qKpH4",
+            "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66a2269c235d741977c4a30e_Canopy_BTS_01.jpg",
+            "ratio": "16:9"
+          }
+        ]
+      },
+      "overrides": {
+        "layout": "films"
+      },
+      "overrideReasons": {
+        "layout": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "more-work",
+      "type": "more-work",
+      "content": {
+        "button": {
+          "label": "View More Work",
+          "href": "/work"
+        }
+      }
+    }
+  ]
+}

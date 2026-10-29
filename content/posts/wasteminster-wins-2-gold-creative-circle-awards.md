@@ -20,7 +20,7 @@ The Creative Circle Awards is the first marketing awards in Britain, founded in 
 
 They celebrate the best creative work in marketing communications with an ever-evolving collective of over 600 judges from creative departments across the country.
 
-‍  
+‍<br>
 
 ### Learn more:
 

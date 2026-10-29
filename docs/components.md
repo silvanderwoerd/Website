@@ -92,10 +92,13 @@ A project as a big card. Files: `src/originals/project-tile/`.
 
 Full-screen opening band. Files: `src/originals/hero/`.
 
-- **What it shows:** a background video with a 30% black overlay, the title (`**bold**` is weight 900), a button (`button` block) and socials.
-- **On scroll:** the content moves down and fades (IX2 Home Hero Hide Text).
-- **Settings:** none yet. About's hero and the project heroes join in step 6.
-- **Content:** `title`, `video`, `button`.
+| Setting | Kind | Default |
+|---|---|---|
+| `variant` | choice: `project` · `home` | `project` (Home overrides it) |
+
+- **`home`:** a background video with a 30% black overlay, the title (`**bold**` is weight 900), a button (`button` block) and socials. On scroll the content moves down and fades (IX2 Home Hero Hide Text).
+- **`project`:** the project's still with parallax, an eyebrow, the client and the title rising in 1.3s after load (live `.fl-project-hero`).
+- **Content:** home: `title`, `video`, `button`; project: `eyebrow`, `client`, `title`, `image`.
 
 ### `statement`
 
@@ -132,6 +135,115 @@ The newest post large (left) and the next four (right), from the content layer
 "We're here to tell stories that / **change the world. You in?**" with a `cta`
 button. The content's second line is the big one. Content: `heading`, `button`.
 
+## Project stripes (the Project template, `content/projects/<slug>.json`)
+
+Every project page is `hero` + `project-details` + its own bands + `more-work`.
+The bands are the live page's, in its order. Where Webflow projects laid a band
+out by hand, the difference is a setting, recorded as an override with the
+reason "as on the live site (phase 1)".
+
+Stripes also take `padTop` / `padBottom` (a space token): the live edge
+spacers inside a band, placed as its first and last child.
+
+### `project-details`
+
+About the project (rich text) on the left, key credits on the right, the
+client's logo, and two pop-ups: full credits and media features (`Modal`).
+Live `.fl-section-project-details`. Content: `eyebrow`, `about`, `credits[]`
+(`role`, `name`), `fullCredits`, `creditsNote`, `press[]`, `logo`, `creditsLabel`, `pressLabel`.
+
+### `film`
+
+A YouTube or Vimeo film (`FilmPlayer`) with its poster and the play circle that follows the pointer.
+
+| Setting | Kind | Default |
+|---|---|---|
+| `size` | choice: `large` · `medium` · `split` | `large` |
+| `visibility` | choice: `always` · `phone` (live `.section-8`: only on phones, where it replaces an episode's own film) | `always` |
+| `phoneBox` | choice: `block` · `inline` (live `.section-7`: an inline block on phones, which adds line space) | `block` |
+
+Content: `film` (`id`, `host`, `ratio`, `poster`).
+
+### `text`
+
+A heading rising in word by word (AnimatedText) with a short text beside it and an
+optional arrow link (live `.fl-split-small-section`). Content: `heading`, `body` (rich text), `link`.
+
+### `gallery`
+
+A Swiper row of stills (`GallerySlider`): drag or arrows, slides shrink while
+dragged, the row slides 0 → −30vw as you scroll past. Optional heading.
+
+| Setting | Kind | Default |
+|---|---|---|
+| `image` | choice: `campaign` · `stills` · `bts` · `wide` · `visuals` · `media` · `drifters` · `story` (one per live image class) | `campaign` |
+| `align` | choice: `top` · `center` (slides centred on the tallest) | `top` |
+
+Content: `heading`, `images[]` (`src`, `alt`).
+
+### `quote`
+
+A quote in italics with a thin bar beside it and who said it (live `.fl-quote-section`). Content: `quote`, `cite`.
+
+### `campaign`
+
+A bold heading, a paragraph, a "View Media Features" pop-up and an optional
+landing-page link (`arrow-link` blocks). Content: `heading`, `text`, `press[]`, `pressLabel`, `link`.
+
+### `stats`
+
+A title and four big numbers with labels, split by thin lines (live `.fl-section-numbers`). Content: `title`, `items[]` (`number`, `label`).
+
+### `cta`
+
+An image beside a heading, a short text and a button.
+
+| Setting | Kind | Default |
+|---|---|---|
+| `size` | choice: `small` · `big` | `small` |
+
+Content: `image`, `heading`, `text`, `button`.
+
+### `text-on-image`
+
+A half-height background image with parts on top: text, a film, or a heading and a gallery.
+
+| Setting | Kind | Default |
+|---|---|---|
+| `panel` | choice: `plain` · `noise` · `campaign` | `plain` |
+
+Content: `image`, `parts[]` (`kind`: `text` (with `dark`) · `film` · `gallery`).
+
+### `posters`
+
+Campaign posters, key visuals or two films side by side.
+
+| Setting | Kind | Default |
+|---|---|---|
+| `layout` | choice: `poster` · `poster-still` · `poster-still-double` · `exhibition` · `rud-poster` · `rud-stills` · `films` · `films-tight` (each project's hand-made layout) | `poster` |
+
+### `phones`
+
+A row of phones with screenshots on a background photo; they move up 3em while you scroll past (`PhoneScroll`).
+
+### `instafilter`
+
+Total Pollution's Instagram filter as a looping video in a phone.
+
+### `episode`
+
+One episode: name and short text on the left, its film on the right (Webflow
+float columns). On phones the film column hides; a `film` with
+`visibility: phone` takes its place.
+
+### `embed`
+
+Another website inside the page (Team Forest's sign-up), passing the wheel on so the page keeps scrolling (`EmbedBridge`). Content: `url`.
+
+### `more-work`
+
+The "View More Work" button closing every project. Content: `button`.
+
 ## Motion (src/motion/, used inside originals)
 
 | Helper | What it does |
@@ -141,6 +253,11 @@ button. The content's second line is the big one. Content: `heading`, `button`.
 | `useScrollInView` + `at()` | Webflow's "while scrolling in view" progress with keyframes. |
 | `PointerEffects` | Sets `--fx` / `--fy` (−1…1) on any `[data-follow]` element under the pointer; its CSS decides what moves. |
 | `Lightbox` | The film lightbox (YouTube/Vimeo), closes on ✕, outside click or Esc. |
+| `FilmPlayer` | Poster + play circle; Plyr starts when the film is within 200px of the screen, so its control bar shows before play, as on live (decision #17). |
+| `GallerySlider` | Swiper free mode, slides at their own width 24px apart, arrows, side scroll 0 → −30vw. |
+| `Modal` | The pop-ups (credits, media features) with the live IX2 timings. |
+| `PhoneScroll` | Moves its children 0 → −3em between 20% and 80% of the scroll through. |
+| `EmbedBridge` | Lets an embedded page pass wheel scrolling back to ours. |
 
 ## Stripes (dev)
 

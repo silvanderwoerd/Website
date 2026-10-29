@@ -129,3 +129,61 @@
   }
 }
 
+
+/* Project variant. Live: .fl-project-hero.u-hero-parent-parallax, .cover-image,
+   .u-hero-child-parallax, .fl-project-eyebrow, .fl-project-hero_client,
+   .fl-project-title-wrapper, .fl-project-page_title.tricks.u-show-on-load */
+.hero[data-s-variant="home"] {
+  /* the Home look above */
+}
+
+.project[data-s-variant="project"] {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100svh;
+  padding-block: 17.875em;
+}
+
+.cover {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.projectText {
+  position: relative;
+  color: var(--color-white);
+}
+
+.projectEyebrow,
+.client {
+  color: var(--color-white);
+  text-align: center;
+}
+
+.space15 {
+  height: 1.5em;
+}
+
+.space05 {
+  height: 0.5em;
+}
+
+.titleBox {
+  height: 4em;
+}
+
+.projectTitle {
+  margin: 10px 0 0;
+  color: var(--color-white);
+}
+
+@media (min-width: 1920px) {
+  .projectTitle {
+    margin-top: 5px;
+  }
+}

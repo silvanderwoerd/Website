@@ -12,8 +12,17 @@
   opacity: 0;
 }
 
+/* .u-show-on-load: out of the layout until the preloader is done. */
+:global(.js) .afterLoad {
+  display: none;
+}
+
 @media (prefers-reduced-motion: reduce) {
   :global(.js) .word {
     opacity: 1;
+  }
+
+  :global(.js) .afterLoad {
+    display: revert;
   }
 }

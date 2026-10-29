@@ -30,7 +30,7 @@ A much ridiculed Prime Minister stands in front of a crowd of photographers for 
 
 The full article can be read [here](https://creativepool.com/magazine/inspiration/all-the-best-campaigns-of-2021-in-one-place.26278).
 
-‍  
+‍<br>
 
 ### Learn more:
 

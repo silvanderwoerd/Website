@@ -24,7 +24,7 @@ In a video released by Greenpeace, as the opening match of the World Cup is abou
 
 The video is a poignant reminder of the effects of fossil fuels, and shows fans how fossil fuel companies benefit from attaching themselves to valuable sporting events.
 
-‍  
+‍<br>
 
 The full article can be read [here](https://www.forbes.com/sites/vitascarosella/2023/09/01/rugby-world-cup-2023-how-environmentally-sustainable-will-it-be/?sh=1da4e47a784b).
 

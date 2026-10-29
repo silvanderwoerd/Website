@@ -1,0 +1,15 @@
+/* Live: .fl-section-next-project, .container-6.w-container */
+.section {
+  padding-block: 5em;
+}
+
+.container {
+  max-width: 200px;
+  margin-inline: auto;
+}
+
+@media (min-width: 1920px) {
+  .container {
+    max-width: 250px;
+  }
+}

@@ -1,0 +1,1008 @@
+{
+  "slug": "woolmark-wear-wool-not-waste",
+  "title": "Woolmark Wear Wool Not Waste",
+  "description": "Every single synthetic clothing item ever produced still exists in some form, haunting our planet. Tapping into the zombie-horror phenomenon, Wear Wool, Not Waste aims to educate consumers on the lifespan of their synthetic clothes. Whether in landfills or manifesting as microplastics, synthetics are omnipresent globally.",
+  "family": "fluid",
+  "background": "black",
+  "client": "Woolmark",
+  "inGrid": true,
+  "stripes": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "content": {
+        "eyebrow": "Our Work",
+        "client": "Woolmark",
+        "title": "Wear Wool, Not Waste",
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66ed42e125e6ff6e10b42d0b_Woolmark2.cover.jpg",
+          "alt": ""
+        }
+      }
+    },
+    {
+      "id": "details",
+      "type": "project-details",
+      "content": {
+        "eyebrow": "ABOUT THE PROJECT",
+        "about": "## **E****very single synthetic clothing item ever produced still exists** in some form, haunting our planet.\n\nTapping into the zombie-horror phenomenon, *Wear Wool, Not Waste* aims to educate consumers on the lifespan of their synthetic clothes. Whether in landfills or manifesting as microplastics, synthetics are omnipresent globally.",
+        "credits": [
+          {
+            "role": "Directors",
+            "name": "Jorik Dozy & Sil van der Woerd"
+          },
+          {
+            "role": "Producer",
+            "name": "Alice Windeler"
+          },
+          {
+            "role": "VFX Supervisor",
+            "name": "Tim Smit"
+          }
+        ],
+        "fullCredits": "### Client\n\nThe Woolmark Company\n\n### Creatives / Film Directors\n\nJorik Dozy & Sil van der Woerd, Studio Birthplace\n\n### Director Of Photography\n\nLennert Hillege\n\n### CGI Director, VFX Producer, Senior Supervisor\n\nTim Smit\n\n### Production Company\n\nPark Village\n\n### Creative Company\n\n20something\n\n### Creative Director\n\nWill Thacker\n\n### Executive Producer\n\nAdam Booth\n\n### Creative / Copywriter\n\nCathryn Carey\n\n### Strategy Partner\n\nFran Docx\n\n### Business Lead\n\nAnisha Obeng\n\n### Account Manager\n\nAmy Greasby\n\n### Film & Stills Producer\n\nAlice Windeler\n\n### Service Company\n\nSilver Lining Pictures SA\n\n### Service Provider\n\nRenier Ridgeway\n\n### Production Manager\n\nCourtney Rabie\n\n### Production Coordinator\n\nYana Abrahams\n\n### Production Chaperone\n\nFareid Saferdien\n\n### Client & Agency Chap\n\nWandile Mpambani\n\n### Production PA\n\nFidelis Qacha\n\n### 1st Assistant Director\n\nJohnathan Petersen\n\n### 2nd AD\n\nBenji Thomas\n\n### Focus Puller\n\nKhalied Manuel\n\n### Loader\n\nJulius Mwale\n\n### DIT\n\nJürgen Painczyk\n\n### VTO\n\nYannick Lussier\n\nMichael Rixen\n\n### Gaffer\n\nBrent Sauls\n\n### Best Boy Lights\n\nShane du Plooy\n\n### Spark\n\nGaryth Hampton \n\nIssa Zaidi \n\nLuvo Zibhodi\n\nPatrick Zakuza\n\n### Genny Operator\n\nFrank Ndumbana\n\n### Drone Pilot\n\nOliver Lane\n\n### Drone Operator\n\nMichael Everard\n\n### Trinity Operator\n\nKarl Schmidt\n\n### Key Grip\n\nNkutalo Ngcwabe\n\n### Best Boy Grip\n\nJohnson Ngubili\n\n### Techno Crane Op\n\nRyan Ballard\n\n### Libra Head Operator\n\nKeith Saayman\n\n### Rigging Grip\n\nJohnny Steenkamp\n\nKyle Reade\n\n### Set Supervision\n\nVFXfiles\n\n### On Set VFX Supervisor\n\nJeremy Hattingh\n\n### VFX Data Wrangler\n\nZibele Mvila\n\n### LIDAR Scanner\n\nPeter Louw\n\n### SFX Supervisor\n\nMax Poolman, MXFX\n\n### SFX Floor Supervisor\n\nBrandon v/d Merwe\n\n### SFX Assistant\n\nStefanie Walzl\n\n### SFX Technician\n\nArchiford Makarutse \n\nSamual Murombo \n\nMitchell Mandande \n\nMichael Grewe\n\n### SFX Trainee\n\nNokunikwa 'Nikki' Ninzi\n\n### Art Director\n\nArlene Wentzel\n\n### Props Assistant\n\nDanielle Skriker \n\nCeleste van Heerden\n\n### Standby Assist\n\nEddy Sungu\n\n### Art Intern\n\nDali De Bruyn\n\n### MyCiti Bus Driver\n\nMendile\n\n### Wardrobe Lead Stylist\n\nLuci Ellis\n\n### Wardrobe Stylist\n\nKaren Ter Morshuizen\n\n### Wardrobe Assistant\n\nYasmin Schrueder\n\n### Hair & Make-Up\n\nMichelle Lee Collins\n\n### Unit/Location Manager\n\nErik Haraldsen\n\n### Unit/Locations Assistant\n\nXolani Pohlwana\n\nWarren Mkhafu\n\n### Crew Shuttle Driver\n\nFaldi Jattiem\n\n### Glam Van Driver\n\nMailon Chinomwe\n\n### Medic (Cape Town)\n\nHilton Sampson\n\n### ECO Ninja\n\nSive Khedama\n\nMbuelo Guza\n\n### Photographer\n\nDaniele Colucciello\n\n### Cast Coordinator\n\nDylanne Powell\n\n### Sheep Wrangler\n\nAlex Nel\n\n### Hero Cast 1 Bus\n\nLiam Du Plessis\n\n### Hero Cast 2 Bike\n\nMarchelle Lourens\n\n### Hero Cast 3 Pedestrian\n\nLuvé Meyer\n\n### Hero Cast 4 Car\n\nAmir Cader\n\n### Hero Cast 5 Bus\n\nAlexandria Brouhard\n\n### Hero Cast 6 Sheep\n\nOleshe Solomons\n\n### Visual Effects\n\nDead Pixel\n\n### Lead 3D Artist/FX TD\n\nDieuwer Feldbrugge\n\n### Lead 3D Lighting/Shading\n\nJeroen Aerts\n\n### Senior Compositor\n\nMarti Pujol\n\n### Compositor, Lighting and Rendering Artist\n\nMatthijs Joor\n\n### 3D Matte Painter\n\nVincent van der Klaauw\n\n### VFX Production Assistant\n\nJeoffrey van Overveld\n\n### VFX LiDAR and Textures\n\nCGSfx\n\n### VFX Scanning Lead\n\nPieter Louw\n\n### Roto, Paint and Match Move\n\nSupernovaFX Studio\n\n### Grade\n\nNo 8 London\n\n### Colourist\n\nAlex Gregory\n\n### Audio & Music Production\n\nAmbit Sound\n\n### Media Agency\n\nCraft/PMG\n\n### Media Planner\n\nSam Fowler/ Alistair Hornsby\n\n### Studio Birthplace Producer\n\nAlea Rahim\n\n### Assistant Editor\n\nRory Murphy\n\n### Special Thanks\n\nTyson Ibele\n\nSideFX\n\n‍",
+        "creditsNote": "THE WOOLMARK COMPANY 202",
+        "press": [
+          {
+            "label": "Woolmark",
+            "href": "https://www.woolmark.com/environment/wear-wool/"
+          },
+          {
+            "label": "1.4",
+            "href": "https://www.onepointfour.co/2024/09/27/six-of-the-best-creative-campaigns-3/"
+          },
+          {
+            "label": "Adweek",
+            "href": "https://www.adweek.com/creativity/woolmarks-ad-is-a-zombie-apocalypse-where-the-enemy-is-synthetic-clothing/"
+          },
+          {
+            "label": "Adindex",
+            "href": "https://adindex.ru/news/social_advertising/2024/09/26/325930.phtml"
+          },
+          {
+            "label": "Adforum",
+            "href": "https://www.google.com/url?q=https://www.adforum.com/creative-work/ad/player/34703235/wear-wool-not-waste/woolmark&sa=D&source=editors&ust=1727209135735302&usg=AOvVaw16ekWeKq6b968GFiG3NWez"
+          },
+          {
+            "label": "Adforum - Best of the Week",
+            "href": "https://www.google.com/url?q=https://www.adforum.com/top5/worldwide/915&sa=D&source=editors&ust=1728512264386909&usg=AOvVaw1uWtdCQ0L14-5mus-C_sX_"
+          },
+          {
+            "label": "Ad Inception",
+            "href": "https://adinception.com/commercial/woolmark-retail-fashion-wear-wool-not-waste-commercial-ad-creative-united-kingdom-ifxegnhcnmw"
+          },
+          {
+            "label": "Ad Index",
+            "href": "https://adindex.ru/news/social_advertising/2024/09/26/325930.phtml"
+          },
+          {
+            "label": "Ads of the World",
+            "href": "https://www.adsoftheworld.com/campaigns/wear-wool-not-waste"
+          },
+          {
+            "label": "Apparel Resources",
+            "href": "https://www.google.com/url?q=https://apparelresources.com/business-news/sustainability/woolmark-launches-campaign-encouraging-consumers-wear-wool-not-waste/&sa=D&source=editors&ust=1727209153128311&usg=AOvVaw2EvrlCWc_weUbW2CvYoXTX"
+          },
+          {
+            "label": "Art Vibes",
+            "href": "https://www.art-vibes.com/inspiration/woolmark-wear-wool-not-waste-campaign/"
+          },
+          {
+            "label": "Best Ads On TV",
+            "href": "https://www.bestadsontv.com/ad/169045/Woolmark-Wear-Wool-Not-Waste"
+          },
+          {
+            "label": "Brandhaus",
+            "href": "https://www.google.com/url?q=https://brandhaus.com/wear-wool-not-waste-woolmark-campaign-depicts-zombie-invasion-of-synthetic-clothes/&sa=D&source=editors&ust=1727209182870246&usg=AOvVaw3QYuppY_WtA9tdYY6e0yAI"
+          },
+          {
+            "label": "Brand News",
+            "href": "https://brand-news.it/brand/persona/abbigliamento/woolmark-prosegue-la-campagna-wear-wool-not-waste-contro-i-tessuti-sintetici-con-uno-spot-angosciante/"
+          },
+          {
+            "label": "Campaign Live",
+            "href": "https://www.campaignlive.co.uk/article/woolmark-wear-wool-not-waste-20something/1889457"
+          },
+          {
+            "label": "Campaign US",
+            "href": "https://www.campaignlive.com/article/woolmark-wear-wool-not-waste-20something/1889457"
+          },
+          {
+            "label": "CB News",
+            "href": "https://www.google.com/url?q=https://www.cbnews.fr/creation/image-woolmark-wear-wool-not-waste-87317&sa=D&source=editors&ust=1727209215258338&usg=AOvVaw0WTOA1LtkyiyyiXWMWfaxW"
+          },
+          {
+            "label": "Creative Review",
+            "href": "https://www.creativereview.co.uk/woolmark-campaign-synthetics-wear-wool-not-waste/"
+          },
+          {
+            "label": "CHW Dumpling",
+            "href": "https://www.chw-dumpling.com.tw/how-woolmark-created-a-zombie-apocalypse-of-artificial-clothing/8a184409P1d42/"
+          },
+          {
+            "label": "Clube de Criação",
+            "href": "https://www.clubedecriacao.com.br/ultimas/campanha-global-205/"
+          },
+          {
+            "label": "Culture Club",
+            "href": "http://www.culturepub.fr/videos/wear-wool-not-waste/"
+          },
+          {
+            "label": "CreaPills",
+            "href": "https://creapills.com/woolmark-pub-fast-fashion-invasion-zombies-20240924"
+          },
+          {
+            "label": "Dans Ta Pub",
+            "href": "https://www.danstapub.com/woolmark-apocalypse-zombie-fast-fashion/"
+          },
+          {
+            "label": "David Reviews",
+            "href": "https://www.davidreviews.com/work/2024/Woolmark_Wear_Wool_Not_Waste/"
+          },
+          {
+            "label": "Designboom",
+            "href": "https://www.google.com/url?q=https://www.designboom.com/design/wear-wool-not-waste-woolmark-zombie-invasion-synthetic-clothes-campaign-09-23-2024/&sa=D&source=editors&ust=1727127109804615&usg=AOvVaw3l37Wfe1V0IbuoiU9nBwDl"
+          },
+          {
+            "label": "Design Rush",
+            "href": "https://www.designrush.com/news/woolmark-launches-the-last-of-us-inspired-spot-from-20something"
+          },
+          {
+            "label": "Digitaling",
+            "href": "https://www.digitaling.com/projects/318562.html"
+          },
+          {
+            "label": "Dossier Magazine",
+            "href": "https://dossiermag.net/home/wear-wool-not-waste"
+          },
+          {
+            "label": "E-Textile Communications",
+            "href": "https://www.etextilecommunications.com/news/woolmark-releases-second-chapter-of-its-environmentally-focused-global-campaign/article_0632ee1a-7c83-11ef-a0be-7f814ff13ba8.html"
+          },
+          {
+            "label": "Farm Online",
+            "href": "https://www.farmonline.com.au/story/8771317/australian-wools-new-wear-wool-not-waste-campaign-debuts/"
+          },
+          {
+            "label": "Famous Campaigns",
+            "href": "https://www.famouscampaigns.com/2024/09/woolmark-envisions-fast-fashions-zombie-apocalypse/"
+          },
+          {
+            "label": "Fashion Capital",
+            "href": "https://www.fashioncapital.co.uk/insights/wear-wool-not-waste-part-2/"
+          },
+          {
+            "label": "Fashion Network",
+            "href": "https://ww.fashionnetwork.com/news/New-woolmark-campaign-focuses-on-eco-benefits-of-wool,1665747.html"
+          },
+          {
+            "label": "Fashionating World",
+            "href": "https://www.google.com/url?q=https://www.fashionatingworld.com/new1-2/woolmark-launches-wear-wool-not-waste-campaign&sa=D&source=editors&ust=1727209396418536&usg=AOvVaw1xmwpH5FMrox4VHINO7hjn"
+          },
+          {
+            "label": "Fashion United",
+            "href": "https://fashionunited.uk/news/business/new-woolmark-campaign-aims-to-highlight-benefits-of-most-recycled-fibre-wool/2024092477735"
+          },
+          {
+            "label": "Filmmakersworld",
+            "href": "https://www.instagram.com/p/DAqdeYbNgLP/?img_index=1"
+          },
+          {
+            "label": "Forbes",
+            "href": "https://www.google.com/url?q=https://www.forbes.com/sites/oliviapinnock/2024/09/26/fossil-fuels-still-dominate-fashions-material-mix/&sa=D&source=editors&ust=1727649962992457&usg=AOvVaw2dHuzArKfT7FKi8ozz8xbx"
+          },
+          {
+            "label": "Global Data",
+            "href": "https://www.msn.com/en-us/news/technology/woolmark-urges-fashion-consumers-to-wear-wool-not-waste/ar-AA1r3Y0Z?ocid=BingNewsSerp"
+          },
+          {
+            "label": "Good Ads Matter",
+            "href": "https://www.instagram.com/reel/DAYXLe8yKN-/"
+          },
+          {
+            "label": "Gosee News",
+            "href": "https://www.gosee.news/news/film/gosee-39-creatives-to-watch-39-39-wear-wool-not-waste-39-the-provocative-woolmark-campaign-by-20something-and-studio-birthplace-as-an-apocalyptic-fight-against-fast-fashion-65670"
+          },
+          {
+            "label": "Hub Style",
+            "href": "https://hubstyle.sport-press.it/2024/10/04/woolmark-lancia-la-campagna-globale-wear-wool-not-waste/"
+          },
+          {
+            "label": "Infashion Business",
+            "href": "https://infashionbusiness.com/home/news_details/4053"
+          },
+          {
+            "label": "Insight Trends World",
+            "href": "https://www.insighttrendsworld.com/post/insight-of-the-day-woolmark-urges-fashion-consumers-to-wear-wool-not-waste"
+          },
+          {
+            "label": "Just Style 1",
+            "href": "https://www.google.com/url?q=https://www.just-style.com/news/woolmark-urges-fashion-consumers-to-wear-wool-not-waste/&sa=D&source=editors&ust=1727127289338367&usg=AOvVaw1jUrf1BUDEq2iHG-8PUQ1Z"
+          },
+          {
+            "label": "Just Style 2",
+            "href": "https://www.just-style.com/newsletters/woolmark-urges-fashion-consumers-to-wear-wool-not-waste/?type=Analysis&utm_source=&utm_medium=&utm_content=Other_Daily_News_Articles&utm_campaign=type3_apparel-market&cf-view"
+          },
+          {
+            "label": "Knitting Industry",
+            "href": "https://www.knittingindustry.com/wear-wool-not-waste/"
+          },
+          {
+            "label": "Legend of Marketing",
+            "href": "https://www.instagram.com/legendofmarketing/reels/"
+          },
+          {
+            "label": "Little Black Book",
+            "href": "https://www.lbbonline.com/news/items-of-clothing-run-through-the-street-for-woolmarks-environmentally-focussed-campaign"
+          },
+          {
+            "label": "Little Black Book - Work of the Week",
+            "href": "https://www.google.com/url?q=https://lbbonline.com/news/work-of-the-week-270924&sa=D&source=editors&ust=1727650044459464&usg=AOvVaw01I582x7XsTGnoQES6k28N"
+          },
+          {
+            "label": "London Daily News",
+            "href": "https://www.londondaily.news/woolmark-releases-second-chapter-of-its-environmentally-focused-global-campaign-titled-wear-wool-not-waste/"
+          },
+          {
+            "label": "Marketing Mentor",
+            "href": "https://www.instagram.com/marketingmentor.in/reels/"
+          },
+          {
+            "label": "Marketing Report",
+            "href": "https://marketingreport.one/creation/woolmark-unveils-campaign-spotlighting-the-environmental-benefits-of-wool.html"
+          },
+          {
+            "label": "Markt Kom",
+            "href": "https://www.markt-kom.com/de/kreativity/kampagnen/woolmark-lanciert-globale-kampagne-wear-wool-not-waste-ein-appell-fuer-nachhaltige-mode/"
+          },
+          {
+            "label": "Media Cat",
+            "href": "https://mediacat.com/zombi-kiyafetlerin-istilasi/"
+          },
+          {
+            "label": "Meois & Publicidade",
+            "href": "https://www.meiosepublicidade.pt/2024/09/30/woolmark-encena-apocalipse-zombie-em-que-o-inimigo-e-a-roupa-sintetica-com-video"
+          },
+          {
+            "label": "MMR",
+            "href": "https://mmr.ua/show/rolyk-u-styli-filmiv-zhahiv-zobrazyv-apokalipsys-syntetychnogo-odyagu"
+          },
+          {
+            "label": "More About Advertising",
+            "href": "https://www.moreaboutadvertising.com/2024/09/woolmark-enlists-zombie-clothes-invasion-to-highlight-natural-benefits/"
+          },
+          {
+            "label": "Movie Filmhouse",
+            "href": "https://www.instagram.com/p/DAq_q4JC94k/?igsh=b2tqN2M5YjVtM3lp"
+          },
+          {
+            "label": "Mr Magazine",
+            "href": "https://mr-mag.com/woolmark-releases-second-chapter-of-wear-wool-not-waste/"
+          },
+          {
+            "label": "MSN",
+            "href": "https://www.msn.com/en-my/news/other/this-shocking-ad-will-make-you-stop-buying-fast-fashion-forever/ar-AA1rHjwo"
+          },
+          {
+            "label": "Muse By Clios",
+            "href": "https://musebyclios.com/environment/woolmark-stages-a-zombie-apocalypse/"
+          },
+          {
+            "label": "Ninja",
+            "href": "https://www.ninja.it/weekly-recap-gli-zombie-di-woolmark-gli-utenti-bloccati-a-meta-su-x-e-le-altre-notizie-della-settimana/"
+          },
+          {
+            "label": "Nowness",
+            "href": "https://www.nowness.com/picks/wear-wool-not-waste-woolmark"
+          },
+          {
+            "label": "Nowness - Instagram",
+            "href": "https://www.instagram.com/nowness/p/DAim0rNBfho/?img_index=1"
+          },
+          {
+            "label": "PAGE Magazine",
+            "href": "https://page-online.de/kreation/was-ein-spot-zombie-apocalypse-gegen-kleidung-aus-synthetik/"
+          },
+          {
+            "label": "PIJL BR",
+            "href": "https://www.bijlpr.nl/nieuws/petje-af-voor-woolmark-de-strijd-tegen-fast-fashion-met-een-flinke-dosis-lef/?fbclid=PAY2xjawIJlnRleHRuA2FlbQIxMQABpluFT9mOrFQvOiXffRiu0F7Yrp6JmmuTOuPx5K5Zg-LCqigai1R6HqDP0g_aem_WQX3VYwHNK8QJgDkbulwoQ"
+          },
+          {
+            "label": "Portugal Têxtil",
+            "href": "https://portugaltextil.com/woolmark-lanca-campanha-de-promocao-da-la/"
+          },
+          {
+            "label": "Programare Clame",
+            "href": "https://www.instagram.com/programareclame/"
+          },
+          {
+            "label": "PR Week",
+            "href": "https://www.prweek.com/article/1890078/dominos-security-papa-johns-scent-old-jamaica-says-goodbye-campaigns-round-up"
+          },
+          {
+            "label": "Reel 360",
+            "href": "https://reel360.com/article/woolmark-launches-a-zombie-apocalypse-to-warn-of-synthetic-fiber-pollution/"
+          },
+          {
+            "label": "Shots",
+            "href": "https://www.google.com/url?q=https://www.shots.net/news/view/night-of-the-living-thread&sa=D&source=editors&ust=1727209570262248&usg=AOvVaw2XXlrYCZKMZWFOByMU2pI0"
+          },
+          {
+            "label": "Shots - Ad of the Week",
+            "href": "https://www.instagram.com/reel/DAbCqGCtWp_/?igsh=NTR2bjBsanQwb3lu"
+          },
+          {
+            "label": "Shopping Design",
+            "href": "https://www.shoppingdesign.com.tw/post/view/10950?"
+          },
+          {
+            "label": "Social Samosa",
+            "href": "https://www.socialsamosa.com/adspot/adspot-stayfree-asics-mercedes-7105533"
+          },
+          {
+            "label": "Stash Media",
+            "href": "https://www.stashmedia.tv/studio-birthplace-fight-wool-war-z-for-woolmark/"
+          },
+          {
+            "label": "Sweartaker",
+            "href": "https://sweartaker.ie/edition-173/"
+          },
+          {
+            "label": "Textile Today",
+            "href": "https://www.textiletoday.com.bd/woolmark-unveils-campaign-named-wear-wool-not-waste"
+          },
+          {
+            "label": "The Daily Outdoor Retailer",
+            "href": "https://thedaily.outdoorretailer.com/news/industry-press-releases/woolmark-releases-wear-wool-not-waste-campaign/"
+          },
+          {
+            "label": "The Drum",
+            "href": "https://www.thedrum.com/news/2024/09/23/how-woolmark-created-zombie-apocolypse-artificial-clothing"
+          },
+          {
+            "label": "The Drum - Ad of the Day",
+            "href": "https://www.thedrum.com/news/2024/09/23/ad-the-day-synthetic-clothing-haunts-earth-zombies-woolmark-campaign"
+          },
+          {
+            "label": "The Drum - Best Ads of the Week",
+            "href": "https://www.thedrum.com/news/2024/09/27/best-ads-the-week-woolmark-s-zombie-apocalypse-tony-hawk-s-manscaped-cameo"
+          },
+          {
+            "label": "The Stable",
+            "href": "https://www.thestable.com.au/20something-woolmark-stop-the-zombies-of-the-fashion-apocalypse/"
+          },
+          {
+            "label": "This Is Mad",
+            "href": "https://www.thestable.com.au/20something-woolmark-stop-the-zombies-of-the-fashion-apocalypse/"
+          },
+          {
+            "label": "Unorthodox Blend",
+            "href": "https://unorthodoxblend.substack.com/p/woolmarks-synthetic-apocalypse"
+          },
+          {
+            "label": "Well",
+            "href": "https://www.well.pl/styl/135/nos_welne_nie_smieci_inwazja_ciuchow_zombie_w_nowej_kampanii_promujacej_madre_kupowanie_ubran,16033.html"
+          },
+          {
+            "label": "Yahoo Finance!",
+            "href": "https://finance.yahoo.com/news/woolmark-urges-fashion-consumers-wear-105527949.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuYmluZy5jb20v&guce_referrer_sig=AQAAAIMN9lUAXbvekWqSwu3fAMKKUCjmPgc68ywvE76vxLQq4-TWLb5U4NQ1gsfTZQ_idaa_YMOfp6K5CkAq4qWrWKiGEKepE94Ihcz6rAXVE31vFCYHRMBhgwvaerCAUOHx_44NZh8lBLXa5MVYSQs_ZNpiL7XcOxv41uteKgBPaFrp"
+          }
+        ],
+        "logo": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65cccd17d06c6c51c519c3bb_Woolmark%20logo-white.wide.png",
+          "alt": "",
+          "href": "https://woolmark.com"
+        },
+        "creditsLabel": "View Full Credits",
+        "pressLabel": "View Media Features"
+      }
+    },
+    {
+      "id": "film-2",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "33J1dd-3zOc",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66ed437d05d28ac4285762ee_Woolmark2.cover2.jpg",
+          "ratio": "16:9"
+        }
+      }
+    },
+    {
+      "id": "stats-3",
+      "type": "stats",
+      "content": {
+        "title": "Impact",
+        "items": [
+          {
+            "number": "62m+",
+            "label": "Views Across Platforms"
+          },
+          {
+            "number": "100+",
+            "label": "International Media Features"
+          },
+          {
+            "number": "261m",
+            "label": "Campaign Impressions"
+          },
+          {
+            "number": "179K",
+            "label": "Clicks to Web Platform"
+          }
+        ]
+      },
+      "padTop": "4-5"
+    },
+    {
+      "id": "text-4",
+      "type": "text",
+      "content": {
+        "heading": "Wool War Z",
+        "body": "People want their clothes to last – or at least for as long as they still own them. But when throwaway clothing is literally thrown away, it lasts far longer than most people could imagine. **Research shows that synthetic fabrics such as polyester could still be intact for hundreds of years**, which is a rather big problem when you consider the vast quantities already piling up in landfills.\n\n‍\n\nIn our latest campaign with Woolmark, Wear Wool, Not Waste, we visualize this unnaturally long lifespan as a zombie horror and showcase pure wool products as a more sustainable alternative."
+      },
+      "padTop": "4-5"
+    },
+    {
+      "id": "quote-5",
+      "type": "quote",
+      "content": {
+        "quote": "\"The fast fashion industry is accelerating the environmental crisis at an alarming rate, with synthetic fibres infiltrating our bodies and polluting our planet for centuries. It’s critical that we understand the hidden impact of fast fashion, and take responsibility towards transitioning to natural, sustainable alternatives. With this film, we wanted to amplify the urgency of the issue by bringing to life the unstoppable stampede of synthetic clothes that pollutes our world, to provoke change from consumers and industry.\"",
+        "cite": "Directors Sil van der Woerd & Jorik Dozy"
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-6",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66f10f33405340b9b50b3934_Woolmark.stills.05.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66f10f34114ac0e49a0942f9_Woolmark.stills.07.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66f10f33f96aa66383f4b05c_Woolmark.stills.01.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66f10f34b47c9be62043aaf3_Woolmark.stills.03.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66f10f34fd281cd72b4c5757_Woolmark.stills.12.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66f10f34e5cecad0be07623e_Woolmark.stills.13.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66f10f33da0e9c1cdaf9afb6_Woolmark.stills.04.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66f10f34af0e03ff30a78cbe_Woolmark.stills.10.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66f10f34567202b368a672c2_Woolmark.stills.11.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66f10f34e5204c08afb0eed5_Woolmark.stills.15.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66f10f332b562e59e34a3a7f_Woolmark.stills.09.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66f10f33d189b02d05261182_Woolmark.stills.02.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66f10f3451c823b53b02c963_Woolmark.stills.16.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "image": "stills"
+      },
+      "overrideReasons": {
+        "image": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "campaign-8",
+      "type": "campaign",
+      "content": {
+        "heading": "The Campaign",
+        "text": "The campaign received widespread global media coverage and acclaim for its gripping communication and was further distributed on Times Square, digital billboards around New York, London and Paris as well as in cinemas. 81% of viewers said they recognize the importance of conscious shopping and the impact of fast fashion after watching the film, with a further 76% saying it made them think twice about the environmental impact of their clothing.",
+        "press": [
+          {
+            "label": "Woolmark",
+            "href": "https://www.woolmark.com/environment/wear-wool/"
+          },
+          {
+            "label": "1.4",
+            "href": "https://www.onepointfour.co/2024/09/27/six-of-the-best-creative-campaigns-3/"
+          },
+          {
+            "label": "Adweek",
+            "href": "https://www.adweek.com/creativity/woolmarks-ad-is-a-zombie-apocalypse-where-the-enemy-is-synthetic-clothing/"
+          },
+          {
+            "label": "Adindex",
+            "href": "https://adindex.ru/news/social_advertising/2024/09/26/325930.phtml"
+          },
+          {
+            "label": "Adforum",
+            "href": "https://www.google.com/url?q=https://www.adforum.com/creative-work/ad/player/34703235/wear-wool-not-waste/woolmark&sa=D&source=editors&ust=1727209135735302&usg=AOvVaw16ekWeKq6b968GFiG3NWez"
+          },
+          {
+            "label": "Adforum - Best of the Week",
+            "href": "https://www.google.com/url?q=https://www.adforum.com/top5/worldwide/915&sa=D&source=editors&ust=1728512264386909&usg=AOvVaw1uWtdCQ0L14-5mus-C_sX_"
+          },
+          {
+            "label": "Ad Inception",
+            "href": "https://adinception.com/commercial/woolmark-retail-fashion-wear-wool-not-waste-commercial-ad-creative-united-kingdom-ifxegnhcnmw"
+          },
+          {
+            "label": "Ad Index",
+            "href": "https://adindex.ru/news/social_advertising/2024/09/26/325930.phtml"
+          },
+          {
+            "label": "Ads of the World",
+            "href": "https://www.adsoftheworld.com/campaigns/wear-wool-not-waste"
+          },
+          {
+            "label": "Apparel Resources",
+            "href": "https://www.google.com/url?q=https://apparelresources.com/business-news/sustainability/woolmark-launches-campaign-encouraging-consumers-wear-wool-not-waste/&sa=D&source=editors&ust=1727209153128311&usg=AOvVaw2EvrlCWc_weUbW2CvYoXTX"
+          },
+          {
+            "label": "Art Vibes",
+            "href": "https://www.art-vibes.com/inspiration/woolmark-wear-wool-not-waste-campaign/"
+          },
+          {
+            "label": "Best Ads On TV",
+            "href": "https://www.bestadsontv.com/ad/169045/Woolmark-Wear-Wool-Not-Waste"
+          },
+          {
+            "label": "Brandhaus",
+            "href": "https://www.google.com/url?q=https://brandhaus.com/wear-wool-not-waste-woolmark-campaign-depicts-zombie-invasion-of-synthetic-clothes/&sa=D&source=editors&ust=1727209182870246&usg=AOvVaw3QYuppY_WtA9tdYY6e0yAI"
+          },
+          {
+            "label": "Brand News",
+            "href": "https://brand-news.it/brand/persona/abbigliamento/woolmark-prosegue-la-campagna-wear-wool-not-waste-contro-i-tessuti-sintetici-con-uno-spot-angosciante/"
+          },
+          {
+            "label": "Campaign Live",
+            "href": "https://www.campaignlive.co.uk/article/woolmark-wear-wool-not-waste-20something/1889457"
+          },
+          {
+            "label": "Campaign US",
+            "href": "https://www.campaignlive.com/article/woolmark-wear-wool-not-waste-20something/1889457"
+          },
+          {
+            "label": "CB News",
+            "href": "https://www.google.com/url?q=https://www.cbnews.fr/creation/image-woolmark-wear-wool-not-waste-87317&sa=D&source=editors&ust=1727209215258338&usg=AOvVaw0WTOA1LtkyiyyiXWMWfaxW"
+          },
+          {
+            "label": "Creative Review",
+            "href": "https://www.creativereview.co.uk/woolmark-campaign-synthetics-wear-wool-not-waste/"
+          },
+          {
+            "label": "CHW Dumpling",
+            "href": "https://www.chw-dumpling.com.tw/how-woolmark-created-a-zombie-apocalypse-of-artificial-clothing/8a184409P1d42/"
+          },
+          {
+            "label": "Clube de Criação",
+            "href": "https://www.clubedecriacao.com.br/ultimas/campanha-global-205/"
+          },
+          {
+            "label": "Culture Club",
+            "href": "http://www.culturepub.fr/videos/wear-wool-not-waste/"
+          },
+          {
+            "label": "CreaPills",
+            "href": "https://creapills.com/woolmark-pub-fast-fashion-invasion-zombies-20240924"
+          },
+          {
+            "label": "Dans Ta Pub",
+            "href": "https://www.danstapub.com/woolmark-apocalypse-zombie-fast-fashion/"
+          },
+          {
+            "label": "David Reviews",
+            "href": "https://www.davidreviews.com/work/2024/Woolmark_Wear_Wool_Not_Waste/"
+          },
+          {
+            "label": "Designboom",
+            "href": "https://www.google.com/url?q=https://www.designboom.com/design/wear-wool-not-waste-woolmark-zombie-invasion-synthetic-clothes-campaign-09-23-2024/&sa=D&source=editors&ust=1727127109804615&usg=AOvVaw3l37Wfe1V0IbuoiU9nBwDl"
+          },
+          {
+            "label": "Design Rush",
+            "href": "https://www.designrush.com/news/woolmark-launches-the-last-of-us-inspired-spot-from-20something"
+          },
+          {
+            "label": "Digitaling",
+            "href": "https://www.digitaling.com/projects/318562.html"
+          },
+          {
+            "label": "Dossier Magazine",
+            "href": "https://dossiermag.net/home/wear-wool-not-waste"
+          },
+          {
+            "label": "E-Textile Communications",
+            "href": "https://www.etextilecommunications.com/news/woolmark-releases-second-chapter-of-its-environmentally-focused-global-campaign/article_0632ee1a-7c83-11ef-a0be-7f814ff13ba8.html"
+          },
+          {
+            "label": "Farm Online",
+            "href": "https://www.farmonline.com.au/story/8771317/australian-wools-new-wear-wool-not-waste-campaign-debuts/"
+          },
+          {
+            "label": "Famous Campaigns",
+            "href": "https://www.famouscampaigns.com/2024/09/woolmark-envisions-fast-fashions-zombie-apocalypse/"
+          },
+          {
+            "label": "Fashion Capital",
+            "href": "https://www.fashioncapital.co.uk/insights/wear-wool-not-waste-part-2/"
+          },
+          {
+            "label": "Fashion Network",
+            "href": "https://ww.fashionnetwork.com/news/New-woolmark-campaign-focuses-on-eco-benefits-of-wool,1665747.html"
+          },
+          {
+            "label": "Fashionating World",
+            "href": "https://www.google.com/url?q=https://www.fashionatingworld.com/new1-2/woolmark-launches-wear-wool-not-waste-campaign&sa=D&source=editors&ust=1727209396418536&usg=AOvVaw1xmwpH5FMrox4VHINO7hjn"
+          },
+          {
+            "label": "Fashion United",
+            "href": "https://fashionunited.uk/news/business/new-woolmark-campaign-aims-to-highlight-benefits-of-most-recycled-fibre-wool/2024092477735"
+          },
+          {
+            "label": "Filmmakersworld",
+            "href": "https://www.instagram.com/p/DAqdeYbNgLP/?img_index=1"
+          },
+          {
+            "label": "Forbes",
+            "href": "https://www.google.com/url?q=https://www.forbes.com/sites/oliviapinnock/2024/09/26/fossil-fuels-still-dominate-fashions-material-mix/&sa=D&source=editors&ust=1727649962992457&usg=AOvVaw2dHuzArKfT7FKi8ozz8xbx"
+          },
+          {
+            "label": "Global Data",
+            "href": "https://www.msn.com/en-us/news/technology/woolmark-urges-fashion-consumers-to-wear-wool-not-waste/ar-AA1r3Y0Z?ocid=BingNewsSerp"
+          },
+          {
+            "label": "Good Ads Matter",
+            "href": "https://www.instagram.com/reel/DAYXLe8yKN-/"
+          },
+          {
+            "label": "Gosee News",
+            "href": "https://www.gosee.news/news/film/gosee-39-creatives-to-watch-39-39-wear-wool-not-waste-39-the-provocative-woolmark-campaign-by-20something-and-studio-birthplace-as-an-apocalyptic-fight-against-fast-fashion-65670"
+          },
+          {
+            "label": "Hub Style",
+            "href": "https://hubstyle.sport-press.it/2024/10/04/woolmark-lancia-la-campagna-globale-wear-wool-not-waste/"
+          },
+          {
+            "label": "Infashion Business",
+            "href": "https://infashionbusiness.com/home/news_details/4053"
+          },
+          {
+            "label": "Insight Trends World",
+            "href": "https://www.insighttrendsworld.com/post/insight-of-the-day-woolmark-urges-fashion-consumers-to-wear-wool-not-waste"
+          },
+          {
+            "label": "Just Style 1",
+            "href": "https://www.google.com/url?q=https://www.just-style.com/news/woolmark-urges-fashion-consumers-to-wear-wool-not-waste/&sa=D&source=editors&ust=1727127289338367&usg=AOvVaw1jUrf1BUDEq2iHG-8PUQ1Z"
+          },
+          {
+            "label": "Just Style 2",
+            "href": "https://www.just-style.com/newsletters/woolmark-urges-fashion-consumers-to-wear-wool-not-waste/?type=Analysis&utm_source=&utm_medium=&utm_content=Other_Daily_News_Articles&utm_campaign=type3_apparel-market&cf-view"
+          },
+          {
+            "label": "Knitting Industry",
+            "href": "https://www.knittingindustry.com/wear-wool-not-waste/"
+          },
+          {
+            "label": "Legend of Marketing",
+            "href": "https://www.instagram.com/legendofmarketing/reels/"
+          },
+          {
+            "label": "Little Black Book",
+            "href": "https://www.lbbonline.com/news/items-of-clothing-run-through-the-street-for-woolmarks-environmentally-focussed-campaign"
+          },
+          {
+            "label": "Little Black Book - Work of the Week",
+            "href": "https://www.google.com/url?q=https://lbbonline.com/news/work-of-the-week-270924&sa=D&source=editors&ust=1727650044459464&usg=AOvVaw01I582x7XsTGnoQES6k28N"
+          },
+          {
+            "label": "London Daily News",
+            "href": "https://www.londondaily.news/woolmark-releases-second-chapter-of-its-environmentally-focused-global-campaign-titled-wear-wool-not-waste/"
+          },
+          {
+            "label": "Marketing Mentor",
+            "href": "https://www.instagram.com/marketingmentor.in/reels/"
+          },
+          {
+            "label": "Marketing Report",
+            "href": "https://marketingreport.one/creation/woolmark-unveils-campaign-spotlighting-the-environmental-benefits-of-wool.html"
+          },
+          {
+            "label": "Markt Kom",
+            "href": "https://www.markt-kom.com/de/kreativity/kampagnen/woolmark-lanciert-globale-kampagne-wear-wool-not-waste-ein-appell-fuer-nachhaltige-mode/"
+          },
+          {
+            "label": "Media Cat",
+            "href": "https://mediacat.com/zombi-kiyafetlerin-istilasi/"
+          },
+          {
+            "label": "Meois & Publicidade",
+            "href": "https://www.meiosepublicidade.pt/2024/09/30/woolmark-encena-apocalipse-zombie-em-que-o-inimigo-e-a-roupa-sintetica-com-video"
+          },
+          {
+            "label": "MMR",
+            "href": "https://mmr.ua/show/rolyk-u-styli-filmiv-zhahiv-zobrazyv-apokalipsys-syntetychnogo-odyagu"
+          },
+          {
+            "label": "More About Advertising",
+            "href": "https://www.moreaboutadvertising.com/2024/09/woolmark-enlists-zombie-clothes-invasion-to-highlight-natural-benefits/"
+          },
+          {
+            "label": "Movie Filmhouse",
+            "href": "https://www.instagram.com/p/DAq_q4JC94k/?igsh=b2tqN2M5YjVtM3lp"
+          },
+          {
+            "label": "Mr Magazine",
+            "href": "https://mr-mag.com/woolmark-releases-second-chapter-of-wear-wool-not-waste/"
+          },
+          {
+            "label": "MSN",
+            "href": "https://www.msn.com/en-my/news/other/this-shocking-ad-will-make-you-stop-buying-fast-fashion-forever/ar-AA1rHjwo"
+          },
+          {
+            "label": "Muse By Clios",
+            "href": "https://musebyclios.com/environment/woolmark-stages-a-zombie-apocalypse/"
+          },
+          {
+            "label": "Ninja",
+            "href": "https://www.ninja.it/weekly-recap-gli-zombie-di-woolmark-gli-utenti-bloccati-a-meta-su-x-e-le-altre-notizie-della-settimana/"
+          },
+          {
+            "label": "Nowness",
+            "href": "https://www.nowness.com/picks/wear-wool-not-waste-woolmark"
+          },
+          {
+            "label": "Nowness - Instagram",
+            "href": "https://www.instagram.com/nowness/p/DAim0rNBfho/?img_index=1"
+          },
+          {
+            "label": "PAGE Magazine",
+            "href": "https://page-online.de/kreation/was-ein-spot-zombie-apocalypse-gegen-kleidung-aus-synthetik/"
+          },
+          {
+            "label": "PIJL BR",
+            "href": "https://www.bijlpr.nl/nieuws/petje-af-voor-woolmark-de-strijd-tegen-fast-fashion-met-een-flinke-dosis-lef/?fbclid=PAY2xjawIJlnRleHRuA2FlbQIxMQABpluFT9mOrFQvOiXffRiu0F7Yrp6JmmuTOuPx5K5Zg-LCqigai1R6HqDP0g_aem_WQX3VYwHNK8QJgDkbulwoQ"
+          },
+          {
+            "label": "Portugal Têxtil",
+            "href": "https://portugaltextil.com/woolmark-lanca-campanha-de-promocao-da-la/"
+          },
+          {
+            "label": "Programare Clame",
+            "href": "https://www.instagram.com/programareclame/"
+          },
+          {
+            "label": "PR Week",
+            "href": "https://www.prweek.com/article/1890078/dominos-security-papa-johns-scent-old-jamaica-says-goodbye-campaigns-round-up"
+          },
+          {
+            "label": "Reel 360",
+            "href": "https://reel360.com/article/woolmark-launches-a-zombie-apocalypse-to-warn-of-synthetic-fiber-pollution/"
+          },
+          {
+            "label": "Shots",
+            "href": "https://www.google.com/url?q=https://www.shots.net/news/view/night-of-the-living-thread&sa=D&source=editors&ust=1727209570262248&usg=AOvVaw2XXlrYCZKMZWFOByMU2pI0"
+          },
+          {
+            "label": "Shots - Ad of the Week",
+            "href": "https://www.instagram.com/reel/DAbCqGCtWp_/?igsh=NTR2bjBsanQwb3lu"
+          },
+          {
+            "label": "Shopping Design",
+            "href": "https://www.shoppingdesign.com.tw/post/view/10950?"
+          },
+          {
+            "label": "Social Samosa",
+            "href": "https://www.socialsamosa.com/adspot/adspot-stayfree-asics-mercedes-7105533"
+          },
+          {
+            "label": "Stash Media",
+            "href": "https://www.stashmedia.tv/studio-birthplace-fight-wool-war-z-for-woolmark/"
+          },
+          {
+            "label": "Sweartaker",
+            "href": "https://sweartaker.ie/edition-173/"
+          },
+          {
+            "label": "Textile Today",
+            "href": "https://www.textiletoday.com.bd/woolmark-unveils-campaign-named-wear-wool-not-waste"
+          },
+          {
+            "label": "The Daily Outdoor Retailer",
+            "href": "https://thedaily.outdoorretailer.com/news/industry-press-releases/woolmark-releases-wear-wool-not-waste-campaign/"
+          },
+          {
+            "label": "The Drum",
+            "href": "https://www.thedrum.com/news/2024/09/23/how-woolmark-created-zombie-apocolypse-artificial-clothing"
+          },
+          {
+            "label": "The Drum - Ad of the Day",
+            "href": "https://www.thedrum.com/news/2024/09/23/ad-the-day-synthetic-clothing-haunts-earth-zombies-woolmark-campaign"
+          },
+          {
+            "label": "The Drum - Best Ads of the Week",
+            "href": "https://www.thedrum.com/news/2024/09/27/best-ads-the-week-woolmark-s-zombie-apocalypse-tony-hawk-s-manscaped-cameo"
+          },
+          {
+            "label": "The Stable",
+            "href": "https://www.thestable.com.au/20something-woolmark-stop-the-zombies-of-the-fashion-apocalypse/"
+          },
+          {
+            "label": "This Is Mad",
+            "href": "https://www.thestable.com.au/20something-woolmark-stop-the-zombies-of-the-fashion-apocalypse/"
+          },
+          {
+            "label": "Unorthodox Blend",
+            "href": "https://unorthodoxblend.substack.com/p/woolmarks-synthetic-apocalypse"
+          },
+          {
+            "label": "Well",
+            "href": "https://www.well.pl/styl/135/nos_welne_nie_smieci_inwazja_ciuchow_zombie_w_nowej_kampanii_promujacej_madre_kupowanie_ubran,16033.html"
+          },
+          {
+            "label": "Yahoo Finance!",
+            "href": "https://finance.yahoo.com/news/woolmark-urges-fashion-consumers-wear-105527949.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuYmluZy5jb20v&guce_referrer_sig=AQAAAIMN9lUAXbvekWqSwu3fAMKKUCjmPgc68ywvE76vxLQq4-TWLb5U4NQ1gsfTZQ_idaa_YMOfp6K5CkAq4qWrWKiGEKepE94Ihcz6rAXVE31vFCYHRMBhgwvaerCAUOHx_44NZh8lBLXa5MVYSQs_ZNpiL7XcOxv41uteKgBPaFrp"
+          }
+        ],
+        "pressLabel": "View Media Features",
+        "link": {
+          "label": "Woolmark Landing Page",
+          "href": "https://www.woolmark.com/environment/wear-wool/"
+        }
+      },
+      "spaceBefore": "4-5"
+    },
+    {
+      "id": "posters-9",
+      "type": "posters",
+      "content": {
+        "films": [
+          {
+            "provider": "youtube",
+            "id": "UUT7MFg_2-Y",
+            "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/67aafca41b9b9d809a613a98_wearwoolnotwaste.billboard.cover.jpg",
+            "ratio": "16:9"
+          },
+          {
+            "provider": "youtube",
+            "id": "dIr9E9Xukkw",
+            "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/67aafdf938d9bbb460437c82_wearwoolnotwaste.billboard.cover2.jpg",
+            "ratio": "16:9"
+          }
+        ]
+      },
+      "overrides": {
+        "layout": "films"
+      },
+      "overrideReasons": {
+        "layout": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "gallery-11",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/67ab00fc6a2bb82c6a1f3c09_wearwoolnotwaste.campaign.05.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/67ab00fc1b9b9d809a65aae9_wearwoolnotwaste.campaign.01.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/67ab01b8bdd618553f6023b9_wearwoolnotwaste.campaign.02.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/67ab00fc6697d156fa3792db_wearwoolnotwaste.campaign.03.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "align": "center"
+      },
+      "overrideReasons": {
+        "align": "as on the live site (phase 1)"
+      },
+      "spaceBefore": "4-5"
+    },
+    {
+      "id": "text-12",
+      "type": "text",
+      "content": {
+        "heading": "Clothing Zombies",
+        "body": "Each empty shell of clothing is designed to resemble human figures, creating a haunting visual as they race through the streets, embodying the idea that discarded garments continue to affect our world long after they've been thrown away.\n\n‍\n\nTo get the effects spot on, the SFX team brought in massive air-pressure cannons, which we ended up calling “anti-vacuum cannons.” These were loaded with synthetic garments and shot directly onto the set, creating a physical, interactive experience for the actors and everything around them. Clothes hit props like a bus and a car, allowing for a more realistic integration with the CGI added later.\n\n‍\n\n**Check out some behind the scenes clips:**"
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "film-13",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "y8LLLFHz4_c",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66f120fc5a3278806fd3ec91_Woolmark2.BTScover.jpg",
+          "ratio": "16:9"
+        }
+      },
+      "overrides": {
+        "size": "medium"
+      },
+      "overrideReasons": {
+        "size": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "text-14",
+      "type": "text",
+      "content": {
+        "heading": "",
+        "body": "On top of the practical effects we added a ton of digital visual effects. One of the biggest challenges was transitioning the zombie crowd from motion capture to ragdoll animation—where an agent falls and its body reacts naturally to the ground—followed by full-body cloth simulation. Our artists spent two months refining this system to ensure it was robust and realistic. When it finally worked, the team was ecstatic!\n\n‍\n\nCheck out a more detailed breakdown of the visual effects below:"
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "film-15",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "21f70RGxMTg",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/670352ed25ea7ebaafab36fb_BTS.Cover.jpg",
+          "ratio": "16:9"
+        }
+      },
+      "overrides": {
+        "size": "medium"
+      },
+      "overrideReasons": {
+        "size": "as on the live site (phase 1)"
+      },
+      "padBottom": "4-5"
+    },
+    {
+      "id": "more-work",
+      "type": "more-work",
+      "content": {
+        "button": {
+          "label": "View More Work",
+          "href": "/work"
+        }
+      }
+    }
+  ]
+}

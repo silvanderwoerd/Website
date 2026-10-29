@@ -28,7 +28,7 @@ Page Magazine has been presenting outstanding work from design, communication an
 
 A wide-reaching German-language design and publishing magazine, Page is constantly pushes the key trends and technologies around print, web and mobile. We're honored to be recognized by the magazine.
 
-‍  
+‍<br>
 
 Studio Birthplace's feature is part of the magazine's 'English Special'.
 

@@ -1,0 +1,131 @@
+/* Live: .columns.w-row > .column.w-col-3 + .column-2.w-col-9 (Webflow's float
+   columns), .heading-3, .fl-split-small-rich-text, .fl-project-video-container */
+
+.row {
+  margin: 0 41px 0 108px;
+  padding-bottom: 0;
+}
+
+.row::before,
+.row::after {
+  content: " ";
+  display: table;
+  grid-area: 1 / 1 / 2 / 2;
+}
+
+.row::after {
+  clear: both;
+}
+
+.col {
+  position: relative;
+  float: left;
+  min-height: 1px;
+  padding-inline: 10px;
+}
+
+.text {
+  width: 25%;
+  padding-left: 42px;
+}
+
+.media {
+  width: 75%;
+}
+
+/* A plain h2: Webflow's base size, with the column's own spacing. */
+.heading {
+  padding-bottom: 16px;
+}
+
+.body p {
+  font-weight: 300;
+}
+
+.body strong {
+  color: var(--color-white);
+  font-weight: 300;
+}
+
+.body a {
+  color: var(--color-white);
+  text-decoration: underline;
+}
+
+.filmBox {
+  display: block;
+  box-sizing: border-box;
+  margin-left: 75px;
+  padding-inline: 2em;
+}
+
+@media (min-width: 1280px) {
+  .row {
+    margin-left: 128px;
+    padding-left: 0;
+  }
+
+  .filmBox {
+    margin-right: 70px;
+    margin-bottom: -36px;
+    padding-right: 2.7em;
+  }
+}
+
+@media (max-width: 991px) {
+  .row {
+    margin-inline: auto;
+  }
+
+  .text,
+  .media {
+    width: 100%;
+  }
+
+  .filmBox {
+    margin-inline: auto;
+    padding-inline: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .row {
+    margin-left: auto;
+  }
+
+  .col {
+    width: 100%;
+  }
+
+  .media {
+    margin-top: 20px;
+    padding-left: 100px;
+  }
+}
+
+@media (max-width: 479px) {
+  .row {
+    margin: 0 56px 0 16px;
+  }
+
+  .text {
+    padding-bottom: 6px;
+    padding-left: 0;
+  }
+
+  .media {
+    display: none;
+  }
+}
+
+/* .fl-spacing-1-5em: hidden on desktop, 1.5em from 991px down. */
+.space {
+  display: none;
+}
+
+@media (max-width: 991px) {
+  .space {
+    display: block;
+    height: 1.5em;
+  }
+}

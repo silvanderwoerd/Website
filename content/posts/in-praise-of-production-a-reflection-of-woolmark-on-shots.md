@@ -8,7 +8,7 @@ order: 9999
 ---
 # **'We open on a remote village...'; easy to write, tough (sometimes very tough) to film.**
 
-‍  
+‍<br>
 
 Elliott Starr, Head of Copy at 20something, reports from a shoot in South Africa and considers the regular challenges faced by production partners.
 

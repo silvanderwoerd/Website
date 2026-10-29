@@ -18,8 +18,7 @@ The Drum is a leading global publisher for the marketing and media industries, w
 
 ‍
 
-For our campaign for The Woolmark Company to have been featured on this week's Ads of The Week is a huge honour.  
-  
+For our campaign for The Woolmark Company to have been featured on this week's Ads of The Week is a huge honour.<br><br>
 
 The full article can be read [here](https://www.thedrum.com/news/2022/09/07/ads-the-week-rick-and-morty-pop-up-playstation-spot-and-nike-pays-tribute-serena).
 

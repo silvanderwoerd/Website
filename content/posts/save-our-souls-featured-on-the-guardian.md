@@ -28,7 +28,7 @@ Dramatically carved into the landscape of a Sumatran oil palm plantation that bo
 
 The message stretches half a kilometre alongside a snaking river; a bird’s-eye view gives the eerie sense the land has been given voice, and is issuing a mayday.
 
-‍  
+‍<br>
 
 “From the ground, you would not suspect anything more than just another palm oil plantation. The aerial view, however, reveals the SOS distress signal,” says the Lithuanian artist Ernest Zacharevic.
 

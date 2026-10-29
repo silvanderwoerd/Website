@@ -1,0 +1,619 @@
+{
+  "slug": "rewild",
+  "title": "Rewild",
+  "description": "Artist-activist ESCIF carves a huge ‘Rewind’ symbol into a palm oil plantation against conflict palm oil. The site of the artwork is a new forest restoration site covering 360 hectares, located on the borders of the Leuser Ecosystem, one of the most bio-diverse places on Earth. The film concept mirrors the real world action of the Sumatran Orangutan Society and their partners in reclaiming land on the borders of the Leuser rainforests to rewild them with indigenous trees and to restore the wildlife found in the Leuser ecosystem. ‍",
+  "family": "fluid",
+  "background": "black",
+  "client": "Splash & Burn",
+  "inGrid": true,
+  "stripes": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "content": {
+        "eyebrow": "Our Work",
+        "client": "Splash & Burn",
+        "title": "Rewild",
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66110bf4583716ed5d3c0c43_Rewild.cover.jpg",
+          "alt": ""
+        }
+      }
+    },
+    {
+      "id": "details",
+      "type": "project-details",
+      "content": {
+        "eyebrow": "ABOUT THE PROJECT",
+        "about": "## Artist-activist ESCIF carves a **huge ‘Rewind’ symbol into a palm oil plantation** against conflict palm oil.\n\nThe site of the artwork is a new forest restoration site covering 360 hectares, located on the borders of the Leuser Ecosystem, one of the most bio-diverse places on Earth.",
+        "credits": [
+          {
+            "role": "Directors",
+            "name": "Ernest Zacharevic & Nicholas Chin"
+          },
+          {
+            "role": "Producer",
+            "name": "Sean Lin"
+          },
+          {
+            "role": "Artist",
+            "name": "ESCIF"
+          }
+        ],
+        "fullCredits": "### Artist\n\nAlexandre Farto aka Vhils\n\n### Art Assistant\n\nTiago Silva\n\n### Curator\n\nErnest Zacharevic\n\n### Coordinator\n\nCharlotte Pyatt\n\n### Site Logistic\n\nOrangutan Information Centre\n\n### Director/DP/Editor\n\nNicholas Chin\n\n### Produced by\n\nStudio Birthplace\n\n### Producer\n\nSean Lin\n\n### Music by\n\nNursalim Yadi Anugerah[<br>](https://princeclausfund.nl/awardees/nursalim-yadi-anugerah)\n\n### Camera Assistant\n\nSkaiste Kazragyte\n\n### Production Assistant\n\nBayu Topan\n\n### Additional Footage\n\nErnest Zacharevic\n\nSumatran Orangutan Society\n\nOrangutan Information Centre\n\n### Orangutan Photographs\n\nTim Laman",
+        "creditsNote": "",
+        "press": [
+          {
+            "label": "Colossal",
+            "href": "https://www.thisiscolossal.com/2019/09/rewild-film/"
+          },
+          {
+            "label": "Graffitstreet",
+            "href": "https://www.graffitistreet.com/splash-and-burn-presents-rewild-from-street-artist-escif-indonesia-2019/"
+          },
+          {
+            "label": "I Support Street Art",
+            "href": "http://www.isupportstreetart.com/splash-burn-presents-rewild-escif/"
+          },
+          {
+            "label": "Instagrafite",
+            "href": "http://instagrafite.com/splash-and-burn-presents-rewild-from-escif/"
+          },
+          {
+            "label": "Justapoz",
+            "href": "https://www.juxtapoz.com/news/street-art/splashandburn-x-escif-rewind-the-sumatran-rainforest/"
+          },
+          {
+            "label": "Science Exists",
+            "href": "https://www.sciencetells.co.uk/rewild-a-short-film-by-splash-and-burn-and-escif-chronicles-rainforest-restoration-efforts-in-sumatra/"
+          },
+          {
+            "label": "Sylova",
+            "href": "https://sylova.com/index.php/2019/08/31/splash-and-burn-presenta-rewild-dellartista-di-strada-escif-indonesia-2019/"
+          },
+          {
+            "label": "Street Art United States",
+            "href": "https://streetartunitedstates.com/rewild-by-escif-a-rewind-symbol-to-reconnect-with-and-respect-the-earth/"
+          },
+          {
+            "label": "Urbanite",
+            "href": "http://www.urbanitewebzine.com/2019/09/09/splash-and-burn-presents-rewild-from-escif/"
+          }
+        ],
+        "logo": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/648f9e98d19795aaf39b0ef0_splashwhite.webp",
+          "alt": "",
+          "href": "https://www.splashandburn.org/"
+        },
+        "creditsLabel": "View Full Credits",
+        "pressLabel": "View Media Features"
+      }
+    },
+    {
+      "id": "film-2",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "iPZXZBdHeLU",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6605ead3670b5f7d639b851d_Rewild.Stills4.jpg",
+          "ratio": "2.39:1"
+        }
+      }
+    },
+    {
+      "id": "quote-3",
+      "type": "quote",
+      "content": {
+        "quote": "\"The idea of going back, of rewinding, is an invitation to reconnect to ourselves; to recover awareness and respect for our Earth, which is the ecosystem we are part of.\"",
+        "cite": "Artist ESCIF"
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "text-4",
+      "type": "text",
+      "content": {
+        "heading": "Splash & Burn",
+        "body": "In the 'Rewild' film, the narrative runs in reverse, rewinding the clock on deforestation to undo the damage caused by the unsustainable production of one of the worlds most versatile commodities - palm oil. Reversing the industrialisation of the land, the film ends at the beginning; a thriving ecosystem alive with wildlife.\n\n‍\n\nThe film concept mirrors the real world action of the Sumatran Orangutan Society and their partners in reclaiming land on the borders of the Leuser rainforests to rewild them with indigenous trees and to restore the wildlife found in the Leuser ecosystem.\n\n‍\n\nA hopeful message symbolising that it is not too late to reclaim our fate and make meaningful change."
+      },
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-5",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6605ead20d71c08c34676ef5_Rewild.Stills1.JPG",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6605ead3a46ae9a4359a27da_Rewild.Stills3.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6605ead3670b5f7d639b851d_Rewild.Stills4.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6605ead3b748788aaf2cb610_Rewild.Stills5.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6605ead2115495f012119874_Rewild.Stills6.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6605ead2b47026092da3c684_Rewild.Stills7.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6605ead327b8226779a1667a_Rewild.Stills8.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "image": "stills"
+      },
+      "overrideReasons": {
+        "image": "as on the live site (phase 1)"
+      },
+      "padBottom": "4-375"
+    },
+    {
+      "id": "cta-6",
+      "type": "cta",
+      "content": {
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5f718d8dccc9390a00cb0_Rewild.thumbnail.jpg",
+          "alt": ""
+        },
+        "heading": "SOS",
+        "text": "This project is done in partnership with the Sumatran Orangutan Society (SOS) and its partners in reclaiming land on the borders of the Leuser rainforests to rewild them. Join their efforts and plant a tree.",
+        "button": {
+          "label": "Act to Rewild Sumatra",
+          "href": "https://www.moretrees.info/"
+        }
+      },
+      "overrides": {
+        "size": "big"
+      },
+      "overrideReasons": {
+        "size": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "campaign-7",
+      "type": "campaign",
+      "content": {
+        "heading": "The Campaign",
+        "text": "The project involved several other art pieces and was widely featured on international media. The aim of the campaign is to communicate the magnitude of the problem to a wider audience, as well as provide creative outlook, hope, and inspiration to local communities and conservationists.",
+        "press": [
+          {
+            "label": "ABC News",
+            "href": "https://abcnews.go.com/Sports/wireStory/greenpeace-releases-animated-video-campaign-fossil-fuel-sponsorship-102668859"
+          },
+          {
+            "label": "‍",
+            "href": "https://abcnews.go.com/Sports/wireStory/greenpeace-releases-animated-video-campaign-fossil-fuel-sponsorship-102668859"
+          },
+          {
+            "label": "AOL",
+            "href": "https://www.aol.com/news/greenpeace-releases-animated-video-campaign-104615299.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuYmluZy5jb20v&guce_referrer_sig=AQAAABkgNq18wbySnug0YJpunlTzWtvYMr2GaKi9sXnoNA9DiZREljizeYwuQdIIWAZt7H2bmR92oupieVrN-RMMBp2t-mvzK4QA_G8c44cWSUNqgBPlekMUuj278qm_Siv1AkgNqQltjvX-pcqnl4KkAN6wpnC6AS9vCyvj_PLEVRyK"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.aol.com/news/greenpeace-releases-animated-video-campaign-104615299.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuYmluZy5jb20v&guce_referrer_sig=AQAAABkgNq18wbySnug0YJpunlTzWtvYMr2GaKi9sXnoNA9DiZREljizeYwuQdIIWAZt7H2bmR92oupieVrN-RMMBp2t-mvzK4QA_G8c44cWSUNqgBPlekMUuj278qm_Siv1AkgNqQltjvX-pcqnl4KkAN6wpnC6AS9vCyvj_PLEVRyK"
+          },
+          {
+            "label": "AP News",
+            "href": "https://apnews.com/article/world-cup-totalenergies-greenpeace-141503d85aa8cbb227c1a1550f7742d8"
+          },
+          {
+            "label": "‍",
+            "href": "https://apnews.com/article/world-cup-totalenergies-greenpeace-141503d85aa8cbb227c1a1550f7742d8"
+          },
+          {
+            "label": "BBC News",
+            "href": "https://www.bbc.com/sport/rugby-union/66723726"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.bbc.com/sport/rugby-union/66723726"
+          },
+          {
+            "label": "Buzz",
+            "href": "https://www.buzz.ie/news/world-news/totalenergies-rugby-world-cup-greenpeace-30814998"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.buzz.ie/news/world-news/totalenergies-rugby-world-cup-greenpeace-30814998"
+          },
+          {
+            "label": "Campaign",
+            "href": "https://www.campaignlive.co.uk/article/greenpeace-france-totalpollution-dirty-game-studio-birthplace/1835632"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.campaignlive.co.uk/article/greenpeace-france-totalpollution-dirty-game-studio-birthplace/1835632"
+          },
+          {
+            "label": "Creative Review",
+            "href": "https://www.creativereview.co.uk/greenpeace-rugby-world-cup-campaign/"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.creativereview.co.uk/greenpeace-rugby-world-cup-campaign/"
+          },
+          {
+            "label": "Designboom",
+            "href": "https://www.designboom.com/design/rugby-world-cup-2023-campaign-fossil-fuel-totalenergies-greenpeace-studio-birthplace-08-31-2023/"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.designboom.com/design/rugby-world-cup-2023-campaign-fossil-fuel-totalenergies-greenpeace-studio-birthplace-08-31-2023/"
+          },
+          {
+            "label": "Financial Express",
+            "href": "https://www.financialexpress.com/business/brandwagon-greenpeace-unveils-animated-video-as-part-of-campaign-targeting-fossil-fuel-sponsorship-of-rugby-world-cup-3228134/"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.financialexpress.com/business/brandwagon-greenpeace-unveils-animated-video-as-part-of-campaign-targeting-fossil-fuel-sponsorship-of-rugby-world-cup-3228134/"
+          },
+          {
+            "label": "Forbes",
+            "href": "https://www.forbes.com/sites/vitascarosella/2023/09/01/rugby-world-cup-2023-how-environmentally-sustainable-will-it-be/"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.forbes.com/sites/vitascarosella/2023/09/01/rugby-world-cup-2023-how-environmentally-sustainable-will-it-be/"
+          },
+          {
+            "label": "France Bleu",
+            "href": "https://www.francebleu.fr/infos/environnement/mondial-de-rugby-dans-une-video-choc-greenpeace-denonce-le-sponsoring-de-totalenergies-6033110"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.francebleu.fr/infos/environnement/mondial-de-rugby-dans-une-video-choc-greenpeace-denonce-le-sponsoring-de-totalenergies-6033110"
+          },
+          {
+            "label": "Huffington Post",
+            "href": "https://www.huffingtonpost.fr/environnement/video/a-10-jours-de-la-coupe-du-monde-de-rugby-la-campagne-choc-de-greenpeace-contre-totalenergies-et-le-greenwashing_222386.html"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.huffingtonpost.fr/environnement/video/a-10-jours-de-la-coupe-du-monde-de-rugby-la-campagne-choc-de-greenpeace-contre-totalenergies-et-le-greenwashing_222386.html"
+          },
+          {
+            "label": "Irish Daily Mirror",
+            "href": "https://www.irishmirror.ie/news/irish-news/irish-comedians-existential-terror-moved-30815558"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.irishmirror.ie/news/irish-news/irish-comedians-existential-terror-moved-30815558"
+          },
+          {
+            "label": "It's Nice That",
+            "href": "https://www.itsnicethat.com/news/greenpeace-studio-birthplace-totalpollution-film-300823"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.itsnicethat.com/news/greenpeace-studio-birthplace-totalpollution-film-300823"
+          },
+          {
+            "label": "La Montagne",
+            "href": "https://www.lamontagne.fr/paris-75000/sports/coupe-du-monde-greenpeace-publie-une-video-pour-denoncer-le-sponsoring-de-totalenergies-et-deplore-une-tentative-de-censure_14362871/"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.lamontagne.fr/paris-75000/sports/coupe-du-monde-greenpeace-publie-une-video-pour-denoncer-le-sponsoring-de-totalenergies-et-deplore-une-tentative-de-censure_14362871/"
+          },
+          {
+            "label": "La Republique",
+            "href": "https://www.larep.fr/paris-75000/sports/coupe-du-monde-greenpeace-publie-une-video-pour-denoncer-le-sponsoring-de-totalenergies-et-deplore-une-tentative-de-censure_14362871/"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.larep.fr/paris-75000/sports/coupe-du-monde-greenpeace-publie-une-video-pour-denoncer-le-sponsoring-de-totalenergies-et-deplore-une-tentative-de-censure_14362871/"
+          },
+          {
+            "label": "L'Echo Republicain",
+            "href": "https://www.lechorepublicain.fr/paris-75000/sports/coupe-du-monde-greenpeace-publie-une-video-pour-denoncer-le-sponsoring-de-totalenergies-et-deplore-une-tentative-de-censure_14362871/"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.lechorepublicain.fr/paris-75000/sports/coupe-du-monde-greenpeace-publie-une-video-pour-denoncer-le-sponsoring-de-totalenergies-et-deplore-une-tentative-de-censure_14362871/"
+          },
+          {
+            "label": "La Parisien",
+            "href": "https://www.leparisien.fr/sports/rugby/coupe-du-monde/coupe-du-monde-de-rugby-greenpeace-sattaque-au-sponsoring-de-totalenergies-30-08-2023-LEMMY6DGP5F7PPUM47KYOTIE3I.php?at_creation=Le%20Parisien%20%7C%20Ma%20Terre&at_campaign=Partage%20Twitter%20CM&at_medium=Social%20media"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.leparisien.fr/sports/rugby/coupe-du-monde/coupe-du-monde-de-rugby-greenpeace-sattaque-au-sponsoring-de-totalenergies-30-08-2023-LEMMY6DGP5F7PPUM47KYOTIE3I.php?at_creation=Le%20Parisien%20%7C%20Ma%20Terre&at_campaign=Partage%20Twitter%20CM&at_medium=Social%20media"
+          },
+          {
+            "label": "Le Populaire",
+            "href": "https://www.lepopulaire.fr/paris-75000/sports/coupe-du-monde-greenpeace-publie-une-video-pour-denoncer-le-sponsoring-de-totalenergies-et-deplore-une-tentative-de-censure_14362871/"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.lepopulaire.fr/paris-75000/sports/coupe-du-monde-greenpeace-publie-une-video-pour-denoncer-le-sponsoring-de-totalenergies-et-deplore-une-tentative-de-censure_14362871/"
+          },
+          {
+            "label": "Little Black Book",
+            "href": "https://www.lbbonline.com/news/fossil-fuel-floods-a-rugby-stadium-in-powerful-greenpeace-spot-a-dirty-game"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.lbbonline.com/news/fossil-fuel-floods-a-rugby-stadium-in-powerful-greenpeace-spot-a-dirty-game"
+          },
+          {
+            "label": "National World",
+            "href": "https://www.nationalworld.com/news/environment/greenpeace-new-campaign-fossil-fuel-money-sports-rugby-world-cup-sponsorship-4272610"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.nationalworld.com/news/environment/greenpeace-new-campaign-fossil-fuel-money-sports-rugby-world-cup-sponsorship-4272610"
+          },
+          {
+            "label": "Ouest France",
+            "href": "https://www.ouest-france.fr/coupe-du-monde-rugby/coupe-du-monde-de-rugby-dans-une-video-choc-greenpeace-sattaque-au-sponsor-totalenergies"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.ouest-france.fr/coupe-du-monde-rugby/coupe-du-monde-de-rugby-dans-une-video-choc-greenpeace-sattaque-au-sponsor-totalenergies"
+          },
+          {
+            "label": "RFI",
+            "href": "https://www.rfi.fr/en/france/20230830-greenpeace-slams-totalenergies-sponsorship-of-rugby-world-cup-in-france-as-sports-washing"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.rfi.fr/en/france/20230830-greenpeace-slams-totalenergies-sponsorship-of-rugby-world-cup-in-france-as-sports-washing"
+          },
+          {
+            "label": "RTL",
+            "href": "https://www.rtl.fr/actu/debats-societe/video-coupe-du-monde-rugby-greenpeace-critique-le-sponsoring-de-totalenergies-7900292130"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.rtl.fr/actu/debats-societe/video-coupe-du-monde-rugby-greenpeace-critique-le-sponsoring-de-totalenergies-7900292130"
+          },
+          {
+            "label": "Rugby Lad",
+            "href": "https://rugbylad.ie/rugby-world-cup-oil-video/"
+          },
+          {
+            "label": "‍",
+            "href": "https://rugbylad.ie/rugby-world-cup-oil-video/"
+          },
+          {
+            "label": "Scoop",
+            "href": "https://www.scoop.co.nz/stories/WO2308/S00232/breaking-oil-floods-stadium-ahead-of-mens-rugby-world-cup-tournament-kick-off.htm"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.scoop.co.nz/stories/WO2308/S00232/breaking-oil-floods-stadium-ahead-of-mens-rugby-world-cup-tournament-kick-off.htm"
+          },
+          {
+            "label": "Shots",
+            "href": "https://www.shots.net/news/view/greenpeace-paints-a-black-picture"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.shots.net/news/view/greenpeace-paints-a-black-picture"
+          },
+          {
+            "label": "Sport Buzz Business",
+            "href": "https://www.sportbuzzbusiness.fr/greenpeace-sattaque-a-totalenergies-sponsor-de-la-coupe-du-monde-de-rugby-2023-et-met-en-scene-un-stade-de-france-noye-sous-le-petrole.html"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.sportbuzzbusiness.fr/greenpeace-sattaque-a-totalenergies-sponsor-de-la-coupe-du-monde-de-rugby-2023-et-met-en-scene-un-stade-de-france-noye-sous-le-petrole.html"
+          },
+          {
+            "label": "Stash",
+            "href": "https://www.stashmedia.tv/studio-birthplace-exposes-totalenergies-dirty-game-for-greenpeace/"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.stashmedia.tv/studio-birthplace-exposes-totalenergies-dirty-game-for-greenpeace/"
+          },
+          {
+            "label": "Sustainability Beat",
+            "href": "https://www.sustainability-beat.co.uk/2023/08/30/greenpeace-sportswashing/"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.sustainability-beat.co.uk/2023/08/30/greenpeace-sportswashing/"
+          },
+          {
+            "label": "Taiwan News",
+            "href": "https://www.taiwannews.com.tw/en/news/4985261"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.taiwannews.com.tw/en/news/4985261"
+          },
+          {
+            "label": "The Drum",
+            "href": "https://www.thedrum.com/news/2023/08/29/stade-de-france-flooded-with-oil-greenpeace-rugby-world-cup-protest-ad"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.thedrum.com/news/2023/08/29/stade-de-france-flooded-with-oil-greenpeace-rugby-world-cup-protest-ad"
+          },
+          {
+            "label": "The Drum follow up",
+            "href": "https://www.thedrum.com/news/2023/08/30/rugby-world-cup-threatens-legal-action-over-greenpeace-protest-video"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.thedrum.com/news/2023/08/30/rugby-world-cup-threatens-legal-action-over-greenpeace-protest-video"
+          },
+          {
+            "label": "The Independent",
+            "href": "https://www.independent.co.uk/news/greenpeace-ap-paris-stade-de-france-new-zealand-b2401799.html"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.independent.co.uk/news/greenpeace-ap-paris-stade-de-france-new-zealand-b2401799.html"
+          },
+          {
+            "label": "The Independent - Irish",
+            "href": "https://m.independent.ie/irish-news/rugby-world-cup-legal-bid-to-stop-greenpeace-video-featuring-irish-comic-satirising-events-oil-company-sponsor/a2145555076.html"
+          },
+          {
+            "label": "‍",
+            "href": "https://m.independent.ie/irish-news/rugby-world-cup-legal-bid-to-stop-greenpeace-video-featuring-irish-comic-satirising-events-oil-company-sponsor/a2145555076.html"
+          },
+          {
+            "label": "Washington Times",
+            "href": "https://www.washingtontimes.com/news/2023/aug/30/greenpeace-releases-animated-video-in-campaign-aga/"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.washingtontimes.com/news/2023/aug/30/greenpeace-releases-animated-video-in-campaign-aga/"
+          },
+          {
+            "label": "Yahoo News",
+            "href": "https://news.yahoo.com/greenpeace-releases-animated-video-campaign-104615618.html?src=rss&utm_source=dlvr.it&utm_medium=twitter&guccounter=1&guce_referrer=aHR0cHM6Ly90LmNvLw&guce_referrer_sig=AQAAAFnEv7P2VRf-O4St7WtMfEEGlOBtKcI8wqtUUBrKsFvuysOLxiaACuHw4A9uqL-hHyH1smSjHW3kOAomQZMoCr5s2BjY3aiImfXxuw8_PpMupLxSlIyb4uwOsi3ZcqPb552B4K3Uyj6XSIx1O7_tL3Aw3kdO4snW85sI1TJCgeP6"
+          }
+        ],
+        "pressLabel": "View Media Features",
+        "link": {
+          "label": "Splash & Burn Landing Page",
+          "href": "https://www.splashandburn.org/alexandre-faro-aka-vhils"
+        }
+      }
+    },
+    {
+      "id": "gallery-8",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66033983572c87d7ab414ee2_Splash%26BurnCampaign1-alt.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6601c5ec942559e7c10eb666_Splash%26BurnCampaign2.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6601c5ec5fbf8d92bb398139_Splash%26BurnCampaign3.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6601c5ebabde2de6fbc026aa_Splash%26BurnCampaign4.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6601c5eb9f7598dfdd379a73_Splash%26BurnCampaign5.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6601c5ecfbd78615a0a9d6a6_Splash%26BurnCampaign6.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6601c5ec1074dd2059a3d806_Splash%26BurnCampaign7.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6601c5eb3b06eea5ac7b73d3_Splash%26BurnCampaign8.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6601c5eb3d17ffd74a5beba4_Splash%26BurnCampaign9.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "image": "bts"
+      },
+      "overrideReasons": {
+        "image": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "text-on-image-10",
+      "type": "text-on-image",
+      "content": {
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66060be6d6e39981a4bb9760_BACKGROUNDTEST.jpg",
+          "alt": ""
+        },
+        "parts": [
+          {
+            "kind": "text",
+            "heading": "Oxford Street",
+            "body": "The film was launched through a display on the facade of The New Flannel’s Store on London's Oxford Street, a location that sees foot traffic of tens of thousands a day, providing huge exposure to the film's message.",
+            "dark": true
+          },
+          {
+            "kind": "film",
+            "film": {
+              "provider": "youtube",
+              "id": "3nvQYGwokEk",
+              "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/662275296147c1c3e0fa6bdf_Rewild.VideoClip.jpg",
+              "ratio": "16:9"
+            }
+          }
+        ]
+      },
+      "spaceBefore": "4-5"
+    },
+    {
+      "id": "gallery-12",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66227b93fae1d54c1adda29e_Rewild.Oxford1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66227b924d4ed95e72f0c58d_Rewild.Oxford2.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66227b92d0fc70628f9f3c3c_Rewild.Oxford3.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66227b939b70efc1163f950f_Rewild.Oxford4.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66227b925939720c861ee294_Rewild.Oxford5.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "align": "center"
+      },
+      "overrideReasons": {
+        "align": "as on the live site (phase 1)"
+      },
+      "spaceBefore": "4-5"
+    },
+    {
+      "id": "more-work",
+      "type": "more-work",
+      "content": {
+        "button": {
+          "label": "View More Work",
+          "href": "/work"
+        }
+      }
+    }
+  ]
+}

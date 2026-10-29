@@ -1,0 +1,573 @@
+{
+  "slug": "team-forest",
+  "title": "Team Forest",
+  "description": "Studio Birthplace's campaign Team Forest for WWF harnesses football’s unique ability to unite people across the world – rallying everyone to show their support for the world’s forests.",
+  "family": "fluid",
+  "background": "black",
+  "client": "WWF",
+  "inGrid": true,
+  "stripes": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "content": {
+        "eyebrow": "Our Work",
+        "client": "WWF",
+        "title": "Team Forest",
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6a1da43d19aae3d444713a2d_WWF.TeamForest.STILLS_1.16.6-optimized.jpg",
+          "alt": ""
+        }
+      }
+    },
+    {
+      "id": "details",
+      "type": "project-details",
+      "content": {
+        "eyebrow": "ABOUT THE PROJECT",
+        "about": "## *Team Forest* is a campaign harnessing football’s unique ability to unite people across the world – **rallying everyone to show their support for the world’s forests.**\n\nThe campaign film features professional footballers and stunt performers running, leaping and soaring through the forest floor, up tree trunks and across the canopy to **illustrate how protecting the forest is a game we all need to play together.**",
+        "credits": [
+          {
+            "role": "Director",
+            "name": "Sil van der Woerd & Jorik Dozy"
+          },
+          {
+            "role": "Executive Producer",
+            "name": "Alea Rahim"
+          },
+          {
+            "role": "Line Producer",
+            "name": "Baby Tamba"
+          }
+        ],
+        "fullCredits": "### Production Company\n\nStudio Birthplace\n\n### Film Directors/Writers/Editors\n\nJorik Dozy & Sil van der Woerd\n\n### Executive Producer\n\nAlea Rahim\n\n### Line Producer\n\nBaby Tamba\n\n### 1st AD\n\nMuhammad Hambali (Baly)\n\n### Director of Photography\n\nCharlie Balch\n\n### 1st AC\n\nFarro\n\n### 2nd AC\n\nHeri Cherry (Bert's)\n\n### Drone Pilot\n\nGemilang Dini Ar-rasyid\n\n### Drone Pilot Assistant\n\nAbdul Aziz Setiaputra\n\n### DIT\n\nRidwan AB\n\n### Data Wrangler\n\nAzis Dwi Yulianto\n\n‍\n\n### Stunt Coordinator\n\nUdeh Nans\n\n### Stunt Rigger 1\n\nSyahril Akmal (Ari)\n\n### Stunt Rigger 2\n\nDino Bintang\n\n### Stunt Rigger 3\n\nRama Budi Santoso\n\n### Stunt Rigger 4 (Supervisor TPK)\n\nA Bambang Harianto\n\n### Stunt Rigger 5\n\nDede Sunardi (Godel)\n\n### Stunt Rigger 6 (Tree Climber)\n\nYadi Cahyadi\n\n### Stunt Rigger 7 (Tree Climber)\n\nOkky Octavies (Ode)\n\n### Stunt Rigger 8\n\nYudiansyah\n\n### Stunt Rigger 9\n\nAvinnash Ghiffan (Ifan)\n\n### Stunt Rigger 10\n\nAgus Maulana\n\n### Stunt Rigger 11\n\nAndriyawan (Becek)\n\n### Stunt Rigger 12\n\nSahlan Abdi Akbar (Alan)\n\n### Stunt Rigger 13\n\nAhmad Safei\n\n### Stunt Rigger 14\n\nAsroni\n\n### Stunt Rigger 15\n\nDoni Angkasa\n\n‍\n\n### Unit Production Manager\n\nViko Amanda\n\n### Production Assistant 1\n\nMelina Sarjanti (Mellie)\n\n### Production Assistant 2\n\nNovia Puspita Riza Arifin\n\n### Travel Coordinator\n\nAkiko Vicco Yuqio Kaligis\n\n### Unit Manager / Loc Assistant\n\nDimas Ari\n\n### Location Assistant\n\nJembuk\n\n### Set PA\n\nMing Muslimin\n\n### Unit Runner 1\n\nSarko\n\n### Unit Runner 2\n\nPatikin\n\n### Unit Runner 3\n\nDavid Awaludin\n\n### Unit Runner 4\n\nKivlan\n\n‍\n\n### Art Standby\n\nAlfa Pradasta\n\n### Art Assistant 1\n\nFury\n\n### Art Assistant 2\n\nArya\n\n‍\n\n### Key Grip / Gaffer\n\nAsep Arip Rahman\n\n### Best Boy Lighting\n\nArya Dwi Saputra\n\n### Grip Assistant\n\nMuhammad Zainudin\n\n### Lighting Assistant 1\n\nAndi Dwi Purnomo\n\n### Lighting Assistant 2\n\nWahyu Krisna Dwi\n\n### Bert Rental House\n\nJoko Susilo (Joan), James Julian Omon, Ismat, Toni Fathurrahman\n\n### BTS & Stills Photographer\n\nIndi Casadei\n\n### Rain Man\n\nMbah Gosong\n\n### Talents\n\nAbdul Fatawu Adams, Andrian Maulana, Ari Lopez Thomas, Ayu Lidya Agustin Meok, Delia Amanda Putri and Diki Syahputra\n\n### Team Forest Jersey\n\nArthefact, Dewi Mariam, Anggiea Prawira, Fauzi Januar and David Gunawan\n\n‍\n\n### Visual Effects Company\n\nHeckler Singapore\n\n### Visual Effects Supervisor\n\nCody Amos\n\n### 3D Artists\n\nSen Ree Ooi, Sam Schwier\n\n### Compositors\n\nCody Amos, Davor Zec, Johnson Lim and Abi Santos\n\n### Grading Company\n\nHarbour Pictures\n\n### Colourist\n\nAlex Gregory\n\n### Music Composer\n\nElijah Siegler\n\n### Sound Designer\n\nJoe Wills and Tim Burns\n\n### WWF International Team\n\nJoe Wills and Tim Burns\n\n‍\n\n‍\n\n### Thanks to\n\nBert Rental House and Mother Nature",
+        "creditsNote": "WWF 2026",
+        "press": [
+          {
+            "label": "1.4",
+            "href": "https://www.onepointfour.co/2026/06/10/wwf-team-forest/"
+          },
+          {
+            "label": "Adobo Magazine",
+            "href": "https://www.adobomagazine.com/campaign-spotlight/football-goes-vertical-as-studio-birthplace-turns-a-rainforest-canopy-into-a-pitch-for-wwfs-team-forest/"
+          },
+          {
+            "label": "Ads of Brands",
+            "href": "https://adsofbrands.net/en/news/football-goes-vertical-as-studio-birthplace-turns-a-rainforest-canopy-into-a-pitch-for-wwf-s-team-f/10187"
+          },
+          {
+            "label": "Africa Brief",
+            "href": "https://africabrief.substack.com/p/wwf-launches-team-forest-campaign"
+          },
+          {
+            "label": "Clube De Criacao",
+            "href": "https://clubedecriacao.com.br/ultimas/team-forest/"
+          },
+          {
+            "label": "Crea Pills",
+            "href": "https://creapills.com/wwf-team-forest-terrain-foot-20260611"
+          },
+          {
+            "label": "Creative Moment",
+            "href": "https://www.creativemoment.co/creative-corner-wwf-heinz-x-heineken-and-the-vikings-are-coming-home"
+          },
+          {
+            "label": "Creative Review",
+            "href": "https://www.creativereview.co.uk/wwf-team-forest-world-cup-rainforest-campaign/"
+          },
+          {
+            "label": "Enviro News Nigeria",
+            "href": "https://www.environewsnigeria.com/wwf-launches-team-forest-campaign-to-rally-football-fans-for-nature/"
+          },
+          {
+            "label": "Filmmakers World",
+            "href": "https://filmmakersworld.net/how-studio-birthplace-turned-a-rainforest-into-a-football-pitch/"
+          },
+          {
+            "label": "LBB Online",
+            "href": "https://lbbonline.com/news/WWFs-Team-Forest-Turns-Rainforest-Canopy-into-a-Pitch"
+          },
+          {
+            "label": "L'Union",
+            "href": "https://www.union.sonapresse.com/fr/environnement-team-forest-ou-quand-le-wwf-fait-entrer-les-forets-dans-le-match"
+          },
+          {
+            "label": "Marketing Directo",
+            "href": "https://www.marketingdirecto.com/creacion/campanas-de-marketing/wwf-convierte-selva-indonesia-frondoso-campo-futbol-vertical"
+          },
+          {
+            "label": "Mercado Negro",
+            "href": "https://www.mercadonegro.pe/marketing/wwf-campana-ambientalista/"
+          },
+          {
+            "label": "Nowy Marketing",
+            "href": "https://nowymarketing.pl/pilka-nozna-w-sercu-dzungli-wwf-z-kampania-team-forest/"
+          },
+          {
+            "label": "PAGE Magazine",
+            "href": "https://page-online.de/kreation/vertikaler-fussball-spektakulaerer-team-forest-spot-fuer-den-wwf/"
+          },
+          {
+            "label": "Reason Why",
+            "href": "https://www.reasonwhy.es/actualidad/wwf-team-forest-equipo-proteccion-bosques"
+          },
+          {
+            "label": "Shoot Online",
+            "href": "https://www.shootonline.com/shoot_video2/top-spot-of-the-week-studio-birthplace-turns-rainforest-into-a-vertical-soccer-field-for-wwf/"
+          },
+          {
+            "label": "Shots",
+            "href": "https://shots.net/news/view/wwf-kicks-back-in-the-rainforest"
+          },
+          {
+            "label": "Social Samosa",
+            "href": "https://www.socialsamosa.com/adspot/ad-spot-bbc-wwf-mastercard-12041359"
+          },
+          {
+            "label": "Sport Business Club",
+            "href": "https://www.sportbusiness.club/mondial-2026-une-ong-environnementale-lance-une-equipe-de-defenseurs-de-forets/"
+          },
+          {
+            "label": "Stash",
+            "href": "https://www.stashmedia.tv/heres-how-studio-birthplace-turned-the-rainforest-canopy-into-a-football-pitch-for-wwf/"
+          },
+          {
+            "label": "The Inspiration",
+            "href": "https://theinspiration.com/2026/06/wwf-team-forest/"
+          },
+          {
+            "label": "You Mark",
+            "href": "https://youmark.it/wwf-trasforma-le-foreste-nel-campo-da-gioco-di-tutti-e-lancia-team-forest-in-vista-dei-mondiali/"
+          }
+        ],
+        "logo": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/69b7fd983599e80b39173a7d_WWF_Logo_Small_RGB_72dpi.jpg",
+          "alt": "",
+          "href": "https://wwf.panda.org/discover/our_focus/forests_practice/importance_forests/tropical_rainforest/team_forest/"
+        },
+        "creditsLabel": "View Full Credits",
+        "pressLabel": "View Media Features"
+      }
+    },
+    {
+      "id": "film-2",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "yp0-VHmJNac",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6a1da40b1f2e1d1b222d2c99_WWF.TeamForest.STILLS_1.27.2-optimized.jpg",
+          "ratio": "2:1"
+        }
+      },
+      "overrides": {
+        "phoneBox": "inline"
+      },
+      "overrideReasons": {
+        "phoneBox": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "stats-3",
+      "type": "stats",
+      "content": {
+        "title": "Impact",
+        "items": [
+          {
+            "number": "12m+",
+            "label": "Views Across Platforms"
+          },
+          {
+            "number": "1.1B",
+            "label": "Campaign Impressions"
+          },
+          {
+            "number": "700K",
+            "label": "Engagements"
+          },
+          {
+            "number": "40+",
+            "label": "International Media Features"
+          }
+        ]
+      },
+      "padTop": "4-5"
+    },
+    {
+      "id": "text-4",
+      "type": "text",
+      "content": {
+        "heading": "Shared Homeground",
+        "body": "So much environmental communication is built around loss and urgency. While those realities are important, Team Forest takes a different approach. By celebrating the beauty, power and wonder of forests through the universal language of football, the campaign invites people to feel connected to what they're protecting."
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-5",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6a27ed2e439a614221701e80_WWF.TeamForest.Website-1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6a27ed2eb53ddda0be4a92da_WWF.TeamForest.Website-2.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6a27ed2f37a26f386ee8ea6d_WWF.TeamForest.Website-3.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6a27ed2e0a2c8b3f6509764f_WWF.TeamForest.Website-4.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6a27ed2e69f72934d2fe8f98_WWF.TeamForest.Website-5.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6a27ed2e22f6bebb48fae6bb_WWF.TeamForest.Website-6.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6a27ed2f37a26f386ee8ea70_WWF.TeamForest.Website-7.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6a27ed2fe58b0071b1903764_WWF.TeamForest.Website-8.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "image": "stills"
+      },
+      "overrideReasons": {
+        "image": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "campaign-6",
+      "type": "campaign",
+      "content": {
+        "heading": "The Campaign",
+        "text": "As part of this campaign, Studio Birthplace created a platform to visualise collective action. Team Forest brings together people from around the world in support of forests, ecosystems and wildlife, turning individual commitment into a visible global movement. Every new supporter adds to that collective effort.",
+        "press": [
+          {
+            "label": "1.4",
+            "href": "https://www.onepointfour.co/2026/06/10/wwf-team-forest/"
+          },
+          {
+            "label": "Adobo Magazine",
+            "href": "https://www.adobomagazine.com/campaign-spotlight/football-goes-vertical-as-studio-birthplace-turns-a-rainforest-canopy-into-a-pitch-for-wwfs-team-forest/"
+          },
+          {
+            "label": "Ads of Brands",
+            "href": "https://adsofbrands.net/en/news/football-goes-vertical-as-studio-birthplace-turns-a-rainforest-canopy-into-a-pitch-for-wwf-s-team-f/10187"
+          },
+          {
+            "label": "Africa Brief",
+            "href": "https://africabrief.substack.com/p/wwf-launches-team-forest-campaign"
+          },
+          {
+            "label": "Clube De Criacao",
+            "href": "https://clubedecriacao.com.br/ultimas/team-forest/"
+          },
+          {
+            "label": "Crea Pills",
+            "href": "https://creapills.com/wwf-team-forest-terrain-foot-20260611"
+          },
+          {
+            "label": "Creative Moment",
+            "href": "https://www.creativemoment.co/creative-corner-wwf-heinz-x-heineken-and-the-vikings-are-coming-home"
+          },
+          {
+            "label": "Creative Review",
+            "href": "https://www.creativereview.co.uk/wwf-team-forest-world-cup-rainforest-campaign/"
+          },
+          {
+            "label": "Enviro News Nigeria",
+            "href": "https://www.environewsnigeria.com/wwf-launches-team-forest-campaign-to-rally-football-fans-for-nature/"
+          },
+          {
+            "label": "LBB Online",
+            "href": "https://lbbonline.com/news/WWFs-Team-Forest-Turns-Rainforest-Canopy-into-a-Pitch"
+          },
+          {
+            "label": "L'Union",
+            "href": "https://www.union.sonapresse.com/fr/environnement-team-forest-ou-quand-le-wwf-fait-entrer-les-forets-dans-le-match"
+          },
+          {
+            "label": "Marketing Directo",
+            "href": "https://www.marketingdirecto.com/creacion/campanas-de-marketing/wwf-convierte-selva-indonesia-frondoso-campo-futbol-vertical"
+          },
+          {
+            "label": "Mercado Negro",
+            "href": "https://www.mercadonegro.pe/marketing/wwf-campana-ambientalista/"
+          },
+          {
+            "label": "Nowy Marketing",
+            "href": "https://nowymarketing.pl/pilka-nozna-w-sercu-dzungli-wwf-z-kampania-team-forest/"
+          },
+          {
+            "label": "PAGE Magazine",
+            "href": "https://page-online.de/kreation/vertikaler-fussball-spektakulaerer-team-forest-spot-fuer-den-wwf/"
+          },
+          {
+            "label": "Reason Why",
+            "href": "https://www.reasonwhy.es/actualidad/wwf-team-forest-equipo-proteccion-bosques"
+          },
+          {
+            "label": "Shoot Online",
+            "href": "https://www.shootonline.com/shoot_video2/top-spot-of-the-week-studio-birthplace-turns-rainforest-into-a-vertical-soccer-field-for-wwf/"
+          },
+          {
+            "label": "Shots",
+            "href": "https://shots.net/news/view/wwf-kicks-back-in-the-rainforest"
+          },
+          {
+            "label": "Social Samosa",
+            "href": "https://www.socialsamosa.com/adspot/ad-spot-bbc-wwf-mastercard-12041359"
+          },
+          {
+            "label": "Sport Business Club",
+            "href": "https://www.sportbusiness.club/mondial-2026-une-ong-environnementale-lance-une-equipe-de-defenseurs-de-forets/"
+          },
+          {
+            "label": "Stash",
+            "href": "https://www.stashmedia.tv/heres-how-studio-birthplace-turned-the-rainforest-canopy-into-a-football-pitch-for-wwf/"
+          },
+          {
+            "label": "The Inspiration",
+            "href": "https://theinspiration.com/2026/06/wwf-team-forest/"
+          },
+          {
+            "label": "You Mark",
+            "href": "https://youmark.it/wwf-trasforma-le-foreste-nel-campo-da-gioco-di-tutti-e-lancia-team-forest-in-vista-dei-mondiali/"
+          }
+        ],
+        "pressLabel": "View Media Features",
+        "link": {
+          "label": "WWF Landing Page",
+          "href": "https://wwf.panda.org/discover/our_focus/forests_practice/importance_forests/tropical_rainforest/team_forest/"
+        }
+      }
+    },
+    {
+      "id": "quote-7",
+      "type": "quote",
+      "content": {
+        "quote": "\"It’s rare to get the opportunity to combine the world’s biggest sport with our biggest love, nature. Football has the unique ability to unite people across borders, cultures, and generations through joy and passion. With this campaign, we wanted to channel that spirit to the forests we all depend on, bringing people together through positivity and collective action to stand with nature.\"",
+        "cite": "Directors Jorik Dozy & Sil van der Woerd"
+      }
+    },
+    {
+      "id": "cta-8",
+      "type": "cta",
+      "content": {
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6a27293a261357d95e96363b_WWF.TeamForest.Platform.04-optimized.jpg",
+          "alt": ""
+        },
+        "heading": "Join Our Team",
+        "text": "Create a personalised avatar and become part of a visible global movement for our forests!\n\nOur platform highlights the importance of forest ecosystems and provides practical actions to help protect and restore them.",
+        "button": {
+          "label": "Sign up for team forest",
+          "href": "https://wwf.panda.org/discover/our_focus/forests_practice/importance_forests/tropical_rainforest/team_forest/"
+        }
+      },
+      "overrides": {
+        "size": "big"
+      },
+      "overrideReasons": {
+        "size": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "embed-9",
+      "type": "embed",
+      "content": {
+        "url": "https://teamforest.panda.org/"
+      }
+    },
+    {
+      "id": "text-11",
+      "type": "text",
+      "content": {
+        "heading": "Aerial Games",
+        "body": "To film the world's first aerial football game in the jungle, a complex operation of rigging and coordination between many crew members was required.\n\n‍\n\n**Watch the behind the scenes below!**"
+      },
+      "padBottom": "4-5",
+      "spaceBefore": "4-5"
+    },
+    {
+      "id": "film-12",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "SltunrTo4Rc",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6a272c2c45ba45646dbe12d9_TeamForest-BTS-FilmCover00090249-optimized.jpg",
+          "ratio": "2:1"
+        }
+      },
+      "overrides": {
+        "size": "medium"
+      },
+      "overrideReasons": {
+        "size": "as on the live site (phase 1)"
+      },
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-13",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6a1dae08e7eafc19ddcdee1d_WWF.TeamForest.06-optimized.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6a1dd0a2bb7f0bd4865dfcba_WWF.TeamForest.01-optimized-resized.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6a1dae08063222585c89538b_WWF.TeamForest.09-optimized.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6a1dd0a22c69ea38f8cd213d_WWF.TeamForest.03-optimized-resized.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6a1dae0844b8763b7726f128_IMG_2152-optimized.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "align": "center"
+      },
+      "overrideReasons": {
+        "align": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "text-15",
+      "type": "text",
+      "content": {
+        "heading": "Forest Kit",
+        "body": "The Team Forest jerseys you see in the campaign film were specially designed by Arthefact, a Bali-based creative studio that blends adventure-ready outdoor gear and ancient Indonesia heritage.",
+        "link": {
+          "label": "Learn more about Arthefact here",
+          "href": "https://thearthefact.com/pages/about?srsltid=AfmBOopzIel3TLbwHMwAoovVkBseo0Y4gglV_dgb-nDaom-qy3aPrhqC"
+        }
+      },
+      "padBottom": "4-5",
+      "spaceBefore": "4-5"
+    },
+    {
+      "id": "gallery-16",
+      "type": "gallery",
+      "content": {
+        "heading": "Campaign Photography",
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6a272579bf44bbaadf334dbb_WWF.TeamForest.Team.07-optimized.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6a27257921df1496b0fc6967_WWF.TeamForest.Team.04-optimized.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6a272609ba88d9c2deb4001f_WWF.TeamForest.Team.06-optimized.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6a272579228891606725ab67_WWF.TeamForest.Team.08-optimized.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6a2725790be1a37156090f89_WWF.TeamForest.Team.05-optimized.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "image": "visuals"
+      },
+      "overrideReasons": {
+        "image": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "text-on-image-18",
+      "type": "text-on-image",
+      "content": {
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6a1da40bbf145220e254bf40_WWF.TeamForest.STILLS_1.1.2-optimized.jpg",
+          "alt": ""
+        },
+        "parts": [
+          {
+            "kind": "text",
+            "heading": "In the Media",
+            "body": ""
+          },
+          {
+            "kind": "gallery",
+            "image": "media",
+            "images": [
+              {
+                "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6a2fc3f623140281bcda467c_Website-MediaHighlight1.png",
+                "alt": ""
+              },
+              {
+                "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6a2fc3f77318e952d9e84894_Website-MediaHighlight4.png",
+                "alt": ""
+              },
+              {
+                "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6a2fc3f771c2777eb594c4d6_Website-MediaHighlight5.png",
+                "alt": ""
+              },
+              {
+                "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6a2fc3f794ab6487f5d2c2ce_Website-MediaHighlight3.png",
+                "alt": ""
+              },
+              {
+                "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6a2fc3f724ab02d29fbb313b_Website-MediaHighlight2.png",
+                "alt": ""
+              },
+              {
+                "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6a2fc3f623140281bcda467c_Website-MediaHighlight1.png",
+                "alt": ""
+              }
+            ]
+          }
+        ]
+      },
+      "overrides": {
+        "panel": "campaign"
+      },
+      "overrideReasons": {
+        "panel": "as on the live site (phase 1)"
+      },
+      "spaceBefore": "4-5"
+    },
+    {
+      "id": "more-work",
+      "type": "more-work",
+      "content": {
+        "button": {
+          "label": "View More Work",
+          "href": "/work"
+        }
+      }
+    }
+  ]
+}

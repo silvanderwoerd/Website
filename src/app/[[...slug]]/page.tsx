@@ -23,7 +23,7 @@ export default async function Page({ params }: { params: Promise<{ slug?: string
   const page = getPage(name);
   if (!page) notFound();
   return (
-    <SiteShell path={name === "home" ? "/" : `/${name}`} family={page.family}>
+    <SiteShell path={name === "home" ? "/" : `/${name}`} family={page.family} background={page.background}>
       <StripeList source={`pages/${name}`} stripes={page.stripes} />
     </SiteShell>
   );

@@ -38,6 +38,8 @@ export type StripeInstance = Overridable & {
   type: string;
   content: Record<string, unknown>;
   spaceBefore?: string; // a space token (Webflow's spacer bands)
+  padTop?: string; // a space token: Webflow's spacer at the band's own top edge
+  padBottom?: string; // …and at its bottom edge
   pageTone?: "gradient"; // page background tone while this stripe is in view
   anchor?: string; // id for in-page links
 };
@@ -49,5 +51,6 @@ export type PageContent = {
   title: string;
   description?: string;
   family?: "fluid" | "fixed"; // which type system the page uses (decisions #4)
+  background?: "black"; // the live <body class="background-color-black"> (projects, Work, Act …)
   stripes: StripeInstance[];
 };

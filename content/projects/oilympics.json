@@ -1,0 +1,357 @@
+{
+  "slug": "oilympics",
+  "title": "Oilympics",
+  "description": "Studio Birthplace's animated film Oilympics for Greenpeace calls out how major sporting moments are being used to greenwash environmental destruction, such as how Eni, one of the world’s biggest oil and gas corporations, is using the Winter Olympics & Paralympics to greenwash its fossil-fuelled destruction.",
+  "family": "fluid",
+  "background": "black",
+  "client": "Greenpeace",
+  "inGrid": true,
+  "stripes": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "content": {
+        "eyebrow": "Our Work",
+        "client": "Greenpeace",
+        "title": "Oilympics",
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6981427354331aed1c3a40d9_Oilympics_2.13.1-pageheader.jpg",
+          "alt": ""
+        }
+      }
+    },
+    {
+      "id": "details",
+      "type": "project-details",
+      "content": {
+        "eyebrow": "ABOUT THE PROJECT",
+        "about": "## *Oilympics* calls out how giant fossil fuel corporation Eni is using the Winter Olympics & Paralympics to **greenwash its climate destruction.**\n\nThis animated film for Greenpeace is calling for the International Olympic Committee to drop all oil and gas sponsorship. **Winter sport needs snow, not fossil fuels.**",
+        "credits": [
+          {
+            "role": "Director",
+            "name": "Jorik Dozy & Sil van der Woerd"
+          },
+          {
+            "role": "Executive Producer",
+            "name": "Alea Rahim"
+          },
+          {
+            "role": "VFX Production Company",
+            "name": "Redivider Studio"
+          }
+        ],
+        "fullCredits": "### Production Company\n\nFrames of Change Project & Studio Birthplace\n\n### Film Director\n\nJorik Dozy & Sil van der Woerd\n\n### Executive Producer\n\nAlea Rahim\n\n### VFX Production Company\n\nRedivider Studio\n\n### VFX Director/Supervisor\n\nTimSmiT\n\n### FX Simulations and Comp\n\nTimSmiT\n\n### Previs\n\nTimSmiT and Matthijs Joor\n\n### Shading and Lighting Artist\n\nSohaib Bouiass\n\n### Character Animations\n\nGurkan Yilmaz\n\n### Sound Designer\n\nJoe Wills\n\n### Color Grade\n\nAlex Gregory, Harbor Picture Company\n\n### Social Media Manager\n\nMarsya Mohd Johari\n\n### Researcher\n\nTheresa Cellona\n\n### Greenpeace Team\n\nRussell Harvey\n\nAureliano Verità\n\nMassimo Guidi\n\nMichela Desantis \n\nIan Duff\n\n### Studio Birthplace Represented by Creator’s Inc\n\n‍\n\n### Music Credits\n\nWinter by Antonio Vivaldi\n\nRecording by Philip Milman (Lud & Schlatt’s Musical Emporium)\n\nLicensed under Creative Commons Attribution 3.0 (CC BY 3.0)\n\n### Media Provided by \n\nGetty Images, Pond 5",
+        "creditsNote": "Greenpeace 2026",
+        "press": [
+          {
+            "label": "Greenpeace",
+            "href": "https://www.greenpeace.org/international/press-release/81007/greenpeace-calls-out-oil-and-gas-giant-enis-winter-olympics-sponsorship/"
+          },
+          {
+            "label": "Earth.org",
+            "href": "https://earth.org/absurd-greenpeace-calls-out-winter-olympics-sponsorship-with-fossil-fuel-giant-eni/"
+          },
+          {
+            "label": "Independent",
+            "href": "https://www.independent.co.uk/sport/winter-olympics/winter-olympics-greenpeace-eni-climate-change-b2912840.html"
+          },
+          {
+            "label": "Reuters",
+            "href": "https://www.reuters.com/sustainability/climate-energy/greenpeace-condemns-enis-role-as-milano-cortina-sponsor-2026-02-03/"
+          },
+          {
+            "label": "Straits Times",
+            "href": "https://www.straitstimes.com/sport/greenpeace-takes-aim-at-enis-role-asmilano-cortina-sponsor"
+          },
+          {
+            "label": "Shots",
+            "href": "https://shots.net/news/view/greenpeaces-winter-olympics-of-discontent"
+          }
+        ],
+        "logo": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/648f37ed4342be4ed866de40_greenpeace.svg",
+          "alt": "",
+          "href": "https://coralcatch.org/"
+        },
+        "creditsLabel": "View Full Credits",
+        "pressLabel": "View Media Features"
+      }
+    },
+    {
+      "id": "film-2",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "5755Rv7NwxE",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/69813d92323ade2a1103f097_Oilympics_2.1.1-optimized.jpg",
+          "ratio": "2:1"
+        }
+      },
+      "overrides": {
+        "phoneBox": "inline"
+      },
+      "overrideReasons": {
+        "phoneBox": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "text-3",
+      "type": "text",
+      "content": {
+        "heading": "Oily Sponsors",
+        "body": "Eni’s annual fossil fuel emissions could melt enough glacier ice to fill 2.5 million Olympic swimming pools. Meanwhile, more than half of the potential host cities for Winter Games will become \"climate-unreliable\" by the 2080s due to the climate crisis.\n\n‍\n\nIt's clear: One cannot sponsor the winter games while at the same time fuel its collapse. This isn’t sponsorship, it’s sportswashing."
+      },
+      "padTop": "4-5"
+    },
+    {
+      "id": "cta-4",
+      "type": "cta",
+      "content": {
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/698150aea25a5ea1425ce47c_Oilympics_2.10.2-optimized.jpg",
+          "alt": ""
+        },
+        "heading": "Get Involved",
+        "text": "Add your name to Greenpeace's petition and demand the International Olympic Committee drop all oil and gas sponsorship.",
+        "button": {
+          "label": "Act to Demand Polluters Pay",
+          "href": "https://www.greenpeace.org/international/act/winter-olympics/?_gl=1*12vd3rh*_up*MQ..*_ga*OTc0MTQ1NTY1LjE3NzAxMTE1NTM.*_ga_94MRTN8HG4*czE3NzAxMTE1NTMkbzEkZzAkdDE3NzAxMTE1NTMkajYwJGwwJGgyMzUzNzY5ODM."
+        }
+      }
+    },
+    {
+      "id": "quote-5",
+      "type": "quote",
+      "content": {
+        "quote": "\"We wish for the Winter Olympics what we wish for our planet: cold winters, real snow and ice, keeping our Planet cool and the Winter Games alive. Fossil fuel companies like Eni, an official sponsor of the 2026 Winter Olympics, are actively ruining that future for all of us.\"",
+        "cite": "Directors Jorik Dozy & Sil van der Woerd"
+      },
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-6",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/69813d9177899f28c102af3f_Oilympics_2.6.1-optimized.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/69813d924136d27b81cfe5ea_Oilympics_2.7.3-optimized.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/69813d92afcbd5d6854d978d_Oilympics_2.13.1-thumbnail.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6981524088b93576ba2308fe_Oilympics_2.8.1-thumbnail.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/69813d9176adfec0e948415e_Oilympics_2.10.1-optimized.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/698152b3fd056279fba009d9_Oilympics_2.2.2-optimized.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/69813d9285ed3d63bfa873d6_Oilympics_2.14.2-optimized.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "image": "stills"
+      },
+      "overrideReasons": {
+        "image": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "text-7",
+      "type": "text",
+      "content": {
+        "heading": "Screen to Streets",
+        "body": "Following the release of the film, Greenpeace Italy held protests and a demonstration in front of the Piazza Duomo, Milan, installing our oil-dripping Olympic Rings in real life.\n\n‍\n\nThe campaign sparked international coverage and pressured both Eni and the International Olympic Committee to respond.\n\n‍\n\n**More than 70k people have signed Greenpeace’s petition, which has been delivered to the International Olympic Committee.**"
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "film-8",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "t5XGrtQCQ-M",
+          "poster": "",
+          "ratio": "16:9"
+        }
+      },
+      "overrides": {
+        "size": "split"
+      },
+      "overrideReasons": {
+        "size": "as on the live site (phase 1)"
+      },
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-9",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/699bb96b05338d828d0e2a75_GP-Oilympics-Media1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/699bb8d4f774a259e960c8b7_Screenshot%202026-02-20%20at%2017.49.35.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/699bb8d43701b134b7536055_Screenshot%202026-02-20%20at%2017.49.22.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/699bb96b6f27007cfe1161fd_GP-Oilympics-Media2.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "align": "center"
+      },
+      "overrideReasons": {
+        "align": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "text-on-image-11",
+      "type": "text-on-image",
+      "content": {
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/699bb4eab8af158d6200d999_Oilympics-BG-Media.jpg",
+          "alt": ""
+        },
+        "parts": [
+          {
+            "kind": "text",
+            "heading": "In the Media",
+            "body": ""
+          },
+          {
+            "kind": "gallery",
+            "image": "media",
+            "images": [
+              {
+                "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/699bb4e3a0d73b806dd03d15_Oilympics-IntheMedia-4.png",
+                "alt": ""
+              },
+              {
+                "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/699bb4e3cf8c34a269cf3b00_Oilympics-IntheMedia-3.png",
+                "alt": ""
+              },
+              {
+                "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/699bb4e4152c60a73a8d3b10_Oilympics-IntheMedia-2.png",
+                "alt": ""
+              },
+              {
+                "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/699bb4e36c947fafa9cf9336_Oilympics-IntheMedia-1.png",
+                "alt": ""
+              },
+              {
+                "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/699bb5a6c97184fe8141be1d_Oilympics-IntheMedia-5.png",
+                "alt": ""
+              }
+            ]
+          }
+        ]
+      },
+      "overrides": {
+        "panel": "campaign"
+      },
+      "overrideReasons": {
+        "panel": "as on the live site (phase 1)"
+      },
+      "padBottom": "4-5",
+      "spaceBefore": "4-5"
+    },
+    {
+      "id": "text-12",
+      "type": "text",
+      "content": {
+        "heading": "Human-Made",
+        "body": "The world of snow and fossil fuel explosions you see in Oilympics was brought to life by the craft of VFX Director Tim Smit and his team at Redivider Studio.\n\n‍\n\n**Watch the VFX Breakdown below.**"
+      },
+      "padBottom": "4-5"
+    },
+    {
+      "id": "film-13",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "sSP-hV2Tfqg",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/699bbf5d5e450009629e504a_SaveVid.Net_631623760_17850880875671687_5295755110845021892_n.jpg",
+          "ratio": "16:9"
+        }
+      },
+      "overrides": {
+        "size": "split"
+      },
+      "overrideReasons": {
+        "size": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "gallery-15",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6982431549cac0546480d7ec_oilympics-BTS-process-1_00086400.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/69824315de0e7a676cc5b0d2_oilympics-BTS-process-2_00086402.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/69824315a1d45247e49e2bf5_oilympics-BTS-process-5_00086408.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/698243157809f39fc5ba3507_oilympics-BTS-process-4_00086406.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/698243148ffc129a287d07aa_oilympics-BTS-process-3_00086404.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "align": "center"
+      },
+      "overrideReasons": {
+        "align": "as on the live site (phase 1)"
+      },
+      "spaceBefore": "4-5"
+    },
+    {
+      "id": "more-work",
+      "type": "more-work",
+      "content": {
+        "button": {
+          "label": "View More Work",
+          "href": "/work"
+        }
+      }
+    }
+  ]
+}

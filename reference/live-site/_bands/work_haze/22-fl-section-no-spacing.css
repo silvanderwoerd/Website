@@ -1,0 +1,117 @@
+/* (base) */
+.overflow-hidden {
+  position: relative;
+  overflow: hidden;
+}
+.cover-image {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  inset: 0%;
+}
+.relative-position {
+  position: relative;
+}
+.u--relative {
+  position: relative;
+}
+.swiper.cc-slight-scroll {
+  width: 130vw;
+  padding-left: 10vw;
+  padding-right: 10vw;
+}
+.swiper-slide {
+  cursor: grab;
+  flex: none;
+  transition: all .2s;
+}
+.fl-project_text-large {
+  font-size: 2.34375em;
+  font-weight: 300;
+  line-height: 1.28;
+}
+.fl-spacing-3-375em {
+  height: 3.375em;
+}
+.fl-spacing-4-5em {
+  height: 4.5em;
+}
+.fl-campaign-container {
+  width: 100%;
+  max-width: 70.375em;
+  margin-left: auto;
+  margin-right: auto;
+}
+.u-no-wrap {
+  white-space: nowrap;
+}
+.swiper-arrow-left {
+  z-index: 1;
+  cursor: pointer;
+  background-image: linear-gradient(to right, #181818, #18181800);
+  justify-content: center;
+  align-items: center;
+  width: 5em;
+  transition: all .2s;
+  display: flex;
+  position: absolute;
+  top: 0%;
+  bottom: 0%;
+  left: 0;
+}
+.swiper-arrow-left.cc-black-bg {
+  background-image: none;
+}
+.swiper-arrow-right {
+  z-index: 1;
+  cursor: pointer;
+  background-image: linear-gradient(270deg, #181818, #18181800);
+  justify-content: center;
+  align-items: center;
+  width: 5em;
+  transition: all .2s;
+  display: flex;
+  position: absolute;
+  top: 0%;
+  bottom: 0%;
+  right: 0;
+}
+.swiper-arrow-right.cc-black-bg {
+  background-image: none;
+}
+.fl-half-bg {
+  object-fit: cover;
+  width: 100%;
+  height: 36.75em;
+  position: absolute;
+  inset: 0% 0% auto;
+}
+.fl-woolmark-in-the-media-image {
+  object-fit: cover;
+  width: 17.625em;
+  max-width: none;
+}
+
+/* @media screen and (min-width: 1920px) */
+.cover-image {
+  aspect-ratio: auto;
+  position: absolute;
+  inset: 0%;
+}
+.fl-spacing-3-375em {
+  height: 2.5em;
+}
+.fl-woolmark-in-the-media-image {
+  width: 16em;
+}
+
+/* @media screen and (max-width: 991px) */
+.fl-campaign-container {
+  width: 90%;
+}
+
+/* @media screen and (max-width: 767px) */
+.cover-image {
+  position: absolute;
+}

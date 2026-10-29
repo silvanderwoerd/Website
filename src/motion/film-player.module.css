@@ -1,0 +1,109 @@
+/* Live: .fl-project-video, .project-video-embed, .hover-link-wrapper,
+   .hover-link (+ IX2 "Scroll link on/off hover"), and the project pages' Plyr
+   styles (--plyr-color-main: var(--grey); no overlaid play; poster covers). */
+
+.video {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  --plyr-color-main: var(--color-text-subtle);
+}
+
+.embed {
+  width: 100%;
+  height: 100%;
+}
+
+/* Phones (≤479): .fl-project-video and .project-video-embed take the film's own
+   height, so a 2:1 film sits at the top of the 16:9 box with black below. */
+@media (max-width: 479px) {
+  .video,
+  .embed {
+    height: auto;
+  }
+}
+
+.poster {
+  display: block;
+  width: 100%;
+  padding: 0;
+  border: 0;
+  background-color: var(--color-black);
+  background-position: 50%;
+  background-size: cover;
+  cursor: pointer;
+}
+
+.embed :global(.plyr__control--overlaid) {
+  display: none !important;
+}
+
+.embed :global(.plyr__poster) {
+  background-size: cover;
+}
+
+.playWrapper {
+  position: absolute;
+  z-index: 99;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32em;
+  height: 32em;
+  padding: 24px;
+  pointer-events: none;
+}
+
+.playWrapper[data-hidden] {
+  display: none;
+}
+
+.play {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  aspect-ratio: 1;
+  width: 9em;
+  border: 1px solid var(--color-white);
+  border-radius: 100%;
+  background-color: var(--color-transparent);
+  color: var(--color-white);
+  cursor: pointer;
+  pointer-events: auto;
+  transform: translate(calc(var(--fx, 0) * 24px), calc(var(--fy, 0) * 24px)) scale(1);
+  transition:
+    background-color var(--duration-medium) var(--ease-standard),
+    color var(--duration-medium) var(--ease-standard),
+    transform var(--duration-medium) var(--ease-standard);
+}
+
+.play:hover {
+  background-color: var(--color-white);
+  color: var(--color-ink);
+  transform: translate(calc(var(--fx, 0) * 24px), calc(var(--fy, 0) * 24px)) scale(1.1);
+  transition-duration: var(--duration-medium), var(--duration-medium), var(--duration-slower);
+}
+
+.playIcon {
+  transition: filter var(--duration-medium) var(--ease-standard);
+}
+
+.play:hover .playIcon {
+  filter: invert(100%);
+}
+
+@media (min-width: 1920px) {
+  .play {
+    width: 10em;
+  }
+}
+
+@media (max-width: 991px) {
+  .playWrapper {
+    display: none;
+  }
+}

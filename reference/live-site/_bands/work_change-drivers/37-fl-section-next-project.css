@@ -1,0 +1,65 @@
+/* (base) */
+.button-2 {
+  color: #fff;
+  text-align: center;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  background-color: #090b19;
+  border: 1px solid #090b19;
+  border-radius: 100px;
+  justify-content: center;
+  align-items: center;
+  margin-left: 0;
+  margin-right: 0;
+  padding: 16px 28px;
+  font-size: 11px;
+  text-decoration: none;
+  transition: all .4s cubic-bezier(.25, .46, .45, .94);
+  display: flex;
+  position: relative;
+  overflow: hidden;
+}
+.button-2:hover {
+  color: #090b19;
+  background-color: #e2e7f1;
+  border-color: #e2e7f1;
+}
+.button-2.white-outline {
+  background-color: #090b1900;
+  border-style: solid;
+  border-color: #ffffffbf;
+  padding: 12px 32px;
+}
+.button-2.white-outline:hover {
+  color: #fff;
+  background-color: #090b19;
+  border-color: #090b19;
+}
+.button-text {
+  z-index: 10;
+  letter-spacing: 0;
+  text-transform: capitalize;
+  font-size: 1.2em;
+  position: relative;
+}
+.fl-section-next-project {
+  padding-top: 5em;
+  padding-bottom: 5em;
+}
+.container-6 {
+  max-width: 200px;
+}
+
+/* @media screen and (min-width: 1920px) */
+.button-2.white-outline {
+  padding: 12px 32px;
+}
+.button-text {
+  font-size: 1.6em;
+}
+.fl-section-next-project {
+  padding-top: 5em;
+}
+.container-6 {
+  max-width: 250px;
+}

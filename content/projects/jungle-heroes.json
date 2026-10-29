@@ -1,0 +1,297 @@
+{
+  "slug": "jungle-heroes",
+  "title": "Jungle Heroes",
+  "description": "The jungle is under attack! Replant the rainforest, bring back the animals and chase away intruders in this fun strategy game. Meanwhile, the game gives back by supporting real world reforesting projects!",
+  "family": "fluid",
+  "background": "black",
+  "client": "Studio Birthplace",
+  "inGrid": true,
+  "stripes": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "content": {
+        "eyebrow": "Our Work",
+        "client": "Studio Birthplace",
+        "title": "Jungle Heroes",
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5e6ec97eac4afa0e6ac4f_JungleHeroes.thumbnail.jpg",
+          "alt": ""
+        }
+      }
+    },
+    {
+      "id": "details",
+      "type": "project-details",
+      "content": {
+        "eyebrow": "ABOUT THE PROJECT",
+        "about": "## Jungle Heroes ia an exciting, free-to-play mobile strategy & resource management **game in which** **players restore ecosystems and bring back wildlife**.\n\nMeanwhile in real life, the mobile game donates part of its revenue to reforestation efforts.",
+        "credits": [
+          {
+            "role": "Director",
+            "name": "Sil van der Woerd"
+          },
+          {
+            "role": "Developer",
+            "name": "Studio Birthplace"
+          },
+          {
+            "role": "Co-Developer",
+            "name": "Little Chicken Game Company"
+          }
+        ],
+        "fullCredits": "### Production Studio\n\nStudio Birthplace\n\n‍\n\n### Written & Directed By\n\nSil van der Woerd\n\n### Produced by\n\nSil van der Woerd\n\nEduard Zanen\n\nLittle Chicken Game Company\n\nLonneke Gordijn\n\nRalph Nauta\n\n### Developed by\n\nStudio Birthplace and Little Chicken Game Company\n\n### Product Owner\n\nJoris van Leeuwen\n\nBas Roding\n\n### Developers\n\nBas Roding\n\nJoris van Leeuwen\n\nErik Kors\n\nMichiel Frankfort\n\nRuben Hooijer\n\n### Art Director\n\nRutger Stegenga\n\n### 2D Artists\n\nIsabella Koelman\n\nBrenda van Vugt\n\nYannis Bolman\n\nRafaël Lie Kwie\n\n### 3D Artists\n\nRutger Stegenga\n\nTobias van der Meer\n\nMia Boas\n\nSeif Toktogoelov\n\nDouwe Heijmerink\n\n### Animation\n\nJoris van Laar\n\nTim Smit\n\n### Playtest & QA\n\nRick Heeren\n\n### Sound Design\n\nNick van Kleef\n\nRuben Bergshoef\n\n### Researchers\n\nBayu Topan\n\nFerry Hawari\n\n### Trailer Storyboard & Animatic\n\nAimée de Jongh\n\n### Trailer VFX Sup\n\nTim Smit\n\n### Trailer VFX Artists\n\nTim Smit\n\nSohaib Bouaiss\n\n### Character Model\n\nMetin Seven\n\n### Trailer Colorist\n\nKeidrych Wasley\n\n‍\n\n### Thanks To\n\nJorik Dozy\n\nSean Lin\n\nErnest Zacharevic\n\nCharlotte Pyatt\n\nFamily & Friends\n\n‍\n\n‍\n\n‍\n\n‍\n\n‍\n\n‍\n\n‍",
+        "creditsNote": "Studio Birthplace 2021",
+        "press": [
+          {
+            "label": "Unity Blog 2022",
+            "href": "https://blog.unity.com/community/what-do-gamers-think-about-global-warming"
+          },
+          {
+            "label": "Unity For Humanity Summit 2020",
+            "href": "https://ufhsummit2020.unity.com/page/1631691/birthplace"
+          },
+          {
+            "label": "What Design Can Do",
+            "href": "https://www.whatdesigncando.com/stories/a-mobile-game-that-plants-real-trees/"
+          }
+        ],
+        "logo": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/646795605ef93b3edfe4e18a_2k.white.SB.icon.png",
+          "alt": "",
+          "href": "https://www.noisia.nl/"
+        },
+        "creditsLabel": "View Full Credits",
+        "pressLabel": "View Media Features"
+      }
+    },
+    {
+      "id": "film-2",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "25uA4sUBxA0",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6621e085b59f8dc0e6a28f1d_JungleHeroes.VideoCover.jpg",
+          "ratio": "16:9"
+        }
+      }
+    },
+    {
+      "id": "film-3",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "0hoT2xK1YSE",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66a96381273478aaae69f7d6_thumbnail.jungleheroes.openingcinematic.jpg",
+          "ratio": "16:9"
+        }
+      },
+      "overrides": {
+        "size": "medium"
+      },
+      "overrideReasons": {
+        "size": "as on the live site (phase 1)"
+      },
+      "padTop": "4-5"
+    },
+    {
+      "id": "cta-4",
+      "type": "cta",
+      "content": {
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/663c72b052f3e2ab461a9647_app_icon_custom_coloured.webp",
+          "alt": ""
+        },
+        "heading": "Play Now!",
+        "text": "Download Jungle Heroes now through the Apple\nApp Store and Google Play Store."
+      }
+    },
+    {
+      "id": "text-5",
+      "type": "text",
+      "content": {
+        "heading": "Mission",
+        "body": "Make it as simple and fun as possible for players to learn about nature & wildlife. Contribute to real-world nature restoration projects by making micro payments in a fun, high quality game.\n\n‍\n\n‍**We can fix this together!**"
+      },
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-6",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6621e82171267adf3e9a230f_JungleHeroes.Still1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6621e821a02a3130e6f2345f_JungleHeroes.Still2.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6621e82129ec93f4b13dc7be_JungleHeroes.Still3.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6621e8218f4b479b2df3c352_JungleHeroes.Still4.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6621e821f1fc20b4f95a5275_JungleHeroes.Still5.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6621e820d19859ef89985231_JungleHeroes.Still6.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "image": "wide"
+      },
+      "overrideReasons": {
+        "image": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "text-7",
+      "type": "text",
+      "content": {
+        "heading": "Gameplay",
+        "body": "The first job in many games? Chop a tree to construct a building for humans. But today, shouldn’t we value trees and restore nature - instead of destroying it?\n\n‍\n\nIn Jungle Heroes, players plant trees and bring back wildlife. They grow fruits to create a sustainable economy. They open a vegan restaurant, transform an oil palm plantation into a rainforest, and a palm oil refinery into a wildlife rescue center. They kill wildfires, chase away poachers and illegal loggers, free caged animals, and help a native tribe reclaim their homes!\n\n‍\n\nWho would have thought reforestation could be so much fun?"
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "film-8",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "LgBR0HVUQ-E",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6621f0f82bcc8a4d0fc5fb54_JungleHeroes.GameplayVidCover.jpg",
+          "ratio": "16:9"
+        }
+      },
+      "overrides": {
+        "size": "medium"
+      },
+      "overrideReasons": {
+        "size": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "text-9",
+      "type": "text",
+      "content": {
+        "heading": "Real Trees Planted",
+        "body": "**How does it work?**\n\n‍\n\nWhenever you buy suns, coins or other items in the game with real money, this creates revenue. Jungle Heroes donates a portion of this revenue to certified organisations that restore ecosystems in the real world. Jungle Heroes aims to plant as many trees as possible. Jungle Heroes’ current tree planting efforts are focused in the regions of Indonesia and Madagascar.",
+        "link": {
+          "label": "Learn more about the reforestation efforts.",
+          "href": "https://www.studiobirthplace.com/work/jungleheroes-howdoesitwork"
+        }
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-10",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6621f3bccec3ea790f57c6a5_Madagascar_01.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6621f3c0a070b7b7102a83d3_Madagascar_03.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6621f3c02f3a2345204e23bb_Perawata%20Bibit%20(2).JPG",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6621f3c02f3a2345204e2411_Pemeliharaan%20Bibit%20(1).JPG",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "align": "center"
+      },
+      "overrideReasons": {
+        "align": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "text-11",
+      "type": "text",
+      "content": {
+        "heading": "Production",
+        "body": "Studio Birthplace developed the game in the Netherlands together with a talented group of young artists and developers at Little Chicken Game Company.\n\n‍\n\nThe game is set on the Leuser Ecosystem and mimicks the ecosystem's wildlife.\n\n‍\n\n‍"
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "text-on-image-12",
+      "type": "text-on-image",
+      "content": {
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66df00c1eb590fdbcaf655c6_jungleheroes-cloudbackground.jpg",
+          "alt": ""
+        },
+        "parts": [
+          {
+            "kind": "text",
+            "heading": "Concept Art",
+            "body": ""
+          },
+          {
+            "kind": "gallery",
+            "image": "campaign",
+            "images": [
+              {
+                "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6623ac6f9ca8198198c007ce_JungleHeroes.BTS1.jpg",
+                "alt": ""
+              },
+              {
+                "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6623ac70fd9f586ebc649170_JungleHeroes.BTS6.jpg",
+                "alt": ""
+              },
+              {
+                "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6623ac70894483a971080894_JungleHeroes.BTS2.jpg",
+                "alt": ""
+              },
+              {
+                "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6623ac705284d058c7aebe3d_JungleHeroes.BTS3.jpg",
+                "alt": ""
+              }
+            ]
+          }
+        ]
+      },
+      "overrides": {
+        "panel": "campaign"
+      },
+      "overrideReasons": {
+        "panel": "as on the live site (phase 1)"
+      },
+      "padBottom": "4-5"
+    },
+    {
+      "id": "more-work",
+      "type": "more-work",
+      "content": {
+        "button": {
+          "label": "View More Work",
+          "href": "/work"
+        }
+      }
+    }
+  ]
+}

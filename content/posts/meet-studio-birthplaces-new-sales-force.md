@@ -24,8 +24,7 @@ From left to right, learn about them below and their roles in Studio Birthplace.
 
 ### Dianne Hummal - Global Expansion Director
 
-‍  
-"When I first encountered the work by Studio Birthplace, it moved me so much that I knew I wanted to help carry the message. As Global Expansion Director, I’m on a mission to help businesses, NGOs, VCs and other collectives tell urgent stories together with Studio Birthplace. I encourage everyone to dig through their skills and talents to figure out ways how you can contribute to make a change."
+‍<br>"When I first encountered the work by Studio Birthplace, it moved me so much that I knew I wanted to help carry the message. As Global Expansion Director, I’m on a mission to help businesses, NGOs, VCs and other collectives tell urgent stories together with Studio Birthplace. I encourage everyone to dig through their skills and talents to figure out ways how you can contribute to make a change."
 
 ‍
 

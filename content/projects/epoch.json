@@ -1,0 +1,251 @@
+{
+  "slug": "epoch",
+  "title": "Epoch",
+  "description": "Oliver Spalding's 'Epoch' music video is about a group of children find themselves awake in the middle of the night in a world collapsing around them as all adults are sound asleep. Epoch serves as a statement on the current state of our world and how we will leave it for our children if nothing is done.",
+  "family": "fluid",
+  "background": "black",
+  "client": "Oliver Spalding",
+  "inGrid": true,
+  "stripes": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "content": {
+        "eyebrow": "Our Work",
+        "client": "Oliver Spalding",
+        "title": "Epoch",
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/660442cdd410ef2909182a88_Epoch.CoverImage.jpg",
+          "alt": ""
+        }
+      }
+    },
+    {
+      "id": "details",
+      "type": "project-details",
+      "content": {
+        "eyebrow": "ABOUT THE PROJECT",
+        "about": "## A group of children find themselves awake in the middle of the night in **a world collapsing around them as all adults are sound asleep**.\n\n*Epoch* serves as a statement on the current state of our world and how we will leave it for our children if nothing is done.",
+        "credits": [
+          {
+            "role": "Directors",
+            "name": "Jorik Dozy & Sil van der Woerd"
+          },
+          {
+            "role": "Producer",
+            "name": "Sean Lin"
+          },
+          {
+            "role": "Cinematographer",
+            "name": "Lennert Hillege"
+          }
+        ],
+        "fullCredits": "### Written and Directed By\n\nJorik Dozy & Sil van der Woerd\n\n### Producer\n\nSean Lin\n\n### Director of Photography\n\nLennert Hillege\n\n### Lead Boy\n\nHarith Haziq\n\n### Lead Girl\n\nChloe Luthi\n\n‍\n\n### **Additional Cast**\n\n‍\n\n### Children\n\nAdilia Myra\n\nAimee Thompson\n\nGabriel Hadad-Larrieu\n\nIrfan Salim\n\nLiew Ming Jun\n\n### Man in Barbershop\n\nFaris Hadad-Larrieu\n\n### Cashier\n\nSkaiste Kazragyte\n\n### Restaurant Customers\n\nJean Queralt\n\nMary Jul dela cruz Bagsit\n\nMichelle Dee Nonis\n\nMr Wong\n\nOlivia Luthi\n\nSiti Sakinah\n\nSiti Sarah Ameera\n\nSkaiste Kazragyte\n\nWei Sheng\n\n### Father\n\nMohd Rasim Bin Saher\n\n### Mother\n\nOlivia Luthi\n\n### Man in Elevator\n\nMuhammad Anwar Shariff\n\n### People in Corridor\n\nJorik Dozy\n\nSiew Weng Onn\n\nTalha Khan\n\n‍\n\n### Assistant Director\n\nSatpal Kaler\n\n### Focus Puller\n\nIsmail Abu Bakar\n\n### 2nd AC / Sound\n\nNicholas Chin\n\n### 3rd AC\n\nLester Raja\n\n### Gaffer\n\nAriff Arafat\n\n### Best Boy\n\nMohammad Ynus\n\n### Grip\n\nAzwan Dalnan\n\n### Data Wrangler\n\nKenny Chua\n\n### Art Director\n\nJayson Idia\n\n### Art Assistants\n\nKhovarasu Paramasivam\n\nTalha Khan\n\n### Make-Up / Wardrobe\n\nSiti Sarah Ameera\n\n### BTS\n\nSkaiste Kazragyte\n\n### Equipment Rental\n\nGrace Chin\n\n### Production Assistant\n\nWei Sheng\n\nMichelle Dee\n\n### Edit\n\nJorik Dozy & Sil van der Woerd\n\n### Visual Effects Sup\n\nJorik Dozy\n\n### 3D Artist\n\nJunwei Puah\n\nHong Teo\n\nTim Smit\n\nAlex Scollay Safe Frame VFX\n\nJorik Dozy\n\n### Compositer\n\nPerry Yap\n\nJesus Diez Perez\n\nNicholas Caillier\n\nEugene Matthew Cheong\n\nOnn Senye\n\n### Colorist\n\nCharles Bunnag\n\nTechnicolor\n\nSil van der Woerd\n\n### Sound Design\n\nSelle Sellink\n\n### Music\n\n'Epoch' by Oliver Spalding\n\n### Music Producer\n\nEd Tullet\n\n### Record Label\n\nKim Harrison-Lavoie\n\nMonotreme Records\n\n### Music Video Commissioner\n\nMarisa Garner Associates\n\n### Thanks To\n\nDebbie Leisink\n\nMohd Rasim Bin Saher\n\nAlex Scollay\n\n### Dedicated To\n\nSam\n\nMees",
+        "creditsNote": "\"Epoch\" Oliver Spalding @ Monotreme Records Ltd. OLIVER SPALDING 2018",
+        "press": [
+          {
+            "label": "Cili Sos",
+            "href": "https://cilisos.my/why-is-kl-getting-destroyed-in-this-new-music-video/"
+          },
+          {
+            "label": "",
+            "href": "https://wahutimes.com/malaysian-brief-movie-plastik-imagines-a-world-the-place-plastic-air-pollution-continues-unchecked/74910/"
+          }
+        ],
+        "logo": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/660469277bb87390ed657458_oliverspalding-logo.png",
+          "alt": "",
+          "href": "https://www.bdimusic.com/roster/41-oliver-spalding-"
+        },
+        "creditsLabel": "View Full Credits",
+        "pressLabel": "View Media Features"
+      }
+    },
+    {
+      "id": "film-2",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "ZBhYW8oPRNg",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6610ff2d6d1d616ef385f5ef_Epoch.Cover.Video.jpg",
+          "ratio": "2.39:1"
+        }
+      }
+    },
+    {
+      "id": "quote-3",
+      "type": "quote",
+      "content": {
+        "quote": "“In ‘Epoch’ we wanted to portray the future generation, our children, in a dark scenario of the future world that they wake up in. A place that is neglected by the adults, a place that has no future. As they explore their world, they quickly find out that it is ending. In an attempt to save whatever they can, they try to wake up their parents, but even they are vast asleep. We wanted to show the nightmare version of our future world that will be if we, the adults, don’t wake up.\"",
+        "cite": "Directors Jorik Dozy & Sil van der Woerd"
+      },
+      "padTop": "4-5"
+    },
+    {
+      "id": "text-4",
+      "type": "text",
+      "content": {
+        "heading": "A Nightmare Future",
+        "body": "Directors Jorik Dozy and Sil van der Woerd set out to make a video about climate change, the story of our time.\n\n‍\n\n'Epoch' charters the story of the world slowly dying, having been neglected by irresponsible adults, and leaving the children to face the consequences.\n\n‍\n\nThe video shows the children running through the streets in search of answers as buildings start to collapse around them – all this while, the adults are sound asleep."
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-5",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6604b615861bdab9fbaac98c_Epoch.Still1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6604b616e394ceffab9792a2_Epoch.Still2.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6604b616f1211c6bb544e2a6_Epoch.Still5.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6604b61666a9a4948b487aa9_Epoch.Still3B.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6604b6151c472398e98c3430_Epoch.Still3.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6604b6162f83fed9e519fcd0_Epoch.Still4A.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6604b616e394ceffab9792a7_Epoch.Still6.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6604b615a05937fb118041b5_Epoch.Still7A.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6604b6162d5a796288118995_Epoch.Still8A.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "image": "bts"
+      },
+      "overrideReasons": {
+        "image": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "text-6",
+      "type": "text",
+      "content": {
+        "heading": "Production",
+        "body": "Epoch was shot in Kuala Lumpur, Malaysia, where producer Sean Lin spent many nights scouting the perfect locations for the derelict world that we envisioned.\n\n‍\n\nCinematographer Lennert Hillege used lots of back light to bring out the loneliness of the children against the uninviting settings."
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "film-7",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "kVJIA_1fQWs",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6604c6cf76fbd4e77d348e4a_Epoch.BTSVideoCover.jpg",
+          "ratio": "16:9"
+        }
+      },
+      "overrides": {
+        "size": "medium"
+      },
+      "overrideReasons": {
+        "size": "as on the live site (phase 1)"
+      },
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-8",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6604c412b6eba9dc86c6f65b_Epoch.OnSetBTS1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6604c412360bf10ca78b1d0a_Epoch.OnSetBTS2.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6604c4124a49dfc45e5cfb11_Epoch.OnSetBTS4.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "align": "center"
+      },
+      "overrideReasons": {
+        "align": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "text-9",
+      "type": "text",
+      "content": {
+        "heading": "Closing Scene",
+        "body": "The final moments of Epoch depict a chunk of dense city adrift in the ocean, with buildings breaking off its edge that plummet into the rising water, referring to the melting of the polar ice caps. For this, we completely re-created the Malaysian buildings and streets digitally, in great detail."
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-10",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6604c4129b4d542cfb7a1a13_Epoch.OnSetBTS5.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6604c412496490cee514f1d0_Epoch.OnSetBTS6.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6604c4149660b46d147f09f5_Epoch.OnSetBTS7.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6604c412861bdab9fbb68368_Epoch.OnSetBTS8.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "align": "center"
+      },
+      "overrideReasons": {
+        "align": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "more-work",
+      "type": "more-work",
+      "content": {
+        "button": {
+          "label": "View More Work",
+          "href": "/work"
+        }
+      }
+    }
+  ]
+}

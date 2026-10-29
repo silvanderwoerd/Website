@@ -24,8 +24,7 @@ An excerpt from the article here:
 
 A brilliant but frightening new campaign from Greenpeace features a bumbling British prime minister spouting platitudes about protecting the planet while being overcome by a tsunami of plastic waste.
 
-  
-Read the full article [here](https://www.shots.net/news/view/greenpeaces-waterfall-of-waste).
+<br>Read the full article [here](https://www.shots.net/news/view/greenpeaces-waterfall-of-waste).
 
 ‍
 

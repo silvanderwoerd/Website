@@ -1,0 +1,69 @@
+/* (base) */
+.fl-section-poster-haze2 {
+  padding-top: 2em;
+  padding-bottom: 4.625em;
+}
+.fl-poster-container {
+  object-fit: fill;
+  width: 100%;
+  max-width: 69em;
+  margin-left: auto;
+  margin-right: auto;
+}
+.fl-poster-imagehaze {
+  object-fit: cover;
+  width: 26.3125em;
+  height: 39.5em;
+  margin-right: 1.125em;
+}
+.fl-poster-still-image-haze {
+  object-fit: cover;
+  width: 41.4375em;
+  height: 39.5em;
+}
+.fl-posters-layout-double {
+  grid-column-gap: 25px;
+  grid-row-gap: 25px;
+  display: flex;
+}
+
+/* @media screen and (min-width: 1920px) */
+.fl-section-poster-haze2 {
+  object-fit: contain;
+}
+.fl-poster-container {
+  max-width: 75em;
+  max-height: 819.884em;
+}
+.fl-poster-imagehaze {
+  object-fit: contain;
+  height: 40em;
+  margin-right: 0;
+}
+.fl-poster-still-image-haze {
+  height: 40em;
+}
+.fl-posters-layout-double {
+  grid-column-gap: 30px;
+  grid-row-gap: 30px;
+  object-fit: contain;
+  grid-template-rows: auto;
+  grid-template-columns: 1fr 1fr;
+  grid-auto-columns: 1fr;
+  place-content: stretch center;
+  align-items: center;
+  display: flex;
+}
+
+/* @media screen and (max-width: 991px) */
+.fl-poster-container {
+  width: 90%;
+}
+.fl-posters-layout-double {
+  font-size: .6em;
+}
+
+/* @media screen and (max-width: 767px) */
+.fl-posters-layout-double {
+  flex-direction: column;
+}

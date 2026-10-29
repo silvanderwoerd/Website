@@ -24,8 +24,7 @@ An excerpt from the article here:
 
 [Greenpeace](https://www.greenpeace.org/usa/)’s new campaign opens with a single bottle bouncing off Boris Johnson’s head mid-press conference before a waterfall of plastic overwhelms the prime minister and carries him out to the street. The satirical and pressing animation pours the equivalent of the 1.8 million kilograms of waste the U.K. sends to other countries each day into Downing Street, which topples Johnson and Michael Gove as it literally engulfs the British political landscape.
 
-  
-Read the full article [here](https://www.thisiscolossal.com/2021/05/greenpeace-downing-street-plastic/).
+<br>Read the full article [here](https://www.thisiscolossal.com/2021/05/greenpeace-downing-street-plastic/).
 
 ‍
 

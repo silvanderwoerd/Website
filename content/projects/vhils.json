@@ -1,0 +1,461 @@
+{
+  "slug": "vhils",
+  "title": "VHILS",
+  "description": "",
+  "family": "fluid",
+  "background": "black",
+  "client": "Splash & Burn",
+  "inGrid": true,
+  "stripes": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "content": {
+        "eyebrow": "Our Work",
+        "client": "Splash & Burn",
+        "title": "VHILS",
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65f0fce3b89cfcd9e5799c86_VHILS.CoverImage.jpg",
+          "alt": ""
+        }
+      }
+    },
+    {
+      "id": "details",
+      "type": "project-details",
+      "content": {
+        "eyebrow": "ABOUT THE PROJECT",
+        "about": "## Through a huge mural and film,<br>we urge the Indonesian president<br>to **save a newly discovered Orangutan from extinction.**\n\nLegendary Street Artist Vhils created an image of the endangered Tapanuli Orangutan carved on the side of a building in the city center of Medan. A film accompanying the mural calls for an urgent petition to the Indonesian president to cancel a new dam construction project and save the species from inevitable extinction.",
+        "credits": [
+          {
+            "role": "Directors",
+            "name": "Ernest Zacharevic & Nicholas Chin"
+          },
+          {
+            "role": "Producer",
+            "name": "Sean Lin"
+          },
+          {
+            "role": "Artist",
+            "name": "VHILS"
+          }
+        ],
+        "fullCredits": "### Artist\n\nAlexandre Farto aka Vhils\n\n### Art Assistant\n\nTiago Silva\n\n### Curator\n\nErnest Zacharevic\n\n### Coordinator\n\nCharlotte Pyatt\n\n### Site Logistic\n\nOrangutan Information Centre\n\n### Director/DP/Editor\n\nNicholas Chin\n\n### Produced by\n\nStudio Birthplace\n\n### Producer\n\nSean Lin\n\n### Music by\n\nOliver Michael\n\n### Camera Assistant\n\nSkaiste Kazragyte\n\n### Production Assistant\n\nBayu Topan\n\n### Additional Footage\n\nErnest Zacharevic\n\nSumatran Orangutan Society\n\nOrangutan Information Centre\n\n### Orangutan Photographs\n\nTim Laman",
+        "creditsNote": "SPLASH & BURN 2018",
+        "press": [
+          {
+            "label": "Splash & Burn",
+            "href": "https://www.splashandburn.org/alexandre-faro-aka-vhils"
+          }
+        ],
+        "logo": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/648f9e98d19795aaf39b0ef0_splashwhite.webp",
+          "alt": "",
+          "href": "https://www.splashandburn.org/"
+        },
+        "creditsLabel": "View Full Credits",
+        "pressLabel": "View Media Features"
+      }
+    },
+    {
+      "id": "film-2",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "vJNqtkkRWsQ",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65f10126dee56cbacba67060_VHILS.CoverVideo.jpg",
+          "ratio": "2.39:1"
+        }
+      }
+    },
+    {
+      "id": "cta-3",
+      "type": "cta",
+      "content": {
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65f10350e1af8dfb0acbc6a3_VHILS.CTA.jpg",
+          "alt": ""
+        },
+        "heading": "Support Orangutans",
+        "text": "This project is done in partnership with the Sumatran Orangutan Society (SOS) who work at the cutting edge of orangutan conservation, using innovative approaches and collaborating with incredible partners to build resilience for orangutans, forests and people.",
+        "button": {
+          "label": "Donate to SOS",
+          "href": "https://donate.orangutans-sos.org/donate/~my-donation?_cv=1"
+        }
+      },
+      "overrides": {
+        "size": "big"
+      },
+      "overrideReasons": {
+        "size": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "text-4",
+      "type": "text",
+      "content": {
+        "heading": "Endangered",
+        "body": "In early November 2017, scientists announced the discovery of a new species of Great Ape in Sumatra: the Tapanuli Orangutan. With only 800 left, this is the most endangered Great Ape species in the world.\n\n‍\n\nThe Tapanuli Orangutan resides in the Batang Toru Forest in Northern Sumatra. 85% of this forest complex is protected under Indonesian Law, but due to the lack of enforcement, there have been incursions in the land such as unregulated practices of palm oil farming. This had a widespread negative impact, leading to forest fires, deforestation, human displacement and a decrease in wildlife populations.\n\n‍\n\nThis rain forest is now the site planned for a 510MW hydro-power dam, financed with overseas investment, that could result in the extinction of this species of Great Ape."
+      },
+      "padBottom": "4-5"
+    },
+    {
+      "id": "quote-5",
+      "type": "quote",
+      "content": {
+        "quote": "“Unfortunately, orangutan’s Tapanuli is very critically endangered because the number of the species is only around 800 and there are currently many threats such as hydro dam that is currently being built that has destroyed their habitat and this is really worrying”",
+        "cite": "Panut Hadisiswoyo, the founding director of Orangutan Information Centre"
+      },
+      "padBottom": "4-5"
+    },
+    {
+      "id": "campaign-6",
+      "type": "campaign",
+      "content": {
+        "heading": "The Campaign",
+        "text": "Vhils is the 9th artist to participate in the environmental campaign ‘Splash & Burn’, which calls attention to the production of palm oil in Southeast Asia. Accompanied by the mural were protests and further art interventions by street artist Ernest Zacharevic. Along with the efforts of different NGOs, the campaign aims to bring this issue to a global audience and bridge the gap between the corruption surrounding this industry and the wider consciousness of global consumers.",
+        "press": [
+          {
+            "label": "ABC News",
+            "href": "https://abcnews.go.com/Sports/wireStory/greenpeace-releases-animated-video-campaign-fossil-fuel-sponsorship-102668859"
+          },
+          {
+            "label": "‍",
+            "href": "https://abcnews.go.com/Sports/wireStory/greenpeace-releases-animated-video-campaign-fossil-fuel-sponsorship-102668859"
+          },
+          {
+            "label": "AOL",
+            "href": "https://www.aol.com/news/greenpeace-releases-animated-video-campaign-104615299.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuYmluZy5jb20v&guce_referrer_sig=AQAAABkgNq18wbySnug0YJpunlTzWtvYMr2GaKi9sXnoNA9DiZREljizeYwuQdIIWAZt7H2bmR92oupieVrN-RMMBp2t-mvzK4QA_G8c44cWSUNqgBPlekMUuj278qm_Siv1AkgNqQltjvX-pcqnl4KkAN6wpnC6AS9vCyvj_PLEVRyK"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.aol.com/news/greenpeace-releases-animated-video-campaign-104615299.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuYmluZy5jb20v&guce_referrer_sig=AQAAABkgNq18wbySnug0YJpunlTzWtvYMr2GaKi9sXnoNA9DiZREljizeYwuQdIIWAZt7H2bmR92oupieVrN-RMMBp2t-mvzK4QA_G8c44cWSUNqgBPlekMUuj278qm_Siv1AkgNqQltjvX-pcqnl4KkAN6wpnC6AS9vCyvj_PLEVRyK"
+          },
+          {
+            "label": "AP News",
+            "href": "https://apnews.com/article/world-cup-totalenergies-greenpeace-141503d85aa8cbb227c1a1550f7742d8"
+          },
+          {
+            "label": "‍",
+            "href": "https://apnews.com/article/world-cup-totalenergies-greenpeace-141503d85aa8cbb227c1a1550f7742d8"
+          },
+          {
+            "label": "BBC News",
+            "href": "https://www.bbc.com/sport/rugby-union/66723726"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.bbc.com/sport/rugby-union/66723726"
+          },
+          {
+            "label": "Buzz",
+            "href": "https://www.buzz.ie/news/world-news/totalenergies-rugby-world-cup-greenpeace-30814998"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.buzz.ie/news/world-news/totalenergies-rugby-world-cup-greenpeace-30814998"
+          },
+          {
+            "label": "Campaign",
+            "href": "https://www.campaignlive.co.uk/article/greenpeace-france-totalpollution-dirty-game-studio-birthplace/1835632"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.campaignlive.co.uk/article/greenpeace-france-totalpollution-dirty-game-studio-birthplace/1835632"
+          },
+          {
+            "label": "Creative Review",
+            "href": "https://www.creativereview.co.uk/greenpeace-rugby-world-cup-campaign/"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.creativereview.co.uk/greenpeace-rugby-world-cup-campaign/"
+          },
+          {
+            "label": "Designboom",
+            "href": "https://www.designboom.com/design/rugby-world-cup-2023-campaign-fossil-fuel-totalenergies-greenpeace-studio-birthplace-08-31-2023/"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.designboom.com/design/rugby-world-cup-2023-campaign-fossil-fuel-totalenergies-greenpeace-studio-birthplace-08-31-2023/"
+          },
+          {
+            "label": "Financial Express",
+            "href": "https://www.financialexpress.com/business/brandwagon-greenpeace-unveils-animated-video-as-part-of-campaign-targeting-fossil-fuel-sponsorship-of-rugby-world-cup-3228134/"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.financialexpress.com/business/brandwagon-greenpeace-unveils-animated-video-as-part-of-campaign-targeting-fossil-fuel-sponsorship-of-rugby-world-cup-3228134/"
+          },
+          {
+            "label": "Forbes",
+            "href": "https://www.forbes.com/sites/vitascarosella/2023/09/01/rugby-world-cup-2023-how-environmentally-sustainable-will-it-be/"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.forbes.com/sites/vitascarosella/2023/09/01/rugby-world-cup-2023-how-environmentally-sustainable-will-it-be/"
+          },
+          {
+            "label": "France Bleu",
+            "href": "https://www.francebleu.fr/infos/environnement/mondial-de-rugby-dans-une-video-choc-greenpeace-denonce-le-sponsoring-de-totalenergies-6033110"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.francebleu.fr/infos/environnement/mondial-de-rugby-dans-une-video-choc-greenpeace-denonce-le-sponsoring-de-totalenergies-6033110"
+          },
+          {
+            "label": "Huffington Post",
+            "href": "https://www.huffingtonpost.fr/environnement/video/a-10-jours-de-la-coupe-du-monde-de-rugby-la-campagne-choc-de-greenpeace-contre-totalenergies-et-le-greenwashing_222386.html"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.huffingtonpost.fr/environnement/video/a-10-jours-de-la-coupe-du-monde-de-rugby-la-campagne-choc-de-greenpeace-contre-totalenergies-et-le-greenwashing_222386.html"
+          },
+          {
+            "label": "Irish Daily Mirror",
+            "href": "https://www.irishmirror.ie/news/irish-news/irish-comedians-existential-terror-moved-30815558"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.irishmirror.ie/news/irish-news/irish-comedians-existential-terror-moved-30815558"
+          },
+          {
+            "label": "It's Nice That",
+            "href": "https://www.itsnicethat.com/news/greenpeace-studio-birthplace-totalpollution-film-300823"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.itsnicethat.com/news/greenpeace-studio-birthplace-totalpollution-film-300823"
+          },
+          {
+            "label": "La Montagne",
+            "href": "https://www.lamontagne.fr/paris-75000/sports/coupe-du-monde-greenpeace-publie-une-video-pour-denoncer-le-sponsoring-de-totalenergies-et-deplore-une-tentative-de-censure_14362871/"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.lamontagne.fr/paris-75000/sports/coupe-du-monde-greenpeace-publie-une-video-pour-denoncer-le-sponsoring-de-totalenergies-et-deplore-une-tentative-de-censure_14362871/"
+          },
+          {
+            "label": "La Republique",
+            "href": "https://www.larep.fr/paris-75000/sports/coupe-du-monde-greenpeace-publie-une-video-pour-denoncer-le-sponsoring-de-totalenergies-et-deplore-une-tentative-de-censure_14362871/"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.larep.fr/paris-75000/sports/coupe-du-monde-greenpeace-publie-une-video-pour-denoncer-le-sponsoring-de-totalenergies-et-deplore-une-tentative-de-censure_14362871/"
+          },
+          {
+            "label": "L'Echo Republicain",
+            "href": "https://www.lechorepublicain.fr/paris-75000/sports/coupe-du-monde-greenpeace-publie-une-video-pour-denoncer-le-sponsoring-de-totalenergies-et-deplore-une-tentative-de-censure_14362871/"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.lechorepublicain.fr/paris-75000/sports/coupe-du-monde-greenpeace-publie-une-video-pour-denoncer-le-sponsoring-de-totalenergies-et-deplore-une-tentative-de-censure_14362871/"
+          },
+          {
+            "label": "La Parisien",
+            "href": "https://www.leparisien.fr/sports/rugby/coupe-du-monde/coupe-du-monde-de-rugby-greenpeace-sattaque-au-sponsoring-de-totalenergies-30-08-2023-LEMMY6DGP5F7PPUM47KYOTIE3I.php?at_creation=Le%20Parisien%20%7C%20Ma%20Terre&at_campaign=Partage%20Twitter%20CM&at_medium=Social%20media"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.leparisien.fr/sports/rugby/coupe-du-monde/coupe-du-monde-de-rugby-greenpeace-sattaque-au-sponsoring-de-totalenergies-30-08-2023-LEMMY6DGP5F7PPUM47KYOTIE3I.php?at_creation=Le%20Parisien%20%7C%20Ma%20Terre&at_campaign=Partage%20Twitter%20CM&at_medium=Social%20media"
+          },
+          {
+            "label": "Le Populaire",
+            "href": "https://www.lepopulaire.fr/paris-75000/sports/coupe-du-monde-greenpeace-publie-une-video-pour-denoncer-le-sponsoring-de-totalenergies-et-deplore-une-tentative-de-censure_14362871/"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.lepopulaire.fr/paris-75000/sports/coupe-du-monde-greenpeace-publie-une-video-pour-denoncer-le-sponsoring-de-totalenergies-et-deplore-une-tentative-de-censure_14362871/"
+          },
+          {
+            "label": "Little Black Book",
+            "href": "https://www.lbbonline.com/news/fossil-fuel-floods-a-rugby-stadium-in-powerful-greenpeace-spot-a-dirty-game"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.lbbonline.com/news/fossil-fuel-floods-a-rugby-stadium-in-powerful-greenpeace-spot-a-dirty-game"
+          },
+          {
+            "label": "National World",
+            "href": "https://www.nationalworld.com/news/environment/greenpeace-new-campaign-fossil-fuel-money-sports-rugby-world-cup-sponsorship-4272610"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.nationalworld.com/news/environment/greenpeace-new-campaign-fossil-fuel-money-sports-rugby-world-cup-sponsorship-4272610"
+          },
+          {
+            "label": "Ouest France",
+            "href": "https://www.ouest-france.fr/coupe-du-monde-rugby/coupe-du-monde-de-rugby-dans-une-video-choc-greenpeace-sattaque-au-sponsor-totalenergies"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.ouest-france.fr/coupe-du-monde-rugby/coupe-du-monde-de-rugby-dans-une-video-choc-greenpeace-sattaque-au-sponsor-totalenergies"
+          },
+          {
+            "label": "RFI",
+            "href": "https://www.rfi.fr/en/france/20230830-greenpeace-slams-totalenergies-sponsorship-of-rugby-world-cup-in-france-as-sports-washing"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.rfi.fr/en/france/20230830-greenpeace-slams-totalenergies-sponsorship-of-rugby-world-cup-in-france-as-sports-washing"
+          },
+          {
+            "label": "RTL",
+            "href": "https://www.rtl.fr/actu/debats-societe/video-coupe-du-monde-rugby-greenpeace-critique-le-sponsoring-de-totalenergies-7900292130"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.rtl.fr/actu/debats-societe/video-coupe-du-monde-rugby-greenpeace-critique-le-sponsoring-de-totalenergies-7900292130"
+          },
+          {
+            "label": "Rugby Lad",
+            "href": "https://rugbylad.ie/rugby-world-cup-oil-video/"
+          },
+          {
+            "label": "‍",
+            "href": "https://rugbylad.ie/rugby-world-cup-oil-video/"
+          },
+          {
+            "label": "Scoop",
+            "href": "https://www.scoop.co.nz/stories/WO2308/S00232/breaking-oil-floods-stadium-ahead-of-mens-rugby-world-cup-tournament-kick-off.htm"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.scoop.co.nz/stories/WO2308/S00232/breaking-oil-floods-stadium-ahead-of-mens-rugby-world-cup-tournament-kick-off.htm"
+          },
+          {
+            "label": "Shots",
+            "href": "https://www.shots.net/news/view/greenpeace-paints-a-black-picture"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.shots.net/news/view/greenpeace-paints-a-black-picture"
+          },
+          {
+            "label": "Sport Buzz Business",
+            "href": "https://www.sportbuzzbusiness.fr/greenpeace-sattaque-a-totalenergies-sponsor-de-la-coupe-du-monde-de-rugby-2023-et-met-en-scene-un-stade-de-france-noye-sous-le-petrole.html"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.sportbuzzbusiness.fr/greenpeace-sattaque-a-totalenergies-sponsor-de-la-coupe-du-monde-de-rugby-2023-et-met-en-scene-un-stade-de-france-noye-sous-le-petrole.html"
+          },
+          {
+            "label": "Stash",
+            "href": "https://www.stashmedia.tv/studio-birthplace-exposes-totalenergies-dirty-game-for-greenpeace/"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.stashmedia.tv/studio-birthplace-exposes-totalenergies-dirty-game-for-greenpeace/"
+          },
+          {
+            "label": "Sustainability Beat",
+            "href": "https://www.sustainability-beat.co.uk/2023/08/30/greenpeace-sportswashing/"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.sustainability-beat.co.uk/2023/08/30/greenpeace-sportswashing/"
+          },
+          {
+            "label": "Taiwan News",
+            "href": "https://www.taiwannews.com.tw/en/news/4985261"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.taiwannews.com.tw/en/news/4985261"
+          },
+          {
+            "label": "The Drum",
+            "href": "https://www.thedrum.com/news/2023/08/29/stade-de-france-flooded-with-oil-greenpeace-rugby-world-cup-protest-ad"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.thedrum.com/news/2023/08/29/stade-de-france-flooded-with-oil-greenpeace-rugby-world-cup-protest-ad"
+          },
+          {
+            "label": "The Drum follow up",
+            "href": "https://www.thedrum.com/news/2023/08/30/rugby-world-cup-threatens-legal-action-over-greenpeace-protest-video"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.thedrum.com/news/2023/08/30/rugby-world-cup-threatens-legal-action-over-greenpeace-protest-video"
+          },
+          {
+            "label": "The Independent",
+            "href": "https://www.independent.co.uk/news/greenpeace-ap-paris-stade-de-france-new-zealand-b2401799.html"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.independent.co.uk/news/greenpeace-ap-paris-stade-de-france-new-zealand-b2401799.html"
+          },
+          {
+            "label": "The Independent - Irish",
+            "href": "https://m.independent.ie/irish-news/rugby-world-cup-legal-bid-to-stop-greenpeace-video-featuring-irish-comic-satirising-events-oil-company-sponsor/a2145555076.html"
+          },
+          {
+            "label": "‍",
+            "href": "https://m.independent.ie/irish-news/rugby-world-cup-legal-bid-to-stop-greenpeace-video-featuring-irish-comic-satirising-events-oil-company-sponsor/a2145555076.html"
+          },
+          {
+            "label": "Washington Times",
+            "href": "https://www.washingtontimes.com/news/2023/aug/30/greenpeace-releases-animated-video-in-campaign-aga/"
+          },
+          {
+            "label": "‍",
+            "href": "https://www.washingtontimes.com/news/2023/aug/30/greenpeace-releases-animated-video-in-campaign-aga/"
+          },
+          {
+            "label": "Yahoo News",
+            "href": "https://news.yahoo.com/greenpeace-releases-animated-video-campaign-104615618.html?src=rss&utm_source=dlvr.it&utm_medium=twitter&guccounter=1&guce_referrer=aHR0cHM6Ly90LmNvLw&guce_referrer_sig=AQAAAFnEv7P2VRf-O4St7WtMfEEGlOBtKcI8wqtUUBrKsFvuysOLxiaACuHw4A9uqL-hHyH1smSjHW3kOAomQZMoCr5s2BjY3aiImfXxuw8_PpMupLxSlIyb4uwOsi3ZcqPb552B4K3Uyj6XSIx1O7_tL3Aw3kdO4snW85sI1TJCgeP6"
+          }
+        ],
+        "pressLabel": "View Media Features",
+        "link": {
+          "label": "Splash & Burn Landing Page",
+          "href": "https://www.splashandburn.org/alexandre-faro-aka-vhils"
+        }
+      }
+    },
+    {
+      "id": "gallery-7",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6601862652003346a3dc6e2d_VHILS.Campaign3.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66018626b48da77d364aae1e_VHILS.Campaign1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66018626d83638f5ec6e87d4_VHILS.Campaign2.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66018626f56b68dccbabd09d_VHILS.Campaign4.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "image": "bts"
+      },
+      "overrideReasons": {
+        "image": "as on the live site (phase 1)"
+      },
+      "padBottom": "4-375"
+    },
+    {
+      "id": "more-work",
+      "type": "more-work",
+      "content": {
+        "button": {
+          "label": "View More Work",
+          "href": "/work"
+        }
+      }
+    }
+  ]
+}

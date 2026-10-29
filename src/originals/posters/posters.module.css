@@ -1,0 +1,251 @@
+/* Live posters layouts, one per setting value:
+   poster              .fl-section-poster-haze2 > .fl-poster-container-haze > .fl-posters-layout > .fl-poster-image-haze
+   poster-still(-double) .fl-section-poster-haze2 > .fl-poster-container > .fl-posters-layout(-double) > .fl-poster-imagehaze + .fl-poster-still-image-haze
+   exhibition          .fl-section-poster-haze > .fl-exhibition-container > .fl-exhibition-layout-haze > .fl-exhibition-image
+   rud-poster          .fl-section-poster-haze2 > .fl-poster-container-rud > .fl-posters-layout > .fl-poster-image-rud
+   rud-stills          .fl-section-poster-haze2 > .fl-poster-container-haze > .fl-posters-layout-rud > .fl-poster-still-image-rud ×2
+   films(-tight)       .fl-section-keyvisuals > .fl-poster-container-moneytrees > .fl-posters-layout-double / -ed > .fl-split-moneytrees-container */
+
+.section[data-s-layout] {
+  padding-top: 2em;
+  padding-bottom: 4.625em;
+}
+
+.layout {
+  display: flex;
+}
+
+/* poster */
+.section[data-s-layout="poster"] .container,
+.section[data-s-layout="rud-stills"] .container {
+  display: grid;
+  grid-template-columns: 1fr;
+  place-items: center;
+  gap: 16px;
+  width: 100%;
+  max-width: 100em;
+  margin-inline: auto;
+}
+
+.section[data-s-layout="poster"] .image {
+  width: 100em;
+  max-width: 100%;
+  height: 50em;
+  margin-right: 0;
+  object-fit: contain;
+}
+
+/* poster-still, poster-still-double */
+.section[data-s-layout="poster-still"] .container,
+.section[data-s-layout="poster-still-double"] .container {
+  width: 100%;
+  margin-inline: auto;
+}
+
+.section[data-s-layout="poster-still-double"] .layout {
+  gap: 25px;
+}
+
+.section[data-s-layout="poster-still"] .image,
+.section[data-s-layout="poster-still-double"] .image {
+  width: 26.3125em;
+  height: 39.5em;
+  margin-right: 1.125em;
+  object-fit: cover;
+}
+
+.section[data-s-layout="poster-still"] .second,
+.section[data-s-layout="poster-still-double"] .second {
+  width: 41.4375em;
+  margin-right: 0;
+}
+
+/* exhibition */
+.section[data-s-layout="exhibition"] {
+  padding-block: 2em;
+}
+
+.section[data-s-layout="exhibition"] .container {
+  width: 100%;
+  max-width: 69em;
+  margin-inline: auto;
+}
+
+.section[data-s-layout="exhibition"] .image {
+  width: auto;
+  height: 39.5em;
+  margin-right: 1.125em;
+  object-fit: cover;
+}
+
+/* rud-poster */
+.section[data-s-layout="rud-poster"] .container {
+  display: grid;
+  grid-template-columns: 1fr;
+  place-items: center;
+  gap: 16px;
+  width: 100%;
+  max-width: 69em;
+  margin-inline: auto;
+}
+
+.section[data-s-layout="rud-poster"] .image {
+  width: 100em;
+  height: 60em;
+  margin-right: 1.125em;
+  object-fit: cover;
+}
+
+/* rud-stills */
+.section[data-s-layout="rud-stills"] .layout {
+  gap: 10px;
+}
+
+.section[data-s-layout="rud-stills"] .image {
+  width: 41.4375em;
+  height: 39.5em;
+  object-fit: contain;
+}
+
+/* films, films-tight */
+.section[data-s-layout="films"],
+.section[data-s-layout="films-tight"] {
+  padding-top: 2em;
+  padding-bottom: 1.5em;
+}
+
+.section[data-s-layout="films"] .container,
+.section[data-s-layout="films-tight"] .container {
+  width: 100%;
+  max-width: 85em;
+  margin-inline: auto;
+}
+
+.section[data-s-layout="films"] .layout {
+  gap: 25px;
+}
+
+.section[data-s-layout="films-tight"] .layout {
+  gap: 5px;
+}
+
+.filmBox {
+  width: 100%;
+  max-width: 100em;
+  margin-inline: auto;
+}
+
+@media (min-width: 1920px) {
+  .section[data-s-layout="poster"],
+  .section[data-s-layout="poster-still"],
+  .section[data-s-layout="poster-still-double"],
+  .section[data-s-layout="rud-poster"],
+  .section[data-s-layout="rud-stills"] {
+    object-fit: contain;
+  }
+
+  .section[data-s-layout="poster"] .layout {
+    display: block;
+  }
+
+  .section[data-s-layout="poster"] .image {
+    display: inline-block;
+    height: 45em;
+  }
+
+  .section[data-s-layout="poster"] .container,
+  .section[data-s-layout="rud-stills"] .container {
+    gap: 0;
+    max-height: 2000px;
+  }
+
+  .section[data-s-layout="poster-still"] .image,
+  .section[data-s-layout="poster-still-double"] .image {
+    height: 40em;
+    margin-right: 0;
+    object-fit: contain;
+  }
+
+  .section[data-s-layout="poster-still-double"] .layout {
+    display: flex;
+    align-items: center;
+    place-content: stretch center;
+    gap: 30px;
+  }
+
+  .section[data-s-layout="exhibition"] {
+    padding-top: 0;
+  }
+
+  .section[data-s-layout="exhibition"] .container {
+    max-width: 85em;
+  }
+
+  .section[data-s-layout="exhibition"] .layout {
+    display: block;
+  }
+
+  .section[data-s-layout="exhibition"] .image {
+    width: auto;
+    height: auto;
+    margin-right: 0;
+    object-fit: contain;
+  }
+
+  .section[data-s-layout="rud-poster"] .container {
+    gap: 0;
+    max-width: 75em;
+  }
+
+  .section[data-s-layout="rud-poster"] .image {
+    width: 90em;
+    height: 45em;
+    object-fit: contain;
+  }
+
+  .section[data-s-layout="rud-stills"] .layout {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-items: center;
+  }
+
+  .section[data-s-layout="rud-stills"] .image {
+    width: 33em;
+    height: 33em;
+  }
+
+  .section[data-s-layout="films"],
+  .section[data-s-layout="films-tight"] {
+    padding-top: 0;
+  }
+
+  .section[data-s-layout="films-tight"] .layout {
+    display: flex;
+    align-items: center;
+    place-content: stretch center;
+    gap: 10px;
+  }
+
+  .section[data-s-layout="films"] .layout {
+    display: flex;
+    align-items: center;
+    place-content: stretch center;
+    gap: 30px;
+  }
+}
+
+@media (max-width: 991px) {
+  .layout {
+    font-size: 0.6em;
+  }
+
+  .container {
+    width: 90% !important;
+  }
+}
+
+@media (max-width: 767px) {
+  .layout {
+    flex-direction: column;
+  }
+}

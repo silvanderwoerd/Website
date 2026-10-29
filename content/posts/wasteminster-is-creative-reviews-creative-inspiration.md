@@ -32,8 +32,7 @@ The team worked with CGI partners Method & Madness to build an exact digital rep
 
 CG director Alex Scollay and his team used bespoke VFX data simulation, high-end CGI and modelling to create the dynamic flow of 1.8 million kilograms of plastic, with the individual items interacting with each other in a physically accurate manner thanks to Tyflow software.
 
-‍  
-Read the full article [here](https://www.creativereview.co.uk/greenpeace-film-plastic-waste-wasteminster/).
+‍<br>Read the full article [here](https://www.creativereview.co.uk/greenpeace-film-plastic-waste-wasteminster/).
 
 ‍
 

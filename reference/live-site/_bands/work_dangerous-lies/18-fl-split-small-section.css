@@ -1,0 +1,53 @@
+/* (base) */
+.fl-project_text-large {
+  font-size: 2.34375em;
+  font-weight: 300;
+  line-height: 1.28;
+}
+.fl-spacing-4-5em {
+  height: 4.5em;
+}
+.u-no-wrap {
+  white-space: nowrap;
+}
+.fl-split-medium-container {
+  width: 100%;
+  max-width: 50em;
+  margin-left: auto;
+  margin-right: auto;
+}
+.fl-split-small-layout {
+  grid-column-gap: 3.75em;
+  grid-row-gap: 3.75em;
+  display: flex;
+}
+.fl-split-small-rich-text {
+  letter-spacing: .00625em;
+  font-size: .9375em;
+  font-weight: 300;
+  line-height: 1.44;
+}
+.fl-split-small-rich-text p {
+  font-weight: 300;
+}
+.fl-split-small-rich-text strong {
+  color: var(--white-11);
+  font-weight: 300;
+}
+.fl-split-small-rich-text a {
+  color: #fff;
+  text-decoration: underline;
+}
+
+/* @media screen and (max-width: 991px) */
+.fl-split-medium-container {
+  width: 90%;
+}
+.fl-split-small-layout {
+  flex-direction: column;
+}
+
+/* @media screen and (max-width: 479px) */
+.fl-split-medium-container {
+  width: 100%;
+}

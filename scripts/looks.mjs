@@ -7,6 +7,8 @@
 //   npm run looks -- --live       also shoot the live site, side by side (phase 1)
 //   npm run looks -- --accept     make this run the new baseline (Sil's or Jorik's call)
 //   npm run looks -- --dev        also include the Inspector test page
+//   npm run looks -- --motion     shoot ours with motion on, as live is shot (scroll
+//                                 motion can decide which lazy images load)
 //
 // Results: looks/runs/<time>/report.html
 
@@ -30,6 +32,8 @@ const PAGES = [
   ["about", "/about"],
   ["contact", "/contact"],
   ...(args.includes("--dev") ? [["inspector-test", "/dev/inspector-test"]] : []),
+  // --extra=change-drivers:/work/change-drivers,… : more pages for one run
+  ...(args.find((a) => a.startsWith("--extra="))?.slice(8).split(",").map((p) => p.split(":")) ?? []),
 ].filter(([name]) => {
   // --pages=home,about : only these pages
   const only = args.find((a) => a.startsWith("--pages="))?.slice(8).split(",");
@@ -68,6 +72,11 @@ async function shoot(page, url, file) {
     window.scrollTo(0, 0);
   });
   await page.waitForTimeout(1500);
+  // Lazy images change heights (centred galleries grow to their tallest slide):
+  // wait for every image that has started loading, so both sites are measured alike.
+  await page
+    .waitForFunction(() => [...document.images].every((i) => i.complete), null, { timeout: 15000 })
+    .catch(() => {});
   // The film grain moves on a fixed layer that full-page shots stretch: stop it
   // on both sites so screenshots compare like with like.
   await page.addStyleTag({ content: "*::after { animation: none !important; }" }).catch(() => {});
@@ -99,7 +108,7 @@ const rows = [];
 let failed = false;
 try {
   for (const width of WIDTHS) {
-    const local = await browser.newPage({ viewport: { width, height: 900 }, reducedMotion: "reduce" });
+    const local = await browser.newPage({ viewport: { width, height: 900 }, ...(args.includes("--motion") ? {} : { reducedMotion: "reduce" }) });
     const live = args.includes("--live") ? await browser.newPage({ viewport: { width, height: 900 } }) : null;
     for (const [name, path] of PAGES) {
       const shot = `${name}@${width}`;

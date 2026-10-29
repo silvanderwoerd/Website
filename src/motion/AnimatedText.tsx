@@ -16,11 +16,12 @@ type Props = {
   className?: string;
   strong?: string;
   field?: string; // data-field, for the Inspector
+  afterLoad?: boolean; // Webflow's .u-show-on-load: hidden until 1300ms after the page loads
 };
 
 const EASE_OUT_EXPO = [0.19, 1, 0.22, 1] as const;
 
-export function AnimatedText({ as: Tag = "p", text, className, strong, field }: Props) {
+export function AnimatedText({ as: Tag = "p", text, className, strong, field, afterLoad }: Props) {
   const ref = useRef<HTMLElement>(null);
 
   useEffect(() => {
@@ -29,7 +30,15 @@ export function AnimatedText({ as: Tag = "p", text, className, strong, field }: 
     const words = [...el.querySelectorAll<HTMLElement>(`.${styles.word}`)];
     if (matchMedia("(prefers-reduced-motion: reduce)").matches) {
       words.forEach((w) => (w.style.opacity = "1"));
+      if (afterLoad) el.style.display = "block";
       return;
+    }
+    let timer: ReturnType<typeof setTimeout> | undefined;
+    if (afterLoad) {
+      // IX2 "Page Finishes Loading": .u-show-on-load appears 1300ms after load.
+      const show = () => (timer = setTimeout(() => (el.style.display = "block"), 1300));
+      if (document.readyState === "complete") show();
+      else window.addEventListener("load", show, { once: true });
     }
     const observer = new IntersectionObserver(
       ([entry]) => {
@@ -42,11 +51,18 @@ export function AnimatedText({ as: Tag = "p", text, className, strong, field }: 
       { threshold: 1 },
     );
     observer.observe(el);
-    return () => observer.disconnect();
-  }, [text]);
+    return () => {
+      observer.disconnect();
+      clearTimeout(timer);
+    };
+  }, [text, afterLoad]);
 
   return (
-    <Tag ref={ref} className={className} {...(field ? { "data-field": field, "data-raw": text } : {})}>
+    <Tag
+      ref={ref}
+      className={`${className ?? ""} ${afterLoad ? styles.afterLoad : ""}`}
+      {...(field ? { "data-field": field, "data-raw": text } : {})}
+    >
       <Words text={text} word={styles.word} strong={strong} />
     </Tag>
   );

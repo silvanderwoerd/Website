@@ -8,7 +8,7 @@ order: 45
 ---
 ## **Pride of the Netherlands. We, as the Dutch advertising industry, can be quite proud of this. - Adformatie**
 
-We're honored to announce that Adformatie, the biggest advertising magazine in the Netherlands, has shortlisted 'Wear Wool, Not Waste' in their Top 24 Campaigns of 2024 list.  
+We're honored to announce that Adformatie, the biggest advertising magazine in the Netherlands, has shortlisted 'Wear Wool, Not Waste' in their Top 24 Campaigns of 2024 list.<br>
 
 ‍
 
@@ -24,7 +24,7 @@ Here is a translated excerpt from their article:
 
 I'll let the numbers speak for themselves: '14 million views in the first week!', according to the duo on LinkedIn. We, as the Dutch advertising industry, can be quite proud of this. (NA)."
 
-‍  
+‍<br>
 
 The full write-up and list can be read [here](https://www.adformatie.nl/campagnes/dit-zijn-de-24-beste-campagnes-van-2024?share-secret=bestof24).
 

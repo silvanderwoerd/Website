@@ -1,0 +1,428 @@
+{
+  "slug": "change-drivers",
+  "title": "Change Drivers",
+  "description": "Discovery's Change Drivers is about the stories of people working on the front lines to solve the most dire problems society faces. From plastic pollution to climate change, the multi-season series aims to tell the stories of those who are putting everything on the line to find solutions to some of our society's most dire problems and create lasting change.",
+  "family": "fluid",
+  "background": "black",
+  "client": "Discovery",
+  "inGrid": true,
+  "stripes": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "content": {
+        "eyebrow": "Our Work",
+        "client": "Discovery",
+        "title": "Change Drivers",
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/699bbdcb7cc2bb01d64887ac_CD-Website-Cover-V2.jpg",
+          "alt": ""
+        }
+      }
+    },
+    {
+      "id": "details",
+      "type": "project-details",
+      "content": {
+        "eyebrow": "ABOUT THE PROJECT",
+        "about": "## The award-winning series about **people working on the front lines** to solve the most dire problems society faces.\n\n'Change Drivers' inspires our viewers to reflect and **take action on pivotal issues affecting our planet** and airs on all the major Discovery and Warner Bros. channels.",
+        "credits": [
+          {
+            "role": "Directors",
+            "name": "Various"
+          },
+          {
+            "role": "Producers",
+            "name": "Alea Rahim & Sean Lin"
+          },
+          {
+            "role": "European Production Partner",
+            "name": "DUNA Films"
+          }
+        ],
+        "fullCredits": "### **Change Drivers Season 2: Episode 1**\n\n**Emily Penn**\n\n### Production Company\n\nStudio Birthplace\n\n### European Production Partner\n\nDuna Films\n\n### Director & Editor\n\nJoya Berrow\n\n### Creative Director\n\nJorik Dozy\n\n### Creative Development\n\nSil van der Woerd\n\n### Executive Producer\n\nAlea Rahim\n\n### Producer\n\nGemma Albone\n\n### Line Producer\n\nTilly Compton\n\n### Production Assistant\n\nTom Smith\n\n### Director Of Photography\n\nKeidrych Wasley\n\n### Assistant Camera\n\nLouis Vella\n\n### Gaffer\n\nSam Crook\n\n### Sound Recordist\n\nJustin Smith\n\n### Colorist\n\nKeidrych Wasley\n\n### Bespoke Composition,\n\n‍\n\n### Sound Design & Mix\n\nJoe Munday\n\n### Music Supervision\n\nOPM London\n\n### Animator\n\nGiulia Bavagnoli\n\n‍\n\n### Special Thanks to\n\n‍\n\n### Footage from *Sirens of the Sea* Director\n\nMarcia Cooney\n\n### Ocean Projection Footage\n\nJoão Tudella\n\n### Emily Penn Representation\n\nAdam Booth\n\n‍\n\n### **Change Drivers Season 2: Episode 2**\n\n**Šimon Michalčík**\n\n### Production Company\n\nStudio Birthplace\n\n### European Production Partner\n\nDuna Films\n\n### Director & Editor\n\nJoya Berrow\n\n### Creative Director\n\nJorik Dozy\n\n### Executive Producer\n\nAlea Rahim\n\n### Producer\n\nGemma Albone\n\n### Fixer / Line Producer\n\nKrunoslav Keteles\n\n### Director Of Photography\n\nKeidrych Wasley\n\n### Assistant Camera\n\nLouis Vella\n\n### Gaffer\n\nKarel Bednář\n\n### Colorist\n\nKeidrych Walsey\n\n### Sound Designer & Music Composer\n\nJoe Munday\n\n### Music Supervision\n\nOPM London\n\n### Animator\n\nGiulia Bavagnoli\n\n‍\n\n### **Change Drivers Season 2: Episode 3**\n\n**Merijn Tinga**\n\n### Production Company\n\nStudio Birthplace\n\n### European Production Partner\n\nDuna Films\n\n### Director & Editor\n\nJoya Berrow\n\n### Creative Directors\n\nJorik Dozy and Sil van der Woerd\n\n### Executive Producer\n\nAlea Rahim\n\n### Producer\n\nGemma Albone\n\n### Fixer / Line Producer\n\nTilly Compton\n\n### Director Of Photography\n\nKeidrych Wasley\n\n### Assistant Camera\n\nLouis Vella\n\n### Gaffer\n\nSeretse Fulani\n\n### Colorist\n\nKeidrych Walsey\n\n### Sound Designer & Music Composer\n\nJoe Munday\n\n### Music Supervision\n\nOPM London\n\n### Animator\n\nGiulia Bavagnoli\n\n‍\n\n### **Change Drivers Season 2: Episode 4**\n\n**Melati Wijsen**\n\n### Production Company\n\nStudio Birthplace\n\n### Director & Editor\n\nJorik Dozy\n\n### Executive Producer\n\nAlea Rahim\n\n### Producer\n\nSara Kong\n\n### Production Manager\n\nGian Joyson Timothy Tolede\n\n### Production Runner\n\nChristma Dewage Herman\n\n### Location Coordinator\n\nPatria Andaru Lasut\n\n### Location Assistant\n\nJustine Fritzi Atalanta\n\n### Director Of Photography\n\nSimon Temple\n\n### Assistant Camera\n\nYudi Gunawan\n\n### Equipment Guard\n\nIda Bagus Nyoman Wira Adi Putra\n\nEka Rifky Wahyudi\n\n### Gaffer\n\nSatria Jaya Dilaga\n\n### Best Girl\n\nSari Hidayat\n\n### Lightingman\n\nYuga Alfarez\n\nRino Puji Ramdani\n\nYusuf Pambudi\n\nSutrisno\n\n### Art Dept Coordinator\n\nDalbo Suarimbawa\n\n### Art Assistant\n\nAswino Aji\n\n### Prop Makers\n\nWindu\n\nBoncet\n\nMoncos\n\nBrenteng\n\nNdala\n\nRenol\n\nTangkas\n\nBrerut\n\nBancih\n\n### Colorist\n\nKeidrych Walsey\n\n### Bespoke Composition,\n\n‍\n\n### Sound Design & Mix\n\nJoe Munday\n\n### Music Supervision\n\nOPM London \n\n### Music Composers\n\nJoe Munday and Storm Elfrink\n\n### Extras\n\nIsabel Wijsen\n\nSean Higgins\n\nSara Kong\n\nHutomo Wicahsono\n\nCharles R. Amalo\n\nBerliana Ramadhanty\n\nKhalistra Koeswara\n\nNicole Jasmine\n\nFlavianus Sawu\n\nZong Han\n\nLadyva Andrea\n\nSanitri\n\nTheresa Cellona\n\n### Drivers\n\nPak Agung\n\nPrimus\n\nAndri\n\n### VO Recording\n\nStudio Desmet Studio Amsterdam\n\n### Recording Engineer\n\nArne Van Amerongen\n\n### Special Thanks\n\nMidnight Sun Bali\n\nJiwa Community Garden & Nuanu City\n\n‍\n\n### Change Drivers S1 : Episode 1\n\n**Emily Penn**\n\n### Director\n\nStephane Ridard\n\n### Producer\n\nSean Lin\n\n### Executive Producers\n\nJorik Dozy\n\nSil van der Woerd\n\n### Co-Production\n\nPark Village\n\n### Line Producer\n\nAlasdair Mitchell\n\n### Production Assistants\n\nJohn Mouratis\n\nViki Carter\n\n### Director Of Photography\n\nKeidrych Wasley\n\n### Art Director\n\nMyles Grimsdale\n\n### Sound Recordists\n\nChen Wissotzk\n\n### Video Playback\n\nTony Booth\n\n### Catering\n\nWolf & Lamb\n\n### Editor\n\nStephane Ridard\n\n### Colorist\n\nKeidrych Wasley\n\n### Sound Designer\n\nWavefarer Audio\n\n‍\n\n### Change Drivers S1: Episode 2\n\n**Sagarika Sriram**\n\n### Director\n\nStephane Ridard\n\n### Producer\n\nSean Lin\n\n### Executive Producers\n\nJorik Dozy\n\nSil van der Woerd\n\n### Director of Photography\n\nAdrien Lallau\n\n### Line Producer\n\nSaqib Hassan\n\n### Production Manager\n\nAdeel Butt\n\n### Camera Assistant\n\nSunny Khan\n\n### Sound Recordist\n\nMuhammad Irfan\n\n### Lighting Assistant\n\nAmir Majeed\n\n### Additional V.O Recordist\n\nGTR Recording Studio\n\n### Animation Producer\n\nHoward Wimshurst\n\n### Key Animation\n\nJeremy Anderson\n\n### Inbetweening Assistance\n\nWolf Chung\n\n### Key Animation\n\nJeremy Anderson\n\n### Background Painting\n\nGordana Dramicanin\n\n### Background Assistance\n\nJanina Putzker\n\n### Music Composer\n\nTiernan Piroue\n\n### Sound Designer\n\nWavefarer Audio\n\n### Colorist\n\nEudes Quittelier\n\n‍\n\n### Change Drivers S1: Episode 3\n\n**Paul Hilton**\n\n### Director\n\nJorik Dozy\n\n### Producer\n\nAlea Rahim\n\n### Executive Producers\n\nSean Lin\n\nSil van der Woerd\n\n### Line Producer\n\nBayu Topan\n\n### Production Assistants\n\nTheresa Cellona\n\nKadek Sugi Mahendrawan\n\nGede Ari Sisna\n\nKomang Suka Budi\n\nMade Pasek\n\nMade Dodi Arta\n\n### Driver\n\nKomang\n\n### Director Of Photography\n\nCharlie Balch\n\n### Assistant Camera\n\nJaya Bali\n\n### Gaffer\n\nFirman\n\n### Gear Guard\n\nBastian\n\n### Editor\n\nJorik Dozy\n\n### Composer\n\nVitaliy Zavadskyy\n\n### Sound Designer\n\nJoe Wills\n\n### Recording Studio\n\nGenesis Creative Center\n\n### Recordist\n\nGeorge Speirs\n\n### Equipment Rental\n\nBaliprod\n\n### Restaurant Locations\n\nHappy Chappy Restaurant\n\nJust Kitchen Georgian Restaurant\n\nCibo! Cucina-Deli-Gelateria\n\nNu Delhi\n\n‍\n\n### Change Drivers S1: Episode 4\n\n**Rachel Ikemeh**\n\n### Director\n\nJorik Dozy\n\n### Producer\n\nAlea Rahim\n\n### Executive Producers\n\nSean Lin\n\nSil van der Woerd\n\n### Production Coordinator (Nigeria)\n\nHakagbemeh Olalekan Michael\n\n### Director Of Photography\n\nNicholas Chin\n\n### Assistant Camera\n\nTimothy Chan\n\n### Rangers\n\nAdebayo Adeola *(SWND community engagement officer)*‍\n\nAkere Sola Olaolu\n\nAkiulusi Joseph\n\nAlabi-Odunayo Samuel\n\nAlabi Abayomi Felix \n\nAlaje-Adewale \n\nAshaolu Joshua\n\nAyeni Jomiloju Joseph\n\nAyodele Kehinde\n\nEkundayo Busayo Ronke\n\nJegede Ojo\n\nOgidi John\n\nOgunleye Tope Vincent\n\nOgunmuyite Adekunle\n\nOlajuyigbe Bamidele Joseph *(SWND Monitoring Officer)*\n\nOloruntola Ebenezer \n\nOni Omotolani\n\nSeun Adejuwon *(SWND senior programme officer)*\n\nSunday Oluwasegun *(SWND Ise programme manager)*\n\nTijani Ibrahim\n\n### Villagers\n\nAbdullahi Rufai\n\nAdams Husseina\n\nEbun Omole\n\nIsah Akad\n\nJesintha Appeh\n\nJoseph Omole\n\nMaria Andrew\n\nOtobo Andrew\n\nTijani Ebute\n\n### Editor\n\nJorik Dozy\n\n### Composer\n\nVitaliy Zavadskyy\n\n### Sound Designer\n\nJoe Wills\n\n### Recording Studio\n\nD’Jukebox Studios\n\n### Recordist\n\nEmmanuel Phinehas\n\n### Illustrator\n\nLorenzo Premuroso\n\n### Animator\n\nLionel Taillens\n\n### Equipment Rental\n\n2117 Rentals\n\n### Color Grading\n\nWhite Light Post\n\n### White Light Producer\n\nSupapit Chirattikanon\n\n### Colorist\n\nSorawich Khunpinij\n\n### Special Thanks\n\nSW/Niger Delta Forest Project of the Foundation for Sustainability of Ecosystem, Wildlife and Climate (FOSEC)\n\nSalaja and Kumaji Village\n\n‍\n\n### Change Drivers S1: Episode 5\n\n**Andri Magnason**\n\n### Directors\n\nJorik Dozy & Stephane Ridard\n\n### Producer\n\nSean Lin\n\n### Executive Producer\n\nSil van der Woerd\n\n### Director Of Photography\n\nRakhal Heijtel\n\n### Assistant Camera\n\nNiels Gross\n\n### Sound Recordist\n\nTiernan Piroue\n\n### Production Coordinator\n\nJorik Dozy\n\n### Production Assistant\n\nTheresa Cellona\n\n### Driver & Cook\n\nMohamed Karim\n\nCheikh Dieye\n\n### Glacier Guides\n\nLaurent Jegu\n\nPatrice Schaufelberger\n\n### Editor\n\nStephane Ridard & Jorik Dozy\n\n### VFX Artist\n\nLionel Taillens\n\n### Music Composer\n\nVitaliy Zavadskyy\n\n### Sound Designer\n\nTiernan Piroue\n\n### Colorist\n\nArthur Paux",
+        "creditsNote": "DISCOVERY 2025",
+        "press": [
+          {
+            "label": "Warner Brothers Discovery",
+            "href": "https://www.wbd.com/impact/changedrivers"
+          },
+          {
+            "label": "BroadcastPro",
+            "href": "https://www.broadcastprome.com/news/discovery-launches-video-series-change-drivers/"
+          }
+        ],
+        "logo": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66d67f8ff0c8f602764fc054_WarnerBros.logo.png",
+          "alt": "",
+          "href": "https://www.discovery.com/"
+        },
+        "creditsLabel": "View Full Credits",
+        "pressLabel": "View Media Features"
+      }
+    },
+    {
+      "id": "stats-2",
+      "type": "stats",
+      "content": {
+        "title": "Impact",
+        "items": [
+          {
+            "number": "265m+",
+            "label": "Viewers Reached"
+          },
+          {
+            "number": "120",
+            "label": "Countries Aired"
+          },
+          {
+            "number": "58",
+            "label": "Broadcast Channels"
+          },
+          {
+            "number": "28",
+            "label": "Languages"
+          }
+        ]
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "episode-3",
+      "type": "episode",
+      "content": {
+        "heading": "Christopher Raeburn",
+        "body": "Meet Christopher, a pioneer in sustainable fashion. He challenges us to see that waste is only waste when we fail to use our imagination, Learn more from Christopher on how fashion has the power to transform waste into beauty.<br><br>To learn more about Christopher' work, [visit his website.](https://www.raeburndesign.co.uk/?srsltid=AfmBOoq5LDpMNDQ6i04GiV-KCOAocFIU6yF2Touk_iY-1yB69uL1skpV)",
+        "film": {
+          "provider": "youtube",
+          "id": "RAsfsZLzJgg",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6a0393c1a0320a176c05f43d_CD-Christopher-Cover.jpg",
+          "ratio": "16:9"
+        }
+      }
+    },
+    {
+      "id": "episode-5",
+      "type": "episode",
+      "content": {
+        "heading": "Douglas McMaster",
+        "body": "Meet Douglas, a pioneering chef, food waste activist, and founder of the world’s first zero-waste restaurant. From fermentation to full-system redesign, he shows us that if nature wastes nothing, why should we?<br><br>To learn more about Douglas' work, [visit his website.](https://www.douglasmcmaster.com/)",
+        "film": {
+          "provider": "youtube",
+          "id": "J8AQBHMy3xo",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/69c343258e59b5df98b97564_Douglas-DirectorsCut-Cover00100344.jpg",
+          "ratio": "16:9"
+        }
+      },
+      "spaceBefore": "4-5"
+    },
+    {
+      "id": "episode-7",
+      "type": "episode",
+      "content": {
+        "heading": "Melati Wijsen",
+        "body": "Meet Melati, founder of the educational platform Youthtopia. She has been empowering people to create positive change ever since she was 12 years old. Now she invites us all to join her.<br><br>To learn more about Melati's work, visit [Youthtopia's website](https://www.youthtopia.world/).",
+        "film": {
+          "provider": "youtube",
+          "id": "lkmM-RYBSoo",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/699c5f46943c861dee926f3f_CD-S2-Melati.jpg",
+          "ratio": "16:9"
+        }
+      },
+      "spaceBefore": "4-5"
+    },
+    {
+      "id": "film-8",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "lkmM-RYBSoo",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/699c5f46943c861dee926f3f_CD-S2-Melati.jpg",
+          "ratio": "16:9"
+        }
+      },
+      "overrides": {
+        "visibility": "phone"
+      },
+      "overrideReasons": {
+        "visibility": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "episode-10",
+      "type": "episode",
+      "content": {
+        "heading": "Paul Hilton",
+        "body": "Meet Paul, a prolific conservation photojournalist and wildlife crime consultant. Paul has spent the past twenty years traveling the globe documenting crimes against our planet, from the shark fin trade to illegal wildlife smuggling and the palm oil industry.<br><br>To learn more about Paul's work, visit his [website](https://www.paulhiltonphoto.com/).",
+        "film": {
+          "provider": "youtube",
+          "id": "Y327ygmqZAk",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/699c5f46edab21c47eada452_CD-S1-Paul.jpg",
+          "ratio": "16:9"
+        }
+      },
+      "spaceBefore": "4-5"
+    },
+    {
+      "id": "film-11",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "Y327ygmqZAk",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/699c5f46edab21c47eada452_CD-S1-Paul.jpg",
+          "ratio": "16:9"
+        }
+      },
+      "overrides": {
+        "visibility": "phone"
+      },
+      "overrideReasons": {
+        "visibility": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "episode-13",
+      "type": "episode",
+      "content": {
+        "heading": "Rachel Ikemeh",
+        "body": "Meet Rachel, one of the most prominent conservationists in Nigeria. She has actively been in conservation for the past 15 years and has won a Whitley award in 2020 for her work in the extremely dangerous and challenging environment of the Niger Delta in southern Nigeria.<br><br>To learn more about Rachel's work, visit the SW/Niger Delta Forest Project [website](https://www.swnigerdeltaforestproject.org.ng/).",
+        "film": {
+          "provider": "youtube",
+          "id": "69tzRdsLZTU",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/699c5f460512355a58114ac9_CD-S1-Rachel.jpg",
+          "ratio": "16:9"
+        }
+      },
+      "spaceBefore": "4-5"
+    },
+    {
+      "id": "film-14",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "69tzRdsLZTU",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/699c5f460512355a58114ac9_CD-S1-Rachel.jpg",
+          "ratio": "16:9"
+        }
+      },
+      "overrides": {
+        "visibility": "phone"
+      },
+      "overrideReasons": {
+        "visibility": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "episode-16",
+      "type": "episode",
+      "content": {
+        "heading": "Merijn Tinga",
+        "body": "Meet Merijn, also known as 'The Plastic Soup Surfer'. He advocates for us to transform our throwaway culture and demands a higher responsibility when it comes to how we use and discard plastics.<br><br>To learn more about Merijn's work, visit his [website](https://www.plasticsoupsurfer.org/).",
+        "film": {
+          "provider": "youtube",
+          "id": "PUfhoWcXk0I",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/699c5f46a817e8bae98dbf8d_CD-S2-Merijn.jpg",
+          "ratio": "16:9"
+        }
+      },
+      "spaceBefore": "4-5"
+    },
+    {
+      "id": "film-17",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "PUfhoWcXk0I",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/699c5f46a817e8bae98dbf8d_CD-S2-Merijn.jpg",
+          "ratio": "16:9"
+        }
+      },
+      "overrides": {
+        "visibility": "phone"
+      },
+      "overrideReasons": {
+        "visibility": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "episode-19",
+      "type": "episode",
+      "content": {
+        "heading": "Šimon Michalčík",
+        "body": "Meet Šimon, the managing director of Plant-for-the-Planet  Czech Republic. He highlights the importance of ecosystem restoration and how we have the space to grow a trillion more trees in the world.<br><br>To learn more about Simon's work, visit Plant-for-the-Planet's [website](https://www.plant-for-the-planet.org/).",
+        "film": {
+          "provider": "youtube",
+          "id": "X7ykqWppg4c",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/699c5f46a1484288c2ad467d_CD-S2-Simon.jpg",
+          "ratio": "16:9"
+        }
+      },
+      "spaceBefore": "4-5"
+    },
+    {
+      "id": "film-20",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "X7ykqWppg4c",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/699c5f46a1484288c2ad467d_CD-S2-Simon.jpg",
+          "ratio": "16:9"
+        }
+      },
+      "overrides": {
+        "visibility": "phone"
+      },
+      "overrideReasons": {
+        "visibility": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "episode-22",
+      "type": "episode",
+      "content": {
+        "heading": "Emily Penn",
+        "body": "Ocean advocate and skipper Emily is back for her second venture, this time championing the fight against microplastics. As an expectant mother for the second time, she's voicing her concerns about household plastic use, particularly with kids in the picture.<br><br>To learn more about Emily's work, visit her [website](https://www.emilypenn.com/).",
+        "film": {
+          "provider": "youtube",
+          "id": "yBccP9WQDVo",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/69a1dfb243ae1f1cd023b8df_CD-S2-Emily-v2.jpg",
+          "ratio": "16:9"
+        }
+      },
+      "spaceBefore": "4-5"
+    },
+    {
+      "id": "film-23",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "yBccP9WQDVo",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/699c5f4640877a544e8653b3_CD-S2-Emily.jpg",
+          "ratio": "16:9"
+        }
+      },
+      "overrides": {
+        "visibility": "phone"
+      },
+      "overrideReasons": {
+        "visibility": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "episode-25",
+      "type": "episode",
+      "content": {
+        "heading": "Andri Magnason",
+        "body": "Meet Andri, an Icelandic author. His mission is to spread awareness about the urgency of protecting glaciers and is inspired by his grandparents' testimony to acknowledge that we know what is happening and understand what needs to be done.<br><br>To learn more about Andri's work, visit his [website](https://andrimagnason.com/).",
+        "film": {
+          "provider": "youtube",
+          "id": "hc6EL-guCC4",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/699c5f4658a060b1015e932c_CD-S1-Andri.jpg",
+          "ratio": "16:9"
+        }
+      },
+      "spaceBefore": "4-5"
+    },
+    {
+      "id": "film-26",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "hc6EL-guCC4",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/699c5f4658a060b1015e932c_CD-S1-Andri.jpg",
+          "ratio": "16:9"
+        }
+      },
+      "overrides": {
+        "visibility": "phone"
+      },
+      "overrideReasons": {
+        "visibility": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "episode-28",
+      "type": "episode",
+      "content": {
+        "heading": "Sagarika Sriram",
+        "body": "Meet Sagarika, a young Eco Activist who has become a powerful environmentalist voice in the Middle East. She was only 11 years old when she created her ‘Kids for a Better World’ website, a digital platform that has since than connected a global, young community of nearly 100,000 like-minded peers who want to learn how they, too, can fight climate change.<br><br>To learn more about Sagarika's work, visit her [website](https://www.k4bworld.com/11-year-old-dubai-resident-team-waste-warriors-spread-recycling-message/sagarika-sriram/).",
+        "film": {
+          "provider": "youtube",
+          "id": "0x47OFUcU2A",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/699c5f469861f69226d72f69_CD-S1-Sagarika.jpg",
+          "ratio": "16:9"
+        }
+      },
+      "spaceBefore": "4-5"
+    },
+    {
+      "id": "film-29",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "0x47OFUcU2A",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/699c5f469861f69226d72f69_CD-S1-Sagarika.jpg",
+          "ratio": "16:9"
+        }
+      },
+      "overrides": {
+        "visibility": "phone"
+      },
+      "overrideReasons": {
+        "visibility": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "episode-31",
+      "type": "episode",
+      "content": {
+        "heading": "Emily Penn",
+        "body": "Meet Emily, a skipper and ocean advocate dedicated to studying environmental challenges in the most remote parts of our planet.  Emily and her team constantly test the water to determine how much plastic it contains, but also where this comes from and the chemical toxic pollution linked to plastic pollution.<br><br>To learn more about Emily's work, visit her [website](https://www.emilypenn.com/).",
+        "film": {
+          "provider": "youtube",
+          "id": "mpseFaKPMNA",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/699c5f450f3a75f7c1321168_CD-S1-Emily.jpg",
+          "ratio": "16:9"
+        }
+      },
+      "spaceBefore": "4-5"
+    },
+    {
+      "id": "film-32",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "mpseFaKPMNA",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/699c5f450f3a75f7c1321168_CD-S1-Emily.jpg",
+          "ratio": "16:9"
+        }
+      },
+      "overrides": {
+        "visibility": "phone"
+      },
+      "overrideReasons": {
+        "visibility": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "more-work",
+      "type": "more-work",
+      "content": {
+        "button": {
+          "label": "View More Work",
+          "href": "/work"
+        }
+      }
+    }
+  ]
+}

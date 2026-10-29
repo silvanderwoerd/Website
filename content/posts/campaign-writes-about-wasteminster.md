@@ -28,8 +28,7 @@ Greenpeace has recreated what would happen if the plastic waste exported by the 
 
 The animation, voiced by impressionists Jon Culshaw and Matt Forde, shows a plastic figurine of Prime Minister Boris Johnson deluged in bottles, cartons and crisp packets while he reels off warm words about waste in front of the watching paparazzi.
 
-‍  
-Read the full article [here](https://www.campaignlive.co.uk/article/greenpeace-wastes-boris-comedy-ad/1716407).
+‍<br>Read the full article [here](https://www.campaignlive.co.uk/article/greenpeace-wastes-boris-comedy-ad/1716407).
 
 ‍
 

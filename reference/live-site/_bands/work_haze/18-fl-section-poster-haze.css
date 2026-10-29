@@ -1,0 +1,61 @@
+/* (base) */
+.fl-section-poster-haze {
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+.fl-exhibition-layout-haze {
+  display: flex;
+}
+.fl-exhibition-image {
+  object-fit: cover;
+  width: auto;
+  height: 39.5em;
+  margin-right: 1.125em;
+}
+.fl-exhibition-container {
+  width: 100%;
+  max-width: 69em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* @media screen and (min-width: 1920px) */
+.fl-section-poster-haze {
+  padding-top: 0;
+  padding-bottom: 2em;
+}
+.fl-exhibition-layout-haze {
+  grid-column-gap: 30px;
+  grid-row-gap: 30px;
+  aspect-ratio: auto;
+  object-fit: fill;
+  grid-template-rows: auto;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-auto-columns: 1fr;
+  align-items: stretch;
+  display: block;
+  overflow: visible;
+}
+.fl-exhibition-image {
+  object-fit: contain;
+  width: auto;
+  height: auto;
+  margin-right: 0;
+}
+.fl-exhibition-container {
+  max-width: 85em;
+  max-height: 819.884em;
+}
+
+/* @media screen and (max-width: 991px) */
+.fl-exhibition-layout-haze {
+  font-size: .6em;
+}
+.fl-exhibition-container {
+  width: 90%;
+}
+
+/* @media screen and (max-width: 767px) */
+.fl-exhibition-layout-haze {
+  flex-direction: column;
+}

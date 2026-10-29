@@ -20,6 +20,25 @@ export function getPage(slug: string): PageContent | null {
   return existsSync(file) ? readJson<PageContent>(file) : null;
 }
 
+// Projects (content/projects/): a page whose first stripes are its hero and details.
+export type Project = PageContent & { client: string; inGrid: boolean; hidden?: boolean };
+
+export function getProjectSlugs({ includeHidden = false } = {}): string[] {
+  const dir = join(contentDir, "projects");
+  if (!existsSync(dir)) return [];
+  return readdirSync(dir)
+    .filter((f) => f.endsWith(".json"))
+    .map((f) => f.slice(0, -5))
+    .filter((slug) => includeHidden || !readJson<Project>(join(dir, `${slug}.json`)).hidden);
+}
+
+export function getProject(slug: string): Project | null {
+  const file = join(contentDir, "projects", `${slug}.json`);
+  if (!existsSync(file)) return null;
+  const project = readJson<Project>(file);
+  return project.hidden ? null : project;
+}
+
 // Dev-only pages (content/dev/): the Inspector test page. Never built for the live site.
 export function getDevPage(slug: string): PageContent | null {
   const file = join(contentDir, "dev", `${slug}.json`);

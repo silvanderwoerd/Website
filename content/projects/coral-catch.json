@@ -1,0 +1,182 @@
+{
+  "slug": "coral-catch",
+  "title": "To Love and Protect",
+  "description": "To Love and Protect spotlights Indonesian women restoring coral reefs, showing what becomes possible when diving, creativity, and community come together through Coral Catch, a women-led coral protection organization.",
+  "family": "fluid",
+  "background": "black",
+  "client": "Coral Catch",
+  "inGrid": true,
+  "stripes": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "content": {
+        "eyebrow": "Our Work",
+        "client": "Coral Catch",
+        "title": "To Love and Protect",
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/697035dcc8899fa0dc84027e_CoralCatch-AltCover-2.jpg",
+          "alt": ""
+        }
+      }
+    },
+    {
+      "id": "details",
+      "type": "project-details",
+      "content": {
+        "eyebrow": "ABOUT THE PROJECT",
+        "about": "## *To Love and Protect* spotlights the power of Indonesian women restoring coral reefs **through access, creativity, and community**.\n\nAs ocean temperatures reach deadly thresholds, woman-led coral restoration organization Coral Catch **shows us what’s possible when** **we refuse to give up**.",
+        "credits": [
+          {
+            "role": "Director",
+            "name": "Jorik Dozy"
+          },
+          {
+            "role": "Executive Producer",
+            "name": "Jakub Chlouba"
+          },
+          {
+            "role": "Production Company",
+            "name": "Frames of Change & Studio Birthplace"
+          }
+        ],
+        "fullCredits": "### Film Director\n\nJorik Dozy\n\n### Production Company\n\nFrames of Change Project & Studio Birthplace\n\n### Executive Producer\n\nJakub Chlouba\n\n### Line Producer\n\nAlejandra Dueñas\n\n### Director of Photography\n\nJakub Chlouba\n\n### 1st AC\n\nGilang Kresnawan\n\n### 2nd AC\n\nRoel Estievenart\n\n### Behind the Scenes\n\nIndi Casadei\n\n### Campaign Advisor\n\nAlejandra Dueñas\n\n### Social Media Manager\n\nMarsya Mohd Johari\n\n### Editor\n\nJorik Dozy\n\n### Colourist\n\nJakub Chlouba\n\n### Voice Artist\n\nMadison Setiawan\n\n### Sound Designer\n\nTim Burns\n\n### Music Composer\n\nElijah Siegler\n\n### NGO Partner\n\nCoral Catch\n\n### Coral Catch Women\n\nAvicenna Wijayanto\n\nSakinah Yusuf\n\nSattwika Duhita\n\nBritania Hasiholan\n\nAmabel Zalfa Rienetza\n\nVenny Lewis\n\nIvonne Herlina Tani\n\nRose Huizenga\n\nShanee Stopnitzky\n\n### Swim Class Students\n\nHani Faizah\n\nShopia Mawarni\n\n### Local School\n\nSDN 1 Gili Indah\n\n### Studio Birthplace Producer\n\nAlea Rahim\n\n### Thanks To\n\nBlue Marlin Dive Gili Air Team\n\nVilla Nangka Staff",
+        "creditsNote": "",
+        "press": [],
+        "logo": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/696fb1e1300f881da1e4f891_coralcatch-websitelogo.png",
+          "alt": "",
+          "href": "https://coralcatch.org/"
+        },
+        "creditsLabel": "View Full Credits",
+        "pressLabel": "View Media Features"
+      }
+    },
+    {
+      "id": "film-2",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "tr-1U6-8Cdw",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/696fbac23aa2a23d4b035b76_coralcatch-youtubethumbnail.jpg",
+          "ratio": "2:1"
+        }
+      }
+    },
+    {
+      "id": "text-3",
+      "type": "text",
+      "content": {
+        "heading": "Care for the Ocean",
+        "body": "More than 84% of the world's coral reefs have been subjected to intense, bleaching-level ocean heat stress. This year, as conversations around coral reefs reaching critical tipping points became louder, Coral Catch's work has never felt more necessary.\n\n‍\n\nAs Coral Catch marks five years of women-led marine conservation in Indonesia, they empower women once excluded from the ocean through professional dive training, reef restoration skills, and leadership pathways.\n\n‍\n\nWhen women are given access, conservation becomes stronger and more resilient."
+      },
+      "padTop": "4-5"
+    },
+    {
+      "id": "cta-4",
+      "type": "cta",
+      "content": {
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/69709686278e2981d7ac7d03_CoralCatch-GetInvolved.jpg",
+          "alt": ""
+        },
+        "heading": "Get Involved",
+        "text": "Coral Catch aims to support 100 women leaders protecting Indonesia's reefs by 2030.",
+        "button": {
+          "label": "Support Women-led Ocean Protection",
+          "href": "https://coralcatch.org/"
+        }
+      }
+    },
+    {
+      "id": "quote-5",
+      "type": "quote",
+      "content": {
+        "quote": "\"This year has brought difficult conversations about the future of coral reefs. But it has also shown us something else. That hope is not passive. It is built through action, through people, and through community.\"",
+        "cite": "Coral Catch"
+      },
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-6",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/696fb912d66f07b42a2a8937_Stills-2.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/696fb91203509bcb5914e989_Stills-5.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/696fb912df95433ca75b77a3_Stills-1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/696fde26552394900a04cf07_coralcatch-websiteimage.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/696fb912f8c53e8bac517762_Stills-7.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/696fb9122c48537a3cd87573_Stills-4.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/696fb912aeab84f89709eb39_Stills-9.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "image": "stills"
+      },
+      "overrideReasons": {
+        "image": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "text-7",
+      "type": "text",
+      "content": {
+        "heading": "Frames of Change",
+        "body": "This impact film for Coral Catch was a self-funded initiative brought to life through a collaboration between Studio Birthplace and Frames of Change.\n\n‍\n\nFrames of Change is a global filmmaking initiative created by filmmaker Jakub Chlouba to support grassroots organizations through meaningful films and to help filmmakers grow through real, hands-on education.\n\n‍\n\n**Watch the behind the scenes film here:**"
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "film-8",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "NKlBjKYnwBU",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/697929a6fcb1981982b0639a_CoralCatch-BTS-Film-Thumbnail.jpg",
+          "ratio": "16:9"
+        }
+      },
+      "overrides": {
+        "size": "medium"
+      },
+      "overrideReasons": {
+        "size": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "more-work",
+      "type": "more-work",
+      "content": {
+        "button": {
+          "label": "View More Work",
+          "href": "/work"
+        }
+      }
+    }
+  ]
+}
