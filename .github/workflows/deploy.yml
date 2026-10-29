@@ -1,0 +1,28 @@
+# After every push to main or preview, ask Vercel to build that branch through
+# its Deploy Hook (decision #33). Vercel's own Git deploys of Jorik's commits are
+# blocked (he isn't a member of Sil's Vercel team); hook builds are not.
+# The hook addresses are repository secrets, set by the owner:
+#   VERCEL_HOOK_MAIN, VERCEL_HOOK_PREVIEW
+
+name: Deploy to Vercel
+
+on:
+  push:
+    branches: [main, preview]
+
+permissions:
+  contents: read
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Call the Vercel deploy hook for this branch
+        env:
+          HOOK_MAIN: ${{ secrets.VERCEL_HOOK_MAIN }}
+          HOOK_PREVIEW: ${{ secrets.VERCEL_HOOK_PREVIEW }}
+        run: |
+          if [ "$GITHUB_REF_NAME" = "main" ]; then HOOK="$HOOK_MAIN"; else HOOK="$HOOK_PREVIEW"; fi
+          if [ -z "$HOOK" ]; then echo "The deploy hook secret for $GITHUB_REF_NAME is missing."; exit 1; fi
+          curl --fail --silent --show-error -X POST "$HOOK"
+          echo "Vercel is building $GITHUB_REF_NAME."
