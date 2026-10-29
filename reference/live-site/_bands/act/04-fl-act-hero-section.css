@@ -1,0 +1,89 @@
+/* (base) */
+.font-weight-black {
+  font-weight: 900;
+}
+.fl-project-eyebrow {
+  letter-spacing: .075em;
+  text-transform: uppercase;
+  font-size: .75em;
+  font-weight: 700;
+  line-height: 1;
+}
+.fl-spacing-2em {
+  height: 1.5em;
+}
+.fl-act-hero-section {
+  overflow: clip;
+}
+.fl-act-hero-container {
+  width: 100%;
+  max-width: 78.625em;
+  margin-left: auto;
+  margin-right: auto;
+}
+.fl-act-hero-fake-section {
+  justify-content: center;
+  align-items: center;
+  height: 100svh;
+  display: flex;
+  position: relative;
+}
+.fl-act-hero-heading {
+  font-size: 3.64375em;
+  font-weight: 300;
+  line-height: 1.3;
+}
+.fl-act-hero-background {
+  width: 100vw;
+  min-height: 100svh;
+  max-height: 100svh;
+  position: absolute;
+  overflow: hidden;
+}
+.fl-act-hero-bg-layout {
+  grid-column-gap: 1em;
+  grid-row-gap: 1em;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.fl-act-hero-bg-column {
+  grid-column-gap: 1em;
+  grid-row-gap: 1em;
+  flex-flow: column;
+  flex: none;
+  width: 25.25em;
+  display: flex;
+}
+.fl-act-hero-overlay {
+  pointer-events: none;
+  background-image: linear-gradient(#000, #00000080 50%, #000);
+  position: absolute;
+  inset: 0%;
+}
+.fl-act-hero-sticky-bg-wrapper {
+  position: sticky;
+  top: 0;
+}
+
+/* @media screen and (min-width: 1920px) */
+.font-weight-black {
+  color: #fff;
+}
+.fl-act-hero-heading.tricks.u-show-on-load {
+  margin-top: 5px;
+}
+.fl-act-hero-bg-layout {
+  display: flex;
+}
+.fl-act-hero-overlay {
+  background-image: linear-gradient(#000, #00000080 50%, #000);
+}
+
+/* @media screen and (max-width: 991px) */
+.fl-act-hero-container {
+  width: 90%;
+}
+.fl-act-hero-heading.tricks.u-show-on-load {
+  display: block;
+}

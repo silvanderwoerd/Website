@@ -1,0 +1,34 @@
+/* (base) */
+.fl-spacing-4-5em {
+  height: 4.5em;
+}
+.fl-70-37em-container {
+  width: 100%;
+  max-width: 70.375em;
+  margin-left: auto;
+  margin-right: auto;
+}
+.fl-spacing-8em {
+  height: 8em;
+}
+.fl-work-hero-heading {
+  text-align: center;
+  font-size: 3.5625em;
+  font-weight: 900;
+  line-height: 1.3;
+}
+
+/* @media screen and (min-width: 1920px) */
+.fl-spacing-8em {
+  height: 8em;
+}
+
+/* @media screen and (max-width: 991px) */
+.fl-70-37em-container {
+  width: 90%;
+}
+
+/* @media screen and (max-width: 767px) */
+.fl-work-hero-heading {
+  font-size: 3em;
+}

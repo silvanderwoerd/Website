@@ -1,0 +1,30 @@
+/* Live: section > .fl-spacing-8em, .fl-70-37em-container > h1.fl-work-hero-heading
+   (.tricks .u-show-on-load), .fl-spacing-4-5em */
+
+.section {
+  position: relative;
+}
+
+.before {
+  height: 8em;
+}
+
+.after {
+  height: 4.5em;
+}
+
+.container {
+  width: 100%;
+  max-width: 70.375em;
+  margin-inline: auto;
+}
+
+.heading {
+  text-align: center;
+}
+
+@media (max-width: 991px) {
+  .container {
+    width: 90%;
+  }
+}

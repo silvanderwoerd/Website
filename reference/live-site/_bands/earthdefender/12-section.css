@@ -1,0 +1,115 @@
+/* (base) */
+.section.overflow {
+  overflow: hidden;
+}
+.overflow {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+.relative-position {
+  position: relative;
+}
+.font-weight-black {
+  font-weight: 900;
+}
+.black-bg {
+  background-color: var(--black);
+  position: relative;
+}
+.container-w3 {
+  width: 100%;
+  max-width: 58em;
+  margin-left: auto;
+  margin-right: auto;
+}
+.container-w3.black-bg {
+  max-width: 55em;
+}
+.text-effect-inner-ed {
+  text-align: center;
+  background-color: #000;
+  position: relative;
+  overflow: hidden;
+}
+.fl-about-what-we-believe-large-text-ed {
+  color: var(--white-11);
+  margin-bottom: 0;
+  font-size: 2.3em;
+  font-weight: 300;
+  line-height: 1.28;
+}
+.fl-earthdefender-fact-small {
+  z-index: 2;
+  grid-column-gap: 9em;
+  grid-row-gap: 3rem;
+  grid-template-rows: auto;
+  grid-template-columns: 1fr;
+  grid-auto-columns: 1fr;
+  margin-top: 2em;
+  margin-bottom: 1em;
+  padding: 2em 7em;
+  display: grid;
+  position: relative;
+}
+
+/* @media screen and (min-width: 1440px) */
+.container-w3.black-bg {
+  max-width: 48em;
+}
+
+/* @media screen and (min-width: 1920px) */
+.section {
+  color: #b27575;
+  -webkit-text-stroke-color: #0000;
+}
+.font-weight-black {
+  color: #fff;
+}
+.container-w3.black-bg {
+  text-align: left;
+  max-width: 48em;
+}
+.text-effect-inner-ed {
+  text-align: center;
+}
+.fl-about-what-we-believe-large-text-ed {
+  margin-bottom: 0;
+}
+.fl-earthdefender-fact-small {
+  text-align: left;
+  grid-template-columns: 1fr;
+  justify-items: center;
+  margin-top: 0;
+  margin-bottom: 2em;
+  padding-left: 8em;
+  padding-right: 8em;
+}
+
+/* @media screen and (max-width: 991px) */
+.fl-about-what-we-believe-large-text-ed {
+  margin-bottom: 1em;
+}
+.fl-earthdefender-fact-small {
+  grid-template-rows: auto auto;
+  grid-template-columns: 1fr;
+  width: 100%;
+}
+
+/* @media screen and (max-width: 767px) */
+.fl-earthdefender-fact-small {
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+/* @media screen and (max-width: 479px) */
+.fl-about-what-we-believe-large-text-ed {
+  margin-bottom: 0;
+}
+.fl-earthdefender-fact-small {
+  grid-template-rows: auto;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+}

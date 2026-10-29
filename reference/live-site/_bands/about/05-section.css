@@ -1,0 +1,300 @@
+/* (base) */
+.section.overflow {
+  overflow: hidden;
+}
+.button-link-content-act {
+  z-index: 1;
+  grid-column-gap: 4px;
+  grid-row-gap: 10px;
+  display: flex;
+}
+.arrow-button {
+  font-family: Filled Icon;
+}
+.underline-button {
+  background-color: #ffffff40;
+  width: 100%;
+  height: 1px;
+  position: relative;
+}
+.link-progress-bar {
+  background-color: #fff;
+  width: 0;
+  height: 1px;
+  position: absolute;
+  inset: 0% auto auto 0%;
+}
+.overflow {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+.relative-position {
+  position: relative;
+}
+.text-color-blue {
+  color: #126983;
+}
+.fl-button-link-act {
+  z-index: 1;
+  color: #fff;
+  letter-spacing: .1em;
+  font-size: .875em;
+  font-weight: 400;
+  position: relative;
+}
+.fl-button-link-act.cc-partners {
+  margin-top: 1.75em;
+}
+.fl-eyebrow {
+  letter-spacing: .04375em;
+  text-transform: uppercase;
+  white-space: nowrap;
+  margin-top: 1.5em;
+  margin-bottom: 0;
+  font-size: .6875em;
+  line-height: 1;
+}
+.fl-eyebrow.cc-about-what-we-believe {
+  margin-bottom: 2em;
+  font-size: .8em;
+}
+.font-weight-black {
+  font-weight: 900;
+}
+.fl-about-what-we-believe-split {
+  z-index: 2;
+  grid-column-gap: 9em;
+  grid-row-gap: 3rem;
+  grid-template-rows: auto;
+  grid-template-columns: 1fr;
+  grid-auto-columns: 1fr;
+  margin-top: 4em;
+  margin-bottom: 4em;
+  padding: 2em 7em;
+  display: grid;
+  position: relative;
+}
+.fl-about-what-we-believe-video {
+  z-index: 2;
+  grid-column-gap: 9em;
+  grid-row-gap: 3rem;
+  grid-template-rows: auto;
+  grid-template-columns: 1fr 1fr;
+  grid-auto-columns: 1fr;
+  margin-bottom: 4em;
+  padding-bottom: 2em;
+  padding-left: 5.375em;
+  padding-right: 5.375em;
+  position: relative;
+}
+.fl-project-video-container {
+  box-sizing: border-box;
+  grid-column-gap: 16px;
+  grid-row-gap: 16px;
+  aspect-ratio: auto;
+  grid-template-rows: auto auto;
+  grid-template-columns: 1fr 1fr;
+  grid-auto-columns: 1fr;
+  margin-left: 75px;
+  padding-left: 2em;
+  padding-right: 2em;
+  display: block;
+}
+.fl-project-video {
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  position: relative;
+}
+.hover-link-wrapper {
+  z-index: 99;
+  opacity: 1;
+  justify-content: center;
+  align-items: center;
+  width: 32em;
+  height: 32em;
+  padding: 24px;
+  display: flex;
+  position: absolute;
+  top: auto;
+  left: auto;
+}
+.hover-link {
+  aspect-ratio: 1;
+  color: #fff;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  cursor: pointer;
+  background-color: #fff0;
+  border: 1px solid #fff;
+  border-radius: 100%;
+  justify-content: center;
+  align-items: center;
+  width: 9em;
+  font-size: 11px;
+  text-decoration: none;
+  display: flex;
+  position: absolute;
+}
+.project-video-embed {
+  width: 100%;
+  height: 100%;
+}
+.black-bg {
+  background-color: var(--black);
+  position: relative;
+}
+.container-w3 {
+  width: 100%;
+  max-width: 58em;
+  margin-left: auto;
+  margin-right: auto;
+}
+.container-w3.black-bg {
+  max-width: 55em;
+}
+.paragraph {
+  color: #7f7f7f;
+  margin-top: 25px;
+  font-family: Lato, sans-serif;
+  font-size: 1.5rem;
+  font-weight: 300;
+}
+.text-effect-inner {
+  text-align: left;
+  background-color: #000;
+  position: relative;
+  overflow: hidden;
+}
+.fl-about-what-we-believe-large-text-test {
+  color: var(--white-11);
+  margin-bottom: 0;
+  font-size: 2.3em;
+  font-weight: 300;
+  line-height: 1.28;
+}
+
+/* @media screen and (min-width: 1280px) */
+.fl-project-video-container {
+  object-fit: none;
+  margin-bottom: -36px;
+  margin-right: 70px;
+  padding-top: 0;
+  padding-right: 2.7em;
+}
+
+/* @media screen and (min-width: 1440px) */
+.container-w3.black-bg {
+  max-width: 48em;
+}
+
+/* @media screen and (min-width: 1920px) */
+.section {
+  color: #b27575;
+  -webkit-text-stroke-color: #0000;
+}
+.underline-button {
+  margin-bottom: 0;
+}
+.fl-button-link-act.cc-partners {
+  text-align: left;
+  padding-left: 0;
+  position: relative;
+}
+.fl-eyebrow.cc-about-what-we-believe {
+  margin-bottom: 2em;
+}
+.font-weight-black {
+  color: #fff;
+}
+.fl-about-what-we-believe-split {
+  text-align: left;
+  grid-template-columns: 1fr;
+  justify-items: center;
+  padding-left: 8em;
+  padding-right: 8em;
+}
+.hover-link {
+  width: 10em;
+}
+.project-video-embed {
+  flex: 0 auto;
+}
+.container-w3.black-bg {
+  text-align: left;
+  max-width: 48em;
+}
+.paragraph {
+  text-align: left;
+  font-size: 2rem;
+}
+.text-effect-inner {
+  text-align: left;
+}
+.fl-about-what-we-believe-large-text-test {
+  margin-bottom: 0;
+}
+
+/* @media screen and (max-width: 991px) */
+.fl-about-what-we-believe-split {
+  grid-template-rows: auto auto;
+  grid-template-columns: 1fr;
+  width: 100%;
+}
+.fl-about-what-we-believe-video {
+  grid-template-rows: auto auto;
+  grid-template-columns: 1fr;
+  width: 100%;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+.fl-project-video-container {
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 0;
+  padding-right: 0;
+}
+.hover-link-wrapper {
+  display: none;
+}
+.project-video-embed {
+  align-self: auto;
+}
+.fl-about-what-we-believe-large-text-test {
+  margin-bottom: 1em;
+}
+
+/* @media screen and (max-width: 767px) */
+.fl-about-what-we-believe-split {
+  padding-left: 1em;
+  padding-right: 1em;
+}
+.project-video-embed {
+  flex: 0 auto;
+}
+
+/* @media screen and (max-width: 479px) */
+.fl-project-video-container {
+  box-sizing: border-box;
+  aspect-ratio: 16 / 9;
+  text-align: left;
+  object-fit: cover;
+  width: 100%;
+  height: auto;
+  margin-left: 0;
+  display: block;
+}
+.fl-project-video {
+  height: auto;
+}
+.project-video-embed {
+  box-sizing: border-box;
+  aspect-ratio: auto;
+  object-fit: fill;
+  width: 100%;
+  min-width: 5px;
+  height: auto;
+}

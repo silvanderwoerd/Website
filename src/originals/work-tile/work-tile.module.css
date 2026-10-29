@@ -1,0 +1,69 @@
+/* Live: .fl-work-wrapper, .fl-work-background-video (.w-background-video > video),
+   .fl-font-size-1-5em, .fl-font-size-2-5em.font-weight-black, .fl-work-image-cover,
+   .cover-image */
+
+.tile {
+  position: relative;
+  display: block;
+  width: 100%;
+  padding-top: 42%;
+  color: inherit;
+  text-decoration: none;
+}
+
+.videoBox {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  width: auto;
+  height: auto;
+  color: var(--color-white);
+  text-align: center;
+}
+
+.video {
+  position: absolute;
+  inset: -100%;
+  z-index: -100;
+  width: 100%;
+  height: 100%;
+  margin: auto;
+  object-fit: cover;
+  background-size: cover;
+  background-position: 50%;
+}
+
+.title {
+  color: var(--color-white);
+}
+
+.cover {
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+  opacity: 1;
+  transition: opacity var(--duration-fast);
+}
+
+.cover:hover {
+  opacity: 0;
+}
+
+.image {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+@media (max-width: 991px) {
+  .cover {
+    opacity: 0;
+  }
+}

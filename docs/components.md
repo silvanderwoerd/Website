@@ -244,6 +244,23 @@ Another website inside the page (Team Forest's sign-up), passing the wheel on so
 
 The "View More Work" button closing every project. Content: `button`.
 
+## Main-page stripes (Work, About, Act, Contact, the campaign pages)
+
+### `page-heading`
+
+A page's big centred title (`page-title` style), rising in word by word 1.3s after load,
+between an 8em and a 4.5em space (live `/work` heading). Content: `heading`.
+
+### `work-grid`
+
+Every project as a `work-tile`, two to a row (one from 767 down). Content: `tiles[]`.
+
+### `work-tile` (block)
+
+A project's still over its clip (`BackgroundVideo`); on hover the still fades away
+(200ms). From tablet down the still is hidden: the clip with client and title shows.
+Content: `href`, `client`, `title`, `image`, `video`.
+
 ## News stripes (News, the Post and Category templates)
 
 The news pages use the fixed `news-*` text styles (decisions #4) and

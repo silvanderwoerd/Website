@@ -1,0 +1,470 @@
+{
+  "slug": "work",
+  "title": "Our Work | Studio Birthplace",
+  "description": "We believe in the power of storytelling to ignite change. Our stories are your call-to-action.",
+  "family": "fluid",
+  "background": "black",
+  "stripes": [
+    {
+      "id": "heading",
+      "type": "page-heading",
+      "content": {
+        "heading": "Our Work"
+      }
+    },
+    {
+      "id": "projects",
+      "type": "work-grid",
+      "content": {
+        "tiles": [
+          {
+            "href": "/work/team-forest",
+            "client": "WWF",
+            "title": "Team Forest",
+            "image": {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6a1da43d19aae3d444713a2d_WWF.TeamForest.STILLS_1.16.6-optimized.jpg",
+              "alt": ""
+            },
+            "video": {
+              "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F6a27dd8f9b66286104503742_TeamForest-WorkPage_poster.0000000.jpg",
+              "mp4": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F6a27dd8f9b66286104503742_TeamForest-WorkPage_mp4.mp4",
+              "webm": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F6a27dd8f9b66286104503742_TeamForest-WorkPage_webm.webm"
+            }
+          },
+          {
+            "href": "/work/oilympics",
+            "client": "Greenpeace",
+            "title": "Oilympics",
+            "image": {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/69813d92185128beb47ec743_Oilympics_3.1.2-optimized.jpg",
+              "alt": ""
+            },
+            "video": {
+              "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F6981c090067b05b5ea1bc25a_Oilympics-WorkPage_poster.0000000.jpg",
+              "mp4": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F6981c090067b05b5ea1bc25a_Oilympics-WorkPage_mp4.mp4",
+              "webm": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F6981c090067b05b5ea1bc25a_Oilympics-WorkPage_webm.webm"
+            }
+          },
+          {
+            "href": "/work/coral-catch",
+            "client": "Coral Catch",
+            "title": "To Love and Protect",
+            "image": {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/696fbac23aa2a23d4b035b76_coralcatch-youtubethumbnail.jpg",
+              "alt": "Three female scuba divers floating on the surface of the ocean wearing full diving gear and masks."
+            },
+            "video": {
+              "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F69709b3da9bb66c6dd736c93_CoralCatch-Work-Final_poster.0000000.jpg",
+              "mp4": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F69709b3da9bb66c6dd736c93_CoralCatch-Work-Final_mp4.mp4",
+              "webm": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F69709b3da9bb66c6dd736c93_CoralCatch-Work-Final_webm.webm"
+            }
+          },
+          {
+            "href": "/work/hutan",
+            "client": "Hutan",
+            "title": "The Forest in Her Hands",
+            "image": {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6aa8f682a6c3703be6e70679_Hutan.stills.08..jpg",
+              "alt": "Through the hands of Hutan’s Indigenous Orang Sungai women, a damaged rainforest begins to find balance again."
+            },
+            "video": {
+              "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F6aaf4eeeba693cfeb25a0dd9_Hutan.cutdown_poster.0000000.jpg",
+              "mp4": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F6aaf4eeeba693cfeb25a0dd9_Hutan.cutdown_mp4.mp4",
+              "webm": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F6aaf4eeeba693cfeb25a0dd9_Hutan.cutdown_webm.webm"
+            }
+          },
+          {
+            "href": "/earthdefender",
+            "client": "Novo Amor",
+            "title": "Earth Defender",
+            "image": {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6739903e53821f6427a498bd_cover.image.earthdefender.avif",
+              "alt": ""
+            },
+            "video": {
+              "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F67398efde3d20c0de400f800_EarthDefendercutdown-poster-00001.jpg",
+              "mp4": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F67398efde3d20c0de400f800_EarthDefendercutdown-transcode.mp4",
+              "webm": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F67398efde3d20c0de400f800_EarthDefendercutdown-transcode.webm"
+            }
+          },
+          {
+            "href": "/work/woolmark-wear-wool-not-waste",
+            "client": "Woolmark",
+            "title": "Wear Wool, Not Waste",
+            "image": {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66f127352f26f5317df34829_Woolmark.stills.06.jpg",
+              "alt": "Woman in a brown coat and blue dress walking on a city street as an animated zombie mob of clothing rushes by."
+            },
+            "video": {
+              "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F66f1260885465035574d46ab_WearWoolNotWastecutdown-poster-00001.jpg",
+              "mp4": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F66f1260885465035574d46ab_WearWoolNotWastecutdown-transcode.mp4",
+              "webm": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F66f1260885465035574d46ab_WearWoolNotWastecutdown-transcode.webm"
+            }
+          },
+          {
+            "href": "/work/gpmoneytrees",
+            "client": "Greenpeace",
+            "title": "MoneyTrees",
+            "image": {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/664daec16f6b5d148e705f2a_NatureFirst.thumbnail2.webp",
+              "alt": "Close-up of a man with a mustache yelling with mouth wide open, another man in a white shirt and jacket blurred in the background."
+            },
+            "video": {
+              "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F664dae09f1c8b13302aaabb2_MoneyTreescutdown-poster-00001.jpg",
+              "mp4": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F664dae09f1c8b13302aaabb2_MoneyTreescutdown-transcode.mp4",
+              "webm": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F664dae09f1c8b13302aaabb2_MoneyTreescutdown-transcode.webm"
+            }
+          },
+          {
+            "href": "/work/broken-wings",
+            "client": "Ludovico Einaudi",
+            "title": "Broken Wings",
+            "image": {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65b964d634f31ab85a4d8085_BrokenWings.STILL_2.22.2.jpg",
+              "alt": "Small brown bird imprisoned inside a small hollow tube."
+            },
+            "video": {
+              "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/648513dadc26172c42df9f77_FeaturedWorkBrokenWings-poster-00001.jpg",
+              "mp4": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/648513dadc26172c42df9f77_FeaturedWorkBrokenWings-transcode.mp4",
+              "webm": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/648513dadc26172c42df9f77_FeaturedWorkBrokenWings-transcode.webm"
+            }
+          },
+          {
+            "href": "/work/change-drivers",
+            "client": "Discovery",
+            "title": "Change Drivers",
+            "image": {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66d5633222823690aecfc547_Melati.Cover6.jpg",
+              "alt": ""
+            },
+            "video": {
+              "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F66d5612ad8889d4c920fb3bf_ChangeDrivers2cutdown-poster-00001.jpg",
+              "mp4": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F66d5612ad8889d4c920fb3bf_ChangeDrivers2cutdown-transcode.mp4",
+              "webm": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F66d5612ad8889d4c920fb3bf_ChangeDrivers2cutdown-transcode.webm"
+            }
+          },
+          {
+            "href": "/work/woolmark",
+            "client": "Woolmark",
+            "title": "Wear Wool, Not Fossil Fuel",
+            "image": {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65c8b94300010f798a59c10e_Cover.Image.jpg",
+              "alt": "Three humans completely covered in oil swimming through a pool of oil."
+            },
+            "video": {
+              "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6486106ba369abe711f9c50a_FeaturedWorkWoolmark-poster-00001.jpg",
+              "mp4": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6486106ba369abe711f9c50a_FeaturedWorkWoolmark-transcode.mp4",
+              "webm": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6486106ba369abe711f9c50a_FeaturedWorkWoolmark-transcode.webm"
+            }
+          },
+          {
+            "href": "/work/total-pollution",
+            "client": "Greenpeace",
+            "title": "TotalPollution",
+            "image": {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65b9798fbcedb4541bc0819e_TotalPollution_1.14.3%20(1).jpg",
+              "alt": "An animated rugby player is being submerged in swirling dark oil."
+            },
+            "video": {
+              "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5cb52fb1ae78926972b4b_TotalPollutioncutdown-poster-00001.jpg",
+              "mp4": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5cb52fb1ae78926972b4b_TotalPollutioncutdown-transcode.mp4",
+              "webm": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5cb52fb1ae78926972b4b_TotalPollutioncutdown-transcode.webm"
+            }
+          },
+          {
+            "href": "/work/respect-the-amazon",
+            "client": "Greenpeace",
+            "title": "Respect The Amazon",
+            "image": {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/68b47fac9e1e0b057c933199_RespectTheAmazon.Thumbnail.jpg",
+              "alt": "Two animated figures clinking champagne glasses amid stacks of money, gold bars, and red jewels, celebrating as destruction happens around them."
+            },
+            "video": {
+              "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F68bae19be357841d7c1320fc_WebsiteVideo-smaller-poster-00001.jpg",
+              "mp4": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F68bae19be357841d7c1320fc_WebsiteVideo-smaller-transcode.mp4",
+              "webm": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F68bae19be357841d7c1320fc_WebsiteVideo-smaller-transcode.webm"
+            }
+          },
+          {
+            "href": "/work/wasteminster",
+            "client": "Greenpeace",
+            "title": "Wasteminster",
+            "image": {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/649a3abf2c9c98621488d7c1_Wasteminster.Cover.webp",
+              "alt": "Animated figure resembling Boris Johnson in a suit and tie, raising his index finger and speaking emphatically."
+            },
+            "video": {
+              "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/648610ba48d5ac597d974bb9_FeaturedWorkWasteminster-poster-00001.jpg",
+              "mp4": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/648610ba48d5ac597d974bb9_FeaturedWorkWasteminster-transcode.mp4",
+              "webm": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/648610ba48d5ac597d974bb9_FeaturedWorkWasteminster-transcode.webm"
+            }
+          },
+          {
+            "href": "/work/birthplace",
+            "client": "Novo Amor",
+            "title": "Birthplace",
+            "image": {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d21e6579eb647c98632c75_Edit_02.00_03_40_04.Still107.jpg",
+              "alt": "Silhouette of a diver underwater facing a large whale made up of ocean trash."
+            },
+            "video": {
+              "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5c87fc7915f7e370f065b_Birthplacecutdown-poster-00001.jpg",
+              "mp4": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5c87fc7915f7e370f065b_Birthplacecutdown-transcode.mp4",
+              "webm": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5c87fc7915f7e370f065b_Birthplacecutdown-transcode.webm"
+            }
+          },
+          {
+            "href": "/work/canopy",
+            "client": "Canopy Planet",
+            "title": "Pack4Good",
+            "image": {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66a1fffe240b9b702b2952d3_Canopy_stills.06.avif",
+              "alt": "Man in dark clothing standing on a deserted city street watching as the street is engulfed by fallen trees."
+            },
+            "video": {
+              "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F66a20cbc81a32399f175e834_Canopycutdown-poster-00001.jpg",
+              "mp4": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F66a20cbc81a32399f175e834_Canopycutdown-transcode.mp4",
+              "webm": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F66a20cbc81a32399f175e834_Canopycutdown-transcode.webm"
+            }
+          },
+          {
+            "href": "/work/world-on-fire",
+            "client": "Greenpeace",
+            "title": "World On Fire",
+            "image": {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66ea536d616d2f1801733ba0_worldonfire.banner.jpg",
+              "alt": "Close-up of a frontliner in the Pantanal forests, a woman in glasses and a cap as a wildfire is burning in the background at night."
+            },
+            "video": {
+              "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F66ea6865d8d50a160f766da1_WorldOnFirecutdown-poster-00001.jpg",
+              "mp4": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F66ea6865d8d50a160f766da1_WorldOnFirecutdown-transcode.mp4",
+              "webm": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F66ea6865d8d50a160f766da1_WorldOnFirecutdown-transcode.webm"
+            }
+          },
+          {
+            "href": "/work/water-witness",
+            "client": "Water Witness",
+            "title": "Inequality by the Gallon",
+            "image": {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/69adda3643643da3cb1d67aa_WW-Cover.jpg",
+              "alt": ""
+            },
+            "video": {
+              "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F69b3ed259ca972a3f4d9c72d_WW-WorkPage-Video_poster.0000000.jpg",
+              "mp4": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F69b3ed259ca972a3f4d9c72d_WW-WorkPage-Video_mp4.mp4",
+              "webm": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F69b3ed259ca972a3f4d9c72d_WW-WorkPage-Video_webm.webm"
+            }
+          },
+          {
+            "href": "/work/haze",
+            "client": "Greenpeace",
+            "title": "Haze: Coming Soon",
+            "image": {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5cd20ff904c4f263df23d_Hzae.thumbnail.jpg",
+              "alt": "A  group of protestors on a city street in Malaysia, as their ringleader in a black beret looks up in horror at their foe."
+            },
+            "video": {
+              "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5cdd0cd087530ed002daf_Hazezillacutdown-poster-00001.jpg",
+              "mp4": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5cdd0cd087530ed002daf_Hazezillacutdown-transcode.mp4",
+              "webm": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5cdd0cd087530ed002daf_Hazezillacutdown-transcode.webm"
+            }
+          },
+          {
+            "href": "/work/dangerous-lies",
+            "client": "Greenpeace",
+            "title": "Dangerous Lies",
+            "image": {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5d02aff651e0fcdf654d3_DangerousLies.thumbnail.jpg",
+              "alt": "Two people in a small boat on a river surrounded by industrial oil pumps and thick smoke under a cloudy sky."
+            },
+            "video": {
+              "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5cf30a40130d259eed3ed_DangerousLiescutdown-poster-00001.jpg",
+              "mp4": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5cf30a40130d259eed3ed_DangerousLiescutdown-transcode.mp4",
+              "webm": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5cf30a40130d259eed3ed_DangerousLiescutdown-transcode.webm"
+            }
+          },
+          {
+            "href": "/work/sleepless-repeat-until-death",
+            "client": "Novo Amor",
+            "title": "Repeat Until Death",
+            "image": {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5eca0b4417479c14709d0_RUD.thumbnail.jpg",
+              "alt": "Close-up of a little girl gently touching noses with a white reindeer."
+            },
+            "video": {
+              "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5ebad1645118d7838badb_RUDcutdown-poster-00001.jpg",
+              "mp4": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5ebad1645118d7838badb_RUDcutdown-transcode.mp4",
+              "webm": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5ebad1645118d7838badb_RUDcutdown-transcode.webm"
+            }
+          },
+          {
+            "href": "/work/terraform",
+            "client": "Novo Amor & Lowswimmer",
+            "title": "Terraform",
+            "image": {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5ee32041b0365667a90b3_Terraform.thumbnail.jpg",
+              "alt": "Man lying down with eyes open and facing the camera, in between his young daughter and his wife who are both asleep."
+            },
+            "video": {
+              "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5ed6d1d7bd464eb04bf8d_Terraformcutdown-poster-00001.jpg",
+              "mp4": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5ed6d1d7bd464eb04bf8d_Terraformcutdown-transcode.mp4",
+              "webm": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5ed6d1d7bd464eb04bf8d_Terraformcutdown-transcode.webm"
+            }
+          },
+          {
+            "href": "/work/mantra",
+            "client": "Noisia",
+            "title": "Mantra",
+            "image": {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65cf04fea6d20cc1e183a319_MantraCover.Image.jpg",
+              "alt": "A refugee standing in shallow ocean water at sunset with people in life jackets splashing around him."
+            },
+            "video": {
+              "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5c9058d37a3a0a4622b00_Mantracutdown-poster-00001.jpg",
+              "mp4": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5c9058d37a3a0a4622b00_Mantracutdown-transcode.mp4",
+              "webm": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5c9058d37a3a0a4622b00_Mantracutdown-transcode.webm"
+            }
+          },
+          {
+            "href": "/work/humanitys-impact",
+            "client": "Studio Birthplace",
+            "title": "Humanity's Impact",
+            "image": {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5dd56aded346cf3b9af62_Humanitysimpact.thumbnail.jpg",
+              "alt": "An animated person standing near a mailbox as a mountain of plastic bottles is about to engulf them."
+            },
+            "video": {
+              "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5dce363b25e63550df422_HumanitysImpactcutdown-poster-00001.jpg",
+              "mp4": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5dce363b25e63550df422_HumanitysImpactcutdown-transcode.mp4",
+              "webm": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5dce363b25e63550df422_HumanitysImpactcutdown-transcode.webm"
+            }
+          },
+          {
+            "href": "/work/epoch",
+            "client": "Oliver Spalding",
+            "title": "Epoch",
+            "image": {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5f09a229ab5b78a1b9af7_Epoch.thumbnail.jpg",
+              "alt": "A boy with a serious expression stands in a dimly lit store aisle with snack packages on shelves, while a girl with long hair walks away in the background."
+            },
+            "video": {
+              "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5ee9158ca2a11f5d81d46_Epochcutdown-poster-00001.jpg",
+              "mp4": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5ee9158ca2a11f5d81d46_Epochcutdown-transcode.mp4",
+              "webm": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5ee9158ca2a11f5d81d46_Epochcutdown-transcode.webm"
+            }
+          },
+          {
+            "href": "/work/drifters",
+            "client": "Studio Drift",
+            "title": "Drifters",
+            "image": {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/661de753156a71dee60b4b4c_Drifters.thumbnail.jpg",
+              "alt": "Times Square at night with numerous illuminated billboards displaying surreal landscape images featuring Drifters: floating concrete cubes and green mountains."
+            },
+            "video": {
+              "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/661de72f156a71dee60b1bc1_Drifterscutdown-poster-00001.jpg",
+              "mp4": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/661de72f156a71dee60b1bc1_Drifterscutdown-transcode.mp4",
+              "webm": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/661de72f156a71dee60b1bc1_Drifterscutdown-transcode.webm"
+            }
+          },
+          {
+            "href": "/work/sos",
+            "client": "Splash & Burn",
+            "title": "Save Our Souls",
+            "image": {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5fb71dff132f0810a991d_SOS.thumbnail.jpg",
+              "alt": ""
+            },
+            "video": {
+              "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5f9c0583c9c8b37d24e62_SOScutdown-poster-00001.jpg",
+              "mp4": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5f9c0583c9c8b37d24e62_SOScutdown-transcode.mp4",
+              "webm": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5f9c0583c9c8b37d24e62_SOScutdown-transcode.webm"
+            }
+          },
+          {
+            "href": "/work/jungle-heroes",
+            "client": "Studio Birthplace",
+            "title": "Jungle Heroes",
+            "image": {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5e6ec97eac4afa0e6ac4f_JungleHeroes.thumbnail.jpg",
+              "alt": ""
+            },
+            "video": {
+              "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F66def8e0a40cabf3ac36cda0_jungleheroes-cutdown-poster-00001.jpg",
+              "mp4": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F66def8e0a40cabf3ac36cda0_jungleheroes-cutdown-transcode.mp4",
+              "webm": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F66def8e0a40cabf3ac36cda0_jungleheroes-cutdown-transcode.webm"
+            }
+          },
+          {
+            "href": "/work/plastik",
+            "client": "Meshminds",
+            "title": "Plastik",
+            "image": {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5d132a40130d259efbc6b_Plastik.thumbnail.jpg",
+              "alt": "Close-up of a girl with dark hair looking intently while holding a toy telescope made from a plastic bottle close to her face."
+            },
+            "video": {
+              "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5d6d96db07543e05704f6_Plastikcutdown-poster-00001.jpg",
+              "mp4": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5d6d96db07543e05704f6_Plastikcutdown-transcode.mp4",
+              "webm": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5d6d96db07543e05704f6_Plastikcutdown-transcode.webm"
+            }
+          },
+          {
+            "href": "/work/rewild",
+            "client": "Splash & Burn",
+            "title": "Rewild",
+            "image": {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5f718d8dccc9390a00cb0_Rewild.thumbnail.jpg",
+              "alt": ""
+            },
+            "video": {
+              "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5eabcd8dccc93909a0729_Rewildcutdown-poster-00001.jpg",
+              "mp4": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5eabcd8dccc93909a0729_Rewildcutdown-transcode.mp4",
+              "webm": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5eabcd8dccc93909a0729_Rewildcutdown-transcode.webm"
+            }
+          },
+          {
+            "href": "/work/requiem-2019",
+            "client": "Sea Shepherd",
+            "title": "Requiem 2019",
+            "image": {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5fc445c55af768da969fa_Requim.thumbnail.jpg",
+              "alt": "Large blue whale floating above a person standing on a dark shoreline under a starry sky with scattered clouds."
+            },
+            "video": {
+              "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5fc56d920f97d1e5ebe6f_Requimcutdown-poster-00001.jpg",
+              "mp4": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5fc56d920f97d1e5ebe6f_Requimcutdown-transcode.mp4",
+              "webm": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5fc56d920f97d1e5ebe6f_Requimcutdown-transcode.webm"
+            }
+          },
+          {
+            "href": "/work/vhils",
+            "client": "Splash & Burn",
+            "title": "VHILS",
+            "image": {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5fe87c7915f7e3729a3cf_VHILS.thumbnail.jpg",
+              "alt": ""
+            },
+            "video": {
+              "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5ff207ee61577860892aa_VHILScutdown-poster-00001.jpg",
+              "mp4": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5ff207ee61577860892aa_VHILScutdown-transcode.mp4",
+              "webm": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d5ff207ee61577860892aa_VHILScutdown-transcode.webm"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "closing",
+      "type": "closing-cta",
+      "pageTone": "gradient",
+      "content": {
+        "heading": "We're here to tell stories that\nchange the world. You in?",
+        "button": {
+          "label": "Work With Us",
+          "href": "/contact"
+        }
+      }
+    }
+  ]
+}

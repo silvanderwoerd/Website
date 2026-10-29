@@ -1,0 +1,237 @@
+/* (base) */
+.margin-bottom {
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+}
+.section.overflow {
+  overflow: hidden;
+}
+.overflow {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+.relative-position {
+  position: relative;
+}
+.noise-overlay {
+  position: relative;
+  overflow: hidden;
+}
+.font-weight-black {
+  font-weight: 900;
+}
+.services-eyebrow {
+  color: var(--white-11);
+  text-align: left;
+  letter-spacing: .04375em;
+  text-transform: none;
+  white-space: nowrap;
+  margin-top: 0;
+  margin-bottom: 2em;
+  font-size: .8em;
+  line-height: 1;
+}
+.fl-awards-heading {
+  text-align: left;
+  margin-bottom: .2em;
+  font-size: 3.5em;
+  font-weight: 300;
+  line-height: 1.3;
+}
+.fl-our-collective-text {
+  z-index: 2;
+  grid-column-gap: 9em;
+  grid-row-gap: 3rem;
+  grid-template-rows: auto;
+  grid-template-columns: 30em 1fr;
+  grid-auto-columns: 1fr;
+  margin-top: 4em;
+  padding: 2em 8.375em;
+  display: grid;
+  position: relative;
+}
+.fl-collections {
+  z-index: 2;
+  grid-column-gap: 9em;
+  grid-row-gap: 3rem;
+  grid-template-rows: auto;
+  grid-template-columns: 30em 1fr;
+  grid-auto-columns: 1fr;
+  margin-bottom: 0;
+  padding: 2em 8.375em;
+  position: relative;
+}
+.fl-core-team-collection-wrapper {
+  margin-bottom: 4em;
+  margin-left: -1.5em;
+  margin-right: -1.5em;
+  display: block;
+}
+.fl-core-team-picture {
+  width: 100%;
+}
+.fl-core-team-member-wrapper {
+  width: 100%;
+  height: 100%;
+  color: var(--white-11);
+  font-size: 1em;
+  transition: all .5s cubic-bezier(.25, .46, .45, .94);
+  position: relative;
+}
+.fl-core-team-member-wrapper:hover {
+  transform: scale(.95);
+}
+.fl-core-team-bio-wrapper {
+  opacity: 1;
+  background-color: #0000006b;
+  justify-content: center;
+  align-items: center;
+  padding-top: 0;
+  padding-left: 1.9em;
+  padding-right: 1.9em;
+  font-size: 1.19em;
+  font-weight: 300;
+  transition: all .3s ease-in-out;
+  display: flex;
+  position: absolute;
+  inset: 0%;
+}
+.fl-core-team-bio-wrapper:hover {
+  opacity: 1;
+}
+.fl-core-team-rich-text {
+  color: var(--white-11);
+  font-size: .9em;
+}
+.fl-core-team-rich-text p {
+  color: var(--white-11);
+  font-weight: 300;
+}
+.fl-core-team-name-title {
+  z-index: 2;
+  padding-bottom: 1em;
+  padding-left: 1.2em;
+  padding-right: 1.9em;
+  position: absolute;
+  bottom: 0%;
+  left: 0%;
+  right: 0%;
+}
+.fl-core-team-member-name {
+  margin-bottom: 0;
+  font-size: 1.5em;
+  font-weight: 300;
+  transition: color .2s;
+}
+.fl-core-team-member-job-title {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: .8em;
+  font-weight: 700;
+  transition: color .2s;
+}
+.fl-widercollective-collection-list {
+  grid-column-gap: 16px;
+  grid-row-gap: 16px;
+  grid-template-rows: auto auto;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-auto-columns: 1fr;
+  display: grid;
+}
+#w-node-_02168c9b-d5f5-1f61-4b39-d99694a85e97-46b3eae5 {
+  grid-area: span 1 / span 1 / span 1 / span 1;
+}
+
+/* @media screen and (min-width: 1280px) */
+.fl-core-team-collection-wrapper {
+  margin-bottom: 1em;
+}
+
+/* @media screen and (min-width: 1920px) */
+.margin-bottom {
+  object-fit: fill;
+}
+.section {
+  color: #b27575;
+  -webkit-text-stroke-color: #0000;
+}
+.font-weight-black {
+  color: #fff;
+}
+.fl-our-collective-text {
+  grid-template-columns: 30em;
+  padding-bottom: 0;
+}
+.fl-collections {
+  margin-bottom: 0;
+}
+.fl-core-team-collection-wrapper {
+  margin-bottom: 1em;
+}
+.fl-core-team-rich-text {
+  line-height: 1.5;
+  position: static;
+}
+.fl-widercollective-collection-list {
+  grid-template-rows: auto auto;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+#w-node-_02168c9b-d5f5-1f61-4b39-d99694a85e97-46b3eae5 {
+  grid-area: span 1 / span 1 / span 1 / span 1;
+}
+
+/* @media screen and (max-width: 991px) */
+.margin-bottom {
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+}
+.fl-our-collective-text {
+  grid-template-rows: auto;
+  grid-template-columns: 1fr;
+  width: 100%;
+  padding-left: 7em;
+  padding-right: 7em;
+}
+.fl-collections {
+  grid-template-rows: auto auto;
+  grid-template-columns: 1fr;
+  width: 100%;
+  padding-left: 2em;
+  padding-right: 2em;
+}
+.fl-core-team-rich-text {
+  font-size: .7em;
+}
+.fl-widercollective-collection-list {
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+/* @media screen and (max-width: 767px) */
+.margin-bottom {
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+}
+.fl-awards-heading {
+  font-size: 2em;
+}
+.fl-our-collective-text {
+  padding-left: 1em;
+  padding-right: 1em;
+}
+.fl-core-team-rich-text,  .fl-core-team-member-job-title {
+  font-size: 1em;
+}
+.fl-widercollective-collection-list {
+  grid-template-columns: 1fr 1fr;
+}
+
+/* @media screen and (max-width: 479px) */
+.margin-bottom {
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+}

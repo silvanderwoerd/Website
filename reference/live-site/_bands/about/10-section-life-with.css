@@ -1,0 +1,23 @@
+/* (base) */
+.relative-position {
+  position: relative;
+}
+.noise-overlay {
+  position: relative;
+  overflow: hidden;
+}
+.section-life-with {
+  column-count: 3;
+  column-gap: .2em;
+  padding: 1em 1em 4em;
+}
+.section-life-with-image {
+  z-index: 2;
+  margin-bottom: .6em;
+  position: relative;
+}
+
+/* @media screen and (max-width: 767px) */
+.section-life-with {
+  column-count: 2;
+}

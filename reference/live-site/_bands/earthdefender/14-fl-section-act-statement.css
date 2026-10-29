@@ -1,0 +1,48 @@
+/* (base) */
+.fl-spacing-8em {
+  height: 8em;
+}
+.fl-act-statement-container {
+  width: 100%;
+  max-width: 62.75em;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+}
+.fl-act-statement {
+  color: var(--white-11);
+  text-align: center;
+  font-size: 2.6875em;
+  font-weight: 300;
+  line-height: 1.4;
+}
+.fl-section-act-statement {
+  position: relative;
+  overflow: hidden;
+}
+.fl-act-statement-bg {
+  object-fit: cover;
+  width: 100%;
+  height: 140%;
+  position: absolute;
+}
+.fl-act-bg-overlay {
+  background-color: #0000001a;
+  position: absolute;
+  inset: 0%;
+}
+
+/* @media screen and (min-width: 1920px) */
+.fl-spacing-8em {
+  height: 8em;
+}
+
+/* @media screen and (max-width: 991px) */
+.fl-act-statement-container {
+  width: 90%;
+}
+
+/* @media screen and (max-width: 767px) */
+.fl-act-statement {
+  font-size: 2em;
+}

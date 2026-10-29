@@ -1,0 +1,93 @@
+/* (base) */
+.cover-image {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  inset: 0%;
+}
+.font-weight-black {
+  font-weight: 900;
+}
+.fl-100--container {
+  width: 100%;
+  padding-left: .5em;
+  padding-right: .5em;
+}
+.fl-work-layout {
+  grid-column-gap: .5em;
+  grid-row-gap: .5em;
+  grid-template-rows: auto auto;
+  grid-template-columns: 1fr 1fr;
+  grid-auto-columns: 1fr;
+  display: grid;
+}
+.fl-work-wrapper {
+  width: 100%;
+  padding-top: 42%;
+  display: block;
+  position: relative;
+}
+.fl-work-background-video {
+  z-index: 1;
+  text-align: center;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: auto;
+  height: auto;
+  display: flex;
+  position: absolute;
+  inset: 0%;
+}
+.fl-font-size-1-5em {
+  font-size: 1.5em;
+}
+.fl-font-size-2-5em {
+  font-size: 2.5em;
+}
+.fl-work-image-cover {
+  z-index: 2;
+  opacity: 1;
+  transition: opacity .2s;
+  position: absolute;
+  inset: 0%;
+}
+.fl-work-image-cover:hover {
+  opacity: 0;
+}
+
+/* @media screen and (min-width: 1920px) */
+.cover-image {
+  aspect-ratio: auto;
+  position: absolute;
+  inset: 0%;
+}
+.font-weight-black {
+  color: #fff;
+}
+.fl-100--container {
+  padding-left: .5em;
+  padding-right: .5em;
+}
+
+/* @media screen and (max-width: 991px) */
+.fl-work-image-cover {
+  opacity: 0;
+}
+
+/* @media screen and (max-width: 767px) */
+.cover-image {
+  position: absolute;
+}
+.fl-work-layout {
+  grid-template-columns: 1fr;
+}
+
+/* @media screen and (max-width: 479px) */
+.fl-font-size-1-5em {
+  font-size: 1.2em;
+}
+.fl-font-size-2-5em.font-weight-black {
+  font-size: 2em;
+}

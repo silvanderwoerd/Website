@@ -1,0 +1,195 @@
+/* (base) */
+.section.overflow {
+  overflow: hidden;
+}
+.overflow {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+.relative-position {
+  position: relative;
+}
+.font-weight-black {
+  font-weight: 900;
+}
+.button-text {
+  z-index: 10;
+  letter-spacing: 0;
+  text-transform: capitalize;
+  font-size: 1.2em;
+  position: relative;
+}
+.black-bg {
+  background-color: var(--black);
+  position: relative;
+}
+.container-w3 {
+  width: 100%;
+  max-width: 58em;
+  margin-left: auto;
+  margin-right: auto;
+}
+.container-w3.black-bg {
+  max-width: 55em;
+}
+.text-effect-inner-ed {
+  text-align: center;
+  background-color: #000;
+  position: relative;
+  overflow: hidden;
+}
+.fl-about-what-we-believe-large-text-ed {
+  color: var(--white-11);
+  margin-bottom: 0;
+  font-size: 2.3em;
+  font-weight: 300;
+  line-height: 1.28;
+}
+.fl-spacing-3em {
+  height: 3.5em;
+}
+.fl-earthdefender-fact {
+  z-index: 2;
+  grid-column-gap: 9em;
+  grid-row-gap: 3rem;
+  grid-template-rows: auto;
+  grid-template-columns: 1fr;
+  grid-auto-columns: 1fr;
+  margin-top: 4em;
+  margin-bottom: 1em;
+  padding: 2em 7em;
+  display: grid;
+  position: relative;
+}
+.fl-spacing-6em {
+  height: 6em;
+}
+.container-ed {
+  max-width: 250px;
+}
+.button-ed {
+  color: #fff;
+  text-align: center;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  background-color: #090b19;
+  border: 1px solid #090b19;
+  border-radius: 100px;
+  justify-content: center;
+  align-items: center;
+  margin-left: 0;
+  margin-right: 0;
+  padding: 16px 28px;
+  font-size: 11px;
+  text-decoration: none;
+  transition: all .4s cubic-bezier(.25, .46, .45, .94);
+  display: flex;
+  position: relative;
+  overflow: hidden;
+}
+.button-ed:hover {
+  color: #090b19;
+  background-color: #e2e7f1;
+  border-color: #e2e7f1;
+}
+.button-ed.white-outline {
+  background-color: #000;
+  border-style: solid;
+  border-color: #ffffffbf;
+  padding: 15px 32px;
+}
+.button-ed.white-outline:hover {
+  color: #fff;
+  background-color: #090b19;
+  border-color: #090b19;
+}
+.fl-section-act-ed {
+  padding-top: 1em;
+  padding-bottom: 2em;
+}
+
+/* @media screen and (min-width: 1440px) */
+.container-w3.black-bg {
+  max-width: 48em;
+}
+
+/* @media screen and (min-width: 1920px) */
+.section {
+  color: #b27575;
+  -webkit-text-stroke-color: #0000;
+}
+.font-weight-black {
+  color: #fff;
+}
+.button-text {
+  font-size: 1.6em;
+}
+.container-w3.black-bg {
+  text-align: left;
+  max-width: 48em;
+}
+.text-effect-inner-ed {
+  text-align: center;
+}
+.fl-about-what-we-believe-large-text-ed {
+  margin-bottom: 0;
+}
+.fl-spacing-3em {
+  height: 3.5em;
+}
+.fl-earthdefender-fact {
+  text-align: left;
+  grid-template-columns: 1fr;
+  justify-items: center;
+  margin-bottom: 1em;
+  padding-left: 8em;
+  padding-right: 8em;
+}
+.fl-spacing-6em {
+  height: 6em;
+}
+.container-ed {
+  text-align: center;
+  max-width: 350px;
+}
+.button-ed.white-outline {
+  background-color: var(--black);
+  border-color: #fff;
+  padding: 18px 32px;
+}
+.fl-section-act-ed {
+  padding-top: 1em;
+  padding-bottom: 2em;
+}
+
+/* @media screen and (max-width: 991px) */
+.fl-about-what-we-believe-large-text-ed {
+  margin-bottom: 1em;
+}
+.fl-earthdefender-fact {
+  grid-template-rows: auto auto;
+  grid-template-columns: 1fr;
+  width: 100%;
+}
+
+/* @media screen and (max-width: 767px) */
+.fl-earthdefender-fact {
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+/* @media screen and (max-width: 479px) */
+.fl-about-what-we-believe-large-text-ed {
+  margin-bottom: 0;
+}
+.fl-earthdefender-fact {
+  grid-template-rows: auto;
+  margin-top: 2em;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+.fl-section-act-ed {
+  margin-top: 2em;
+  padding-top: 2em;
+}

@@ -1,0 +1,24 @@
+/* Live: section > .fl-100--container > .fl-work-layout */
+
+.section {
+  position: relative;
+}
+
+.container {
+  width: 100%;
+  padding-inline: 0.5em;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto auto;
+  grid-auto-columns: 1fr;
+  gap: 0.5em;
+}
+
+@media (max-width: 767px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
+}

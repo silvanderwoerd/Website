@@ -4,4 +4,3 @@
 /contact
 /earthdefender
 /empowerchildren
-/work

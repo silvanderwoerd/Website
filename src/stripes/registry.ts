@@ -2,6 +2,8 @@
 
 import type { ComponentType } from "react";
 import type { StripeProps } from "./types";
+import { WorkGrid } from "@/originals/work-grid/WorkGrid";
+import { PageHeading } from "@/originals/page-heading/PageHeading";
 import { Campaign } from "@/originals/campaign/Campaign";
 import { ClosingCta } from "@/originals/closing-cta/ClosingCta";
 import { Cta } from "@/originals/cta/Cta";
@@ -59,6 +61,8 @@ export const registry: Record<string, ComponentType<StripeProps>> = {
   testimonials: Testimonials,
   text: Text,
   "text-on-image": TextOnImage,
+  "page-heading": PageHeading,
+  "work-grid": WorkGrid,
   // Dev-only stripes are left out of production builds entirely.
   ...(isDev ? { "test-stripe": TestStripe } : {}),
 };

@@ -1,0 +1,47 @@
+/* (base) */
+.preloader {
+  z-index: 10000;
+  justify-content: center;
+  align-items: center;
+  display: none;
+  position: fixed;
+  inset: 0%;
+}
+.preloader-progress {
+  z-index: 25;
+  background-color: #fff3;
+  width: 40%;
+  max-width: 250px;
+  height: 113px;
+  position: relative;
+  -webkit-mask-image: url("https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/67843fc39d5a3853e1a4e755_mask-logo.avif");
+  mask-image: url("https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/67843fc39d5a3853e1a4e755_mask-logo.avif");
+  -webkit-mask-size: 250px 113px;
+  mask-size: 250px 113px;
+}
+.preloader-fill {
+  background-color: #fff;
+  width: 20%;
+  height: 100%;
+  -webkit-mask-image: url("https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/67843fc39d5a3853e1a4e755_mask-logo.avif");
+  mask-image: url("https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/67843fc39d5a3853e1a4e755_mask-logo.avif");
+  -webkit-mask-size: 250px 113px;
+  mask-size: 250px 113px;
+}
+.preloader-top {
+  background-color: var(--black-3);
+  height: 50%;
+  position: absolute;
+  inset: 0% 0% auto;
+}
+.preloader-bottom {
+  background-color: var(--black-3);
+  height: 50%;
+  position: absolute;
+  inset: auto 0% 0%;
+}
+
+/* @media screen and (max-width: 767px) */
+.preloader-progress {
+  width: 100%;
+}

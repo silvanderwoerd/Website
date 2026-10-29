@@ -1,0 +1,23 @@
+/* (base) */
+.page-background {
+  z-index: 0;
+  background-color: #000;
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+}
+.page-background-gradient {
+  opacity: 0;
+  background-image: radial-gradient(circle farthest-side at 0 0, #304047, #121b22);
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+}
+.page-background-partners {
+  opacity: 0;
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  inset: 0%;
+}

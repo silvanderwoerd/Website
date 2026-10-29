@@ -36,12 +36,15 @@ import { schema as testStripe } from "./test-stripe/schema";
 import { schema as testimonials } from "./testimonials/schema";
 import { schema as text } from "./text/schema";
 import { schema as textOnImage } from "./text-on-image/schema";
+import { schema as pageHeading } from "./page-heading/schema";
+import { schema as workGrid } from "./work-grid/schema";
+import { schema as workTile } from "./work-tile/schema";
 
 const isDev = process.env.NODE_ENV === "development";
 
 export const schemas: Record<string, OriginalSchema> = Object.fromEntries(
   [
-    arrowLink, button, campaign, closingCta, cta, embed, episode, featuredWork, film, footer, gallery, hero,
+    workTile, workGrid, pageHeading, arrowLink, button, campaign, closingCta, cta, embed, episode, featuredWork, film, footer, gallery, hero,
     instafilter, latestNews, moreWork, nav, newsList, pageBackground, partners, phones, postBody, postHeader,
     posters, preloader, projectDetails, projectTile, quote, relatedPosts, statement, stats, testimonials, text, textOnImage,
   ]
