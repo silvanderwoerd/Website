@@ -4,13 +4,13 @@
   "description": "A creative impact studio making bold, iconic campaigns for a just, healthy world. Experimental landing page (phase 2).",
   "family": "fluid",
   "background": "black",
+  "opening": "fade",
   "stripes": [
     {
       "id": "hero",
       "type": "cine-hero",
       "content": {
         "label": "Studio Birthplace · Creative impact studio",
-        "places": "Kuala Lumpur · Singapore · Arnhem · Rio de Janeiro",
         "title": "We ignite\naction through\n**stories.**",
         "text": "We make bold, cinematic campaigns for a just, healthy world, with the people working hardest to protect it. Award-winning, and built to change things.",
         "reel": {
@@ -23,7 +23,8 @@
           "mp4": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F6755ba651a56371c86203218_StudioBirthplacehighlightReelHDv5mov-transcode.mp4",
           "webm": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F6755ba651a56371c86203218_StudioBirthplacehighlightReelHDv5mov-transcode.webm"
         }
-      }
+      },
+      "pageTone": "black"
     },
     {
       "id": "statement",
@@ -32,8 +33,11 @@
         "chapter": "01",
         "label": "Why we exist",
         "text": "A single film can rewrite the narrative, **and move a government.**",
-        "sub": "We work with Greenpeace, WWF, Sea Shepherd, the United Nations and mission-driven brands, from jungle canopies to the open ocean, to turn attention into action."
-      }
+        "sub": "We work with Greenpeace, WWF, Sea Shepherd, the United Nations and mission-driven brands, from jungle canopies to the open ocean, to turn attention into action.",
+        "image": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6739903e53821f6427a498bd_cover.image.earthdefender.avif",
+        "caption": "Earth Defender · with Novo Amor"
+      },
+      "pageTone": "black"
     },
     {
       "id": "impact",
@@ -65,29 +69,9 @@
             "label": "campaign impressions for Team Forest"
           }
         ],
-        "proofs": [
-          {
-            "kicker": "Greenpeace · Wasteminster",
-            "title": "A film dumped Britain’s plastic on Downing Street",
-            "text": "We buried Westminster in the plastic waste the UK exports every day. 10 million views and 500,000 signatures later, Turkey announced a ban on plastic waste imports.",
-            "link": {
-              "label": "See the campaign",
-              "href": "/work/wasteminster"
-            },
-            "image": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d355b23376bd7b4cbe0470_WasteminsterCover.Image.jpg"
-          },
-          {
-            "kicker": "WWF · Team Forest",
-            "title": "Football in the rainforest canopy",
-            "text": "Released ahead of the 2026 World Cup: footballers and stunt performers playing through the trees, 12 million views and a platform where supporters join the team.",
-            "link": {
-              "label": "See the campaign",
-              "href": "/work/team-forest"
-            },
-            "image": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6a1da43d19aae3d444713a2d_WWF.TeamForest.STILLS_1.16.6-optimized.jpg"
-          }
-        ]
-      }
+        "background": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65ec542a6c7b5f808a6ed61a_RepeatUntilDeath%20(6).jpg"
+      },
+      "pageTone": "black"
     },
     {
       "id": "work",
@@ -150,46 +134,143 @@
             }
           }
         ]
-      }
+      },
+      "pageTone": "black"
     },
     {
-      "id": "voices",
-      "type": "cine-voices",
+      "id": "stories",
+      "type": "cine-highlights",
       "content": {
         "chapter": "04",
+        "label": "Campaign highlights",
+        "heading": "Films that became **movements.**",
+        "highlights": [
+          {
+            "kicker": "WWF",
+            "title": "Team Forest",
+            "text": "Released ahead of the 2026 World Cup: footballers and stunt performers playing through the trees, 12 million views and a platform where supporters join the team.",
+            "link": {
+              "label": "See the campaign",
+              "href": "/work/team-forest"
+            },
+            "video": {
+              "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F6a27dd8f9b66286104503742_TeamForest-WorkPage_poster.0000000.jpg",
+              "mp4": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F6a27dd8f9b66286104503742_TeamForest-WorkPage_mp4.mp4",
+              "webm": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F6a27dd8f9b66286104503742_TeamForest-WorkPage_webm.webm"
+            }
+          },
+          {
+            "kicker": "Greenpeace",
+            "title": "Wasteminster",
+            "text": "We buried Westminster in the plastic waste the UK exports every day. 10 million views and 500,000 signatures later, Turkey announced a ban on plastic waste imports.",
+            "link": {
+              "label": "See the campaign",
+              "href": "/work/wasteminster"
+            },
+            "video": {
+              "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/648610ba48d5ac597d974bb9_FeaturedWorkWasteminster-poster-00001.jpg",
+              "mp4": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/648610ba48d5ac597d974bb9_FeaturedWorkWasteminster-transcode.mp4",
+              "webm": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/648610ba48d5ac597d974bb9_FeaturedWorkWasteminster-transcode.webm"
+            }
+          },
+          {
+            "kicker": "Woolmark",
+            "title": "Wear Wool, Not Waste",
+            "text": "Every synthetic clothing item ever produced still exists in some form, haunting our planet. A zombie outbreak to show it, seen more than 62 million times across platforms.",
+            "link": {
+              "label": "See the campaign",
+              "href": "/work/woolmark-wear-wool-not-waste"
+            },
+            "video": {
+              "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F66f1260885465035574d46ab_WearWoolNotWastecutdown-poster-00001.jpg",
+              "mp4": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F66f1260885465035574d46ab_WearWoolNotWastecutdown-transcode.mp4",
+              "webm": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F66f1260885465035574d46ab_WearWoolNotWastecutdown-transcode.webm"
+            }
+          }
+        ]
+      },
+      "pageTone": "black"
+    },
+    {
+      "id": "partners",
+      "type": "cine-partners",
+      "content": {
+        "chapter": "05",
         "label": "Partners",
-        "quote": "Visually impactful content that leaves the consumer thinking about the message long after it leaves the screen.",
-        "name": "Catherine Veltman",
-        "role": "Global Marketing Manager, Woolmark"
-      }
+        "heading": "Our Partners &\n**Collaborators.**",
+        "link": {
+          "label": "Work With Us",
+          "href": "/contact"
+        }
+      },
+      "pageTone": "gradient"
+    },
+    {
+      "id": "testimonials",
+      "type": "cine-testimonials",
+      "content": {
+        "chapter": "06",
+        "label": "Testimonials",
+        "heading": "Our **feedback**",
+        "films": {
+          "Russell Harvey": {
+            "film": "TotalPollution",
+            "line": "Their creative finesse and remarkable adaptability were standout qualities that left a lasting impression"
+          },
+          "Catherine Veltman": {
+            "film": "Wear Wool, Not Waste",
+            "line": "Visually impactful content that leaves the consumer thinking about the message long after it leaves the screen."
+          },
+          "Rickey Welch": {
+            "film": "Broken Wings",
+            "line": "It's rare to see a creative vision come to life so fully at the rough cut stage."
+          },
+          "Christine Gebeneter": {
+            "film": "MoneyTrees",
+            "line": "The MoneyTrees video truly is a clarion call to end the greed and prioritize people and planet!"
+          },
+          "Geert Vons": {
+            "film": "Requiem 2019",
+            "line": "Studio Birthplace is able to bridge the gap between the mind and the heart, making any message resonate deeply."
+          },
+          "Ali Lacey": {
+            "film": "Earth Defender",
+            "line": "Some of the most unique and thought-provoking music videos I've ever seen"
+          }
+        }
+      },
+      "pageTone": "gradient"
     },
     {
       "id": "news",
       "type": "cine-news",
       "content": {
-        "chapter": "05",
+        "chapter": "07",
         "label": "Latest",
         "count": 4,
         "all": {
           "label": "All news",
           "href": "/news"
         }
-      }
+      },
+      "pageTone": "black"
     },
     {
       "id": "closing",
       "type": "cine-cta",
       "content": {
-        "heading": "Let’s tell the story that **changes things.**",
+        "heading": "We’re here to tell stories that\n**change the world. You in?**",
         "button": {
-          "label": "Work with us",
+          "label": "Work With Us",
           "href": "/contact"
         },
         "mail": {
           "label": "hello@studiobirthplace.com",
           "href": "mailto:hello@studiobirthplace.com"
-        }
-      }
+        },
+        "background": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/697035dcc8899fa0dc84027e_CoralCatch-AltCover-2.jpg"
+      },
+      "pageTone": "gradient"
     }
   ]
 }

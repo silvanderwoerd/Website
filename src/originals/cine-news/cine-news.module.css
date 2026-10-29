@@ -2,8 +2,7 @@
 
 .section {
   position: relative;
-  padding: 4em 0 11em;
-  background-color: var(--color-cine-night);
+  padding: 3em 0 8em;
   color: var(--color-cine-bone);
 }
 
@@ -61,7 +60,7 @@
 
 @media (max-width: 767px) {
   .section {
-    padding: 3em 0 7em;
+    padding: 2em 0 5em;
   }
 
   .wrap {

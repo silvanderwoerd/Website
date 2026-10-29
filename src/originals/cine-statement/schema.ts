@@ -7,5 +7,5 @@ export const schema = {
   level: "stripe",
   purpose: "Phase 2 experiment: one sentence rising in word by word, with a quieter line below.",
   settings: {},
-  fields: ["label", "text", "sub"],
+  fields: ["label", "text", "sub", "caption"],
 } satisfies OriginalSchema;

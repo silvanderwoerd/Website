@@ -30,6 +30,7 @@ Instance addresses:
 Every stripe also takes the stripe-base settings (`src/stripes/base.ts`):
 - `spaceBefore`: a space token
 - `pageTone: "gradient"`: the page background turns blue-grey while the stripe is in view
+- `pageTone: "black"` (phase 2, /landing-alt): the plain black page instead; a page with black stripes takes the tone of the stripe across the middle of the screen
 - `anchor`: an id for in-page links
 
 A containing original can choose a block's setting for it (`base`, e.g. Home's
@@ -372,15 +373,24 @@ The campaign pages are otherwise the project stripes, moved by the same code
 
 Not on the live site (decision #32). Its own colour tokens (`cine-*`) and text
 styles (`cine-*`), Lato only. Motion in `src/motion/Cinematic.tsx`: `Letterbox`,
-`CountUp`, `HoverClip`, `Parallax`. Chapter marks (`Chapter`, in cine-statement).
+`CountUp`, `HoverClip`, `Parallax`, `FadeOpening` (the page fades up from black
+instead of the preloader, `opening: "fade"` on the page; the hero film pulls focus), `BlurText` (words out of a deep blur, for
+headings and large text), `Reveal` (fade up from a blur), `WipeImage` (a photo
+frame opening from below), `CursorPreview`, `GrainOverlay` (extra grain over the hero film). The
+stripes have no background of their own: each stripe is `pageTone: "black"` or
+`"gradient"` (the homepage's blue), taken from the stripe across the
+middle of the screen, with the moving grain over both; photo backdrops
+fade out at their edges into it. Chapter marks (`Chapter`, in cine-statement).
 
 | Original | What it is | Content |
 |---|---|---|
-| `cine-hero` | The showreel full-bleed, letterbox bars drawing apart, the promise rising in, a credit line, a showreel button; drifts away on scroll | `label`, `places`, `title`, `text`, `reel`, `scroll`, `video` |
-| `cine-statement` | One sentence rising in word by word, a quieter line below | `chapter`, `label`, `text`, `sub` |
-| `cine-impact` | Numbers counting up, two stories of what films changed | `chapter`, `label`, `heading`, `stats[]`, `proofs[]` |
-| `cine-work` | Four films, the first 2.39:1, each waking into its clip on hover | `chapter`, `label`, `heading`, `all`, `cards[]` |
-| `cine-voices` | A partner quote, large, over a drifting row of partner logos | `chapter`, `label`, `quote`, `name`, `role` |
+| `cine-hero` | The showreel full-bleed coming up out of the dark into focus (with `FadeOpening`), the promise coming out of a blur, a credit line, a showreel button; drifts away on scroll | `label`, `title`, `text`, `reel`, `scroll`, `video` |
+| `cine-statement` | One sentence coming out of a blur beside a photo that wipes open, a quieter line below | `chapter`, `label`, `text`, `sub`, `image`, `caption` |
+| `cine-impact` | Numbers counting up over a still | `chapter`, `label`, `heading`, `background`, `stats[]` |
+| `cine-highlights` | Campaign highlights full screen like the hero: the chosen campaign's film behind its name and story; pointing at another in the index brings its film in | `chapter`, `label`, `heading`, `highlights[]` (`kicker`, `title`, `text`, `link`, `video`) |
+| `cine-work` | Four films, each 2.39:1, one under the other, each waking into its clip on hover | `chapter`, `label`, `heading`, `all`, `cards[]` |
+| `cine-partners` | The partners' logos, loose, racking in and out of focus one after another; pointing at one brings it sharp | `chapter`, `label`, `heading`, `link` (logos from the `partners` collection) |
+| `cine-testimonials` | The partners' words quietly: heading on the left, one signed line from each quote between hairlines on the right; pointing at one brings it forward | `chapter`, `label`, `heading`, `films` (name → `film`, `line`; names from the `testimonials` collection) |
 | `cine-news` | The newest posts as headlines | `chapter`, `label`, `count`, `all` |
 | `cine-cta` | One closing line and a way in | `heading`, `button`, `mail` |
 

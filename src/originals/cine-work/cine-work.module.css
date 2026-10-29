@@ -2,8 +2,7 @@
 
 .section {
   position: relative;
-  padding: 11em 0;
-  background-color: var(--color-cine-night);
+  padding: 8em 0;
   color: var(--color-cine-bone);
 }
 
@@ -44,7 +43,6 @@
 
 .grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
   gap: 1.6em;
 }
 
@@ -53,14 +51,9 @@
   isolation: isolate;
   display: block;
   overflow: hidden;
-  aspect-ratio: 4 / 5;
+  aspect-ratio: 2.39 / 1;
   color: inherit;
   text-decoration: none;
-}
-
-.wide {
-  grid-column: 1 / -1;
-  aspect-ratio: 2.39 / 1;
 }
 
 .still,
@@ -127,19 +120,14 @@
 
 @media (max-width: 767px) {
   .section {
-    padding: 7em 0;
+    padding: 5em 0;
   }
 
   .wrap {
     padding-inline: 1.6em;
   }
 
-  .grid {
-    grid-template-columns: 1fr;
-  }
-
-  .card,
-  .wide {
+  .card {
     aspect-ratio: 16 / 11;
   }
 }

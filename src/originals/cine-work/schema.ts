@@ -5,7 +5,7 @@ export const schema = {
   name: "cine-work",
   label: "Cinematic work",
   level: "stripe",
-  purpose: "Phase 2 experiment: four films, the first as wide as a cinema screen, each waking into its clip on hover.",
+  purpose: "Phase 2 experiment: four films, each as wide as a cinema screen, each waking into its clip on hover.",
   settings: {},
   fields: ["label", "heading"],
 } satisfies OriginalSchema;

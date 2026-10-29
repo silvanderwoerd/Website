@@ -1,11 +1,16 @@
 import { resolveOriginal } from "../resolve";
 import { field, marks } from "../marks";
-import { AnimatedText } from "@/motion/AnimatedText";
+import { BlurText, Reveal, WipeImage } from "@/motion/Cinematic";
 import { stripeBase } from "@/stripes/base";
 import type { StripeProps } from "@/stripes/types";
 import styles from "./cine-cta.module.css";
 
-type Content = { heading: string; button: { label: string; href: string }; mail: { label: string; href: string } };
+type Content = {
+  background: string;
+  heading: string;
+  button: { label: string; href: string };
+  mail: { label: string; href: string };
+};
 
 // The last scene: one line, one door.
 export function CineCta({ instance, stripe }: StripeProps) {
@@ -14,17 +19,18 @@ export function CineCta({ instance, stripe }: StripeProps) {
   const c = stripe.content as Content;
   return (
     <section className={styles.section} style={base.style} {...marks("cine-cta", instance)} {...attrs} {...base.attrs}>
-      <div className={styles.glow} aria-hidden="true" />
+      <WipeImage src={c.background} className={styles.backdrop} />
+      <div className={styles.shade} aria-hidden="true" />
       <div className={styles.wrap}>
-        <AnimatedText as="h2" className={`${styles.heading} ts-cine-cta`} text={c.heading} strong={styles.strong} field="heading" />
-        <div className={styles.actions}>
+        <BlurText as="h2" className={`${styles.heading} ts-cine-cta`} text={c.heading} strong={styles.strong} field="heading" />
+        <Reveal delay={400} className={styles.actions}>
           <a href={c.button.href} className={`${styles.button} ts-cine-label`}>
             {c.button.label}
           </a>
           <a href={c.mail.href} className={`${styles.mail} ts-cine-body`}>
             {c.mail.label}
           </a>
-        </div>
+        </Reveal>
       </div>
     </section>
   );

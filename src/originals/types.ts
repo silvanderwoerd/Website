@@ -40,7 +40,7 @@ export type StripeInstance = Overridable & {
   spaceBefore?: string; // a space token (Webflow's spacer bands)
   padTop?: string; // a space token: Webflow's spacer at the band's own top edge
   padBottom?: string; // …and at its bottom edge
-  pageTone?: "gradient"; // page background tone while this stripe is in view
+  pageTone?: "gradient" | "black"; // page background tone while this stripe is in view ("black": phase 2, /landing-alt)
   anchor?: string; // id for in-page links
 };
 
@@ -56,5 +56,7 @@ export type PageContent = {
   background?: "black" | "plain";
   // "black": the closing stripe and the footer on solid black (Contact's .footer-background).
   footerBand?: "black";
+  // "fade": instead of the preloader, the page fades up from black (phase 2, /landing-alt).
+  opening?: "fade";
   stripes: StripeInstance[];
 };

@@ -1,0 +1,190 @@
+/* Motion for the cinematic landing experiment (phase 2): see Cinematic.tsx. */
+
+/* Reveal: fades up out of a soft blur, once in view */
+.reveal {
+  opacity: 0;
+  filter: blur(10px);
+  transform: translateY(2.4em);
+  transition:
+    opacity 1.4s cubic-bezier(0.2, 0.7, 0.2, 1) var(--d, 0ms),
+    filter 1.4s cubic-bezier(0.2, 0.7, 0.2, 1) var(--d, 0ms),
+    transform 1.6s cubic-bezier(0.2, 0.7, 0.2, 1) var(--d, 0ms);
+}
+
+.reveal[data-in] {
+  opacity: 1;
+  filter: none;
+  transform: none;
+}
+
+/* BlurText: each word comes out of a deep blur, 70ms after the one before.
+   Hidden only once scripts run (html.js), so the words never stay invisible. */
+.blurWord {
+  display: inline-block;
+  white-space: nowrap;
+}
+
+:global(.js) .blurText .blurWord {
+  opacity: 0;
+  filter: blur(14px);
+  transform: translateY(0.3em) scale(1.04);
+  transition:
+    opacity 1.2s cubic-bezier(0.2, 0.7, 0.2, 1) calc(var(--d, 0ms) + var(--i, 0) * 70ms),
+    filter 1.6s cubic-bezier(0.2, 0.7, 0.2, 1) calc(var(--d, 0ms) + var(--i, 0) * 70ms),
+    transform 1.8s cubic-bezier(0.2, 0.7, 0.2, 1) calc(var(--d, 0ms) + var(--i, 0) * 70ms);
+}
+
+:global(.js) .blurText[data-in] .blurWord {
+  opacity: 1;
+  filter: none;
+  transform: none;
+}
+
+/* FadeOpening: black over the whole page (nav too) fading away slowly.
+   Only once scripts run (html.js), so the page never stays black. */
+.blackout {
+  display: none;
+}
+
+:global(.js) .blackout {
+  position: fixed;
+  inset: 0;
+  z-index: var(--z-preloader);
+  display: block;
+  background-color: var(--color-black);
+  pointer-events: none;
+  transition:
+    opacity 3.5s cubic-bezier(0.65, 0, 0.35, 1) 0.3s,
+    visibility 0s 3.8s;
+}
+
+:global(.js) .blackout[data-open] {
+  opacity: 0;
+  visibility: hidden;
+}
+
+/* Wipe: a frame that opens from the bottom while its image settles from 1.25 */
+.frame {
+  position: relative;
+  overflow: hidden;
+}
+
+.curtain {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  clip-path: inset(100% 0 0 0);
+  transition: clip-path 1.8s cubic-bezier(0.7, 0, 0.2, 1) var(--d, 0ms);
+}
+
+.frame[data-in] .curtain {
+  clip-path: inset(0 0 0 0);
+}
+
+.frameImage {
+  position: absolute;
+  inset: -8% 0;
+  width: 100%;
+  height: 116%;
+  object-fit: cover;
+  transform: scale(1.25);
+  transition: transform 2.6s cubic-bezier(0.2, 0.7, 0.2, 1) var(--d, 0ms);
+}
+
+.frame[data-in] .frameImage {
+  transform: scale(1.04);
+}
+
+/* extra film grain over the hero's film (the page has its own grain) */
+.grain {
+  position: absolute;
+  inset: -50%;
+  z-index: 2;
+  width: 200%;
+  height: 200%;
+  background-image: var(--grain);
+  background-size: auto;
+  opacity: 0.09;
+  mix-blend-mode: overlay;
+  pointer-events: none;
+  animation: cine-grain var(--duration-grain) steps(4) infinite;
+}
+
+@keyframes cine-grain {
+  0% {
+    transform: translate(0, 0);
+  }
+
+  25% {
+    transform: translate(-3%, 2%);
+  }
+
+  50% {
+    transform: translate(2%, -3%);
+  }
+
+  75% {
+    transform: translate(-2%, -1%);
+  }
+
+  100% {
+    transform: translate(1%, 3%);
+  }
+}
+
+/* the cursor preview floating over a list */
+.preview {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 30;
+  width: 22em;
+  aspect-ratio: 16 / 10;
+  overflow: hidden;
+  opacity: 0;
+  pointer-events: none;
+  transform: translate3d(var(--x, 0), var(--y, 0), 0) scale(0.85) rotate(-2deg);
+  transition: opacity var(--duration-default), transform 0.35s cubic-bezier(0.2, 0.7, 0.2, 1);
+}
+
+.preview[data-on] {
+  opacity: 1;
+  transform: translate3d(var(--x, 0), var(--y, 0), 0) scale(1) rotate(0deg);
+}
+
+.preview img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0;
+  transition: opacity var(--duration-base);
+}
+
+.preview img[data-current] {
+  opacity: 1;
+}
+
+@media (hover: none) {
+  .preview {
+    display: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  :global(.js) .blackout,
+  .reveal,
+  .curtain,
+  .frameImage,
+  :global(.js) .blurText .blurWord {
+    opacity: 1;
+    filter: none;
+    clip-path: none;
+    transition: none;
+  }
+
+  .grain {
+    animation: none;
+  }
+}

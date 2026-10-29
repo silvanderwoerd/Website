@@ -2,31 +2,27 @@
 
 .section {
   position: relative;
+  isolation: isolate;
   overflow: hidden;
-  padding: 15em 0;
+  padding: 10em 0;
   border-top: var(--space-fixed-border) solid var(--color-cine-line);
-  background-color: var(--color-cine-night);
   color: var(--color-cine-bone);
   text-align: center;
 }
 
-.glow {
+.backdrop {
   position: absolute;
-  inset: auto -20% -60% -20%;
-  height: 120%;
-  background: radial-gradient(50% 50% at 50% 50%, var(--color-cine-glow), var(--color-transparent) 70%);
-  animation: cine-rise 14s ease-in-out infinite alternate;
-  pointer-events: none;
+  inset: 0;
+  z-index: -2;
+  mask-image: linear-gradient(180deg, var(--color-transparent), var(--color-black) 30%);
 }
 
-@keyframes cine-rise {
-  from {
-    transform: translateY(8%) scale(0.95);
-  }
-
-  to {
-    transform: translateY(-4%) scale(1.08);
-  }
+.shade {
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  background: radial-gradient(70% 70% at 50% 55%, var(--overlay-black-50), var(--overlay-black-87) 100%);
+  mask-image: linear-gradient(180deg, var(--color-transparent), var(--color-black) 30%);
 }
 
 .wrap {
@@ -38,7 +34,7 @@
 }
 
 .heading {
-  max-width: 11em;
+  max-width: 14em;
   margin: 0 auto;
   color: var(--color-cine-bone);
 }
@@ -83,7 +79,7 @@
 
 @media (max-width: 767px) {
   .section {
-    padding: 9em 0;
+    padding: 6em 0;
   }
 
   .wrap {
@@ -91,8 +87,3 @@
   }
 }
 
-@media (prefers-reduced-motion: reduce) {
-  .glow {
-    animation: none;
-  }
-}

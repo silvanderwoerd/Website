@@ -2,9 +2,11 @@
 
 import type { ComponentType } from "react";
 import type { StripeProps } from "./types";
+import { CineHighlights } from "@/originals/cine-highlights/CineHighlights";
+import { CineTestimonials } from "@/originals/cine-testimonials/CineTestimonials";
+import { CinePartners } from "@/originals/cine-partners/CinePartners";
 import { CineCta } from "@/originals/cine-cta/CineCta";
 import { CineNews } from "@/originals/cine-news/CineNews";
-import { CineVoices } from "@/originals/cine-voices/CineVoices";
 import { CineWork } from "@/originals/cine-work/CineWork";
 import { CineImpact } from "@/originals/cine-impact/CineImpact";
 import { CineStatement } from "@/originals/cine-statement/CineStatement";
@@ -102,9 +104,11 @@ export const registry: Record<string, ComponentType<StripeProps>> = {
   "cine-statement": CineStatement,
   "cine-impact": CineImpact,
   "cine-work": CineWork,
-  "cine-voices": CineVoices,
   "cine-news": CineNews,
   "cine-cta": CineCta,
+  "cine-partners": CinePartners,
+  "cine-testimonials": CineTestimonials,
+  "cine-highlights": CineHighlights,
   // Dev-only stripes are left out of production builds entirely.
   ...(isDev ? { "test-stripe": TestStripe } : {}),
 };

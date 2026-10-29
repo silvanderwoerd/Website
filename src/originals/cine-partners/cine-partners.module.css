@@ -1,0 +1,153 @@
+/* Phase 2 experiment (/landing-alt): the partners' logos, racking in and out of focus. */
+
+.section {
+  position: relative;
+  padding: 8em 0;
+  color: var(--color-cine-bone);
+}
+
+.wrap {
+  width: 100%;
+  max-width: 86em;
+  margin-inline: auto;
+  padding-inline: 5.5em;
+}
+
+.head {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 3em;
+  margin-bottom: 4em;
+}
+
+.heading {
+  margin: 0;
+  color: var(--color-cine-bone);
+}
+
+.strong {
+  font-weight: 900;
+  color: var(--color-cine-moon);
+}
+
+.link {
+  display: inline-flex;
+  gap: 1em;
+  padding-bottom: 0.5em;
+  border-bottom: var(--space-fixed-border) solid var(--color-cine-moon);
+  color: var(--color-cine-bone);
+  text-decoration: none;
+  white-space: nowrap;
+  transition: letter-spacing var(--duration-default);
+}
+
+.link:hover {
+  letter-spacing: 0.3em;
+}
+
+/* the logos, loose, no lines */
+.wall {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 0.5em 2em;
+}
+
+.cell {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  aspect-ratio: 1.15;
+}
+
+/* the files carry a wide margin of their own, so the logo is drawn larger than its cell */
+.logo {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: 100%;
+  transform: scale(1.1);
+}
+
+.soft,
+.sharp {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+/* the soft copy racks in and out of focus, each logo at its own moment */
+.soft {
+  animation: cine-rack 12s ease-in-out calc(var(--i) * -2.3s) infinite;
+  transition: opacity var(--duration-slow);
+}
+
+@keyframes cine-rack {
+  0%,
+  100% {
+    opacity: 0.4;
+    filter: blur(3px);
+  }
+
+  35%,
+  65% {
+    opacity: 0.8;
+    filter: blur(0);
+  }
+}
+
+/* the sharp copy comes in over it when pointed at */
+.sharp {
+  opacity: 0;
+  filter: blur(8px);
+  transform: scale(0.96);
+  transition:
+    opacity 0.7s cubic-bezier(0.2, 0.7, 0.2, 1),
+    filter 0.9s cubic-bezier(0.2, 0.7, 0.2, 1),
+    transform 1.2s cubic-bezier(0.2, 0.7, 0.2, 1);
+}
+
+.cell:hover .sharp {
+  opacity: 1;
+  filter: none;
+  transform: scale(1.06);
+}
+
+.cell:hover .soft {
+  opacity: 0;
+}
+
+@media (max-width: 991px) {
+  .wall {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+@media (max-width: 767px) {
+  .section {
+    padding: 5em 0;
+  }
+
+  .wrap {
+    padding-inline: 1.6em;
+  }
+
+  .head {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 2em;
+  }
+
+  .wall {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .soft {
+    opacity: 0.7;
+    animation: none;
+  }
+}

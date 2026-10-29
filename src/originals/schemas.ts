@@ -57,15 +57,17 @@ import { schema as cineHero } from "./cine-hero/schema";
 import { schema as cineStatement } from "./cine-statement/schema";
 import { schema as cineImpact } from "./cine-impact/schema";
 import { schema as cineWork } from "./cine-work/schema";
-import { schema as cineVoices } from "./cine-voices/schema";
 import { schema as cineNews } from "./cine-news/schema";
 import { schema as cineCta } from "./cine-cta/schema";
+import { schema as cinePartners } from "./cine-partners/schema";
+import { schema as cineTestimonials } from "./cine-testimonials/schema";
+import { schema as cineHighlights } from "./cine-highlights/schema";
 
 const isDev = process.env.NODE_ENV === "development";
 
 export const schemas: Record<string, OriginalSchema> = Object.fromEntries(
   [
-    cineCta, cineNews, cineVoices, cineWork, cineImpact, cineStatement, cineHero, logoRow, campaignFact, campaignIntro, contactHero, values, actStatement, sustainability, actCampaigns, actHero, lifeWith, team, awards, services, aboutStatement, workTile, workGrid, pageHeading, arrowLink, button, campaign, closingCta, cta, embed, episode, featuredWork, film, footer, gallery, hero,
+    cineHighlights, cineTestimonials, cinePartners, cineCta, cineNews, cineWork, cineImpact, cineStatement, cineHero, logoRow, campaignFact, campaignIntro, contactHero, values, actStatement, sustainability, actCampaigns, actHero, lifeWith, team, awards, services, aboutStatement, workTile, workGrid, pageHeading, arrowLink, button, campaign, closingCta, cta, embed, episode, featuredWork, film, footer, gallery, hero,
     instafilter, latestNews, moreWork, nav, newsList, pageBackground, partners, phones, postBody, postHeader,
     posters, preloader, projectDetails, projectTile, quote, relatedPosts, statement, stats, testimonials, text, textOnImage,
   ]

@@ -1,0 +1,208 @@
+/* Phase 2 experiment (/landing-alt): campaign highlights, full screen like the hero. */
+
+.section {
+  position: relative;
+  color: var(--color-cine-bone);
+}
+
+.stage {
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
+  display: flex;
+  min-height: 100svh;
+  /* the films fade in and out of the page above and below */
+  mask-image: linear-gradient(180deg, var(--color-transparent), var(--color-black) 10% 90%, var(--color-transparent));
+}
+
+/* the films: the chosen one sharp, the others gone in a blur */
+.film {
+  position: absolute;
+  inset: 0;
+  z-index: -3;
+  opacity: 0;
+  filter: blur(20px);
+  transform: scale(1.12);
+  transition:
+    opacity 1.4s cubic-bezier(0.2, 0.7, 0.2, 1),
+    filter 1.6s cubic-bezier(0.2, 0.7, 0.2, 1),
+    transform 2.6s cubic-bezier(0.2, 0.7, 0.2, 1);
+}
+
+.film[data-on] {
+  opacity: 1;
+  filter: none;
+  transform: scale(1.02);
+}
+
+.video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.shade {
+  position: absolute;
+  inset: 0;
+  z-index: -2;
+  background:
+    linear-gradient(90deg, var(--overlay-black-75) 0%, var(--overlay-black-30) 55%, var(--color-transparent) 100%),
+    linear-gradient(180deg, var(--overlay-black-50) 0%, var(--color-transparent) 30% 55%, var(--overlay-black-80) 100%);
+}
+
+.wrap {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 86em;
+  margin-inline: auto;
+  padding: 7em 5.5em 4em;
+}
+
+.heading {
+  margin: 0;
+  color: var(--color-cine-bone);
+}
+
+.strong {
+  font-weight: 900;
+  color: var(--color-cine-moon);
+}
+
+/* the chosen story; all share one place, so nothing jumps */
+.stories {
+  display: grid;
+  align-items: end;
+  flex: 1;
+  margin: 2em 0 2.4em;
+}
+
+.story {
+  grid-area: 1 / 1;
+  max-width: 46em;
+  opacity: 0;
+  filter: blur(12px);
+  transform: translateY(1em);
+  visibility: hidden;
+  transition:
+    opacity 0.7s cubic-bezier(0.2, 0.7, 0.2, 1),
+    filter 0.9s cubic-bezier(0.2, 0.7, 0.2, 1),
+    transform 1s cubic-bezier(0.2, 0.7, 0.2, 1),
+    visibility 0s 1s;
+}
+
+.story[data-on] {
+  opacity: 1;
+  filter: none;
+  transform: none;
+  visibility: visible;
+  transition:
+    opacity 1.2s cubic-bezier(0.2, 0.7, 0.2, 1) 0.25s,
+    filter 1.4s cubic-bezier(0.2, 0.7, 0.2, 1) 0.25s,
+    transform 1.4s cubic-bezier(0.2, 0.7, 0.2, 1) 0.25s,
+    visibility 0s;
+}
+
+.kicker {
+  color: var(--color-cine-moon);
+}
+
+.title {
+  margin: 0.4em 0 0.4em;
+  color: var(--color-cine-bone);
+}
+
+.text {
+  max-width: 32em;
+  margin: 0 0 1.6em;
+  color: var(--color-cine-bone);
+  opacity: 0.85;
+}
+
+.more {
+  display: inline-flex;
+  gap: 1em;
+  padding-bottom: 0.5em;
+  border-bottom: var(--space-fixed-border) solid var(--color-cine-moon);
+  color: var(--color-cine-bone);
+  text-decoration: none;
+  transition: letter-spacing var(--duration-default);
+}
+
+.more:hover {
+  letter-spacing: 0.3em;
+}
+
+/* the index of campaigns along the bottom */
+.index {
+  display: grid;
+  grid-auto-columns: 1fr;
+  grid-auto-flow: column;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.entry {
+  position: relative;
+  display: flex;
+  gap: 1.4em;
+  width: 100%;
+  padding: 1.6em 2em 0 0;
+  border: 0;
+  border-top: var(--space-fixed-border) solid var(--color-cine-line);
+  background: none;
+  color: var(--color-cine-mist);
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+  transition: color var(--duration-default);
+}
+
+/* a line that draws across the chosen one */
+.entry::before {
+  content: "";
+  position: absolute;
+  top: calc(-1 * var(--space-fixed-border));
+  left: 0;
+  width: 100%;
+  height: var(--space-fixed-border);
+  background: var(--color-cine-bone);
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 1s cubic-bezier(0.7, 0, 0.2, 1);
+}
+
+.entry:hover,
+.entry[data-on] {
+  color: var(--color-cine-bone);
+}
+
+.entry[data-on]::before {
+  transform: none;
+}
+
+.n {
+  color: var(--color-cine-moon);
+}
+
+@media (max-width: 767px) {
+  .wrap {
+    padding: 7em 1.6em 3em;
+  }
+
+  .index {
+    grid-auto-flow: row;
+  }
+
+  .entry {
+    padding: 1.1em 0;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .film,
+  .story {
+    transition: none;
+  }
+}
