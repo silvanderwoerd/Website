@@ -39,12 +39,17 @@ import { schema as textOnImage } from "./text-on-image/schema";
 import { schema as pageHeading } from "./page-heading/schema";
 import { schema as workGrid } from "./work-grid/schema";
 import { schema as workTile } from "./work-tile/schema";
+import { schema as aboutStatement } from "./about-statement/schema";
+import { schema as services } from "./services/schema";
+import { schema as awards } from "./awards/schema";
+import { schema as team } from "./team/schema";
+import { schema as lifeWith } from "./life-with/schema";
 
 const isDev = process.env.NODE_ENV === "development";
 
 export const schemas: Record<string, OriginalSchema> = Object.fromEntries(
   [
-    workTile, workGrid, pageHeading, arrowLink, button, campaign, closingCta, cta, embed, episode, featuredWork, film, footer, gallery, hero,
+    lifeWith, team, awards, services, aboutStatement, workTile, workGrid, pageHeading, arrowLink, button, campaign, closingCta, cta, embed, episode, featuredWork, film, footer, gallery, hero,
     instafilter, latestNews, moreWork, nav, newsList, pageBackground, partners, phones, postBody, postHeader,
     posters, preloader, projectDetails, projectTile, quote, relatedPosts, statement, stats, testimonials, text, textOnImage,
   ]

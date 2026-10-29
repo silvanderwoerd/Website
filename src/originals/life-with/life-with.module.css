@@ -1,0 +1,68 @@
+/* Live: section.fl-life-text.noise-overlay > .relative-position.z-2 > .margin-bottom >
+   h2.fl-awards-heading.tricks; div.section-life-with.noise-overlay >
+   img.section-life-with-image (IX2 Fade + Slide in from bottom). */
+
+.stripe {
+  position: relative;
+}
+
+/* Grid columns but no display: grid on live, so a block. */
+.head {
+  position: relative;
+  z-index: 2;
+  overflow: hidden;
+  margin-top: 0;
+  padding: 2em 8.375em;
+  background-color: var(--color-page);
+}
+
+.headInner {
+  position: relative;
+  z-index: 2;
+}
+
+.heading {
+  margin-bottom: 0.2em;
+  text-align: left;
+}
+
+.strong {
+  font-weight: 900;
+}
+
+.photos {
+  position: relative;
+  overflow: hidden;
+  column-count: 3;
+  column-gap: 0.2em;
+  padding: 1em 1em 4em;
+}
+
+.photo {
+  position: relative;
+  z-index: 2;
+  margin-bottom: 0.6em;
+}
+
+@media (min-width: 1920px) {
+  .head {
+    padding-bottom: 1em;
+  }
+}
+
+@media (max-width: 991px) {
+  .head {
+    width: 100%;
+    padding-inline: 7em;
+  }
+}
+
+@media (max-width: 767px) {
+  .head {
+    padding-inline: 1em;
+  }
+
+  .photos {
+    column-count: 2;
+  }
+}

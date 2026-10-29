@@ -74,7 +74,7 @@ Small text link with an arrow and a line that fills on hover. Files: `src/origin
 |---|---|---|---|
 | `variant` | choice | `default` · `partners` (1.75em more space above: cc-partners) | `default` |
 
-- Content: `label`, `href`.
+- Content: `label` (its `**…**` is the blue word, live `.text-color-blue`: "Our Real World **Action**"), `href`. The containing original may leave the arrow out where the live page puts it beside the link (About's awards).
 
 ### `project-tile`
 
@@ -94,11 +94,12 @@ Full-screen opening band. Files: `src/originals/hero/`.
 
 | Setting | Kind | Default |
 |---|---|---|
-| `variant` | choice: `project` · `home` | `project` (Home overrides it) |
+| `variant` | choice: `project` · `home` · `about` | `project` (Home and About override it) |
 
 - **`home`:** a background video with a 30% black overlay, the title (`**bold**` is weight 900), a button (`button` block) and socials. On scroll the content moves down and fades (IX2 Home Hero Hide Text).
 - **`project`:** the project's still with parallax, an eyebrow, the client and the title rising in 1.3s after load (live `.fl-project-hero`).
-- **Content:** home: `title`, `video`, `button`; project: `eyebrow`, `client`, `title`, `image`.
+- **`about`:** About's mission over a full-screen video: eyebrow, and the title rising in 1.3s after load.
+- **Content:** home: `title`, `video`, `button`; project: `eyebrow`, `client`, `title`, `image`; about: `eyebrow`, `title`, `video`.
 
 ### `statement`
 
@@ -261,6 +262,38 @@ A project's still over its clip (`BackgroundVideo`); on hover the still fades aw
 (200ms). From tablet down the still is hidden: the clip with client and title shows.
 Content: `href`, `client`, `title`, `image`, `video`.
 
+### `about-statement` (one-off: About)
+
+"What we stand for": eyebrow, a large sentence (`**bold**` is 900), a grey paragraph,
+an `arrow-link` (partners spacing), and the showreel (`FilmPlayer`) below.
+Content: `eyebrow`, `text`, `body`, `link`, `film`.
+
+### `services` (one-off: About)
+
+Eyebrow, heading, three Webflow tabs (`ServiceTabs`): a click shows that tab's text
+(fade out 100ms, in 300ms) and cross-fades its background photo (500ms linear).
+Content: `eyebrow`, `heading`, `tabs[]` (`label`, `text`, `background`), `link`.
+
+### `awards` (one-off: About)
+
+Background photo moving −20% → 0 while in view (`ParallaxImage`), eyebrow, heading,
+"View all awards" opening the full list (`Modal`, Markdown in `list`), a paragraph,
+and an endless column of award logos (`LogoColumn`, desktop only).
+Content: `background`, `eyebrow`, `heading`, `link`, `listTitle`, `list`, `text`, `logos[]`.
+
+### `team` (one-off: About)
+
+Heading, then the core team and the wider collective from
+`content/collections/team.json` (`group`: core · collective; later from Elio). On hover
+a photo shrinks to 0.95, darkens, and its name turns white.
+Content: `heading`, `coreLabel`, `collectiveLabel`.
+
+### `life-with` (one-off: About)
+
+Two live bands in one stripe: the "Life With **Studio Birthplace**" heading and a
+three-column photo wall (two from 767 down), each photo rising in as it scrolls
+into view (`RevealImage`). Content: `heading`, `photos[]`.
+
 ## News stripes (News, the Post and Category templates)
 
 The news pages use the fixed `news-*` text styles (decisions #4) and
@@ -316,6 +349,9 @@ has one (decisions #20). Content: `heading`, `text`, `button`, `readNow`, `count
 | `Modal` | The pop-ups (credits, media features) with the live IX2 timings. |
 | `PhoneScroll` | Moves its children 0 → −3em between 20% and 80% of the scroll through. |
 | `EmbedBridge` | Lets an embedded page pass wheel scrolling back to ours. |
+| `RevealImage` | Webflow's "Fade in" + "Slide in from bottom": 700ms after scrolling into view, rises 100px and fades in (1000ms outQuart). |
+| `LogoColumn` | An endless Swiper row of logos (vertical from 991 up), autoplay with no pause, linear. |
+| `ParallaxImage` | An image moved by keyframes while its band scrolls through the window. |
 
 ## Stripes (dev)
 

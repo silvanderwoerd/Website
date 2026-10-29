@@ -1,0 +1,135 @@
+/* Live: section.section.overflow.relative-position.black-bg >
+   .fl-about-what-we-believe-split > .container-w3.black-bg > .text-effect-inner >
+   h2.fl-eyebrow.cc-about-what-we-believe, p.fl-about-what-we-believe-large-text-test,
+   p.paragraph, the act link; .fl-about-what-we-believe-video >
+   .fl-project-video-container (as the film original's large container). */
+
+.section {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  background-color: var(--color-black);
+}
+
+.split {
+  position: relative;
+  z-index: 2;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: auto;
+  grid-auto-columns: 1fr;
+  gap: 3rem 9em;
+  margin-block: 4em;
+  padding: 2em 7em;
+}
+
+.container {
+  position: relative;
+  width: 100%;
+  max-width: 55em;
+  margin-inline: auto;
+  background-color: var(--color-black);
+}
+
+.inner {
+  position: relative;
+  overflow: hidden;
+  background-color: var(--color-black);
+  text-align: left;
+}
+
+.eyebrow {
+  margin: 1.5em 0 2em;
+  color: var(--color-white);
+  white-space: nowrap;
+}
+
+.large {
+  margin-bottom: 0;
+  color: var(--color-white);
+}
+
+.strong {
+  font-weight: 900;
+}
+
+.body {
+  margin-top: 25px;
+  color: var(--color-grey-50);
+}
+
+/* Webflow gives it grid columns but no display: grid, so it stays a block. */
+.videoRow {
+  position: relative;
+  z-index: 2;
+  margin-bottom: 4em;
+  padding: 0 5.375em 2em;
+}
+
+.film {
+  display: block;
+  box-sizing: border-box;
+  margin-left: 75px;
+  padding-inline: 2em;
+}
+
+@media (min-width: 1280px) {
+  .film {
+    margin-right: 70px;
+    margin-bottom: -36px;
+    padding-top: 0;
+    padding-right: 2.7em;
+  }
+}
+
+@media (min-width: 1440px) {
+  .container {
+    max-width: 48em;
+  }
+}
+
+@media (min-width: 1920px) {
+  .split {
+    justify-items: center;
+    padding-inline: 8em;
+    text-align: left;
+  }
+}
+
+@media (max-width: 991px) {
+  .split {
+    grid-template-rows: auto auto;
+    width: 100%;
+  }
+
+  .large {
+    margin-bottom: 1em;
+  }
+
+  .videoRow {
+    width: 100%;
+    padding-inline: 1em;
+  }
+
+  .film {
+    margin-inline: auto;
+    padding-inline: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .split {
+    padding-inline: 1em;
+  }
+}
+
+@media (max-width: 479px) {
+  .film {
+    width: 100%;
+    margin-left: 0;
+    aspect-ratio: 16 / 9;
+    height: auto;
+    text-align: left;
+  }
+}

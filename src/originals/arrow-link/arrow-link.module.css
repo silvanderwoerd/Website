@@ -25,6 +25,11 @@
   row-gap: 10px;
 }
 
+.blue {
+  color: var(--color-accent-teal);
+  font-weight: inherit;
+}
+
 .arrow {
   opacity: 0.25;
   transition: opacity var(--duration-base) linear;

@@ -67,7 +67,8 @@ export const getSite = (): Site => readJson<Site>(join(contentDir, "site.json"))
 // Collections (later from Elio).
 export type Partner = { name: string; logo: string };
 export type Testimonial = { quote: string; name: string; role: string; logo: string | null };
-type Collections = { partners: Partner[]; testimonials: Testimonial[] };
+export type TeamMember = { name: string; role: string; photo: { src: string; alt: string }; group: "core" | "collective" };
+type Collections = { partners: Partner[]; testimonials: Testimonial[]; team: TeamMember[] };
 export function getCollection<K extends keyof Collections>(name: K): Collections[K] {
   return readJson<Collections[K]>(join(contentDir, "collections", `${name}.json`));
 }

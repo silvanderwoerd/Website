@@ -12,6 +12,7 @@ import { HeroFade, HeroParallax } from "./HeroFade";
 import styles from "./hero.module.css";
 
 type HomeContent = { title: string; video: VideoSource; button: { label: string; href: string; lightbox?: boolean } };
+type AboutContent = { eyebrow: string; title: string; video: VideoSource };
 type ProjectContent = { eyebrow: string; client: string; title: string; image: { src: string; alt: string } };
 
 export function Hero({ instance, stripe }: StripeProps) {
@@ -33,6 +34,19 @@ export function Hero({ instance, stripe }: StripeProps) {
             <AnimatedText as="h1" className={`${styles.projectTitle} ts-project-title`} text={c.title} field="title" afterLoad />
           </div>
         </HeroParallax>
+      </section>
+    );
+  }
+
+  if (settings.variant === "about") {
+    const c = stripe.content as AboutContent;
+    return (
+      <section className={styles.about} {...root}>
+        <BackgroundVideo video={c.video} className={styles.aboutVideo} />
+        <p className={`${styles.aboutEyebrow} ts-eyebrow-large`} {...field("eyebrow")}>
+          {c.eyebrow}
+        </p>
+        <AnimatedText as="h1" className={`${styles.aboutTitle} ts-mission-title`} text={c.title} strong={styles.strong} field="title" afterLoad />
       </section>
     );
   }

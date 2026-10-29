@@ -1,0 +1,157 @@
+/* Live: section.section.overflow.noise-overlay > .fl-our-collective-text > h2.fl-awards-heading;
+   .fl-collections > p.services-eyebrow, .fl-core-team-collection-wrapper >
+   .fl-widercollective-collection-list > .fl-core-team-member-wrapper (picture,
+   .fl-core-team-bio-wrapper, .fl-core-team-name-title), with the page's own hover rules. */
+
+.section {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+}
+
+.head {
+  position: relative;
+  z-index: 2;
+  display: grid;
+  grid-template-columns: 30em 1fr;
+  grid-template-rows: auto;
+  grid-auto-columns: 1fr;
+  gap: 3rem 9em;
+  margin-top: 4em;
+  padding: 2em 8.375em;
+}
+
+.heading {
+  margin-bottom: 0.2em;
+  text-align: left;
+}
+
+.strong {
+  font-weight: 900;
+}
+
+.groups {
+  position: relative;
+  z-index: 2;
+  margin-bottom: 0;
+  padding: 2em 8.375em;
+}
+
+.label {
+  margin: 0 0 2em;
+  color: var(--color-white);
+  text-align: left;
+  white-space: nowrap;
+}
+
+.listBox {
+  display: block;
+  margin: 0 -1.5em 4em;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: auto auto;
+  grid-auto-columns: 1fr;
+  gap: 16px;
+}
+
+.member {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  color: var(--color-white);
+  font-size: 1em;
+  transition: all var(--duration-default) var(--ease-standard);
+}
+
+.member:hover {
+  transform: scale(0.95);
+}
+
+.photo {
+  width: 100%;
+}
+
+/* The page's own CSS hides the (empty) bio panel and shows it on hover: a dark shade. */
+.shade {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 1.9em;
+  background-color: var(--overlay-black-42);
+  opacity: 0;
+  transition: all var(--duration-base) ease-in-out;
+}
+
+.member:hover .shade {
+  opacity: 1;
+}
+
+.caption {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 2;
+  padding: 0 1.9em 1em 1.2em;
+}
+
+.name {
+  margin-bottom: 0;
+  transition: color var(--duration-fast);
+}
+
+.role {
+  margin: 0;
+  transition: color var(--duration-fast);
+}
+
+.member:hover .name,
+.member:hover .role {
+  color: var(--color-white);
+}
+
+@media (min-width: 1280px) {
+  .listBox {
+    margin-bottom: 1em;
+  }
+}
+
+@media (min-width: 1920px) {
+  .head {
+    grid-template-columns: 30em;
+    padding-bottom: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .head {
+    grid-template-columns: 1fr;
+    width: 100%;
+    padding-inline: 7em;
+  }
+
+  .groups {
+    width: 100%;
+    padding-inline: 2em;
+  }
+
+  .grid {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+
+@media (max-width: 767px) {
+  .head {
+    padding-inline: 1em;
+  }
+
+  .grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}

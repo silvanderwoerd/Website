@@ -187,3 +187,48 @@
     margin-top: 5px;
   }
 }
+
+/* About: section.about-hero (.w-background-video) > video, p.about-hero-eyebrow,
+   h1.about-hero-heading (.tricks .u-show-on-load) */
+.about[data-s-variant="about"] {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  height: 500px;
+  min-height: 100svh;
+  padding: 5em;
+  color: var(--color-white);
+}
+
+.aboutVideo {
+  position: absolute;
+  inset: -100%;
+  z-index: -100;
+  width: 100%;
+  height: 100%;
+  margin: auto;
+  object-fit: cover;
+  background-size: cover;
+  background-position: 50%;
+}
+
+.aboutEyebrow {
+  margin: 0 0 2em;
+  color: var(--color-white);
+  text-align: center;
+  white-space: nowrap;
+}
+
+.aboutTitle {
+  text-align: center;
+}
+
+@media (max-width: 767px) {
+  .about {
+    padding-inline: 1em;
+  }
+}

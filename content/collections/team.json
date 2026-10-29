@@ -1,0 +1,173 @@
+[
+  {
+    "name": "Sil van der Woerd",
+    "role": "Co-Founder & Creative Director",
+    "photo": {
+      "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/65a2f6e7f0120c2cb4e5df3d_Sil.PROFILE.jpg",
+      "alt": ""
+    },
+    "group": "core"
+  },
+  {
+    "name": "Jorik Dozy",
+    "role": "Co-Founder & Creative Director",
+    "photo": {
+      "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/65a2f70cd78a496b27ee4b91_Jorik.PROFILE.jpg",
+      "alt": ""
+    },
+    "group": "core"
+  },
+  {
+    "name": "Alea Rahim",
+    "role": "Executive Producer",
+    "photo": {
+      "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/65a2f7c7fc7dec3e8e80a4c1_Alea.PROFILE.jpg",
+      "alt": ""
+    },
+    "group": "core"
+  },
+  {
+    "name": "Sean Lin",
+    "role": "Co-Founder",
+    "photo": {
+      "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/65a2f7fbb68f50c20a07e264_Sean.PROFILE.jpg",
+      "alt": ""
+    },
+    "group": "core"
+  },
+  {
+    "name": "Marsya M. Johari",
+    "role": "Social Media Manager",
+    "photo": {
+      "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/65a2f8255a7b19f56379c888_Marsya.PROFILE.jpg",
+      "alt": ""
+    },
+    "group": "core"
+  },
+  {
+    "name": "Theresa Cellona",
+    "role": "Researcher & Assistant Producer",
+    "photo": {
+      "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/65efcb757511a1b0d363fde8_Theresa.PROFILE.2.jpg",
+      "alt": ""
+    },
+    "group": "core"
+  },
+  {
+    "name": "Roberto Natali",
+    "role": "Film Director",
+    "photo": {
+      "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/67aadbda7ed3fa65ace60180_Roberto.PROFILE.v2.jpg",
+      "alt": ""
+    },
+    "group": "core"
+  },
+  {
+    "name": "Kay Vasey",
+    "role": "Head of Philanthropy",
+    "photo": {
+      "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/66011a99d32f31bf67041373_Kay.PROFILE.2.jpg",
+      "alt": ""
+    },
+    "group": "core"
+  },
+  {
+    "name": "Giulio Paparesta",
+    "role": "Strategic Partnerships Lead",
+    "photo": {
+      "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/67aadd29e3f62d0e8f2edbc7_Giulio.PROFILE.jpg",
+      "alt": ""
+    },
+    "group": "core"
+  },
+  {
+    "name": "Sara Kong",
+    "role": "Producer",
+    "photo": {
+      "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/6614ae6d46871afa53e9f05e_Sara.PROFILE.jpg",
+      "alt": ""
+    },
+    "group": "collective"
+  },
+  {
+    "name": "Jakub Chlouba",
+    "role": "Director/Cinematographer",
+    "photo": {
+      "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/66e7d5ba8eeeadb3d68ed605_Jakub.PROFILE.jpg",
+      "alt": ""
+    },
+    "group": "collective"
+  },
+  {
+    "name": "Tilly Compton",
+    "role": "Producer",
+    "photo": {
+      "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/670349868c8ea654ba7a356b_Tilly.PROFILE.jpg",
+      "alt": ""
+    },
+    "group": "collective"
+  },
+  {
+    "name": "Tim Smit",
+    "role": "Director & VFX Supervisor",
+    "photo": {
+      "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/6606806696bbd0b3bcd320fb_Tim.PROFILE.jpg",
+      "alt": ""
+    },
+    "group": "collective"
+  },
+  {
+    "name": "Nicholas Chin",
+    "role": "Cinematographer",
+    "photo": {
+      "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/6617dab7e044d7eebf93e3d2_Nic.PROFILE.2.jpg",
+      "alt": ""
+    },
+    "group": "collective"
+  },
+  {
+    "name": "Lennert Hillege",
+    "role": "Cinematographer",
+    "photo": {
+      "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/65f2bb4a1510d6f5716a66c4_Lennert.PROFILE2.jpg",
+      "alt": ""
+    },
+    "group": "collective"
+  },
+  {
+    "name": "Charlie Balch",
+    "role": "Cinematographer",
+    "photo": {
+      "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/6a579c6104bb2dc1cee0cdc6_charlie-profile-vignete.jpg",
+      "alt": ""
+    },
+    "group": "collective"
+  },
+  {
+    "name": "Bayu Topan",
+    "role": "Line Producer",
+    "photo": {
+      "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/6614b0a8864e900c43d96ac7_Bayu.PROFILE.2.jpg",
+      "alt": ""
+    },
+    "group": "collective"
+  },
+  {
+    "name": "Joe Wills",
+    "role": "Sound Designer & Composer",
+    "photo": {
+      "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/661c8f6d345c62656a656221_Joe.PROFILE.3.jpg",
+      "alt": ""
+    },
+    "group": "collective"
+  },
+  {
+    "name": "Keidrych Wasley",
+    "role": "Cinematographer/Colorist",
+    "photo": {
+      "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/6610dc21d95d3859568b0ef9_K.PROFILE.2.jpg",
+      "alt": ""
+    },
+    "group": "collective"
+  }
+]

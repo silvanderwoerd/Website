@@ -1,0 +1,258 @@
+{
+  "slug": "about",
+  "title": "About | Studio Birthplace",
+  "description": "In the face of climate meltdown, massive inequity and a sixth mass extinction, we are committed to disrupt the way environmental and social stories are told.",
+  "family": "fluid",
+  "background": "plain",
+  "stripes": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "overrides": {
+        "variant": "about"
+      },
+      "overrideReasons": {
+        "variant": "as on the live site (phase 1): About's mission hero"
+      },
+      "content": {
+        "eyebrow": "Our mission",
+        "title": "We craft campaigns to awaken hearts\nand ignite change towards\n**a just, healthy world.**",
+        "video": {
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F6755b8915c8ebfe157fa4e98_MissionStatementVideov6HDmov-poster-00001.jpg",
+          "mp4": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F6755b8915c8ebfe157fa4e98_MissionStatementVideov6HDmov-transcode.mp4",
+          "webm": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F6755b8915c8ebfe157fa4e98_MissionStatementVideov6HDmov-transcode.webm"
+        }
+      }
+    },
+    {
+      "id": "mission",
+      "type": "about-statement",
+      "content": {
+        "eyebrow": "what we stand for",
+        "text": "We're reclaiming **storytelling as a force for positive action and transformation.**",
+        "body": "We’re in a Planetary Crisis, the stories we've been told are used for profit, fueling fear and disconnection. But a single film can spark change, rewrite the narrative, and drive culture. Together with changemakers, innovators and mission-driven brands, we don’t just tell stories - we inspire action. By changing the story, we change the system.",
+        "link": {
+          "label": "Our Real World **Action**",
+          "href": "/act"
+        },
+        "film": {
+          "provider": "youtube",
+          "id": "ty4N3q_rfFE",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/675591211ab7c8348d8f6849_2024SHOWREEL-v2.avif",
+          "ratio": "16:9"
+        }
+      }
+    },
+    {
+      "id": "services",
+      "type": "services",
+      "content": {
+        "eyebrow": "OUR SERVICES",
+        "heading": "What **We Do**",
+        "tabs": [
+          {
+            "label": "Campaign & Strategy",
+            "text": "With years of experience, we’ve mastered strategic storytelling on urgent, sensitive topics. Our in-house team of writers, creatives, and marketers turns ideas into powerful campaigns that captivate and reach the widest audience possible.",
+            "background": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/67ada8ea6d1c26f0584eadd5_servicesBackground.07.jpg"
+          },
+          {
+            "label": "Concept & Creative",
+            "text": "Our studio is built on the belief that bold, original concepts are everything. We specialize in crafting ideas that captivate, inspire change, and push creative boundaries - no matter the challenge.",
+            "background": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/67ada9ed90175cb79c1a8253_servicesBackground.06.jpg"
+          },
+          {
+            "label": "Production",
+            "text": "We do it all - live-action, 3D animation, and everything in between. From sulfur mines to jungles and the ocean, we thrive in any environment. With over a decade of experience on Hollywood blockbusters, we bring top-tier visual effects that deliver unmatched impact for your budget.",
+            "background": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/67ada8eabc9fb205b79bb366_servicesBackground.08.jpg"
+          }
+        ],
+        "link": {
+          "label": "We Are **Planet Positive**",
+          "href": "/act"
+        }
+      }
+    },
+    {
+      "id": "awards",
+      "type": "awards",
+      "content": {
+        "background": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6757b937b58e0f5f5976e2b6_Awards.BG.3.jpg",
+          "alt": ""
+        },
+        "eyebrow": "Awards",
+        "heading": "Recognition",
+        "link": {
+          "label": "View all awards",
+          "href": "#"
+        },
+        "listTitle": "Awards",
+        "list": "#### 2026\n\n### **Change Drivers**\n\nGold - Social Responsibility, General Entertainment - Europe, GEMA Awards\n\n‍\n\n### **Earth Defender**\n\nWinner Narrative Shorts, Films for the Forest\n\nGold - VFX, Gong Creative Circle Awards\n\n‍\n\n‍\n\n#### 2025\n\n### **Change Drivers**\n\nSilver - Video Campaigns | Global, GEMA Global Awards for TV and Streaming\n\n‍\n\n### **Earth Defender**\n\nBest of Cultural Diversity Category, Human-Environment Care Film Festival\n\nBest Professional Short Film, International Environmental Film Festival of Chefchaouen\n\nSilver Best Ad of the Year: VFX, Shots APAC Awards\n\nBest Music Video, Hollyshorts Film Festival\n\nBest VFX, CICLOPE Asia\n\nBronze Pencil- Cinematography (Single), The One Show Awards\n\nMerit Award - Visual Effects, The One Show Awards\n\n‍\n\n### **Broken Wings**\n\nBest International Short Film, Cervelló Nature Film Festival\n\nBest Cinematography, Sanse Cortos en Abierto\n\n‍\n\n### **Wear Wool, Not Waste**\n\nEffectiveness Award, APA Show\n\nGold - Colour Grading | Commercial Film Grading, Creative Circle Awards\n\nSilver - Film | Cinema 1 minute & under, Creative Circle Awards\n\nBronze - Film | Film for Positive Change, Creative Circle Awards\n\nBronze - Film Craft | Sound Design, Creative Circle Awards\n\nSilver Flying High - Commercials, One Point Four Awards\n\nGold - Creative, The Drum Marketing EMEA Awards\n\nSilver - Sustainability & Responsibility, The Drum Marketing EMEA Awards\n\n‍\n\n### **Moneytrees**\n\nGold VFX, GONG Awards\n\nBest of Category: Craft - Film and Branded Entertainment, GONG Awards\n\n‍\n\n#### 2024\n\n### **Wear Wool, Not Waste**\n\nSilver Public Interest - Environment, EPICA Awards\n\n‍\n\n### **Broken Wings**\n\nBest Documentary, CINECO FESTIVAL 2024\n\nBest Short Film, Premis Miquel Fàbregues\n\nWinner Prix Jeunes Regards, Festival International du Film Ornithologique\n\nSpecial Mention - Best Photography, Ponferrada International Film Festival\n\nBest International Short Film, Festival de Cine Verde de Barichara FESTIVER\n\nWinner 'A Cineco' Section, Ponme Un Corto\n\nBest Short Film, Festival De Curtmetratges De Medi Ambient I Sostenibilitat. Parc Natural I Reserva De La Biosfera Del Montseny\n\nBest Fiction Short Film, Riurau Film Festival\n\nBest Original Music, Riurau Film Festival\n\nBest Short Film, Festival Internacional de Cine Pequeño de Aspe\n\nAudience Award, Lanzarote International Film Festival\n\n‍\n\n### **(PLASTIK)**\n\nBest Micro-Short, Environmental Film and Screenplay Festival\n\nBest Micro-Short, Miami Film Critic Award\n\n‍\n\n#### 2023\n\n### **(PLASTIK)**\n\nAccesit Crece Conmigo Award, Ponferrada International Film Festival\n\nSpec. Mention, Pirineos Mountain Film Festival\n\n‍\n\n### **Wear Wool Not Fossil Fuel**\n\nSilver Positive Change: Environmental - Non-Profit, Effie Awards\n\nSilver Film Craft, Kinsale Shark Awards\n\nBronze Best Colour Grading, Creative Circle Awards\n\nNominated, Impact Award, Integrated, Best Over 30” and Up To & Including 60”, Original Composition, Colourist, British Arrows\n\n‍\n\n#### 2022\n\n### **Wear Wool Not Fossil Fuel**\n\nSilver Planet Positive, 1.4 Awards\n\n‍\n\n### **Change Drivers - Episode 1**\n\nGold Long Form Promotional Content, Promax Awards\n\n‍\n\n### **(PLASTIK)**\n\nBest Environmental Film, ONA Short Film Festival\n\nBest Short Film, El Festival De Cine Español Emergente\n\nVimeo Staff Pick\n\n‍\n\n### **Wasteminster**\n\nBronze Film Craft / Animation, Cannes Lions\n\nGold Best Animation For Positive Change, Creative Circle Awards\n\nGold Best Digital 3D Animation, Creative Circle Awards\n\nGold Online Commercials 3D Animation, 43rd Annual Telly Awards\n\nSilver Online Commercials Social Impact, 43rd Annual Telly Awards\n\nGold The Sustainable Impact Award, British Arrows\n\nGold Animation: CGI, British Arrows\n\nThird Prize Jury Award 1-5 Minute Films, United Filmmakers Festival 2022\n\n‍\n\n#### 2021\n\n### **Wasteminster**\n\nGold Flying High Cat., One Point Four Awards\n\nGold Planet Positive, One Point Four Awards\n\nGold Production & Post Production CGI Animation, London International Awards\n\nBronze Best Animation / Motion Graphics, London International Awards\n\nBest Animation, EATSA Film Festival\n\nBest Conservation & Preservation Award, Shorty Awards\n\nGold Essence Of The Message, LUUM Award 2021\n\nGold Planet, LUUM Award 2021\n\nGold Best Of Category, Craft Gongs,Singapore Gong Show 2021\n\nNominated Ad Of The Year: Concept Up To And Including 2 Minutes, Shots EMEA Awards\n\nNominated Ad Of The Year: Charity, Shots EMEA Awards\n\nSilver Ad of The Year: Animation, Shots EMEA Awards\n\nSilver Best Charities & Trust, Shark Advertising Awards\n\nSilver Best Animation Direction, Shark Advertising Awards\n\nTop 15 Best Film Ads Of 2021, Campaign Magazine\n\nVimeo Staff Pick Best of the Month\n\n‍\n\n### **Humanity's Impact**\n\nNominated Best Short Animation, Innsbruck Nature Film Festival\n\n‍\n\n### **Birthplace**\n\nBest Short Film Award, Kuala Lumpur Eco Film Festival\n\n‍\n\n### **The Journey of Hope**\n\nGrand Prix Award, WHO’s Health For All Film Festival\n\n‍\n\n### **Sleepless/ RUD**\n\nCinema and Sustainable Dev Award, Malescorto International Film Fest\n\nBest Cinematography, Fastnet Film Festival\n\n‍\n\n#### 2020\n\n### **Rewild**\n\n'Slowest' Award, Festival Cine Lento\n\nSpecial International Professional Award, Feelmotion ESNE Festival\n\nBest Soundtrack, Castrovillari Film Festival\n\nHonor. Mention from Tlanchana Fest - Festival de Cine y Arte Digital\n\nBest Music Video, South Europe IFF\n\nARKO Award, Premio de Videoarte Ayuntamiento de Astillero / El Almacén de las Arte\n\nJ-Wave Award, Tokyo Short Shorts Film Festival\n\nBest Documentary Film, Festival International de Cine Luz del Desierto\n\n‍\n\n### **Sleepless / RUD**\n\nBest Cinematography, Ushuaia SHH International Mountain Film Festival\n\nFestival Prize, Crossroads Section, Festival Cine De Montana Petrelda\n\nBest Cinematography, 15th Edition of Dieciminuti Film Festival\n\nBest Soundtrack, 15th Edition of Dieciminuti Film Festival\n\nGülden Glöbe, Short Film Festival Kontrast\n\nPremio Mejor Film Encrucijada, Cuenta Montes\n\n‍\n\n### **Epoch**\n\nBest Music Video, Festival Cortos Rodinia\n\n‍\n\n#### 2019\n\n### **Rewild**\n\nBest Documentary, Dieciminuti Film Festival\n\nBest Short Film, Minidoc\n\nHonor. Mention from the Student Jury of Clermont Auvergne University\n\n‍\n\n### **Sleepless / RUD**\n\nBest Short Film, Kuala Lumpur Eco Film Festival\n\nSpecial Merit Award, Kuala Lumpur Eco Film Festival\n\nRunner-Up Best Film, Film Festival Of The Shortest Night\n\n‍\n\n### **Those Who Have Reindeer**\n\nBronze Best Cinematography, Ad Stars\n\n‍\n\n### **Birthplace**\n\nBest Film Inspired By Ecological Issues, Malescorto ISFF\n\nAudience Award, Fest - New Directors / New Films Festival\n\nBest Music Video, Queen Palm Film Festival\n\nBest Cinematography In A Music Video, Queen Palm Film Festival\n\nBest Music Video, Ecozine Festival\n\nBest International Documentary, Imperia Video Festival\n\nBest Documentary, Int. Children And Youth Festival Cinemegaguay\n\nBest Music Video, Ecu, the European Independent Film Festival\n\nBest Film, Reel Teal Film Festival\n\nBest Experimental, Reel Teal Film Festival\n\nBest Video Clip, The Blue Gold\n\n‍\n\n### **Terraform**\n\nSpecial Mention Best Documentary, Festival Internacional del Cortometraje FIC\n\n‍\n\n#### 2018\n\n### **Birthplace**\n\nBest Music Video, CamerImage\n\nIndependent Video Of The Year, AIM Independent Music Awards\n\nBest Film, Punto Di Vista Film Festival\n\nBest Short Film, Corto Corto Mon Amour\n\nBest Short Film, Cat.Environmental Issues, Villammare Film Festival\n\nBest Short Fiction Film, Innsbruck Nature Film Festival\n\nRoyal Gem Diamond, Palm Springs Film Fest\n\nMost Inspiring Film, Carrboro Film Festival\n\nRunner-Up, Open Category, Barrie Film Festival\n\nSpecial Mention Best Experimental Short, Fincortex Int. Short Experimental Film Festival\n\nNominated Best Alternative Video UK, UK Music Video Awards\n\nNominated Best Cinematography in a Music Video, CamerImage\n\nNominated Best Photography, Soundie Music Video Awards\n\n‍\n\n### **Save Our Souls**\n\nSpecial Merit Award, Kuala Lumpur Eco Film Festival\n\n‍\n\n### **Terraform**\n\nBest Music Video Award, Short Shorts\n\nNominated Best Music Video in a Music Video, CamerImage\n\nNominated Best Cinematography in a Music Video, CamerImage\n\nBest Experimental, Swiff South West London International Film Festival\n\nBest Documentary, 7th Visioni Corte International Film Festival\n\nBest Documentary Cinematography, Int. Film Fest. 'Autumn At Voronet'\n\nBest Film, Interactions Jury, 13th SoleLuna Doc Film Festival\n\nCortoNatura Award, 21th Gran Paradiso Film Festival\n\nBest Film, Audience Award, 16th Festival De Curtmetratges de Manlleu\n\nBest Short, New Italians Jury, Sole Luna Doc Film Festival\n\nBest Short, Mt. Fuji, Atami Film & VR Festival\n\nBest Documentary, Greenwich Village Film Festival\n\nBest Music Video, Audience Choice Award, 42nd Cleveland IFF\n\nSpecial Mention Best Short, International Jury, Sole Luna Doc Film Festival\n\nSpecial Mention Best Miglior Short Documentary, Malescorto Int' Short Film Festival\n\nSpecial Jury Mention, 6th International Audiovisual Festival Mambe\n\nSpecial Jury Mention, Minidoc\n\nVimeo Staff Pick\n\n‍\n\n### **Epoch**\n\nOutstanding Prod. Design, Spec. Jury Award, Autumn Shorts Film Fest.\n\n‍\n\n### **Mantra**\n\nBest Experimental Film, My Hero International Film Festival\n\nBest Music Video, DNBA Drum and Bass Arena Awards\n\n‍\n\n#### 2016\n\n### **Mantra**\n\nVimeo Staff Pick\n\n‍\n\n### **Requiem 2019**\n\nBest Film, Official Selection, Sisak Eco Film Festival\n\n‍\n\n#### 2014\n\n### **Requiem 2019**\n\nBest Music, San Gió Video Festival\n\n‍\n\n#### 2013\n\n### **Requiem 2019**\n\nVimeo Staff Pick\n\n‍",
+        "text": "Our work has collected over 135 international awards, including a Cannes Lion, multiple British Arrows, Vimeo’s Best of the Month and a win at the prestigious Camerimage Film Festival.",
+        "logos": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65a066731587d810ad4a42ed_LIA.png",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65a0667319fe504f47673845_cannes.png",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65a06673e19e286177651d84_arrows.png",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65a06673e0948144e252d685_vimeowhite.png",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65a06673071df46687b7c27b_camerimagewhite.png",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65a066731587d810ad4a42ed_LIA.png",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65a0667319fe504f47673845_cannes.png",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65a06673e19e286177651d84_arrows.png",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65a06673e0948144e252d685_vimeowhite.png",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65a06673071df46687b7c27b_camerimagewhite.png",
+            "alt": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "team",
+      "type": "team",
+      "content": {
+        "heading": "Our **Collective**",
+        "coreLabel": "Core Team",
+        "collectiveLabel": "Our Collective"
+      }
+    },
+    {
+      "id": "life",
+      "type": "life-with",
+      "content": {
+        "heading": "Life With **Studio Birthplace**",
+        "photos": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65a4145403d49a3f70f3878b_wm.webp",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65f46dee766cb23a11b3d024_LifeWithSB.01.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/678de84bc0ea1300cdafc848_LifeWithSB.12.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65f46dee4e092775d8420294_LifeWithSB.02.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65f46f7444dec6ff9ec19fd1_LifeWithSB.04.jpeg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65a414550e6827477030d230_life09.webp",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65a41454a0c561c7b67d528d_life13.webp",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65a41455551180337d4b95e3_life15.webp",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/678de84bcdd8b492836e5629_LifeWithSB.13.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/678ddf1d5bfb461092db53e7_LifeWithSB.08.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65a414549a5e22222e1d93e4_life14.webp",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6606941568b8e702efa9611c_LifeWithSB.06.JPG",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/678de84b760478a30e72ab1e_LifeWithSB.14.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/678de84b120990d6973cc1a6_LifeWithSB.09.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/678df6705318d87886850289_LifeWithSB.17.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65a414550cdede4ab295f4c4_wm2.webp",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65f46f7443bae7ca90ea29fe_LifeWithSB.03.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/678de84a079a619b76ddfa63_LifeWithSB.15.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/678de84b4e2c1d106eb92e53_LifeWithSB.10.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/678de9c409eb3c49550e521a_LifeWithSB.16.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65a41455daa5ee1dd707026b_WMnature.webp",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/678de3aaaabf9b67d6304520_LifeWithSB.11.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65a414536c755c83b60fb7fe_life01.webp",
+            "alt": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "closing",
+      "type": "closing-cta",
+      "content": {
+        "heading": "We're here to tell stories that\nchange the world. You in?",
+        "button": {
+          "label": "Work With Us",
+          "href": "/contact"
+        }
+      }
+    }
+  ]
+}
