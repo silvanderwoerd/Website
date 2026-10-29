@@ -101,19 +101,44 @@
 	.w-button	text-decoration	none	True
 	.w-button	display	inline-block	True
 	input.w-button	-webkit-appearance	button	True
-	:where(button.w-popover-trigger)	color	inherit	False
-	:where(button.w-popover-trigger)	cursor	pointer	False
-	:where(button.w-popover-trigger)	font	inherit	False
-	:where(button.w-popover-trigger)	line-height	inherit	False
-	:where(button.w-popover-trigger)	text-align	inherit	False
-	:where(button.w-popover-trigger)	-webkit-text-decoration	inherit	False
-	:where(button.w-popover-trigger)	text-decoration	inherit	False
-	:where(button.w-popover-trigger)	background-color	#0000	False
-	:where(button.w-popover-trigger)	border	0	False
-	:where(button.w-popover-trigger)	margin	0	False
-	:where(button.w-popover-trigger)	padding	0	False
-	.w-popover	position-anchor	none	False
+	:where(button.w-popover-trigger), :where(button.w-modal-trigger)	color	inherit	False
+	:where(button.w-popover-trigger), :where(button.w-modal-trigger)	cursor	pointer	False
+	:where(button.w-popover-trigger), :where(button.w-modal-trigger)	font	inherit	False
+	:where(button.w-popover-trigger), :where(button.w-modal-trigger)	line-height	inherit	False
+	:where(button.w-popover-trigger), :where(button.w-modal-trigger)	text-align	inherit	False
+	:where(button.w-popover-trigger), :where(button.w-modal-trigger)	-webkit-text-decoration	inherit	False
+	:where(button.w-popover-trigger), :where(button.w-modal-trigger)	text-decoration	inherit	False
+	:where(button.w-popover-trigger), :where(button.w-modal-trigger)	background-color	#0000	False
+	:where(button.w-popover-trigger), :where(button.w-modal-trigger)	border	0	False
+	:where(button.w-popover-trigger), :where(button.w-modal-trigger)	margin	0	False
+	:where(button.w-popover-trigger), :where(button.w-modal-trigger)	padding	0	False
+	:where(.w-popover)	position-anchor	auto	False
+	:where(.w-popover)	position-area	top	False
+	:where(.w-popover[data-w-popover-backdrop-animated], .w-modal[data-w-popover-backdrop-animated])::backdrop	animation	var(--w-backdrop-animation, none)	False
+	:where(.w-popover, .w-modal)	--w-backdrop-animation	initial	False
+	.w-popover-mask	opacity	0 !important	False
+	.w-popover-mask	clip-path	none !important	False
+	.w-popover-mask	pointer-events	auto !important	False
+	.w-popover-mask	border	0 !important	False
+	.w-popover-mask	width	auto !important	False
+	.w-popover-mask	max-width	none !important	False
+	.w-popover-mask	height	auto !important	False
+	.w-popover-mask	max-height	none !important	False
+	.w-popover-mask	margin	0 !important	False
+	.w-popover-mask	padding	0 !important	False
+	.w-popover-mask	position	fixed !important	False
+	.w-popover-mask	inset	0 !important	False
+	.w-popover-mask	transform	none !important	False
+	.w-popover-mask[popover]	translate	none !important	False
+	.w-popover-mask[popover]	rotate	none !important	False
+	.w-popover-mask[popover]	scale	none !important	False
+	.w-popover-mask::backdrop	display	none !important	False
+	.w-popover-mask:not(:popover-open)	display	none !important	False
+	.w-popover-mask	display	none !important	False
 	.w-popover[popover]:not(:popover-open)	display	none	False
+	.w-modal:not([open]):not([popover])	display	none	False
+	.w-modal[popover]:not(:popover-open)	display	none	False
+	:where(.w-modal[data-w-modal-lock-scroll])	overscroll-behavior	contain	False
 	html[data-w-dynpage] [data-w-cloak]	color	#0000 !important	True
 	.w-code-block	margin	unset	False
 	pre.w-code-block code	all	inherit	False

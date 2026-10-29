@@ -188,7 +188,10 @@ export function stripeFor(band, n) {
         id: id("posters"), type: "posters",
         content: films.length
           ? { films }
-          : { images: band.querySelectorAll("img").map((i) => ({ src: src_(i), alt: i.getAttribute("alt") ?? "" })) },
+          : {
+              // A wide still (.fl-poster-still-image-haze) beside the poster: its own size, wherever it stands.
+              images: band.querySelectorAll("img").map((i) => ({ src: src_(i), alt: i.getAttribute("alt") ?? "", ...(has(i, "fl-poster-still-image-haze") ? { still: true } : {}) })),
+            },
       },
       { layout: postersLayout(band), spacing: has(band, "fl-section-moneytrees-poster") ? "tight" : undefined },
     );

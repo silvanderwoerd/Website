@@ -7,7 +7,7 @@ import { getSite } from "@/content";
 import type { StripeProps } from "@/stripes/types";
 import styles from "./posters.module.css";
 
-type Content = { images?: { src: string; alt: string }[]; films?: Film[] };
+type Content = { images?: { src: string; alt: string; still?: boolean }[]; films?: Film[] };
 
 export function Posters({ instance, stripe }: StripeProps) {
   const { attrs } = resolveOriginal("posters", stripe);
@@ -25,7 +25,7 @@ export function Posters({ instance, stripe }: StripeProps) {
             </div>
           ))}
           {c.images?.map((img, i) => (
-            <img key={i} src={img.src} alt={img.alt} className={`${styles.image} ${i > 0 ? styles.second : ""}`} />
+            <img key={i} src={img.src} alt={img.alt} className={`${styles.image} ${img.still ? styles.still : ""}`} />
           ))}
         </div>
       </div>

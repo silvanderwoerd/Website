@@ -741,7 +741,8 @@
           },
           {
             "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6814b6d289ffbfd7939b7dea_IMG_3693-optimized.jpg",
-            "alt": ""
+            "alt": "",
+            "still": true
           }
         ]
       },

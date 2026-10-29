@@ -18,7 +18,7 @@ mkdirSync(out, { recursive: true });
 // Saved addresses that are redirects to another project page.
 const REDIRECTS = new Set(["moneytrees", "change-drivers-season-2"]);
 // Pages under /work that the Work grid doesn't show.
-const NOT_IN_GRID = new Set(["jungleheroes-howdoesitwork"]);
+const NOT_IN_GRID = new Set(["jungleheroes-howdoesitwork", "flags"]);
 
 
 const unknown = {};

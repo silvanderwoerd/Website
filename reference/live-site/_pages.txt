@@ -249,3 +249,4 @@
 /work/woolmark
 /work/woolmark-wear-wool-not-waste
 /work/world-on-fire
+/work/flags

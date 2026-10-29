@@ -71,8 +71,9 @@
   object-fit: cover;
 }
 
-.section[data-s-layout="poster-still"] .second,
-.section[data-s-layout="poster-still-double"] .second {
+/* .fl-poster-still-image-haze: the wide still, before or after the poster */
+.section[data-s-layout="poster-still"] .still,
+.section[data-s-layout="poster-still-double"] .still {
   width: 41.4375em;
   margin-right: 0;
 }

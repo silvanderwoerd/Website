@@ -264,7 +264,8 @@
           },
           {
             "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65c48797315e98aa84363911_PaulHilton.01.jpg",
-            "alt": ""
+            "alt": "",
+            "still": true
           }
         ]
       },
@@ -327,7 +328,8 @@
           },
           {
             "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65b8267875da001eaf0838c7_Poster2.webp",
-            "alt": ""
+            "alt": "",
+            "still": true
           }
         ]
       },

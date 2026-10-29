@@ -1,0 +1,258 @@
+{
+  "slug": "flags",
+  "title": "Flags",
+  "description": "The music video for SYML's 'Flags' tells the true story of Sapna, a 10-year-old girl living in India below the poverty line suffering from blood cancer. Each week she would take an 8 hour overnight train journey in order to reach a hospital where treatment is affordable. This film was shot in January, 2020. On October 1st, 2020, Sapna passed away.",
+  "family": "fluid",
+  "background": "black",
+  "client": "SYML",
+  "inGrid": false,
+  "stripes": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "content": {
+        "eyebrow": "Our Work",
+        "client": "SYML",
+        "title": "Flags",
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65cf591046767a515224f071_FlagsCover.Image.jpg",
+          "alt": ""
+        }
+      }
+    },
+    {
+      "id": "details",
+      "type": "project-details",
+      "content": {
+        "eyebrow": "ABOUT THE PROJECT",
+        "about": "## Flags tells the true story of Sapna, a 10-year-old girl **living in India below the poverty line suffering from blood cancer.**\n\nEach week she would take an 8 hour overnight train journey in order to reach a hospital where treatment is affordable.\n\n**This film was shot in January, 2020. On October 1st, 2020, Sapna passed away.**",
+        "credits": [
+          {
+            "role": "Director",
+            "name": "Jorik Dozy"
+          },
+          {
+            "role": "Producer",
+            "name": "Sean Lin"
+          },
+          {
+            "role": "Cinematographer",
+            "name": "Nicholas Chin"
+          }
+        ],
+        "fullCredits": "### Directed by\n\nJorik Dozy\n\n### Producer\n\nSean Lin\n\n### Line Producer\n\nPurvi Makwana\n\n### Co-Producer\n\nSil van der Woerd\n\n### Cinematographer\n\nNicholas Chin\n\n### 2nd Camera Operator\n\nDebesh Mehrotra\n\n### Camera Assistant\n\nSkaiste Kazragyte\n\n### Colorist\n\nKeidrych Wasley\n\n‍\n\n### Special Thanks\n\nMr. L.K.Chhajer, Acharya Tulsi Shanti Prathisthan\n\nAcharya Tulsi Regional Cancer Treatment & Research Institute\n\nSh. S.K.Srivastava - DRM, North Western Railway, Bikaner & Mr. Sunil Joshi - Sr DSO and all staff of Bikaner Division\n\nDr. Pankaj Tantia and Dr. Vivek Kareer",
+        "creditsNote": "Thank you to Anil Kumar, Manpreet Kaur & Sapna for sharing your story. “Flags” by SMYL 2020",
+        "press": [
+          {
+            "label": "Nettwerk",
+            "href": "https://nettwerk.com/syml-sheds-light-on-indias-cancer-train-with-one-girls-journey-of-hope%E2%80%82%E2%81%9F%E2%80%81%E2%80%83%E2%80%83%E2%80%86%E2%81%9F/"
+          },
+          {
+            "label": "Rolling Stone India",
+            "href": "https://rollingstoneindia.com/watch-seattle-artist-syml-make-an-india-connection-with-evocative-video-flags/"
+          },
+          {
+            "label": "V2",
+            "href": "https://www.v2benelux.com/news/syml-releases-a-video-for-the-heartbreaking-song-flags-21967"
+          }
+        ],
+        "logo": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65cf65e6991c6e59fcab3c36_SYML_20HEADER.png",
+          "alt": "",
+          "href": "https://www.symlmusic.com/"
+        },
+        "creditsLabel": "View Full Credits",
+        "pressLabel": "View Media Features"
+      }
+    },
+    {
+      "id": "film-2",
+      "type": "film",
+      "content": {
+        "film": {
+          "provider": "youtube",
+          "id": "jJwRga13gwc",
+          "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65cf69ff4de6603635564a3d_FlagsCover.video.jpg",
+          "ratio": "2.39:1"
+        }
+      }
+    },
+    {
+      "id": "quote-3",
+      "type": "quote",
+      "content": {
+        "quote": "\"In his song Flags, SYML sings: ‘I was born to rage, born to fight’. Everyone who knew Sapna told us that she is a fighter, she will not give up, and this is something we witnessed many times during our stay with her. We hope that Sapna’s spirit gives people all over the world who are suffering from cancer the strength to keep fighting.\"",
+        "cite": "Director Jorik Dozy"
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "text-4",
+      "type": "text",
+      "content": {
+        "heading": "Fighting Spirit",
+        "body": "Sapna passed on October 1st, 2020. As she leaves us, we feel a responsibility to make sure she is never forgotten. Her story teaches us about the fragility and inequality of life and that it is worth fighting to improve everyone's quality of life.\n\n‍\n\nWe can only hope that by sharing Sapna's story her memory lives on and we can continue to be inspired by her beautiful fighting spirit."
+      },
+      "padBottom": "4-5"
+    },
+    {
+      "id": "posters-5",
+      "type": "posters",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65cf71c650fa2d6114ebd3ab_SapnaTribute.jpg",
+            "alt": "",
+            "still": true
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65cf70f85ba2523de7920ba4_Sapna.webp",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "layout": "poster-still-double"
+      },
+      "overrideReasons": {
+        "layout": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "text-6",
+      "type": "text",
+      "content": {
+        "heading": "Cancer Capital",
+        "body": "CANCER, the world’s 2nd leading cause of death, is alarmingly prevalent in the farming region of Malwa, India. The region has seen such a fast growing number of cancer patients that it is known as the Cancer Capital of India.\n\n​\n\nAn average of 136 people per 100,000 suffer from the disease, exceeding the national average of 80 per 100,000. Everyday, an average of 18 deaths happen in this region due to cancer.\n\n​\n\nStudies indicate excessive and unregulated use of pesticides on food crops as the leading cause. As a result, farmers and their families live in a cesspool of toxicity that also contaminates the water they drink and bathe in.\n\n​\n\nMost of the people affected are living under the poverty line and can't access treatment near their homes. This causes around a hundred patients a day to take an 8 hour overnight train ride to the city of Bikaner to visit Acharya Tulsi Regional Cancer Treatment and Research Institute where cancer treatment is affordable.\n\n‍"
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-7",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d0154d366f5933ded14f34_FLAGS%20Edit%20GRADE%20V2.00_04_01_15.Still159.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d0154e5e2d131eb05eb14b_FLAGS%20Edit%20GRADE%20V2.00_03_25_18.Still156.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d0154fae9b76c3ec91643e_FLAGS%20Edit%20GRADE.00_03_34_21.Still129.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d0154e2899dc24f2a5ca6d_FLAGS%20Edit%20GRADE%20V2.00_04_14_19.Still160.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d0154efee042d9b28293ac_FLAGS%20Edit%20GRADE%20V2.00_01_07_22.Still136.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d0154e7fcc40b63a4e879d_FLAGS%20Edit%20GRADE%20V2.00_00_42_09.Still134.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d0154e34864dcb0159c075_FLAGS%20Edit%20GRADE%20V2.00_02_03_08.Still142.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d0154ee47447a2e8d88f78_FLAGS%20Edit%20GRADE.00_04_05_12.Still107.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d0154f7fcc40b63a4e8a99_FLAGS%20Edit%20GRADE.00_03_31_11.Still128.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d0154ee47447a2e8d88f98_FLAGS%20Edit%20GRADE%20V2.00_03_43_07.Still158.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d0154e744de9b392fecd8a_FLAGS%20Edit%20GRADE%20V2.00_03_39_20.Still157.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d0154e60b27300a0a6c955_FLAGS%20Edit%20GRADE%20V2.00_04_42_18.Still162.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "image": "stills"
+      },
+      "overrideReasons": {
+        "image": "as on the live site (phase 1)"
+      },
+      "padBottom": "4-375"
+    },
+    {
+      "id": "text-8",
+      "type": "text",
+      "content": {
+        "heading": "Production",
+        "body": "Rarely have we covered a topic and subject as heartbreaking and personal as this. Sapna was an incredible 10-year old girl. In the brief time we spent with Sapna, we experienced a rich slice of her young life. No matter how sick she was, her strength was evermore visible as she fought through any obstacle in her path.\n\n​\n\nAll of the scenarios and locations are as real as it gets, almost nothing was controllable and we therefore had to be in the right place at the right time. The hospital receives over one thousand patients a day and only has 17 doctors and not enough beds. The doctors do an incredible job to cope with such a huge volume of patients but many people end up having to travel back home right after receiving treatment since there is no room to stay overnight.\n\n​\n\nThe overnight train, known as ‘The Cancer Train’ is a train for the underprivileged in India and due to overcrowding people will spend the journey wrapped in blankets, sleeping on the floor. I am sure our crew made the journey for the passengers quite a bit more entertaining than their usual commute. Whether we would be taping black paper on the train’s ceiling lights to control the lighting or be hanging out of the door of the moving train to get an exterior shot, many passengers would smile and point at us as we tried to get our shots."
+      },
+      "padTop": "4-5",
+      "padBottom": "4-5"
+    },
+    {
+      "id": "gallery-9",
+      "type": "gallery",
+      "content": {
+        "images": [
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d01a4df011ee705de1425b_20200119_230851.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d018f03c2367e62d407071_IMG_0541.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d01a6031a45a262a878329_2020-02-06%2022_13_30-Photos.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d018f0f142ad8c6ac3b040_IMG_0794.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d018f0f142ad8c6ac3b03b_20200120_024310.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d018f03ef7afc28b035627_IMG_0821.jpg",
+            "alt": ""
+          },
+          {
+            "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65d018f0757eed41840d44f9_IMG_0728.jpg",
+            "alt": ""
+          }
+        ]
+      },
+      "overrides": {
+        "align": "center"
+      },
+      "overrideReasons": {
+        "align": "as on the live site (phase 1)"
+      }
+    },
+    {
+      "id": "more-work",
+      "type": "more-work",
+      "content": {
+        "button": {
+          "label": "View More Work",
+          "href": "/work"
+        }
+      }
+    }
+  ]
+}
