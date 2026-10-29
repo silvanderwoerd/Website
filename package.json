@@ -13,7 +13,7 @@
     "typecheck": "tsc --noEmit",
     "check": "npm run tokens && npm run typecheck && npm run lint && node scripts/check-look-values.mjs && node scripts/check-urls.mjs && node scripts/check-settings.mjs && node scripts/check-marks.mjs",
     "looks": "node scripts/looks.mjs",
-    "prepare": "git config core.hooksPath .githooks"
+    "prepare": "node scripts/install-hooks.mjs"
   },
   "dependencies": {
     "marked": "^18.1.2",
