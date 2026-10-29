@@ -74,6 +74,7 @@ Small text link with an arrow and a line that fills on hover. Files: `src/origin
 |---|---|---|---|
 | `variant` | choice | `default` · `partners` (1.75em more space above: cc-partners) | `default` |
 
+- Options from the containing original: `as: "div"` (the look without a link, inside a card that is the link) and `className` (placing it, never restyling).
 - Content: `label` (its `**…**` is the blue word, live `.text-color-blue`: "Our Real World **Action**"), `href`. The containing original may leave the arrow out where the live page puts it beside the link (About's awards).
 
 ### `project-tile`
@@ -293,6 +294,37 @@ Content: `heading`, `coreLabel`, `collectiveLabel`.
 Two live bands in one stripe: the "Life With **Studio Birthplace**" heading and a
 three-column photo wall (two from 767 down), each photo rising in as it scrolls
 into view (`RevealImage`). Content: `heading`, `photos[]`.
+
+### `act-hero` (one-off: Act)
+
+A sticky wall of four photo columns under a dark gradient; while the title's screen
+scrolls through, odd columns move −5em → 0 and even ones 0 → −5em (IX2 "Act Hero").
+Eyebrow and title (rising in after load) on top. Content: `eyebrow`, `heading`, `columns[][]`.
+
+### `act-campaigns` (one-off: Act)
+
+The campaigns to act on: a card each (photo, logo, a line, title, "Click to Act").
+From 992 up the logo and line are hidden until hover, when the card shrinks to 0.95
+(IX2 "Active Project Hover", desktop only). Each card is also its "Click to Act"
+`arrow-link` block, drawn as a div because the card is the link.
+Content: `eyebrow`, `heading`, `cards[]` (`href`, `newTab`, `image`, `logo`, `text`, `title`, `label`).
+
+### `sustainability` (one-off: Act)
+
+Eyebrow, heading, intro, and three cards (`StatCard`): a number counting up from 0
+when in view (countUp.js copied: 2s easeOutExpo, again after scrolling back above
+it; the final number is in the HTML), its label, and "Read more" opening its story.
+Content: `eyebrow`, `heading`, `text`, `stats[]` (`value`, `decimals`, `label`, `more`), `readMore`, `readLess`.
+
+### `act-statement`
+
+One sentence (rising in) over a full-width photo moving −25% → 0 while in view.
+Act and Earth Defender. Content: `image`, `text`.
+
+### `values` (one-off: Act)
+
+Eyebrow, heading and numbered rows that open on click (`ValueItem`: the answer rises,
+grows and fades in; the plus turns into a grey minus). Content: `eyebrow`, `heading`, `items[]` (`title`, `text`).
 
 ## News stripes (News, the Post and Category templates)
 

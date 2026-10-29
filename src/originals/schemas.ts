@@ -44,12 +44,17 @@ import { schema as services } from "./services/schema";
 import { schema as awards } from "./awards/schema";
 import { schema as team } from "./team/schema";
 import { schema as lifeWith } from "./life-with/schema";
+import { schema as actHero } from "./act-hero/schema";
+import { schema as actCampaigns } from "./act-campaigns/schema";
+import { schema as sustainability } from "./sustainability/schema";
+import { schema as actStatement } from "./act-statement/schema";
+import { schema as values } from "./values/schema";
 
 const isDev = process.env.NODE_ENV === "development";
 
 export const schemas: Record<string, OriginalSchema> = Object.fromEntries(
   [
-    lifeWith, team, awards, services, aboutStatement, workTile, workGrid, pageHeading, arrowLink, button, campaign, closingCta, cta, embed, episode, featuredWork, film, footer, gallery, hero,
+    values, actStatement, sustainability, actCampaigns, actHero, lifeWith, team, awards, services, aboutStatement, workTile, workGrid, pageHeading, arrowLink, button, campaign, closingCta, cta, embed, episode, featuredWork, film, footer, gallery, hero,
     instafilter, latestNews, moreWork, nav, newsList, pageBackground, partners, phones, postBody, postHeader,
     posters, preloader, projectDetails, projectTile, quote, relatedPosts, statement, stats, testimonials, text, textOnImage,
   ]

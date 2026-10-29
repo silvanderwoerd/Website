@@ -1,0 +1,284 @@
+{
+  "slug": "act",
+  "title": "Act With Us | Studio Birthplace",
+  "description": "With every project we ask ourselves,is this improving our world? Whenever we can, we act. Join us.",
+  "family": "fluid",
+  "background": "black",
+  "stripes": [
+    {
+      "id": "hero",
+      "type": "act-hero",
+      "content": {
+        "eyebrow": "Our Action",
+        "heading": "With every project we ask ourselves,\n**is this improving our world?**",
+        "columns": [
+          [
+            {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65b9798f4b477415c86fa79f_TotalPollution_1.19.2.jpg",
+              "alt": ""
+            },
+            {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/661b499d478d2158a75cf9a3_projectStill.21.jpg",
+              "alt": ""
+            },
+            {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/661b48fc122a164fb672aaf0_projectStill.19.jpg",
+              "alt": ""
+            },
+            {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66064e6e6f345c1bf9105c6b_projectStill.11.jpg",
+              "alt": ""
+            },
+            {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65b964d634f31ab85a4d8085_BrokenWings.STILL_2.22.2.jpg",
+              "alt": ""
+            }
+          ],
+          [
+            {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/661b4d89707351af854d5df0_projectStill.23.jpg",
+              "alt": ""
+            },
+            {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66064339eaed3fe815160c54_ActStill.01.jpg",
+              "alt": ""
+            },
+            {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/661b4a8940f287484e463967_projectStill.20.jpg",
+              "alt": ""
+            },
+            {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66064e6f79d796e7b5b4ec5f_projectStill.14.jpg",
+              "alt": ""
+            },
+            {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66064e6ff53e5029d53cecf9_projectStill.04.jpg",
+              "alt": ""
+            }
+          ],
+          [
+            {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66064e6e26aa3a204ed3d37f_projectStill.02.jpg",
+              "alt": ""
+            },
+            {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/661b4d8990f30da22a7ab663_projectStill.18.jpg",
+              "alt": ""
+            },
+            {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/661b4e17122a164fb676c5d5_projectStill.22.jpg",
+              "alt": ""
+            },
+            {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66064e6fda15aeecab1fc401_projectStill.01.jpg",
+              "alt": ""
+            },
+            {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66064e6f6482833d250ae8db_projectStill.08.jpg",
+              "alt": ""
+            }
+          ],
+          [
+            {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/65f10126dee56cbacba67060_VHILS.CoverVideo.jpg",
+              "alt": ""
+            },
+            {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/661b48fb0e5f306f0b324fd5_projectStill.17.jpg",
+              "alt": ""
+            },
+            {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66064e6f6fa41dfc68fb8fc4_projectStill.12.jpg",
+              "alt": ""
+            },
+            {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66064e6fa5677c47560e73be_projectStill.09.jpg",
+              "alt": ""
+            },
+            {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66064e6e0fd3dac828b1a451_projectStill.16.jpg",
+              "alt": ""
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "id": "campaigns",
+      "type": "act-campaigns",
+      "content": {
+        "eyebrow": "Whenever we can, we act",
+        "heading": "Act **With Us**",
+        "cards": [
+          {
+            "href": "/earthdefender",
+            "image": {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/673995d4b3bb720fcbd1495a_ACTproject.7.avif",
+              "alt": ""
+            },
+            "logo": {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/67231bce5bce0246f6ef4fd9_Typed%20Novo%20Amor%20white.png",
+              "alt": ""
+            },
+            "text": "Every 48 hours an Earth Defender goes missing or is murdered while protecting Earth's vanishing wilderness - our life support system. We must protect their rights!",
+            "title": "Save Earth Defenders",
+            "label": "Click to Act"
+          },
+          {
+            "href": "/empowerchildren",
+            "image": {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6603f5519d30856b0221f436_ACTproject.6.jpg",
+              "alt": ""
+            },
+            "logo": {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/646795605ef93b3edfe4e18a_2k.white.SB.icon.png",
+              "alt": ""
+            },
+            "text": "We are raising money to provide underprivileged school children in Indonesia with better education.",
+            "title": "Empower Children",
+            "label": "Click to Act"
+          },
+          {
+            "href": "https://www.greenpeace.org/international/act/defund-nature-destruction-now/",
+            "newTab": true,
+            "image": {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6668014c4723e646c29c6aa3_ACTproject.1b.jpg",
+              "alt": ""
+            },
+            "logo": {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/648f37ed4342be4ed866de40_greenpeace.svg",
+              "alt": ""
+            },
+            "text": "As long as money keeps flowing towards nature destruction, we can’t solve the climate crisis. Sign the petition to force governments to implement laws making it illegal for the finance industry to fund nature destruction.",
+            "title": "Save Wild Nature",
+            "label": "Click to Act"
+          },
+          {
+            "href": "https://thriveconservation.org/brokenwings/",
+            "newTab": true,
+            "image": {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6603865840fd7bd7eee289e6_ACTproject.2.jpg",
+              "alt": ""
+            },
+            "logo": {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/6603d51a5954506b804ba716_WaterBear.white.logo2.png",
+              "alt": ""
+            },
+            "text": "1 in 8 bird species are threatened with extinction, 50% of species are declining. Donate now to help protect wild birds.",
+            "title": "Protect Wild Birds",
+            "label": "Click to Act"
+          },
+          {
+            "href": "https://act-int.greenpeace.org/end-fossil-crimes#ENI",
+            "newTab": true,
+            "image": {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/660386b98cc2652012cecffe_ACTproject.3.jpg",
+              "alt": ""
+            },
+            "logo": {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/648f37ed4342be4ed866de40_greenpeace.svg",
+              "alt": ""
+            },
+            "text": "Fossil fuel companies are responsible for countless crimes against the environment and humanity and they have been getting away with it for far too long. Let's end their crimes now.",
+            "title": "End Fossil Fuel Crimes",
+            "label": "Click to Act"
+          },
+          {
+            "href": "https://www.greenpeace.org/malaysia/act/my-haze-free-rights/",
+            "newTab": true,
+            "image": {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/66038b930e1de6da3a1cbc2e_ACTproject.4.jpg",
+              "alt": ""
+            },
+            "logo": {
+              "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/648f37ed4342be4ed866de40_greenpeace.svg",
+              "alt": ""
+            },
+            "text": "The burning of forests and peatlands cause thick toxic haze threatening the climate, public health, and biodiversity for decades. We must stand up against the Big Polluters!",
+            "title": "Stop Haze Pollution",
+            "label": "Click to Act"
+          }
+        ]
+      }
+    },
+    {
+      "id": "sustainability",
+      "type": "sustainability",
+      "pageTone": "gradient",
+      "content": {
+        "eyebrow": "Sustainability",
+        "heading": "Planet **Positive**",
+        "text": "We believe in cleaning up after ourselves, over-compensating for any emissions and finding innovative ways to create greener productions.",
+        "stats": [
+          {
+            "value": 204570.8,
+            "decimals": 1,
+            "label": "kg of CO2 emissions compensated",
+            "more": "From car rides, flights, down to the servers rendering our VFX shots, we track all our carbon emissions. We compensate an additional 50% of our total CO2 impact to help push things in the right direction."
+          },
+          {
+            "value": 8952,
+            "decimals": 0,
+            "label": "trees planted with Eden Project",
+            "more": "We support the tireless efforts of Eden Projects who work with local communities to restore forests on a massive scale, creating jobs in the process, protecting ecosystems and helping to mitigate climate change.<br><br>We support their efforts in Madagascar which has seen large scale mangrove loss. Mangroves are a vital ecosystem for local communities as well as protection against climate change.\n\n<br>Visit [Studio Birthplace’s Tree Nation forest](https://tree-nation.com/profile/studio-birthplace)"
+          },
+          {
+            "value": 2.98,
+            "decimals": 1,
+            "label": "hectares of ecosystem restored",
+            "more": "Through our tree planting efforts we want to make sure we don’t ‘plant trees’. Instead, we want to plant forests. It is critical to work with local knowledge to plant the right species, creating a proper ecosystem and making sure that the trees you plant actually survive the many challenges they face.<br><br>That is why we support [Eden Projects](https://www.edenprojects.org/)"
+          }
+        ],
+        "readMore": "Read more",
+        "readLess": "Read Less"
+      }
+    },
+    {
+      "id": "statement",
+      "type": "act-statement",
+      "pageTone": "gradient",
+      "content": {
+        "image": {
+          "src": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8/67316d3f6275fc755575afb4_EarthDefenders.Stills.2.jpg",
+          "alt": ""
+        },
+        "text": "We have to rewild the world, that much is obvious. But first, we must rewild the imagination. We must learn how to dream again, to dream of a just, healthy future."
+      }
+    },
+    {
+      "id": "values",
+      "type": "values",
+      "pageTone": "gradient",
+      "content": {
+        "eyebrow": "What We Stand For",
+        "heading": "Our Values & Ethics",
+        "items": [
+          {
+            "title": "Independence & Integrity",
+            "text": "**Studio Birthplace is independent.** We stand firm with those who engage in meaningful action and avoid those who greenwash. We work with integrity, responsibility and rely on local knowledge to guide us in environments we are unfamiliar with."
+          },
+          {
+            "title": "Collaboration & Respect",
+            "text": "**We believe in meaningful relationships** both within our tightly-knit, global team and with our clients. We combat discrimination and encourage equality and diversity amongst our team and crews on our productions."
+          },
+          {
+            "title": "Awareness to Social Inequity",
+            "text": "We work all over the world and are blessed to meet many different cultures, religions and people from all walks of life. We are very cautious not to take advantage of local communities. Instead, **we look for ways to improve the lives of those we encounter.**"
+          }
+        ]
+      }
+    },
+    {
+      "id": "closing",
+      "type": "closing-cta",
+      "pageTone": "gradient",
+      "content": {
+        "heading": "We're here to tell stories that\nchange the world. You in?",
+        "button": {
+          "label": "Work With Us",
+          "href": "/contact"
+        }
+      }
+    }
+  ]
+}

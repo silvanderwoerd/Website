@@ -2,6 +2,11 @@
 
 import type { ComponentType } from "react";
 import type { StripeProps } from "./types";
+import { Values } from "@/originals/values/Values";
+import { ActStatement } from "@/originals/act-statement/ActStatement";
+import { Sustainability } from "@/originals/sustainability/Sustainability";
+import { ActCampaigns } from "@/originals/act-campaigns/ActCampaigns";
+import { ActHero } from "@/originals/act-hero/ActHero";
 import { LifeWith } from "@/originals/life-with/LifeWith";
 import { Team } from "@/originals/team/Team";
 import { Awards } from "@/originals/awards/Awards";
@@ -73,6 +78,11 @@ export const registry: Record<string, ComponentType<StripeProps>> = {
   "awards": Awards,
   "team": Team,
   "life-with": LifeWith,
+  "act-hero": ActHero,
+  "act-campaigns": ActCampaigns,
+  "sustainability": Sustainability,
+  "act-statement": ActStatement,
+  "values": Values,
   // Dev-only stripes are left out of production builds entirely.
   ...(isDev ? { "test-stripe": TestStripe } : {}),
 };

@@ -7,8 +7,13 @@
 import { readFileSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 import { parse } from "node-html-parser";
+import TurndownService from "turndown";
 
 const root = process.cwd();
+const td = new TurndownService({ headingStyle: "atx", emDelimiter: "*" });
+// Keep Webflow's line breaks as <br>: two in a row make a blank line inside one paragraph.
+td.addRule("br", { filter: "br", replacement: () => "<br>" });
+const md = (el) => (el ? td.turndown(el.innerHTML).trim() : "");
 const load = (file) => parse(readFileSync(join(root, "reference/live-site", file), "utf8"));
 const write = (slug, data) => writeFileSync(join(root, "content/pages", `${slug}.json`), JSON.stringify(data, null, 2) + "\n");
 const text = (el) => el?.text.replace(/\s+/g, " ").trim() ?? "";
@@ -167,6 +172,84 @@ const pages = {
           },
         },
         { ...closing(doc), pageTone: undefined },
+      ],
+    };
+  },
+  act() {
+    const doc = load("act.html");
+    const hero = doc.querySelector(".fl-act-hero-section");
+    const campaigns = doc.querySelector(".fl-act-container-copy");
+    const sustain = doc.querySelector(".fl-act-sustainability-container");
+    const statement = doc.querySelector(".fl-section-act-statement");
+    const values = doc.querySelector(".fl-act-questions-container");
+    // The live counters count to these (the page's countUp script), not to the numbers in its HTML.
+    const counts = [...readFileSync(join(root, "reference/live-site/act.html"), "utf8").matchAll(/new countUp\.CountUp\('countup-(\d)', ([\d.]+)(?:, \{ decimalPlaces: (\d))?/g)].map((m) => ({ value: Number(m[2]), decimals: Number(m[3] ?? 0) }));
+    return {
+      slug: "act",
+      ...meta(doc),
+      family: "fluid",
+      background: "black",
+      stripes: [
+        {
+          id: "hero",
+          type: "act-hero",
+          content: {
+            eyebrow: text(hero.querySelector(".fl-project-eyebrow")),
+            heading: inline(hero.querySelector("h1")),
+            columns: hero.querySelectorAll(".fl-act-hero-bg-column").map((col) => col.querySelectorAll("img").map(img)),
+          },
+        },
+        {
+          id: "campaigns",
+          type: "act-campaigns",
+          content: {
+            eyebrow: text(campaigns.querySelector(".fl-project-eyebrow")),
+            heading: inline(campaigns.querySelector("h2")),
+            cards: campaigns.querySelectorAll(".fl-active-project-link-wrapper").map((a) => ({
+              href: a.getAttribute("href"),
+              ...(a.getAttribute("target") ? { newTab: true } : {}),
+              image: img(a.querySelector(".cover-image")),
+              logo: img(a.querySelector(".fl-active-project-logo")),
+              text: text(a.querySelector("p")),
+              title: text(a.querySelector("h3")),
+              label: text(a.querySelector(".button-link-content-act > div")),
+            })),
+          },
+        },
+        {
+          id: "sustainability",
+          type: "sustainability",
+          pageTone: "gradient",
+          content: {
+            eyebrow: text(sustain.querySelector(".fl-project-eyebrow")),
+            heading: inline(sustain.querySelector("h2")),
+            text: text(sustain.querySelector(".fl-project-paragraph")),
+            stats: sustain.querySelectorAll(".fl-sustainability-card").map((card, i) => ({
+              ...counts[i],
+              label: text(card.querySelector("p.fl-sustainability-card-text")),
+              more: md(card.querySelector(".w-richtext")),
+            })),
+            readMore: text(sustain.querySelector(".fl-sustainability-card_read-more")),
+            readLess: text(sustain.querySelector(".fl-sustainability-card_read-less")),
+          },
+        },
+        {
+          id: "statement",
+          type: "act-statement",
+          pageTone: "gradient",
+          content: { image: img(statement.querySelector(".fl-act-statement-bg")), text: text(statement.querySelector(".fl-act-statement")) },
+        },
+        {
+          id: "values",
+          type: "values",
+          pageTone: "gradient",
+          content: {
+            eyebrow: text(values.querySelector(".subtitle")),
+            heading: text(values.querySelector("h2")),
+            items: values.querySelectorAll(".faq-content-wrapper").map((w) => ({ title: text(w.querySelector("h3")), text: inline(w.querySelector("p")) })),
+          },
+        },
+        closing(doc),
       ],
     };
   },

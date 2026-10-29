@@ -78,8 +78,11 @@ async function shoot(page, url, file) {
     .waitForFunction(() => [...document.images].every((i) => i.complete), null, { timeout: 15000 })
     .catch(() => {});
   // The film grain moves on a fixed layer that full-page shots stretch: stop it
-  // on both sites so screenshots compare like with like.
-  await page.addStyleTag({ content: "*::after { animation: none !important; }" }).catch(() => {});
+  // on both sites so screenshots compare like with like. A full-page shot can also
+  // freeze a CSS transition mid-way (one that started as the page's styles arrived):
+  // switch transitions off so every element shows its settled state.
+  await page.addStyleTag({ content: "*::after { animation: none !important; } *, *::before, *::after { transition: none !important; }" }).catch(() => {});
+  await page.waitForTimeout(300);
   await page.screenshot({ path: file, fullPage: true });
   return 200;
 }

@@ -7,12 +7,14 @@ import styles from "./arrow-link.module.css";
 
 // The label's **…** is its blue word (live .text-color-blue: "Our Real World **Action**").
 // `arrow` is left out where the live page puts the arrow beside the link (About's awards).
-type Props = { instance: string; block: BlockInstance & { label: string; href: string }; arrow?: string; base?: Settings };
+// `className`: the containing original places it (never restyles it).
+// `as: "div"`: the look without a link, inside a card that is the link itself (Act's campaigns).
+type Props = { instance: string; block: BlockInstance & { label: string; href?: string }; arrow?: string; base?: Settings; as?: "a" | "div"; className?: string };
 
-export function ArrowLink({ instance, block, arrow, base }: Props) {
+export function ArrowLink({ instance, block, arrow, base, as: Tag = "a", className }: Props) {
   const { attrs } = resolveOriginal("arrow-link", block, base);
   return (
-    <a href={block.href} className={`${styles.link} ts-link-small`} {...marks("arrow-link", instance)} {...attrs}>
+    <Tag href={Tag === "a" ? block.href : undefined} className={`${styles.link} ts-link-small ${className ?? ""}`} {...marks("arrow-link", instance)} {...attrs}>
       <span className={styles.content}>
         <span {...field("label")} data-raw={block.label}>
           <Inline text={block.label} strong={styles.blue} />
@@ -22,6 +24,6 @@ export function ArrowLink({ instance, block, arrow, base }: Props) {
       <span className={styles.line}>
         <span className={styles.progress} />
       </span>
-    </a>
+    </Tag>
   );
 }

@@ -1,0 +1,129 @@
+/* Live: section.fl-section > .fl-act-sustainability-container > .fl-project-eyebrow,
+   h2.fl-act-hero-heading, .fl-sustainability-section-paragraph-width >
+   p.fl-project-paragraph.text-color-white, .fl-sustainability-cards-layout >
+   .fl-sustainability-card (p.fl-sustainibility-number, p.fl-sustainability-card-text,
+   .fl-act-sustainability-card-collapsible-content, a.fl-read-more-button-act) */
+
+.section {
+  position: relative;
+}
+
+.container {
+  width: 100%;
+  max-width: 71.125em;
+  margin-inline: auto;
+}
+
+.space2 {
+  height: 1.5em;
+}
+
+.space {
+  height: 0.875em;
+}
+
+.space3 {
+  height: 3.375em;
+}
+
+.after {
+  height: 4.5em;
+}
+
+.strong {
+  font-weight: 900;
+}
+
+.textWidth {
+  width: 41em;
+}
+
+.text {
+  color: var(--color-white);
+}
+
+.cards {
+  display: flex;
+  flex-flow: wrap;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 3.75em;
+}
+
+.card {
+  width: 19.75em;
+  padding: 1.25em;
+  border-radius: var(--radius-card);
+  background-color: var(--overlay-white-10);
+}
+
+.number {
+  color: var(--color-link);
+}
+
+.cardText {
+  color: var(--color-white);
+}
+
+.rich p {
+  color: var(--color-white);
+  font-weight: 300;
+}
+
+.rich a {
+  color: var(--color-link);
+}
+
+.extra {
+  overflow: hidden;
+}
+
+.readMore {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  margin-top: 2.1em;
+  color: var(--color-white);
+  opacity: 0.5;
+  text-decoration: none;
+}
+
+@media (min-width: 1920px) {
+  .space3 {
+    height: 2.5em;
+  }
+
+  .heading {
+    margin-top: 5px;
+  }
+
+  .readMore {
+    margin-bottom: 10px;
+  }
+}
+
+@media (max-width: 991px) {
+  .container {
+    width: 90%;
+  }
+
+  .textWidth {
+    width: auto;
+  }
+
+  .card {
+    width: 18em;
+  }
+}
+
+@media (max-width: 767px) {
+  .card {
+    width: 24em;
+  }
+}
+
+@media (max-width: 479px) {
+  .card {
+    width: 100%;
+  }
+}

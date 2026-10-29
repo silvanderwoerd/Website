@@ -1,0 +1,175 @@
+/* Live: section.fl-section > .fl-spacing-4-5em, .fl-act-container-copy >
+   .fl-project-eyebrow, .fl-spacing-2em, h2.fl-act-hero-heading.tricks.u-show-on-load,
+   .fl-spacing-3-375em, .fl-active-projects-layout > a.fl-active-project-link-wrapper >
+   .cover-image, .fl-active-project-bg-overlay, .fl-active-project-content >
+   .fl-active-project-logo, .flex-vertical-act > p.fl-cta-small-paragraph,
+   h3.fl-active-project-title-act, .fl-button-link-act.cc-active-projects */
+
+.section {
+  position: relative;
+}
+
+.before,
+.after {
+  height: 4.5em;
+}
+
+.container {
+  width: 100%;
+  max-width: 78.625em;
+  margin-inline: auto;
+}
+
+.space2 {
+  height: 1.5em;
+}
+
+.space3 {
+  height: 3.375em;
+}
+
+.strong {
+  font-weight: 900;
+}
+
+.cards {
+  display: flex;
+  flex-flow: wrap;
+  justify-content: space-between;
+  align-items: center;
+  row-gap: 24px;
+}
+
+.card {
+  position: relative;
+  display: flex;
+  flex: none;
+  flex-flow: column;
+  justify-content: flex-end;
+  align-items: center;
+  overflow: hidden;
+  width: 25em;
+  height: 32em;
+  padding: 1.025em 3em;
+  color: inherit;
+  text-decoration: none;
+  transition: transform var(--duration-default) var(--ease-standard);
+}
+
+/* IX2 "Active Project Hover In / Out", desktop only (≥992): the card shrinks to
+   0.95 and its logo and text fade in (500ms); at rest they're hidden. */
+@media (min-width: 992px) {
+  .card:hover {
+    transform: scale(0.95);
+  }
+
+  .logo,
+  .text {
+    opacity: 0;
+    transition: opacity var(--duration-default);
+  }
+
+  .card:hover .logo,
+  .card:hover .text {
+    opacity: 1;
+  }
+}
+
+.cover {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.shade {
+  position: absolute;
+  inset: 0;
+  background-image: linear-gradient(var(--color-transparent), var(--overlay-black-75));
+}
+
+.content {
+  position: relative;
+  display: flex;
+  flex-flow: column;
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+}
+
+.logo {
+  height: 100%;
+  max-width: 8em;
+  max-height: 2.5em;
+  object-fit: contain;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 30px;
+}
+
+.text {
+  margin-bottom: 0;
+  color: var(--color-white);
+  text-align: center;
+}
+
+.title {
+  margin-top: 25px;
+  margin-bottom: 0.4em;
+  text-align: center;
+}
+
+.link {
+  align-self: center;
+  margin-top: 0;
+}
+
+@media (min-width: 1920px) {
+  .space3 {
+    height: 2.5em;
+  }
+
+  .heading {
+    margin-top: 5px;
+  }
+
+  .logo {
+    margin-top: 25px;
+  }
+
+  .column {
+    margin-bottom: 40px;
+  }
+
+  .title {
+    margin-top: 35px;
+  }
+}
+
+@media (max-width: 991px) {
+  .container {
+    width: 90%;
+  }
+
+  .cards {
+    justify-content: center;
+    align-items: center;
+    gap: 1em;
+  }
+
+  .card {
+    width: 20em;
+    height: 26em;
+  }
+}
+
+@media (max-width: 479px) {
+  .card {
+    width: 100%;
+    height: 34em;
+  }
+}
