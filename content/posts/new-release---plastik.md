@@ -4,7 +4,7 @@ date: 2022-06-03
 category: new-releases
 image: "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/65e29adc51f6693a3acf55a2_mainimage.newrelease.plastik.jpg"
 summary: "Out now: Meshmind's (PLASTIK)"
-order: 9999
+order: 1028
 ---
 ### Out now:  Meshminds' (PLASTIK)
 

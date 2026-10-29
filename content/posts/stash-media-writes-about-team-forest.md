@@ -5,6 +5,7 @@ category: in-the-media
 image: "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/6a359efdb3793215d67a4798_News.TeamForest.stash.MainImage.jpg"
 summary: "Here’s How Studio Birthplace Turned the Rainforest Canopy Into a Football Pitch for WWF - Stash Media"
 order: 3
+cardDate: 2024-01-24
 ---
 ## **In their latest awareness campaign for WWF, Studio Birthplace directors Jorik Dozy and Sil van der Woerd leverage football’s global appeal to rally support for the protection of forests ahead of the FIFA World Cup 2026. - Stash Media**
 

@@ -4,7 +4,7 @@ date: 2022-09-05
 category: new-releases
 image: "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/65e27d644886ba80bccfd65a_mainimage.newrelease.woolmark.jpg"
 summary: "Out now: The Woolmark Company's 'Wear Wool, Not Fossil Fuel' campaign."
-order: 9999
+order: 1025
 ---
 ### Out now: The Woolmark Company's 'Wear Wool, Not Fossil Fuel' campaign
 

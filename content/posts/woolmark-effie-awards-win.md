@@ -4,7 +4,7 @@ date: 2023-11-18
 category: awards
 image: "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/65b0fe4d77527bf8b9938125_MainImage.Woolmark.Effie.jpg"
 summary: "Our campaign 'Wear Wool, Not Fossil Fuel' for The Woolmark Company won Silver for the Positive Change: Environmental category."
-order: 9999
+order: 1031
 ---
 ## Positive Change Category Win
 

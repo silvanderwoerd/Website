@@ -51,6 +51,8 @@ export type PageContent = {
   title: string;
   description?: string;
   family?: "fluid" | "fixed"; // which type system the page uses (decisions #4)
-  background?: "black"; // the live <body class="background-color-black"> (projects, Work, Act …)
+  // "black": the live <body class="background-color-black"> (projects, Work, Act …);
+  // "plain": no page-background layer at all, the bare page colour (the news pages).
+  background?: "black" | "plain";
   stripes: StripeInstance[];
 };

@@ -1,0 +1,21 @@
+{
+  "slug": "post",
+  "title": "Post",
+  "family": "fixed",
+  "background": "plain",
+  "stripes": [
+    { "id": "header", "type": "post-header", "content": {} },
+    { "id": "body", "type": "post-body", "content": {} },
+    {
+      "id": "more-news",
+      "type": "related-posts",
+      "content": {
+        "heading": "More News",
+        "text": "Stay Updated!",
+        "button": { "label": "All posts", "href": "/news" },
+        "readNow": "Read now",
+        "count": 3
+      }
+    }
+  ]
+}

@@ -5,6 +5,7 @@ category: in-the-media
 image: "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/6a35a19d71083683198c42ff_News.TeamForest.onepointfour.mainimage.jpg"
 summary: "Ahead of the FIFA World Cup 2026, WWF and Studio Birthplace take football somewhere entirely unexpected: deep into the Indonesian rainforest. - 1.4"
 order: 2
+cardDate: 2024-01-24
 ---
 ## **Ahead of the FIFA World Cup 2026, WWF and Studio Birthplace take football somewhere entirely unexpected: deep into the Indonesian rainforest. - 1.4**
 

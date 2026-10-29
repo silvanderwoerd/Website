@@ -4,7 +4,7 @@ date: 2023-05-06
 category: new-releases
 image: "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/65e18871b5b3eb4b7214ade8_MainImage.NewRelease.Hazezilla.jpg"
 summary: "Out now: 'Haze-zilla' is a satire highlighting the destructive impact of corporate greed and transboundary haze."
-order: 9999
+order: 1023
 ---
 # Out now: '*Haze-zilla'* is a satire highlighting the destructive impact of corporate greed and transboundary haze.
 

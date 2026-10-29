@@ -4,7 +4,7 @@ date: 2023-07-14
 category: awards
 image: "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/65dbf950bdbb9aca7874d183_mainimage.woolmark2022.creativecircle.jpg"
 summary: "\"Wear Wool, Not Fossil Fuel\" for The Woolmark Company wins Bronze for the Best Colour Grading Award at Creative Circle Awards 2023."
-order: 9999
+order: 1032
 ---
 #### "Wear Wool, Not Fossil Fuel" for The Woolmark Company wins Bronze for the Best Colour Grading Award at Creative Circle Awards 2023.
 

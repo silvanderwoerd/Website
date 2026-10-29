@@ -4,7 +4,7 @@ date: 2021-05-19
 category: in-the-media
 image: "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/65e88f89e6a8daa9eb126813_mainimage.wasteminster.itsnicethat.jpg"
 summary: "Just how did Greenpeace drown Downing Street in plastic waste? - It's Nice That"
-order: 9999
+order: 1044
 ---
 # "Studio Birthplace takes us through the mammoth process of modelling a CG replica of Britain’s political epicentre, and 1.8 million kilograms of trash, for the satirical yet alarming Wasteminster campaign."
 

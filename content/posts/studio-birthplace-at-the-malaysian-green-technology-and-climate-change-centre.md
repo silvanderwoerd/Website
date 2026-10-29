@@ -4,7 +4,7 @@ date: 2020-08-14
 category: screenings
 image: "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/65e8a0bfa7f34219436c4631_mainimage.talks.seanexpo2020.jpg"
 summary: "Studio Birthplace's Sean Lin was invited to MGTC's 2020 International Youth Day celebration on August 20th."
-order: 9999
+order: 1005
 ---
 # Studio Birthplace's Sean Lin was invited to the Malaysian Green Technology and Climate Change Centre (MGTC)'s 2020 International Youth Day celebration on August 20th.
 

@@ -4,7 +4,7 @@ date: 2022-05-05
 category: talks
 image: "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/65e29d0e32bcbfa031cf2647_mainimage.talk.G7.jpg"
 summary: "Studio Birthplace's creative director Sil van der Woerd spoke at the high level G7 ‘Digital Twins of The Oceans’ summit, at Lancaster House in London."
-order: 9999
+order: 1009
 ---
 # Studio Birthplace's creative director Sil van der Woerd spoke at the high level G7 ‘Digital Twins of The Oceans’ summit, at Lancaster House in London.
 

@@ -4,7 +4,7 @@ date: 2023-02-22
 category: awards
 image: "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/65dc01dc50ad66f0dfb0df9e_mainimage.woolmark2022.britisharrows.jpg"
 summary: "\"Wear Wool, Not Fossil Fuel\" for The Woolmark Company has been shortlisted for 5 British Arrows."
-order: 9999
+order: 1033
 ---
 #### "Wear Wool, Not Fossil Fuel" for The Woolmark Company has been shortlisted for 5 British Arrows.
 

@@ -57,21 +57,28 @@ export function buildTokens() {
     out.push(`@media ${queries[range]} {\n  :root { --u: calc(${factor} * ${tokens.fluid.base}); }\n}`);
   }
 
-  // Text styles: one class each, then their per-range sizes.
+  // Text styles: one class each, then their per-range changes. size is always
+  // per range; weight and lineHeight may be too ({ base, <range>: … }).
   const perRange = {};
+  const base = (v) => (typeof v === "object" ? v.base : v);
   for (const [name, s] of entries(styles)) {
     const decl = ["  font-family: var(--font-lato);"];
-    if (s.weight !== undefined) decl.push(`  font-weight: ${s.weight};`);
+    if (s.weight !== undefined) decl.push(`  font-weight: ${base(s.weight)};`);
     decl.push(`  font-size: ${cssValue(s.size.base)};`);
-    if (s.lineHeight !== undefined) decl.push(`  line-height: ${s.lineHeight};`);
+    if (s.lineHeight !== undefined) decl.push(`  line-height: ${base(s.lineHeight)};`);
     if (s.letterSpacing !== undefined) decl.push(`  letter-spacing: ${s.letterSpacing};`);
     if (s.transform !== undefined) decl.push(`  text-transform: ${s.transform};`);
     out.push(`.ts-${name} {\n${decl.join("\n")}\n}`);
-    for (const [range, v] of Object.entries(s.size)) {
-      if (range === "base") continue;
-      if (!queries[range]) throw new Error(`text style ${name}: unknown range "${range}"`);
-      (perRange[range] ??= []).push(`  .ts-${name} { font-size: ${cssValue(v)}; }`);
+    const changes = {};
+    for (const [prop, values] of [["font-size", s.size], ["font-weight", s.weight], ["line-height", s.lineHeight]]) {
+      if (typeof values !== "object") continue;
+      for (const [range, v] of Object.entries(values)) {
+        if (range === "base") continue;
+        if (!queries[range]) throw new Error(`text style ${name}: unknown range "${range}"`);
+        (changes[range] ??= []).push(`${prop}: ${prop === "font-size" ? cssValue(v) : v};`);
+      }
     }
+    for (const [range, list] of Object.entries(changes)) (perRange[range] ??= []).push(`  .ts-${name} { ${list.join(" ")} }`);
   }
   for (const range of Object.keys(queries)) {
     if (perRange[range]) out.push(`@media ${queries[range]} {\n${perRange[range].join("\n")}\n}`);

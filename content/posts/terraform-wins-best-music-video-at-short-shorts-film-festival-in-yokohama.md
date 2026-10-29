@@ -4,7 +4,7 @@ date: 2018-08-17
 category: awards
 image: "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/65e8d20fd810ee3602dc188e_mainimage.award.bestmusicvideoshort.jpg"
 summary: "Music video Terraform won Best Music Video at Short Shorts Film Festival and Asia in Yokohama, Japan."
-order: 9999
+order: 1054
 ---
 # Music video Terraform won Best Music Video at Short Shorts Film Festival and Asia in Yokohama, Japan.
 

@@ -4,7 +4,7 @@ date: 2022-06-20
 category: awards
 image: "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/65b395ae03a9a2dd4096531d_MainImage.PLASTIK.Vimeo.jpg"
 summary: "We're thrilled that (PLASTIK) has officially been selected as a Vimeo Staff Pick."
-order: 9999
+order: 1041
 ---
 ### (PLASTIK) is officially a Vimeo Staff Pick
 

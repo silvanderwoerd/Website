@@ -4,7 +4,7 @@ date: 2022-09-09
 category: awards
 image: "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/65e27a03b2d44c097127940b_mainimage.wasteminster.CC.jpg"
 summary: "We are honored by the recognition Wasteminster continues to receives even a year after we released the short film."
-order: 9999
+order: 1038
 ---
 # Wasteminster has won 2 gold awards at the 2022 Creative Circle Awards, for Best 3D Animation and Best Animation For Positive Change.
 

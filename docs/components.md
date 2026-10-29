@@ -62,7 +62,7 @@ A link styled as a button. Files: `src/originals/button/`.
 |---|---|---|---|
 | `variant` | choice | `outline` (button-2.white-outline, 37 live pages) · `cta` (button-2-cta: wider at ≥1920) · `news` (button.is-secondary, news pages) · `earth-defender` (black fill) · `empower-children` (blue fill) | `outline` |
 
-- Content: `label` (editable in place), `href`, optional `lightbox: true` (opens a YouTube/Vimeo film in the lightbox).
+- Content: `label` (editable in place), `href`, optional `lightbox: true` (opens a YouTube/Vimeo film in the lightbox), optional `current: true` (set by a containing original: the page it leads to is the one shown; `news` draws it lighter, live `.w--current`).
 - Text: `ts-button` + `ts-button-label` (`ts-news-button` for `news`).
 - On `outline`, the label drifts ±6px with the pointer (IX2 Button mouse over).
 
@@ -243,6 +243,47 @@ Another website inside the page (Team Forest's sign-up), passing the wheel on so
 ### `more-work`
 
 The "View More Work" button closing every project. Content: `button`.
+
+## News stripes (News, the Post and Category templates)
+
+The news pages use the fixed `news-*` text styles (decisions #4) and
+`background: "plain"`: no page-background layer, the bare page colour, as live.
+`/news` is `content/pages/news.json`; the two templates are
+`content/templates/post.json` and `category.json`. Their route hands the
+stripes a `context` (the post or category shown), so the texts in the
+template ("More News", "All posts" …) stay editable in one place.
+
+Every post card is `NewsCard` (`src/originals/news-list/NewsCard.tsx`, live
+`.link-content-blog`): image (zooms to 1.1 and dims to 90% on hover, IX2 "Image
+Scale - Hover"), category tag, date, title, summary, "Read now". Options: `light`
+(More News' 300-weight titles), `wide` (the category pages' larger summary), `date`.
+
+### `news-list`
+
+Every post as a card, newest first, with no 100-post limit (decisions #1).
+
+| Setting | Kind | Default |
+|---|---|---|
+| `layout` | choice: `sidebar` (`/news`: eyebrow, heading, sticky category buttons beside two columns of cards) · `category` (a category page: its name, the buttons in a row, its posts) | `sidebar` |
+
+- **Content:** `eyebrow`, `heading` (sidebar only), `readNow`, `categoryButton` (a `button` block, `news` variant, shared by all six buttons; the shown category's is marked current).
+- Webflow's hidden "all" buttons are left out.
+
+### `post-header`
+
+A post's title, category, date and 16:9 main image, from the post. No settings, no content of its own.
+
+### `post-body`
+
+The post's rich text with Webflow's figure rules. Figures' sizes come from the
+content as data: `data-max-width` (an image's own width) and `data-ratio` (a
+film's height as % of its width).
+
+### `related-posts`
+
+"More News": heading, line, an "All posts" button (`button`, `news` variant), and
+the newest posts except the one shown. Cards show a post's `cardDate` where it
+has one (decisions #20). Content: `heading`, `text`, `button`, `readNow`, `count`.
 
 ## Motion (src/motion/, used inside originals)
 

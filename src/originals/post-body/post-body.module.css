@@ -1,0 +1,162 @@
+/* Live: article.section > .page-padding > .container-medium > .margin-top.margin-medium >
+   .fl-blog-rich-text.w-richtext, with Webflow's own .w-richtext figure rules. */
+
+.section {
+  position: relative;
+}
+
+.padding {
+  padding-inline: 2.5rem;
+  color: var(--color-text-muted);
+}
+
+.container {
+  width: 100%;
+  max-width: 64rem;
+  margin-inline: auto;
+}
+
+.space {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+/* .w-richtext:before / :after (a clearfix that also stops margins collapsing out) */
+.text::before,
+.text::after {
+  content: " ";
+  display: table;
+  grid-area: 1 / 1 / 2 / 2;
+}
+
+.text::after {
+  clear: both;
+}
+
+.text p {
+  font-weight: 300;
+}
+
+.text strong {
+  color: var(--color-white);
+  font-weight: 300;
+}
+
+.text a {
+  color: var(--color-white);
+  text-decoration: underline;
+}
+
+.text ol,
+.text ul {
+  overflow: hidden;
+}
+
+.text figure {
+  position: relative;
+  max-width: 60%;
+}
+
+.text figure img {
+  width: 100%;
+}
+
+.text figure div {
+  color: var(--color-transparent);
+  font-size: 0;
+}
+
+.text figure:global(.w-richtext-figure-type-image) {
+  display: table;
+}
+
+.text figure:global(.w-richtext-figure-type-image) > div {
+  display: inline-block;
+}
+
+.text figure:global(.w-richtext-figure-type-image) > figcaption {
+  display: table-caption;
+  caption-side: bottom;
+}
+
+.text figure:global(.w-richtext-figure-type-video) {
+  width: 60%;
+  height: 0;
+}
+
+.text figure:global(.w-richtext-figure-type-video) > div {
+  width: 100%;
+}
+
+.text figure:global(.w-richtext-figure-type-video) iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.text figure:global(.w-richtext-align-center) {
+  clear: both;
+  margin-inline: auto;
+}
+
+.text figure:global(.w-richtext-align-center.w-richtext-figure-type-image) > div {
+  max-width: 100%;
+}
+
+.text figure:global(.w-richtext-align-normal) {
+  clear: both;
+}
+
+.text figure:global(.w-richtext-align-fullwidth) {
+  display: block;
+  clear: both;
+  width: 100%;
+  max-width: 100%;
+  margin-inline: auto;
+  text-align: center;
+}
+
+.text figure:global(.w-richtext-align-fullwidth) > div {
+  display: inline-block;
+  padding-bottom: inherit;
+}
+
+.text figure:global(.w-richtext-align-fullwidth) > figcaption {
+  display: block;
+}
+
+.text figure:global(.w-richtext-align-floatleft) {
+  float: left;
+  clear: none;
+  margin-right: 15px;
+}
+
+.text figure:global(.w-richtext-align-floatright) {
+  float: right;
+  clear: none;
+  margin-left: 15px;
+}
+
+@media (min-width: 1920px) {
+  .space {
+    margin-bottom: 1rem;
+  }
+}
+
+@media (max-width: 991px) {
+  .space {
+    margin-top: 1.5rem;
+  }
+}
+
+@media (max-width: 767px) {
+  .padding {
+    padding-inline: 1.25rem;
+  }
+
+  .space {
+    margin-top: 1.25rem;
+  }
+}

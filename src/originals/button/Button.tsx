@@ -6,7 +6,8 @@ import styles from "./button.module.css";
 
 type Props = {
   instance: string;
-  block: BlockInstance & { label: string; href: string; lightbox?: boolean };
+  // current: the page this button leads to is the one shown (a category page's own button)
+  block: BlockInstance & { label: string; href: string; lightbox?: boolean; current?: boolean };
   base?: Settings; // the containing original's choice, e.g. { variant: "cta" }
 };
 
@@ -29,7 +30,7 @@ export function Button({ instance, block, base }: Props) {
     );
   }
   return (
-    <a href={block.href} className={className} {...props}>
+    <a href={block.href} className={className} aria-current={block.current ? "page" : undefined} {...props}>
       {label}
     </a>
   );

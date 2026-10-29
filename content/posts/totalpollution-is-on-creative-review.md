@@ -4,7 +4,7 @@ date: 2023-08-30
 category: in-the-media
 image: "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/65d7f54cbf7f7189eb076a7c_MainImage.TotalPollution.CreativeReview.jpg"
 summary: "Creative Review: Greenpeace dumps oil on Rugby World Cup in new campaign."
-order: 9999
+order: 1032
 ---
 ## **After coming together to call out the government’s plastic waste record back in 2021, Greenpeace has enlisted Studio Birthplace for another takedown.**
 

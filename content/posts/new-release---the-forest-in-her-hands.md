@@ -5,6 +5,7 @@ category: new-releases
 image: "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/6aaf589f5dba02b8a0fa67c5_Hutan.stills.08..jpg"
 summary: "Out now - 'The Forest in Her Hands' reveals a story of restoration, care and the quiet power of those working to protect one of the planet's richest ecosystems we have left."
 order: 0
+cardDate: 2024-02-26
 ---
 ## Out now - '*The Forest in Her Hands'* reveals a story of restoration, care and the quiet power of those working to **protect one of the planet's richest ecosystems we have left.**
 

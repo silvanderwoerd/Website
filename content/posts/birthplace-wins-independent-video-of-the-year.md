@@ -4,7 +4,7 @@ date: 2018-09-05
 category: awards
 image: "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/65e8d00489de286ec063e734_mainimage.award.birthplaceAIM.jpg"
 summary: "Music video Birthplace won Independent Video of the Year at Independent Music Awards in UK."
-order: 9999
+order: 1053
 ---
 # Music video Birthplace won Independent Video of the Year at Independent Music Awards in UK.
 

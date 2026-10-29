@@ -4,7 +4,7 @@ date: 2021-06-15
 category: in-the-media
 image: "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/65e77ae623f643dfb8c6d7b1_mainimage.humanitysimpact.greendex.jpg"
 summary: "Humanity's Impact has been featured on GreenDex."
-order: 9999
+order: 1037
 ---
 # "Shocking animated satire shows that we are covered in plastic" - GreenDex
 

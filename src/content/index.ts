@@ -73,8 +73,9 @@ export function getCollection<K extends keyof Collections>(name: K): Collections
 }
 
 // Posts: content/posts/<slug>.md, front matter (JSON-style values) + Markdown body.
-export type PostSummary = { slug: string; title: string; date: string; category: string; image: string; summary: string; order: number };
-export type Category = { slug: string; name: string };
+export type PostSummary = { slug: string; title: string; date: string; category: string; image: string; summary: string; order: number; cardDate?: string };
+export type Post = PostSummary & { body: string };
+export type Category = { slug: string; name: string; description: string };
 
 function frontMatter(file: string) {
   const text = readFileSync(file, "utf8");
@@ -96,7 +97,7 @@ export function getPosts({ category, limit }: { category?: string; limit?: numbe
     postCache = (existsSync(dir) ? readdirSync(dir).filter((f) => f.endsWith(".md")) : [])
       .map((f) => {
         const { data } = frontMatter(join(dir, f));
-        return { slug: f.slice(0, -3), title: data.title, date: data.date, category: data.category, image: data.image, summary: data.summary, order: Number(data.order ?? 9999) };
+        return { slug: f.slice(0, -3), title: data.title, date: data.date, category: data.category, image: data.image, summary: data.summary, order: Number(data.order ?? 9999), ...(data.cardDate ? { cardDate: data.cardDate } : {}) };
       })
       // Newest first; same date in the live site's order.
       .sort((a, b) => b.date.localeCompare(a.date) || a.order - b.order);
@@ -106,6 +107,19 @@ export function getPosts({ category, limit }: { category?: string; limit?: numbe
 }
 
 export const getLatestPosts = (n: number) => getPosts({ limit: n });
+export const getPostSlugs = (): string[] => getPosts().map((p) => p.slug);
+
+/** One post with its Markdown body, or null. */
+export function getPost(slug: string): Post | null {
+  const summary = getPosts().find((p) => p.slug === slug);
+  if (!summary) return null;
+  return { ...summary, body: frontMatter(join(contentDir, "posts", `${slug}.md`)).body };
+}
+
+/** A template's stripes (content/templates/<name>.json): the Post and Category layouts. */
+export function getTemplate(name: string): PageContent {
+  return readJson<PageContent>(join(contentDir, "templates", `${name}.json`));
+}
 export const getCategories = (): Category[] => readJson<Category[]>(join(contentDir, "categories.json"));
 export const categoryName = (slug: string) => getCategories().find((c) => c.slug === slug)?.name ?? "";
 

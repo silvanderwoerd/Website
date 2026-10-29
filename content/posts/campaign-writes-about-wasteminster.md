@@ -4,7 +4,7 @@ date: 2021-05-18
 category: in-the-media
 image: "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/65e8955cabe0564e14ebb456_mainimage.wasteminster.campaign.jpg"
 summary: "“Wasteminster” draws attention to Greenpeace’s call for a ban on plastic waste exports - Campaign"
-order: 9999
+order: 1046
 ---
 # "Wasteminster draws attention to Greenpeace’s call for a ban on plastic waste export."
 

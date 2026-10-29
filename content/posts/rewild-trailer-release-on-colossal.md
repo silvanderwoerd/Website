@@ -4,7 +4,7 @@ date: 2019-09-10
 category: in-the-media
 image: "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/65e8ba701f94d9bac88124b9_mainimage.rewild.colossal.jpg"
 summary: "Art and visual culture blog Colossal has released the trailer for Splash and Burn’s campaign against conflict palm oil, Rewild, produced by Studio Birthplace."
-order: 9999
+order: 1051
 ---
 # REWILD: A Short Film by Splash and Burn and ESCIF Chronicles Rainforest Restoration Efforts in Sumatra
 

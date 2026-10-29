@@ -4,7 +4,7 @@ date: 2011-08-29
 category: screenings
 image: "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/65e8eef13dd258baffc356da_mainimage.requiem.premiere.jpg"
 summary: "Requiem 2019 premiered at Aarhus Festuge in Aarhus, Denmark."
-order: 9999
+order: 1009
 ---
 # Requiem 2019 sees the last remaining blue whale coming eye to eye with its only enemy; mankind.
 

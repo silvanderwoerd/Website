@@ -4,7 +4,7 @@ date: 2023-08-29
 category: new-releases
 image: "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/65dbf5d3fc59023f29ac0bac_MainImage.NewRelease.TotalPollution.jpg"
 summary: "Out now: TotalPollution sheds light on the pressing issue of fossil fuel sponsorship in major sporting events."
-order: 9999
+order: 1021
 ---
 ### Out now: 'TotalPollution: A Dirty Game' sheds light on the pressing issue of fossil fuel sponsorship in major sporting events.
 

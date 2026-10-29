@@ -9,7 +9,7 @@ import { getDefaults } from "@/originals/resolve";
 import type { Device, OriginalSchema, PageContent, SettingDef, Settings, StripeInstance } from "@/originals/types";
 
 const root = process.cwd();
-const COLLECTIONS = ["pages", "projects", "dev"];
+const COLLECTIONS = ["pages", "projects", "templates", "dev"];
 
 const readJson = <T,>(file: string): T => JSON.parse(readFileSync(file, "utf8"));
 const writeJson = (file: string, data: unknown) => writeFileSync(file, JSON.stringify(data, null, 2) + "\n");

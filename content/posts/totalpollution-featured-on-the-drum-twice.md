@@ -4,7 +4,7 @@ date: 2023-08-29
 category: in-the-media
 image: "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/65dbf1449d2ee9bc40ff05dd_MainImage.TotalPollution.TheDrum.jpg"
 summary: "The Drum features TotalPollution twice in two articles: \"Stade de France flooded with oil in Greenpeace Rugby World Cup protest ad\" and \"Rugby World Cup threatens legal action over Greenpeace protest video\""
-order: 9999
+order: 1034
 ---
 ## The Drum: **Animated spot calls out fossil fuel sponsorship of major sporting events, which it says distracts fans from brands’ climate destruction.**
 

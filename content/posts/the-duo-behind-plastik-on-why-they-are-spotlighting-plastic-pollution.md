@@ -4,7 +4,7 @@ date: 2022-07-26
 category: features
 image: "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/65e28a37a5908d3aa4b187c0_mainimage.plastik.prestige.jpg"
 summary: "(PLASTIK)'s director Phillip Rom and producer Sean Lin talk to Prestige Malaysia."
-order: 9999
+order: 1012
 ---
 # **'Released on World Environment Day, the short film (PLASTIK) touched the hearts of many Malaysians while raising awareness on the plastic pollution crisis and effects of climate change.'**
 

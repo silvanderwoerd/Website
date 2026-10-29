@@ -90,7 +90,7 @@ function checkOverrides(where, original, inst) {
     if (!inst.overrideReasons?.[setting]) warnings.push(`${where}: exception "${setting}" has no reason recorded`);
   }
 }
-for (const collection of ["pages", "projects", "dev"]) {
+for (const collection of ["pages", "projects", "templates", "dev"]) {
   const cdir = join(root, "content", collection);
   if (!existsSync(cdir)) continue;
   for (const f of readdirSync(cdir).filter((f) => f.endsWith(".json"))) {

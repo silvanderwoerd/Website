@@ -42,7 +42,7 @@ Learn more about the event with their interview featuring Sil here:
 
 ‍
 
-<figure class="w-richtext-align-center w-richtext-figure-type-video"><div><iframe src="https://www.youtube.com/embed/v74SHQI88ww" title="CreativeNL Live 2025 - Dubbelinterview 4 met makers Nienke Huitenga Broeren en Sil van der Woerd" scrolling="no" frameborder="0" allowfullscreen="true"></iframe></div></figure>
+<figure class="w-richtext-align-center w-richtext-figure-type-video" data-ratio="56.206088992974244"><div><iframe src="https://www.youtube.com/embed/v74SHQI88ww" title="CreativeNL Live 2025 - Dubbelinterview 4 met makers Nienke Huitenga Broeren en Sil van der Woerd" scrolling="no" frameborder="0" allowfullscreen="true"></iframe></div></figure>
 
 ‍
 
@@ -50,7 +50,7 @@ Watch Sil's full talk below:
 
 ‍
 
-<figure class="w-richtext-align-center w-richtext-figure-type-video"><div><iframe src="https://www.youtube.com/embed/ncyGz4griOo" title="Sil van der Woerd - CreativeNL Talk" scrolling="no" frameborder="0" allowfullscreen="true"></iframe></div></figure>
+<figure class="w-richtext-align-center w-richtext-figure-type-video" data-ratio="56.206088992974244"><div><iframe src="https://www.youtube.com/embed/ncyGz4griOo" title="Sil van der Woerd - CreativeNL Talk" scrolling="no" frameborder="0" allowfullscreen="true"></iframe></div></figure>
 
 ‍
 

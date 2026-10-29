@@ -8,7 +8,8 @@ import { PointerEffects } from "@/motion/PointerEffects";
 import styles from "./site-shell.module.css";
 
 // Every page's frame, as Webflow's page wrapper: background, preloader, nav,
-// the page's stripes, footer. `family` picks the type system (decisions #4).
+// the page's stripes, footer. `family` picks the type system (decisions #4);
+// `background: "plain"` leaves the page-background layer out, as the news pages do.
 export function SiteShell({
   path,
   family = "fluid",
@@ -18,7 +19,7 @@ export function SiteShell({
 }: {
   path: string;
   family?: "fluid" | "fixed";
-  background?: "black";
+  background?: "black" | "plain";
   footer?: boolean;
   children: ReactNode;
 }) {
@@ -29,7 +30,7 @@ export function SiteShell({
       className={`${styles.shell} ${family === "fixed" ? "page-fixed" : "page-fluid"}`}
       style={{ "--grain": `url("${site.pageBackground.grain}")` } as CSSProperties}
     >
-      <PageBackground grain={site.pageBackground.grain} />
+      {background !== "plain" && <PageBackground grain={site.pageBackground.grain} />}
       <Preloader mask={site.pageBackground.preloaderMask} />
       <Nav logo={site.logo} email={site.email} socials={site.socials} nav={site.nav} mail={site.icons.mail} />
       <main className={styles.main}>{children}</main>

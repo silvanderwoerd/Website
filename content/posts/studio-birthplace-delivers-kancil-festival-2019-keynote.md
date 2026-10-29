@@ -4,7 +4,7 @@ date: 2019-11-04
 category: talks
 image: "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/65e8aa5faa5fa294dee1c7ba_mainimage.talks.kancil2019.jpeg"
 summary: "Studio Birthplace was honored with the opportunity to speak at the 2019 edition of the Kancil Awards Festival in Kuala Lumpur, held October 24th-25th."
-order: 9999
+order: 1010
 ---
 # Studio Birthplace was honored with the opportunity to speak at the 2019 edition of the Kancil Awards Festival in Kuala Lumpur, held October 24th-25th.
 

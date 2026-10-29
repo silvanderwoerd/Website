@@ -1,0 +1,97 @@
+/* Live: section > .page-padding > .container-large > .padding-vertical.padding-xhuge >
+   .top-component-grid (.w-layout-grid) > .inner-container × 2 (h2.heading-medium,
+   .margin-top.margin-small > .max-width-medium > .text-size-regular; the button
+   placed end), .margin-top.margin-xlarge > .blog-component-grid */
+
+.section {
+  position: relative;
+}
+
+.padding {
+  padding-inline: 2.5rem;
+  color: var(--color-text-muted);
+}
+
+.container {
+  width: 100%;
+  max-width: var(--container-news);
+  margin-inline: auto;
+}
+
+.vertical {
+  padding-block: 10rem;
+}
+
+.top {
+  display: grid;
+  grid-template-columns: 1fr 0.5fr;
+  grid-template-rows: auto;
+  gap: 2rem;
+  width: 100%;
+}
+
+.inner {
+  position: relative;
+}
+
+.buttonBox {
+  place-self: end;
+}
+
+.heading {
+  color: var(--color-white);
+}
+
+.textSpace {
+  margin-top: 1rem;
+}
+
+.textWidth {
+  width: 100%;
+  max-width: 32rem;
+}
+
+.cardsSpace {
+  margin-top: 4rem;
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-auto-columns: 1fr;
+  grid-template-rows: auto;
+  gap: 2rem;
+}
+
+@media (max-width: 991px) {
+  .cards {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (max-width: 767px) {
+  .padding {
+    padding-inline: 1.25rem;
+  }
+
+  .vertical {
+    padding-block: 8rem;
+  }
+
+  .top {
+    grid-template-columns: 1fr;
+  }
+
+  .buttonBox {
+    justify-self: start;
+  }
+
+  .cardsSpace {
+    margin-top: 3rem;
+  }
+
+  .cards {
+    grid-template-columns: 1fr;
+    gap: 3rem;
+  }
+}

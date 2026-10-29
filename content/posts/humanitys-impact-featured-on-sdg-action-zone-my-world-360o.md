@@ -4,7 +4,7 @@ date: 2021-06-14
 category: features
 image: "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/65e785ef161087c9f53c232f_mainimage.humanitysimpact.SDGActionZone.jpg"
 summary: "Humanity’s Impact was selected to be part of My World 360’s 2020 Collection, an annual campaign created by the UN’s SDG Action Campaign, Digital Promise and Oculus."
-order: 9999
+order: 1020
 ---
 # Since its launch in 2018, MY World 360º annual selections have screened and inspired people across the world at the UN General Assembly, UN SDG Global Festival of Action, film festivals, schools and community events and cultural institutions.
 

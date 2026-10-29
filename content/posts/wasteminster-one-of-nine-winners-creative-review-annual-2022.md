@@ -4,7 +4,7 @@ date: 2022-05-03
 category: awards
 image: "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/65e29ef689900dcab6586166_mainimage.wasteminster.creativereview.jpg"
 summary: "The Creative Review Annual celebrates Wasteminster for how it struck such a chord with the industry and beyond and made an actual difference to the UK Plastic Waste issue."
-order: 9999
+order: 1043
 ---
 # "When it comes to its humanitarian projects, Studio Birthplace employs different strategies on how best to get the message out, but in this case, a humorous touch proved most effective."
 

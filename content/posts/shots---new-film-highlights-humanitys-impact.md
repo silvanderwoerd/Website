@@ -4,7 +4,7 @@ date: 2021-06-14
 category: in-the-media
 image: "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/65e78191a32227925100ebb6_mainimage.humanitysimpact.shots.jpg"
 summary: "Shots has written about Humanity's Impact on their website."
-order: 9999
+order: 1040
 ---
 # "A tsunami of plastic bottles rain down on an unsuspecting model village, highlighting, as a recent film for Greenpeace did, the unbelievable amount of waste produced by humans and the effect it's having on the world."
 

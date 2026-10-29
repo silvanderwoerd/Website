@@ -4,7 +4,7 @@ date: 2019-02-20
 category: in-the-media
 image: "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/65e8bef0275adb85c2cbf35c_mainimage.sleepless.thefader.jpg"
 summary: "Our double music video Sleepless / Repeat Until Death for Novo Amor, about the climate emergency in Mongolia, premiered on The Fader."
-order: 9999
+order: 1052
 ---
 # "Novo Amor's new video highlights the imminent danger of air pollution and climate change." - TheFader
 

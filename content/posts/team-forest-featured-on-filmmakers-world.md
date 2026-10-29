@@ -5,6 +5,7 @@ category: features
 image: "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/6a79a21e049556b64057435b_News%20Items-filmmakersworld-cover.jpg"
 summary: "How Studio Birthplace Turned a Rainforest Into a Football Pitch - Filmmakers World"
 order: 1
+cardDate: 2024-01-24
 ---
 ## **Inside the making of WWF’s Team Forest, where stunt rigging, VFX and environmental storytelling came together high above the Indonesian rainforest canopy. - Filmmakers World**
 

@@ -90,3 +90,12 @@
   background-color: var(--color-line-30);
   transform: translate(0, var(--space-fixed-button-news-lift));
 }
+
+/* .button.is-secondary.w--current: the category page's own button */
+.button[data-s-variant="news"][aria-current="page"] {
+  background-color: var(--color-grey-70);
+}
+
+.button[data-s-variant="news"][aria-current="page"]:hover {
+  background-color: var(--color-text-muted);
+}

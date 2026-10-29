@@ -4,7 +4,7 @@ date: 2018-07-30
 category: features
 image: "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/65e8d77268c5ff7c993aa578_mainimage.birthplace.greenpeace.jpg"
 summary: "Greenpeace International has interviewed Novo Amor as well as Birthplace music directors Sil van der Woerd and Jorik Dozy about the music video."
-order: 9999
+order: 1022
 ---
 # An underwater diver drifts freely, gliding past majestic sea turtles, huge manta rays and schools of shimmering fish… and an enormous whale made from plastic waste?
 

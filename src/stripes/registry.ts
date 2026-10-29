@@ -13,6 +13,10 @@ import { Gallery } from "@/originals/gallery/Gallery";
 import { Hero } from "@/originals/hero/Hero";
 import { Instafilter } from "@/originals/instafilter/Instafilter";
 import { LatestNews } from "@/originals/latest-news/LatestNews";
+import { NewsList } from "@/originals/news-list/NewsList";
+import { PostBody } from "@/originals/post-body/PostBody";
+import { PostHeader } from "@/originals/post-header/PostHeader";
+import { RelatedPosts } from "@/originals/related-posts/RelatedPosts";
 import { MoreWork } from "@/originals/more-work/MoreWork";
 import { Partners } from "@/originals/partners/Partners";
 import { Phones } from "@/originals/phones/Phones";
@@ -41,11 +45,15 @@ export const registry: Record<string, ComponentType<StripeProps>> = {
   instafilter: Instafilter,
   "latest-news": LatestNews,
   "more-work": MoreWork,
+  "news-list": NewsList,
   partners: Partners,
   phones: Phones,
+  "post-body": PostBody,
+  "post-header": PostHeader,
   posters: Posters,
   "project-details": ProjectDetails,
   quote: Quote,
+  "related-posts": RelatedPosts,
   statement: Statement,
   stats: Stats,
   testimonials: Testimonials,

@@ -1,26 +1,32 @@
 [
   {
     "slug": "new-releases",
-    "name": "New Releases"
+    "name": "New Releases",
+    "description": "Feb 26, 2024"
   },
   {
     "slug": "screenings",
-    "name": "Screenings"
+    "name": "Screenings",
+    "description": "Jan 24, 2024"
   },
   {
     "slug": "talks",
-    "name": "Talks"
+    "name": "Talks",
+    "description": "Jan 24, 2024"
   },
   {
     "slug": "in-the-media",
-    "name": "In The Media"
+    "name": "In The Media",
+    "description": "Jan 24, 2024"
   },
   {
     "slug": "features",
-    "name": "Features"
+    "name": "Features",
+    "description": "Jan 24, 2024"
   },
   {
     "slug": "awards",
-    "name": "Awards"
+    "name": "Awards",
+    "description": "Jan 22, 2024"
   }
 ]

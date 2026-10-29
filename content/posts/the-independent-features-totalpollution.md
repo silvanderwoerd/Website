@@ -4,7 +4,7 @@ date: 2023-08-30
 category: in-the-media
 image: "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/65d5ad428369803dea897edb_MainImage.TotalPollution.TheIndependent.jpg"
 summary: "The Independent: Greenpeace releases animated video in campaign against fossil fuel sponsorship of Rugby World Cup"
-order: 9999
+order: 1033
 ---
 ## Greenpeace releases animated video in campaign against fossil fuel sponsorship of Rugby World Cup
 

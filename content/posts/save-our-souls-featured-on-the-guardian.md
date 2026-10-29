@@ -4,7 +4,7 @@ date:
 category: in-the-media
 image: "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/65e8c7c5b9826a0147644eeb_mainimage.SOS.theguardian.jpg"
 summary: "\"With his chainsaw-wielding crew, artist Ernest Zacharevic has emblazoned a cry for help across an oil palm plantation, highlighting Indonesia’s deforestation.\" - The Guardian"
-order: 9999
+order: 1054
 ---
 # ‘SOS’: the rainforest distress call carved into Sumatra's oil palms
 

@@ -1,0 +1,219 @@
+/* Live: section > .page-padding > .container-large > .padding-vertical
+   (.padding-xhuge on /news, .padding-xxhuge on categories), and inside:
+   - sidebar: .margin-bottom.margin-small > .subtitle, .margin-bottom.margin-huge >
+     .max-width-large > h1.heading-large, .latest-posts-wrapper (.w-layout-grid),
+     .blog-sidebar > .margin-top.margin-medium > .categories-button-wrapper >
+     .categories-sidebar-wrapper > .category-sidebar-item, .collection-list-latest-posts
+   - category: .horizontal-flex > h1.heading-large, .margin-top.margin-medium >
+     .categories-list > .category-item, .margin-top.margin-huge > .blog-category-grid */
+
+.section {
+  position: relative;
+}
+
+.padding {
+  padding-inline: 2.5rem;
+  color: var(--color-text-muted);
+}
+
+.container {
+  width: 100%;
+  max-width: var(--container-news);
+  margin-inline: auto;
+}
+
+.section[data-s-layout="sidebar"] .vertical {
+  padding-block: 10rem;
+}
+
+.section[data-s-layout="category"] .vertical {
+  padding-block: 12rem;
+}
+
+.heading {
+  color: var(--color-white);
+}
+
+/* News: eyebrow, heading, then the sidebar beside the cards */
+
+.eyebrowBox {
+  margin-bottom: 1rem;
+}
+
+.eyebrow {
+  display: inline-block;
+  margin-bottom: 10px;
+  color: var(--color-white);
+}
+
+.headingBox {
+  margin-bottom: 6rem;
+}
+
+.headingWidth {
+  width: 100%;
+  max-width: 48rem;
+}
+
+.layout {
+  display: grid;
+  grid-template-columns: 0.4fr 1fr;
+  grid-template-rows: auto;
+  gap: 16px;
+  align-items: start;
+}
+
+.sidebar {
+  position: sticky;
+  top: 6rem;
+}
+
+.sidebarSpace,
+.chipsSpace {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.sidebarButtons {
+  max-width: 14rem;
+}
+
+.sidebarList {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.section[data-s-layout="sidebar"] .buttonItem {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+/* Category: the name, the category buttons in a row, then the cards */
+
+.titleRow {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+}
+
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1rem;
+}
+
+.section[data-s-layout="category"] .buttonItem {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.cardsSpace {
+  margin-top: 6rem;
+}
+
+/* The cards */
+
+.cards {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-auto-columns: 1fr;
+  grid-template-rows: auto;
+}
+
+.section[data-s-layout="sidebar"] .cards {
+  gap: 2rem;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+
+.section[data-s-layout="category"] .cards {
+  gap: 3rem;
+}
+
+@media (min-width: 1920px) {
+  .sidebarSpace,
+  .chipsSpace {
+    margin-bottom: 1rem;
+  }
+}
+
+@media (max-width: 991px) {
+  .headingBox {
+    margin-bottom: 5rem;
+  }
+
+  .sidebarSpace,
+  .chipsSpace {
+    margin-top: 1.5rem;
+  }
+
+  .cardsSpace {
+    margin-top: 5rem;
+  }
+
+  .section[data-s-layout="sidebar"] .cards {
+    gap: 4rem 2rem;
+  }
+
+  .section[data-s-layout="category"] .cards {
+    grid-template-columns: 1fr;
+    gap: 4rem;
+  }
+}
+
+@media (max-width: 767px) {
+  .padding {
+    padding-inline: 1.25rem;
+  }
+
+  .section[data-s-layout="sidebar"] .vertical {
+    padding-block: 8rem;
+  }
+
+  .section[data-s-layout="category"] .vertical {
+    padding-block: 6rem;
+  }
+
+  .headingBox {
+    margin-bottom: 3.5rem;
+  }
+
+  .sidebarSpace,
+  .chipsSpace {
+    margin-top: 1.25rem;
+  }
+
+  .cardsSpace {
+    margin-top: 3.5rem;
+  }
+
+  .layout {
+    grid-template-columns: 1fr;
+  }
+
+  .sidebar {
+    position: static;
+  }
+
+  .section[data-s-layout="sidebar"] .cards {
+    grid-template-columns: 1fr;
+    margin-top: 2rem;
+  }
+
+  .section[data-s-layout="category"] .cards {
+    gap: 3rem;
+  }
+}
+
+@media (max-width: 479px) {
+  .section[data-s-layout="category"] .vertical {
+    padding-block: 3.5rem;
+  }
+}

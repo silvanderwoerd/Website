@@ -4,7 +4,7 @@ date: 2021-05-18
 category: in-the-media
 image: "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/65e891831ed52bafd5cf06de_mainimage.wasteminster.theindependent.jpg"
 summary: "British online newspaper The Independent and their program Independent TV has featured Wasteminster."
-order: 9999
+order: 1048
 ---
 # "Greenpeace advert attacks government’s plastic policy."
 

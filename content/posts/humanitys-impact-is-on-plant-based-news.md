@@ -4,7 +4,7 @@ date: 2021-06-15
 category: in-the-media
 image: "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/65e7786af4219a9222309dab_mainimage.humanitysimpact.plantbasednews.jpg"
 summary: "\"SHOCKING: New Animation Film Reveals The Number Of Plastic Bottles Produced Globally In Real-Time.\" - PlantBasedNews"
-order: 9999
+order: 1038
 ---
 # "SHOCKING: New Animation Film Reveals The Number Of Plastic Bottles Produced Globally In Real-Time." - PlantBasedNews
 

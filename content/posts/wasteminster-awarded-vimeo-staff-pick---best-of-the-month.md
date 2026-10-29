@@ -4,7 +4,7 @@ date: 2021-04-28
 category: awards
 image: "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/65e8973b4f8298465b05a072_mainimage.wasteminster.vimeopick.jpg"
 summary: "Wasteminster is now officially a Vimeo Staff Pick - Best of The Month. under the Commercial category."
-order: 9999
+order: 1050
 ---
 ### Wasteminster is now officially a Vimeo Staff Pick - Best of The Month
 

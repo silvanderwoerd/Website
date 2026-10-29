@@ -4,7 +4,7 @@ date: 2022-04-01
 category: awards
 image: "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/65e2a1fa843067f2425838ec_mainimage.wasteminster.britisharrows.jpg"
 summary: "Wasteminster for Greenpeace picked up 2 GOLDS at the British Arrows Awards!"
-order: 9999
+order: 1044
 ---
 # Greenpeace's Wasteminster has won 2 Golds at the British Arrows Awards 2022.
 

@@ -4,7 +4,7 @@ date: 2020-03-05
 category: new-releases
 image: "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/65e8a554dbe6ec283d1ee372_mainimage.newrelease.flags.jpg"
 summary: "Out now - The Journey of Hope (featuring 'Flags' by SYML)"
-order: 9999
+order: 1038
 ---
 ### Out now - The Journey of Hope (featuring 'Flags' by SYML)
 

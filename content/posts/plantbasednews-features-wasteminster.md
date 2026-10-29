@@ -4,7 +4,7 @@ date: 2021-05-20
 category: in-the-media
 image: "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/65e78fc7e580def9bb16d84f_mainimage.wasteminster.plantbasednews.jpg"
 summary: "'Wasteminster' sheds light on the 'shocking truth about what happens to plastic the government tells us is being recycled' - PlantBasedNews"
-order: 9999
+order: 1042
 ---
 # Prime Minister Boris Johnson Drowns In Plastic In New Satirical Animation Highlighting Pollution Crisis
 

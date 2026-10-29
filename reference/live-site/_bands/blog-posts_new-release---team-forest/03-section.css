@@ -1,0 +1,83 @@
+/* (base) */
+.margin-medium {
+  margin: 2rem;
+}
+.container-medium {
+  width: 100%;
+  max-width: 64rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+.page-padding {
+  color: #9c9c9c;
+  padding-left: 2.5rem;
+  padding-right: 2.5rem;
+}
+.margin-top {
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+}
+.margin-top.margin-medium {
+  margin-bottom: 2rem;
+}
+.fl-blog-rich-text {
+  letter-spacing: .00625em;
+  font-size: 1em;
+  font-weight: 300;
+  line-height: 1.44;
+}
+.fl-blog-rich-text p {
+  font-weight: 300;
+}
+.fl-blog-rich-text strong {
+  color: var(--white-11);
+  font-weight: 300;
+}
+.fl-blog-rich-text a {
+  color: #fff;
+  text-decoration: underline;
+}
+
+/* @media screen and (min-width: 1920px) */
+.margin-top.margin-medium {
+  margin-bottom: 1rem;
+}
+.section {
+  color: #b27575;
+  -webkit-text-stroke-color: #0000;
+}
+.fl-blog-rich-text {
+  font-size: 1.3em;
+}
+
+/* @media screen and (max-width: 991px) */
+.margin-medium {
+  margin: 1.5rem;
+}
+.margin-top {
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+/* @media screen and (max-width: 767px) */
+.margin-medium {
+  margin: 1.25rem;
+}
+.page-padding {
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+}
+.margin-top {
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+/* @media screen and (max-width: 479px) */
+.margin-top {
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+}

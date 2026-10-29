@@ -36,7 +36,7 @@
   "nav": { "weight": 500, "size": { "base": "4.5rem", "tablet": "4.2rem", "phoneLandscape": "3rem", "phone": "3.25rem" }, "lineHeight": ".9" },
   "footer-title": { "weight": 500, "size": { "base": "1.2rem" }, "lineHeight": "1.2" },
   "footer-link": { "weight": 400, "size": { "base": ".975rem" } },
-  "news-h1": { "weight": 700, "size": { "base": "4.5rem", "desktopXXL": "6rem", "phoneLandscape": "3.5rem", "phone": "2.8rem" }, "lineHeight": "1" },
+  "news-h1": { "weight": { "base": 700, "desktopXXL": 600 }, "size": { "base": "4.5rem", "desktopXXL": "6rem", "phoneLandscape": "3.5rem", "phone": "2.8rem" }, "lineHeight": { "base": "1", "phoneLandscape": "1.2" } },
   "news-h2": { "weight": 300, "size": { "base": "4rem", "tablet": "3.5rem", "phoneLandscape": "3rem", "phone": "2.3rem" }, "lineHeight": "1.2" },
   "news-h3": { "weight": 400, "size": { "base": "2.5rem", "desktopXXL": "3.25rem", "phoneLandscape": "1.9rem", "phone": "1.6rem" }, "lineHeight": "1.4" },
   "news-h4": { "weight": 400, "size": { "base": "1.4rem", "phone": "1.2rem" }, "lineHeight": "1.4" },
@@ -46,5 +46,7 @@
   "news-small": { "weight": 400, "size": { "base": ".875rem" } },
   "news-eyebrow": { "weight": 400, "size": { "base": ".875rem", "phone": ".785rem" }, "lineHeight": "1", "letterSpacing": "2px", "transform": "uppercase" },
   "news-button": { "weight": 500, "size": { "base": ".75rem", "phoneLandscape": "16px" }, "letterSpacing": "2px" },
+  "news-card-title": { "weight": 400, "size": { "base": "32px" }, "lineHeight": "36px" },
+  "news-card-title-light": { "weight": 300, "size": { "base": "32px" }, "lineHeight": "36px" },
   "huge-404": { "size": { "base": "12rem", "phoneLandscape": "10rem", "phone": "8rem" }, "lineHeight": "1" }
 }

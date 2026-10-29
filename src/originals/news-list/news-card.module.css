@@ -1,0 +1,104 @@
+/* Live: .link-content-blog and what's inside it (.relative-position,
+   .image-wrapper, .cover-image, .category-tag, .blog-post-item-content.featured,
+   .horizontal-flex, .calendar-icon, .margin-top.margin-small, .text-size-small,
+   .text-size-tiny.text-color-white); IX2 "Image Scale - Hover In / Out". */
+
+/* .w-dyn-item: fills its grid row, so the card's height: 100% does too */
+.item {
+  height: 100%;
+}
+
+.card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 10px;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  background-color: var(--color-line-10);
+  color: inherit;
+  text-decoration: none;
+  transition: background-color var(--duration-medium);
+}
+
+.card:hover {
+  background-color: var(--color-line-15);
+}
+
+.picture {
+  position: relative;
+}
+
+.imageWrap {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  padding-top: 50%;
+}
+
+/* Hover in: scale 1.1 over 1000ms linear, brightness 90% over 500ms; out: 600ms ease. */
+.image {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform var(--duration-slow) ease, filter var(--duration-default) ease;
+}
+
+.card:hover .image {
+  transform: scale(1.1);
+  filter: brightness(90%);
+  transition: transform 1000ms linear, filter var(--duration-default) ease;
+}
+
+.tag {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  padding: 8px 10px;
+  background-color: var(--color-line-50);
+  color: var(--color-white);
+}
+
+.body {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  padding: 26px 26px 40px;
+  color: var(--color-text-muted);
+}
+
+.date {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+}
+
+.calendar {
+  width: 11px;
+}
+
+.space {
+  margin-top: 1rem;
+}
+
+.summaryWide {
+  width: 100%;
+  max-width: 32rem;
+}
+
+.readNow {
+  color: var(--color-white);
+}
+
+@media (max-width: 479px) {
+  .body {
+    padding: 20px;
+  }
+}

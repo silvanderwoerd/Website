@@ -4,7 +4,7 @@ date: 2021-06-14
 category: in-the-media
 image: "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/65e77ee8c8c307947b6bc85a_mainimage.humanitysimpact.itsnicethat.jpg"
 summary: "\"After the success of its campaign for Greenpeace with Wasteminster, the latest release is equally as impactful and uses CG technology to visualise plastic pollution in real time.\" - It's Nice That"
-order: 9999
+order: 1041
 ---
 # "Studio Birthplace’s new animation raises awareness around the impact of plastic bottle pollution".
 

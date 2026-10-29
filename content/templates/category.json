@@ -1,0 +1,18 @@
+{
+  "slug": "category",
+  "title": "Category",
+  "family": "fixed",
+  "background": "plain",
+  "stripes": [
+    {
+      "id": "news",
+      "type": "news-list",
+      "overrides": { "layout": "category" },
+      "overrideReasons": { "layout": "as on the live site (phase 1): category pages show their name and the categories in a row" },
+      "content": {
+        "readNow": "Read now",
+        "categoryButton": {}
+      }
+    }
+  ]
+}

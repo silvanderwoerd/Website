@@ -18,14 +18,18 @@ import { schema as instafilter } from "./instafilter/schema";
 import { schema as latestNews } from "./latest-news/schema";
 import { schema as moreWork } from "./more-work/schema";
 import { schema as nav } from "./nav/schema";
+import { schema as newsList } from "./news-list/schema";
 import { schema as pageBackground } from "./page-background/schema";
 import { schema as partners } from "./partners/schema";
 import { schema as phones } from "./phones/schema";
+import { schema as postBody } from "./post-body/schema";
+import { schema as postHeader } from "./post-header/schema";
 import { schema as posters } from "./posters/schema";
 import { schema as preloader } from "./preloader/schema";
 import { schema as projectDetails } from "./project-details/schema";
 import { schema as projectTile } from "./project-tile/schema";
 import { schema as quote } from "./quote/schema";
+import { schema as relatedPosts } from "./related-posts/schema";
 import { schema as statement } from "./statement/schema";
 import { schema as stats } from "./stats/schema";
 import { schema as testStripe } from "./test-stripe/schema";
@@ -38,8 +42,8 @@ const isDev = process.env.NODE_ENV === "development";
 export const schemas: Record<string, OriginalSchema> = Object.fromEntries(
   [
     arrowLink, button, campaign, closingCta, cta, embed, episode, featuredWork, film, footer, gallery, hero,
-    instafilter, latestNews, moreWork, nav, pageBackground, partners, phones, posters, preloader,
-    projectDetails, projectTile, quote, statement, stats, testimonials, text, textOnImage,
+    instafilter, latestNews, moreWork, nav, newsList, pageBackground, partners, phones, postBody, postHeader,
+    posters, preloader, projectDetails, projectTile, quote, relatedPosts, statement, stats, testimonials, text, textOnImage,
   ]
     // Dev-only originals are left out of production builds entirely.
     .concat(isDev ? [testStripe] : [])

@@ -18,7 +18,7 @@ Directed by Jake Whiteley and Joe Wills', the video exposes industrial agricultu
 
 ‍
 
-<figure class="w-richtext-align-center w-richtext-figure-type-video"><div><iframe src="https://www.youtube.com/embed/_mSVysPD26o?start=2" title="'Climate Smart' beef? Smells like 🐄💩" scrolling="no" frameborder="0" allowfullscreen="true"></iframe></div></figure>
+<figure class="w-richtext-align-center w-richtext-figure-type-video" data-ratio="56.206088992974244"><div><iframe src="https://www.youtube.com/embed/_mSVysPD26o?start=2" title="'Climate Smart' beef? Smells like 🐄💩" scrolling="no" frameborder="0" allowfullscreen="true"></iframe></div></figure>
 
 ‍
 

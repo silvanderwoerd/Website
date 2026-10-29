@@ -4,7 +4,7 @@ date: 2022-12-10
 category: in-the-media
 image: "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/65e020c7c169cf7705b730f7_mainimage.feature.lbb.jpg"
 summary: "Studio Birthplace makes its third appearance in Little Black Book."
-order: 9999
+order: 1035
 ---
 # 2022 in Retrospect: Did Adland Match Its Sustainability Promises? 
 

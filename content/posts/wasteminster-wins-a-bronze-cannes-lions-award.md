@@ -4,7 +4,7 @@ date: 2022-06-29
 category: awards
 image: "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/65e29468b9e36bc16376b489_mainimage.award.wasteminster.jpg"
 summary: "We're honored to announce that Wasteminster has won the Bronze Animation award at Cannes Lions 2022."
-order: 9999
+order: 1040
 ---
 # Greenpeace's Wasteminster has won the Bronze Animation Award at Cannes Lions 2022.
 

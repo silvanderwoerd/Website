@@ -4,7 +4,7 @@ date: 2022-09-07
 category: awards
 image: "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/65e27aeacb3cd3dd9bd911b2_mainimage.woolmark.thedrum.jpg"
 summary: "The Woolmark Company's Wear Wool, Not Fossil Fuel has been shortlisted in The Drum's weekly feature."
-order: 9999
+order: 1039
 ---
 # The Woolmark Company's Wear Wool, Not Fossil Fuel has been shortlisted in The Drum's weekly 'Ads of the Week' feature.
 

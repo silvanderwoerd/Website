@@ -4,7 +4,7 @@ date: 2018-07-11
 category: features
 image: "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/65e8dbf2a667247f21536ca1_mainimage.birthplace.parley.jpg"
 summary: "Novo Amor ‘Birthplace’ video is a powerful statement for the oceans - Parley for the Oceans"
-order: 9999
+order: 1024
 ---
 # Novo Amor ‘Birthplace’ video is a powerful statement for the oceans - Parley for the Oceans
 

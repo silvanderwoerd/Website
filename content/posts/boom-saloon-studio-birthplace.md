@@ -4,7 +4,7 @@ date: 2023-08-01
 category: features
 image: "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/65b392e45edae2f5fb7b2bc7_MainImage.Feature.BoomSaloon.jpg"
 summary: "Studio Birthplace is now on Boom Saloon, presenting a curated collection of environmentally focused visual projects that not only captivate and inspire but also serve as catalysts for positive change."
-order: 9999
+order: 1008
 ---
 # Studio Birthplace’s Catalysts for Positive Change - An 'Add To Queue List' on Boom Saloon
 

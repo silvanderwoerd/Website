@@ -1,0 +1,19 @@
+{
+  "slug": "news",
+  "title": "Latest News | Studio Birthplace",
+  "description": "Keep updated with Studio Birthplace's latest news.",
+  "family": "fixed",
+  "background": "plain",
+  "stripes": [
+    {
+      "id": "news",
+      "type": "news-list",
+      "content": {
+        "eyebrow": "keep updated",
+        "heading": "Latest News",
+        "readNow": "Read now",
+        "categoryButton": {}
+      }
+    }
+  ]
+}

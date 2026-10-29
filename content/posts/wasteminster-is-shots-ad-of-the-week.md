@@ -4,7 +4,7 @@ date: 2021-05-18
 category: in-the-media
 image: "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/65e8907cb7d14bd40159c804_mainimage.wasteminster.shots.jpg"
 summary: "We're honored to announce that Shots has named Wasteminster as their 'Ad of the Week'."
-order: 9999
+order: 1049
 ---
 # "Greenpeace's waterfall of waste."
 

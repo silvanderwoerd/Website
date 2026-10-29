@@ -4,7 +4,7 @@ date: 2022-03-09
 category: features
 image: "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/65e2ab5092a2687a5e786f51_mainimage.feature.shots.jpg"
 summary: "Elliott Starr, Head of Copy at 20something, reports from a shoot in South Africa and considers the regular challenges faced by production partners."
-order: 9999
+order: 1015
 ---
 # **'We open on a remote village...'; easy to write, tough (sometimes very tough) to film.**
 

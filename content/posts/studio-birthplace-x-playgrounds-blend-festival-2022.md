@@ -4,7 +4,7 @@ date: 2022-11-08
 category: talks
 image: "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/65e18c5fb83369436641a347_MainImage.Feature.Playgrounds.jpg"
 summary: "Studio Birthplace’s Sil van der Woerd presented the studio’s work and mission at Playgrounds' 2022 BLEND Festival."
-order: 9999
+order: 1008
 ---
 # Studio Birthplace’s Sil van der Woerd presented the studio’s work and mission at Playgrounds' BLEND 2022 Festival.
 

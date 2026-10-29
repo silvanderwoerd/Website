@@ -4,7 +4,7 @@ date: 2021-05-20
 category: in-the-media
 image: "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/65e789b4feba468ff5990ac8_mainimage.wasteminster.theguardian.jpg"
 summary: "The Guardian has made a post about Wasteminster on their Instagram account."
-order: 9999
+order: 1043
 ---
 # "The UK dumps 1.8m kg of plastic waste on other countries every single day."
 

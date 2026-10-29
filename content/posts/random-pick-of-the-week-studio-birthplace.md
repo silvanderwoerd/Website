@@ -4,7 +4,7 @@ date: 2022-12-16
 category: features
 image: "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eae4b/65e183236831e0114dfb8b5d_MainImage.Feature.Adformatie.jpg"
 summary: "Studio Birthplace creative directors Sil van der Woerd and Jorik Dozy curate 5 picks of inspirations on Adformatie."
-order: 9999
+order: 1010
 ---
 # Studio Birthplace: 'Stop met het maken van reclame voor vlees, met het verheerlijken van leed'
 
