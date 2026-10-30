@@ -373,7 +373,7 @@ The campaign pages are otherwise the project stripes, moved by the same code
 
 Not on the live site (decision #32). Its own colour tokens (`cine-*`) and text
 styles (`cine-*`), Lato only. Motion in `src/motion/Cinematic.tsx`: `Letterbox`,
-`CountUp`, `HoverClip`, `Parallax`, `FadeOpening` (the page fades up from black
+`CountUp`, `HoverClip`, `ScrollStage` (a frame held still while its band scrolls, with the progress as `--p`), `FadeOpening` (the page fades up from black
 instead of the preloader, `opening: "fade"` on the page; the hero film pulls focus), `BlurText` (words out of a deep blur, for
 headings and large text), `Reveal` (fade up from a blur), `WipeImage` (a photo
 frame opening from below), `CursorPreview`, `GrainOverlay` (extra grain over the hero film). The
@@ -384,7 +384,7 @@ fade out at their edges into it. Chapter marks (`Chapter`, in cine-statement).
 
 | Original | What it is | Content |
 |---|---|---|
-| `cine-hero` | The showreel full-bleed coming up out of the dark into focus (with `FadeOpening`), the promise coming out of a blur, a credit line, a showreel button; drifts away on scroll | `label`, `title`, `text`, `reel`, `scroll`, `video` |
+| `cine-hero` | A title card: the showreel full screen with only the promise in the middle; scrolling holds the shot while the promise rises and the intro and showreel come out of a blur below it; at the end the film sinks into black as the next band rises over it (the band pulls the next one up by 40svh) | `title`, `text`, `reel`, `video` |
 | `cine-statement` | One sentence coming out of a blur beside a photo that wipes open, a quieter line below | `chapter`, `label`, `text`, `sub`, `image`, `caption` |
 | `cine-impact` | Numbers counting up over a still | `chapter`, `label`, `heading`, `background`, `stats[]` |
 | `cine-highlights` | Campaign highlights full screen like the hero: the chosen campaign's film behind its name and story; pointing at another in the index brings its film in | `chapter`, `label`, `heading`, `highlights[]` (`kicker`, `title`, `text`, `link`, `video`) |

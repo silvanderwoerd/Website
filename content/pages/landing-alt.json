@@ -10,14 +10,12 @@
       "id": "hero",
       "type": "cine-hero",
       "content": {
-        "label": "Studio Birthplace · Creative impact studio",
         "title": "We ignite\naction through\n**stories.**",
         "text": "We make bold, cinematic campaigns for a just, healthy world, with the people working hardest to protect it. Award-winning, and built to change things.",
         "reel": {
           "label": "Watch the showreel",
           "href": "https://www.youtube.com/watch?v=ty4N3q_rfFE&ab_channel=StudioBirthplace"
         },
-        "scroll": "Scroll",
         "video": {
           "poster": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F6755ba651a56371c86203218_StudioBirthplacehighlightReelHDv5mov-poster-00001.jpg",
           "mp4": "https://cdn.prod.website-files.com/6465c08bc2eb8d26649eade8%2F6755ba651a56371c86203218_StudioBirthplacehighlightReelHDv5mov-transcode.mp4",

@@ -38,7 +38,7 @@ export function SiteShell({
       style={{ "--grain": `url("${site.pageBackground.grain}")` } as CSSProperties}
     >
       {background !== "plain" && <PageBackground grain={site.pageBackground.grain} />}
-      {opening === "fade" ? <FadeOpening /> : <Preloader mask={site.pageBackground.preloaderMask} />}
+      {opening === "fade" ? <FadeOpening mask={site.pageBackground.preloaderMask} /> : <Preloader mask={site.pageBackground.preloaderMask} />}
       <Nav logo={site.logo} email={site.email} socials={site.socials} nav={site.nav} mail={site.icons.mail} />
       <main className={styles.main}>{children}</main>
       {footer && <Footer logo={site.logo} socials={site.socials} footer={site.footer} path={path} />}

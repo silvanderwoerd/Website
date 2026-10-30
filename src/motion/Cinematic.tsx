@@ -5,21 +5,22 @@
 // - FadeOpening: the page fades up from black (the hero film pulls focus with it).
 // - CountUp: a number that counts up once in view; the final value is in the HTML.
 // - HoverClip: a still that wakes into its clip on hover (the clip plays only then).
-// - Parallax: content that drifts and fades as its band scrolls away.
 // Reduce motion shows everything at once and keeps clips still.
 
 import { useCallback, useEffect, useRef, useState, type CSSProperties, type ReactNode } from "react";
 import { BackgroundVideo, type VideoSource } from "./BackgroundVideo";
 import { Words } from "@/lib/inline";
+import { scroll } from "motion";
 import { at, useScrollInView } from "./scroll";
 import motion from "./cinematic.module.css";
 
 const still = () => typeof window !== "undefined" && matchMedia("(prefers-reduced-motion: reduce)").matches;
 
-// The page opens like a film: black over everything, fading away once the page
-// has loaded. Marks <html> data-opening, then data-opened, so a hero can bring
-// its film up out of the dark with it.
-export function FadeOpening() {
+// The page opens like a film: black over everything with the whale on it, a
+// light sweeping through it while the page loads. Once loaded the whale lights
+// up, blurs and fades, and the black lifts. Marks <html> data-opening, then
+// data-opened, so a hero can bring its film up out of the dark with it.
+export function FadeOpening({ mask }: { mask: string }) {
   const ref = useRef<HTMLDivElement>(null);
   useEffect(() => {
     const el = ref.current;
@@ -31,7 +32,10 @@ export function FadeOpening() {
     };
     if (still()) return open();
     let t: ReturnType<typeof setTimeout> | undefined;
-    const go = () => (t = setTimeout(open, 200));
+    const go = () => {
+      el.setAttribute("data-loaded", "");
+      t = setTimeout(open, 450);
+    };
     if (document.readyState === "complete") go();
     else window.addEventListener("load", go, { once: true });
     return () => {
@@ -39,7 +43,17 @@ export function FadeOpening() {
       window.removeEventListener("load", go);
     };
   }, []);
-  return <div ref={ref} className={motion.blackout} aria-hidden="true" />;
+  return (
+    <div ref={ref} className={motion.blackout} aria-hidden="true">
+      {/* the blur sits outside the whale's shape, so the shape itself goes soft */}
+      <div className={motion.whale}>
+        <div className={motion.shape} style={{ "--mask": `url("${mask}")` } as CSSProperties}>
+          <span className={motion.sweep} />
+          <span className={motion.lit} />
+        </div>
+      </div>
+    </div>
+  );
 }
 
 export function CountUp({ value, decimals = 0, suffix = "", className }: { value: number; decimals?: number; suffix?: string; className?: string }) {
@@ -94,7 +108,7 @@ export function Reveal({ children, className, delay = 0, as: Tag = "div" }: { ch
 }
 
 // Large text whose words come out of a deep blur one after another, once in view
-// (afterLoad: once the page has loaded and the preloader is gone, for the hero).
+// (afterLoad: once the page has loaded and its opening is under way, for the hero).
 export function BlurText({ text, as: Tag = "p", className, strong, field, delay = 0, afterLoad }: { text: string; as?: "p" | "h1" | "h2" | "h3" | "blockquote"; className?: string; strong?: string; field?: string; delay?: number; afterLoad?: boolean }) {
   const ref = useRef<HTMLElement>(null);
   useEffect(() => {
@@ -162,9 +176,9 @@ function useInView(ref: React.RefObject<HTMLElement | null>, afterLoad = false) 
     if (!el) return;
     if (still()) return void el.setAttribute("data-in", "");
     if (afterLoad) {
-      // the preloader lifts about 1300ms after load (as AnimatedText afterLoad)
+      // once the opening's whale has gone and the black begins to lift
       let t: ReturnType<typeof setTimeout> | undefined;
-      const show = () => (t = setTimeout(() => el.setAttribute("data-in", ""), 1300));
+      const show = () => (t = setTimeout(() => el.setAttribute("data-in", ""), 1200));
       if (document.readyState === "complete") show();
       else window.addEventListener("load", show, { once: true });
       return () => clearTimeout(t);
@@ -179,24 +193,44 @@ function useInView(ref: React.RefObject<HTMLElement | null>, afterLoad = false) 
   }, [ref, afterLoad]);
 }
 
-// Drifts its children up (to −12vh) and fades them (to 0) as the band scrolls out.
-export function Parallax({ className, children }: { className: string; children: ReactNode }) {
+// A frame that holds still (sticky) while its band scrolls past it, and tells
+// its CSS how far along that is as --p (0 at the band's top, 1 at its end),
+// gliding rather than jumping.
+// Reduce motion: --p stays at 0.5, the still middle of it.
+export function ScrollStage({ className, children }: { className: string; children: ReactNode }) {
   const ref = useRef<HTMLDivElement>(null);
-  const band = useRef<HTMLElement | null>(null);
-  const set = useCallback((el: HTMLDivElement | null) => {
-    ref.current = el;
-    band.current = el?.closest("section") ?? null;
-  }, []);
-  const onProgress = useCallback((p: number) => {
+  useEffect(() => {
     const el = ref.current;
-    if (!el) return;
-    el.style.transform = `translateY(${at([[0.5, 0], [1, -12]], p)}vh)`;
-    el.style.opacity = String(at([[0.5, 1], [0.9, 0]], p));
+    const band = el?.closest("section");
+    if (!el || !band) return;
+    if (still()) return void el.style.setProperty("--p", "0.5");
+    // the value glides toward the scroll position, so moves stay soft even on a
+    // stepping mouse wheel
+    let target = 0;
+    let shown = 0;
+    let frame = 0;
+    const glide = () => {
+      shown += (target - shown) * 0.09;
+      if (Math.abs(target - shown) < 0.0005) shown = target;
+      el.style.setProperty("--p", shown.toFixed(4));
+      frame = shown === target ? 0 : requestAnimationFrame(glide);
+    };
+    const stop = scroll(
+      (p: number) => {
+        target = p;
+        if (!frame) frame = requestAnimationFrame(glide);
+      },
+      { target: band, offset: ["start start", "end end"] },
+    );
+    return () => {
+      stop();
+      cancelAnimationFrame(frame);
+    };
   }, []);
-  useScrollInView(band, onProgress);
   return (
-    <div ref={set} className={className} style={{ willChange: "transform, opacity" } as CSSProperties}>
+    <div ref={ref} className={className}>
       {children}
     </div>
   );
 }
+
